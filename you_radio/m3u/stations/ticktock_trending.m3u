@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/50f8da45-c6fb-418b-9aa5-a2850feb2969.png" group-title="Ticktock Trending" feed-title="Ticktock Trending",TikTok Trending
+https://streaming.exclusive.radio/er-app/tiktoktrending/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/84f7cc2a-0025-4f85-98e6-6cc693477848.png" group-title="Ticktock Trending" feed-title="Ticktock Trending",TikTok 2023 Viral
+https://drive.uber.radio/uber-app/tt2023/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/61cc03c3-1806-414d-94d6-c34fa5b842cb.png" group-title="Ticktock Trending" feed-title="Ticktock Trending",TikTok Hits
+https://drive.uber.radio/uber-app/tthits/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7f09e31e-0862-4548-857e-4d0d50818ed9.png" group-title="Ticktock Trending" feed-title="Ticktock Trending",TikTok Throwbacks
+https://drive.uber.radio/uber-app/ttthrowbacks/icecast.audio

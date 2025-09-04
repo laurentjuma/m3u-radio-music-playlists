@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f1748edc-42a7-4888-bd4d-437375b34474.png" group-title="Easy Radio" feed-title="Easy Radio",Easy 10s
+https://streaming.exclusive.radio/uber-app/easy2010/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c745e18a-8d3c-46f4-876a-9873eeb41a49.png" group-title="Easy Radio" feed-title="Easy Radio",Easy  00's
+https://streaming.exclusive.radio/uber-app/easy00/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fbc59ed7-eca5-496a-be2f-f0acb8680ade.png" group-title="Easy Radio" feed-title="Easy Radio",Easy 90s
+https://streaming.exclusive.radio/uber-app/easy90/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fd6b1907-5e3d-482f-a59b-60a4bd6cd1d8.png" group-title="Easy Radio" feed-title="Easy Radio",Easy 80s
+https://streaming.exclusive.radio/uber-app/easy80/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/cba55e5e-07ea-4172-9d7a-46941dde4e53.png" group-title="Easy Radio" feed-title="Easy Radio",Easy 70s
+https://streaming.exclusive.radio/uber-app/easy70/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7005fe06-7505-43c7-8086-6b5598332562.png" group-title="Easy Radio" feed-title="Easy Radio",Easy 60s
+https://streaming.exclusive.radio/uber-app/easy60/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c2515c62-1aa4-4e82-8c52-21a61be56b6c.png" group-title="Easy Radio" feed-title="Easy Radio",Easy 50s
+https://streaming.exclusive.radio/uber-app/easy50/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e647cab7-39cf-499b-9b33-cf2a2bcfdd2e.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Soul
+https://streaming.exclusive.radio/uber-app/easysoul/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/ab5284fb-c9b5-4586-a998-f5a639430f80.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Rock
+https://streaming.exclusive.radio/uber-app/easyrock/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d5ab08dc-db97-4857-a537-f32a71ed0917.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Reggae
+https://streaming.exclusive.radio/uber-app/easyreggae/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fa61b068-4dce-45ca-ada8-5d894d12260b.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Motown
+https://streaming.exclusive.radio/uber-app/easymotown/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2e562904-2cab-4d53-ba20-a8a524bbc006.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Jazz
+https://streaming.exclusive.radio/uber-app/easyjazz/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/78df16eb-7998-49e5-aed9-1bed50ea267a.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Instrumentals
+https://streaming.exclusive.radio/uber-app/easyinstrumentals/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2e66eda5-fab9-4618-9dce-57be940ccbc9.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Folk
+https://streaming.exclusive.radio/uber-app/easyfolk/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3f4b20fc-068e-42da-af13-acd2595c6fec.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Crooners
+https://streaming.exclusive.radio/uber-app/easycrooners/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/205327ba-7917-400f-bb97-acbc22d87854.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Country
+https://streaming.exclusive.radio/uber-app/easycountry/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a3103f26-e49a-48a7-accd-99dd7b8a9212.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Classical
+https://streaming.exclusive.radio/uber-app/easyclassical/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/bef741c9-97bd-4313-8078-9efabfcb1f67.png" group-title="Easy Radio" feed-title="Easy Radio",Easy Mix
+https://streaming.exclusive.radio/uber-app/easymix/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/be2861c2-4959-494c-bad5-58c8beb56d98.png" group-title="Easy Radio" feed-title="Easy Radio",Andrea Bocelli
+https://streaming.exclusive.radio/uber-app/easyandreabocelli/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/823d3ae7-f25e-4329-94b2-051fa378521d.png" group-title="Easy Radio" feed-title="Easy Radio",Andy Williams
+https://streaming.exclusive.radio/uber-app/easyandywilliams/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/cfe6dc36-953b-4a73-9526-153f33550691.png" group-title="Easy Radio" feed-title="Easy Radio",Barbra Streisand
+https://streaming.exclusive.radio/uber-app/easybarbrastreisand/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/bb1f7eb6-149c-41dd-b692-6160a2b52bc4.png" group-title="Easy Radio" feed-title="Easy Radio",Barry Manilow
+https://streaming.exclusive.radio/uber-app/easybarrymanilow/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5bd78f48-c896-40bc-b1f4-0c6dceaa2889.png" group-title="Easy Radio" feed-title="Easy Radio",Bert Kaempfert
+https://streaming.exclusive.radio/uber-app/easybertkaempfert/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f6054fc5-8c38-4587-8545-f14d6d2863d5.png" group-title="Easy Radio" feed-title="Easy Radio",Bette Midler
+https://streaming.exclusive.radio/uber-app/easybettemidler/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5bc303b6-292c-44f0-9f55-fce7bd3c7ebe.png" group-title="Easy Radio" feed-title="Easy Radio",Bing Crosby
+https://streaming.exclusive.radio/uber-app/easybingcrosby/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/47e5c4c3-b8ad-473d-870d-72c33dbe157a.png" group-title="Easy Radio" feed-title="Easy Radio",Bread
+https://streaming.exclusive.radio/uber-app/easybread/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0e08b252-2c37-4bc4-a8eb-e047151f5398.png" group-title="Easy Radio" feed-title="Easy Radio",Burt Bacharach
+https://streaming.exclusive.radio/uber-app/easyburtbacharach/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8ae4edd4-88cd-4bca-8d95-671589f3fd5a.png" group-title="Easy Radio" feed-title="Easy Radio",Carly Simon
+https://streaming.exclusive.radio/uber-app/easycarlysimon/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b80df598-0a99-4707-a2e2-f0be7b3003c0.png" group-title="Easy Radio" feed-title="Easy Radio",Carole King
+https://streaming.exclusive.radio/uber-app/easycaroleking/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/db8b5a30-3e6e-4d58-8803-5b4eb6373391.png" group-title="Easy Radio" feed-title="Easy Radio",Carpenters
+https://streaming.exclusive.radio/uber-app/easycarpenters/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c33259b2-70aa-44c4-bf98-edb8f2eb8a5f.png" group-title="Easy Radio" feed-title="Easy Radio",Cat Stevens
+https://streaming.exclusive.radio/uber-app/easycatstevens/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/47d3b8de-bbf1-4e41-9f6d-2910db2aa0bd.png" group-title="Easy Radio" feed-title="Easy Radio",Celine Dion
+https://streaming.exclusive.radio/uber-app/easycelinedion/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3902a948-b439-42e7-bedb-5d5cb4066937.png" group-title="Easy Radio" feed-title="Easy Radio",David Soul
+https://streaming.exclusive.radio/uber-app/easydavidsoul/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b0c915d5-e86b-4919-bb18-4f629b4dbc5b.png" group-title="Easy Radio" feed-title="Easy Radio",Dean Martin
+https://streaming.exclusive.radio/uber-app/easydeanmartin/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c41c649b-130f-4c33-a6be-ab8453177e24.png" group-title="Easy Radio" feed-title="Easy Radio",Diana Krall
+https://streaming.exclusive.radio/uber-app/easydianakrall/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a81eb6a1-dfd4-4af9-b840-1b462f8cb43e.png" group-title="Easy Radio" feed-title="Easy Radio",Dionne Warwick
+https://streaming.exclusive.radio/uber-app/easydionnewarwick/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8fd2bd7b-7436-40fd-a005-28272c5b0411.png" group-title="Easy Radio" feed-title="Easy Radio",Doris Day
+https://streaming.exclusive.radio/uber-app/easydorisday/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/461b6696-62c1-42a4-bc2d-21a468055db8.png" group-title="Easy Radio" feed-title="Easy Radio",Dr Hook
+https://streaming.exclusive.radio/uber-app/easydrhook/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7bfca040-5156-40ef-a5c3-32694b3be393.png" group-title="Easy Radio" feed-title="Easy Radio",Ella Fitzgerald
+https://streaming.exclusive.radio/uber-app/easyellafitzgerald/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/27879deb-2a5f-408a-b2dd-27ec3b810e0e.png" group-title="Easy Radio" feed-title="Easy Radio",Elvis Presley
+https://streaming.exclusive.radio/uber-app/easyelvispresley/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c5fbb9ee-fdea-429f-b6b3-3d96313cc343.png" group-title="Easy Radio" feed-title="Easy Radio",Engelbert Humperdinck
+https://streaming.exclusive.radio/uber-app/easyengelberthumperdinck/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/89c4ccf1-8a73-4b42-aab4-1eca1bcae672.png" group-title="Easy Radio" feed-title="Easy Radio",Enya
+https://streaming.exclusive.radio/uber-app/easyenya/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a1982626-61a3-4cf6-b1c0-97692d7387b2.png" group-title="Easy Radio" feed-title="Easy Radio",Eva Cassidy
+https://streaming.exclusive.radio/uber-app/easyevacassidy/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/48b096be-934c-480e-8c3c-41b8b5d2a271.png" group-title="Easy Radio" feed-title="Easy Radio",Frank Sinatra
+https://streaming.exclusive.radio/uber-app/easyfranksinatra/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/eadfbee2-2ac0-4a4f-88c0-8c2dfed58c9f.png" group-title="Easy Radio" feed-title="Easy Radio",Glen Campbell
+https://streaming.exclusive.radio/uber-app/easyglencampbell/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6f627d84-c759-434d-acf6-b8945bb964ee.png" group-title="Easy Radio" feed-title="Easy Radio",Henry Mancini
+https://streaming.exclusive.radio/uber-app/easyhenrymancini/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/10685924-376e-41f7-bef4-f815ed5998a8.png" group-title="Easy Radio" feed-title="Easy Radio",Herb Alpert
+https://streaming.exclusive.radio/uber-app/easyherbalpert/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/815e7191-1049-4ea1-b6f2-67c3411286bf.png" group-title="Easy Radio" feed-title="Easy Radio",Jack Johnson
+https://streaming.exclusive.radio/uber-app/easyjackjohnson/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/73c89716-8e58-4f1d-9069-66896ca4aa3a.png" group-title="Easy Radio" feed-title="Easy Radio",Jack Jones
+https://streaming.exclusive.radio/uber-app/easyjackjones/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/eafb7d74-5fce-48f2-8165-60b7ceb20079.png" group-title="Easy Radio" feed-title="Easy Radio",James Galway
+https://streaming.exclusive.radio/uber-app/easyjamesgalway/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1d8c8f17-c2a1-499d-8737-31ef5588aa6a.png" group-title="Easy Radio" feed-title="Easy Radio",James Last
+https://streaming.exclusive.radio/uber-app/easyjameslast/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/14de77bc-b889-4db3-8891-0b7878d32499.png" group-title="Easy Radio" feed-title="Easy Radio",James Taylor
+https://streaming.exclusive.radio/uber-app/easyjamestaylor/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a250a35d-de47-4355-a5e4-d4415c4c5ca2.png" group-title="Easy Radio" feed-title="Easy Radio",Jim Reeves
+https://streaming.exclusive.radio/uber-app/easyjimreeves/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/56812544-f627-47ca-91b7-15c998c49811.png" group-title="Easy Radio" feed-title="Easy Radio",John Denver
+https://streaming.exclusive.radio/uber-app/easyjohndenver/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/33d2987f-c060-41bd-ade5-e2782c7a59a0.png" group-title="Easy Radio" feed-title="Easy Radio",Johnny Mathis
+https://streaming.exclusive.radio/uber-app/easyjohnnymathis/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/31a8a292-a37a-4ec6-bae4-60eea17e0a76.png" group-title="Easy Radio" feed-title="Easy Radio",Josh Groban
+https://streaming.exclusive.radio/uber-app/easyjoshgroban/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/41e517a1-1fd3-43d5-a2c3-166950f4ca0f.png" group-title="Easy Radio" feed-title="Easy Radio",Kenny G
+https://streaming.exclusive.radio/uber-app/easykennyg/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/baf83e3e-8087-42ba-b98d-a59e4ef51763.png" group-title="Easy Radio" feed-title="Easy Radio",Kenny Rogers
+https://streaming.exclusive.radio/uber-app/easykennyrogers/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/02fdf339-1bef-4941-9598-dba4c7c81723.png" group-title="Easy Radio" feed-title="Easy Radio",Liberace
+https://streaming.exclusive.radio/uber-app/easyliberace/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2f351cb1-170b-458d-9070-09e15f21881f.png" group-title="Easy Radio" feed-title="Easy Radio",Lighthouse Family
+https://streaming.exclusive.radio/uber-app/easylighthouse/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2e053557-151a-43fd-b70d-27dac8cbaa74.png" group-title="Easy Radio" feed-title="Easy Radio",Lionel Richie
+https://streaming.exclusive.radio/uber-app/easylionelrichie/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/adc6f5d6-c211-41ab-8e71-896cc9b5ca55.png" group-title="Easy Radio" feed-title="Easy Radio",Matt Monro
+https://streaming.exclusive.radio/uber-app/easymattmonro/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3003691d-866a-4357-a7f6-4300a0a3df45.png" group-title="Easy Radio" feed-title="Easy Radio",Michael Bolton
+https://streaming.exclusive.radio/uber-app/easymichaelbolton/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/853b31fb-fb69-4c82-a0ba-6e878f6cef59.png" group-title="Easy Radio" feed-title="Easy Radio",Michael Buble
+https://streaming.exclusive.radio/uber-app/easymichaelbuble/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e7f07bdf-5f8d-4b60-9dc4-deecce79dded.png" group-title="Easy Radio" feed-title="Easy Radio",Nat King Cole
+https://streaming.exclusive.radio/uber-app/easynatkingcole/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/da545f6a-23df-4ed9-818d-d00a2f33aa4c.png" group-title="Easy Radio" feed-title="Easy Radio",Neil Diamond
+https://streaming.exclusive.radio/uber-app/easyneildiamond/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/34dd9333-5056-4c27-9d27-beedcc40acdd.png" group-title="Easy Radio" feed-title="Easy Radio",Perry Como
+https://streaming.exclusive.radio/uber-app/easyperrycomo/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6b9fc786-4447-4074-98e6-77681ed6af9a.png" group-title="Easy Radio" feed-title="Easy Radio",Sade
+https://streaming.exclusive.radio/uber-app/easysade/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/44cbea0d-8b53-489b-b276-1e1c6ba0d359.png" group-title="Easy Radio" feed-title="Easy Radio",Simon and Garfunkel
+https://streaming.exclusive.radio/uber-app/easysimonandgarfunkel/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/32aff0d7-76bd-42a4-9f69-6c26cf14b344.png" group-title="Easy Radio" feed-title="Easy Radio",Tom Jones
+https://streaming.exclusive.radio/uber-app/easytomjones/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e0ebf204-14dd-46c7-be39-94e1bdf15487.png" group-title="Easy Radio" feed-title="Easy Radio",Tony Bennett
+https://streaming.exclusive.radio/uber-app/easytonybennett/icecast.audio

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/12f340fc-e206-46ba-81df-8e60bf9b9a9e.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2010
+https://streaming.ticktock.radio/tt-app/2010/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/ad1874ed-b45c-4b55-9f3f-dc919bfdab38.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2011
+https://streaming.ticktock.radio/tt-app/2011/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f0de896a-1a30-4d9d-b606-ad963fc90303.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2012
+https://streaming.ticktock.radio/tt-app/2012/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e0f69a59-5226-4453-8459-738a8c988a84.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2013
+https://streaming.ticktock.radio/tt-app/2013/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/26cd954d-c318-49cf-93b6-318be8dbbc4a.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2014
+https://streaming.ticktock.radio/tt-app/2014/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6cfa0abe-8f1c-460e-a4f5-97b3452c7a08.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2015
+https://streaming.ticktock.radio/tt-app/2015/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/41d1c64e-4218-4441-9f90-7a666bd4570d.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2016
+https://streaming.ticktock.radio/tt-app/2016/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1335f3c2-0b47-47e5-903a-e5634864a2ed.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2017
+https://streaming.ticktock.radio/tt-app/2017/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/9ed18219-9c28-44ee-a34b-0872eed698fd.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2018
+https://streaming.ticktock.radio/tt-app/2018/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/931908a6-e834-4faf-acf3-abaedebc3b68.png" group-title="Ticktock 2010s" feed-title="Ticktock 2010s",2019
+https://streaming.ticktock.radio/tt-app/2019/icecast.audio

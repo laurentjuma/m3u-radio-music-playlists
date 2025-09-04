@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/819843f4-e15a-407f-8bf9-caa590267545.jpg" group-title="You Play" feed-title="You Play",Alex Hart
+https://drive.uber.radio/uber-app/youplayalexhart/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5bf8c046-4cc0-475a-9197-1c10314c9352.jpg" group-title="You Play" feed-title="You Play",Chris Anderson
+https://drive.uber.radio/uber-app/youplaychrisanderson/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3a12ba21-84b5-4d18-bffe-dfea5f3817b9.png" group-title="You Play" feed-title="You Play",Eliza
+https://drive.uber.radio/uber-app/playpaleliza/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/700993de-a31b-44bc-8446-0c2449dbe983.png" group-title="You Play" feed-title="You Play",Isobel Holly
+https://drive.uber.radio/uber-app/playpalisobelholly/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/35351f4f-2b0f-4bb3-9f50-c7f2286a23d3.png" group-title="You Play" feed-title="You Play",L.H.
+https://drive.uber.radio/uber-app/playpallh/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/82c3535b-ddfc-43ab-8836-ff0405913eef.png" group-title="You Play" feed-title="You Play",Mikerey
+https://drive.uber.radio/uber-app/youplaymikerey/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2e7fe249-e2f2-4e96-ad65-a697153b8121.png" group-title="You Play" feed-title="You Play",Mimi Webb
+https://drive.uber.radio/uber-app/playpalmimiwebb/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e9e53ab0-26ef-4c56-a9b9-11c15f8e1e71.png" group-title="You Play" feed-title="You Play",Nyki Lindsay King
+https://drive.uber.radio/uber-app/youplaynlk/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6ebbd30b-d9d0-45d1-b359-82578afaf8c4.png" group-title="You Play" feed-title="You Play",Sam Ryder
+https://drive.uber.radio/uber-app/playpalsamryder/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/28260473-850d-49d0-85da-648616259be5.png" group-title="You Play" feed-title="You Play",Sammy P
+https://drive.uber.radio/uber-app/playpalsammyp/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6c2e35fc-18a2-4a8d-b036-7e6249071d2a.png" group-title="You Play" feed-title="You Play",Wally Gator Sirotich - Piano
+https://2.mystreaming.net/uber-app/youplaywallygatorsirotich/icecast.audio

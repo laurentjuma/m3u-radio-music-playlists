@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/53f05ae5-1fff-488d-a565-4644c4e47251.png" group-title="World Music Radio" feed-title="World Music Radio",Afrobeats
+https://streaming.exclusive.radio/er-app/afrobeats/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f23b1bdf-1e89-4e36-9f7c-7754ce0b85b7.png" group-title="World Music Radio" feed-title="World Music Radio",Bollywood
+https://streaming.exclusive.radio/erapp/bollywood/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1255643b-b591-41bf-8e5f-8e865469ebd1.png" group-title="World Music Radio" feed-title="World Music Radio",Italy
+https://streaming.exclusive.radio/er-app/italy/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0a263cf7-3218-496e-9bce-c60d479c126f.png" group-title="World Music Radio" feed-title="World Music Radio",J-Pop
+https://streaming.exclusive.radio/er-app/jpop/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3887123d-86ee-4036-bda6-0baa6df25a80.png" group-title="World Music Radio" feed-title="World Music Radio",K-Pop
+https://streaming.exclusive.radio/er-app/kpop/icecast.audio

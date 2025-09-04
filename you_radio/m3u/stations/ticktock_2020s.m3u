@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2d397f22-d8b8-4d1b-9493-a7c67aff5a3d.png" group-title="Ticktock 2020s" feed-title="Ticktock 2020s",2020
+https://streaming.ticktock.radio/tt-app/2020/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a3f5d62d-ad86-4cbb-81f2-d3112cb1647c.png" group-title="Ticktock 2020s" feed-title="Ticktock 2020s",2021
+https://streaming.ticktock.radio/tt-app/2021/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/266c2424-a52b-40ae-8526-9b3537feefb2.png" group-title="Ticktock 2020s" feed-title="Ticktock 2020s",2022
+https://streaming.ticktock.radio/tt-app/2022/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/47096af1-1ed4-4cd7-bc24-8d53b97c2eb7.png" group-title="Ticktock 2020s" feed-title="Ticktock 2020s",2023
+https://streaming.ticktock.radio/tt-app/2023/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/011074fc-6d4c-4cad-b07d-1aa8ab056a24.png" group-title="Ticktock 2020s" feed-title="Ticktock 2020s",2024
+https://streaming.ticktock.radio/tt-app/2024/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8476440a-6eba-4707-b662-7d02412c4fb3.png" group-title="Ticktock 2020s" feed-title="Ticktock 2020s",2025
+https://streaming.ticktock.radio/tt-app/2025/icecast.audio

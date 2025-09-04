@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f9d10358-29fb-41a3-93dc-8db3daad8745.png" group-title="Love Radio" feed-title="Love Radio",2010's
+https://drive.uber.radio/uber-app/lr2010s/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7f7b39f8-6f90-40e1-9705-731fa215cdfe.png" group-title="Love Radio" feed-title="Love Radio",2000's
+https://drive.uber.radio/uber-app/lr2000s/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/74f281bf-cd4a-45b6-82be-bac43430e10b.png" group-title="Love Radio" feed-title="Love Radio",90's
+https://drive.uber.radio/uber-app/lr1990s/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1bba8a1c-90ca-4ae2-9b3f-febb8e5069aa.png" group-title="Love Radio" feed-title="Love Radio",80's
+https://drive.uber.radio/uber-app/lr1980s/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b520c6dd-0031-40d4-9116-02b4a84727c6.png" group-title="Love Radio" feed-title="Love Radio",70's
+https://drive.uber.radio/uber-app/lr1970s/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/74c14575-5235-44ac-9531-d7409fa2473a.png" group-title="Love Radio" feed-title="Love Radio",60's
+https://drive.uber.radio/uber-app/lr1960s/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/101f1e99-f931-44ec-a161-b251e14f3c42.png" group-title="Love Radio" feed-title="Love Radio",50's
+https://drive.uber.radio/uber-app/lr1950s/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fba22da4-a112-439b-9601-3d2eaadc76e0.png" group-title="Love Radio" feed-title="Love Radio",Bollywood
+https://drive.uber.radio/uber-app/lrbollywood/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c78f78a5-6cb5-44d1-b169-7d7b4a6d2a57.png" group-title="Love Radio" feed-title="Love Radio",Break Up
+https://drive.uber.radio/uber-app/lrbreakupsongs/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/520db1bd-128c-423b-9281-603833397551.png" group-title="Love Radio" feed-title="Love Radio",Cantopop Love Songs
+https://drive.uber.radio/uber-app/lrcantopop/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/85d4d337-1c32-4c29-9c54-c5cdc9949fb3.png" group-title="Love Radio" feed-title="Love Radio",Country
+https://drive.uber.radio/uber-app/lrcountry/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/719871cc-9cc7-4222-ba23-f2d2691e3d6a.png" group-title="Love Radio" feed-title="Love Radio",Date Night
+https://drive.uber.radio/uber-app/lrdatenight/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/65aede57-d583-43d5-ad46-ff8fbe60ad4e.png" group-title="Love Radio" feed-title="Love Radio",Disney
+https://drive.uber.radio/uber-app/lrdisney/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/58971dd6-887e-483f-911f-c386ef3f6036.png" group-title="Love Radio" feed-title="Love Radio",French Love Songs
+https://drive.uber.radio/uber-app/lrfrenchlovesongs/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5158c8c1-a870-4d6e-a24e-5adb0b68e62a.png" group-title="Love Radio" feed-title="Love Radio",Indie Romance
+https://drive.uber.radio/uber-app/lrindieromance/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/da06513c-2298-4671-bbef-48b505ee69b9.png" group-title="Love Radio" feed-title="Love Radio",Jazz
+https://drive.uber.radio/uber-app/lrjazz/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5fffb65a-330d-4a20-8f5f-8f2a208638c5.png" group-title="Love Radio" feed-title="Love Radio",Love Mix
+https://drive.uber.radio/uber-app/lrlovemix/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5439e3ae-b8f1-42e4-b82b-e1a2b39863f6.png" group-title="Love Radio" feed-title="Love Radio",Mandopop Love Songs
+https://drive.uber.radio/uber-app/lrmandopop/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3bf555f5-ef22-4277-aa79-ee37d37ecd7f.png" group-title="Love Radio" feed-title="Love Radio",Movies
+https://drive.uber.radio/uber-app/lrmovies/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0846aa7d-384a-4b2f-8581-1ed312f502b5.png" group-title="Love Radio" feed-title="Love Radio",Reggae
+https://drive.uber.radio/uber-app/lrreggae/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/4aadb57e-affc-438e-b356-7751040b4607.png" group-title="Love Radio" feed-title="Love Radio",Romance
+https://drive.uber.radio/uber-app/lrromance/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7aa5e605-5d34-4d03-bc72-ded8cc3e2fde.png" group-title="Love Radio" feed-title="Love Radio",Romantic Piano
+https://drive.uber.radio/uber-app/lrromanticpiano/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/79fd9150-575f-4bf9-b3c8-062fc3bf2a0c.png" group-title="Love Radio" feed-title="Love Radio",Timeless
+https://drive.uber.radio/uber-app/lrtimeless/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1a233328-a005-4712-9b0c-14ad3fc77ed5.png" group-title="Love Radio" feed-title="Love Radio",Turkish Love Songs
+https://drive.uber.radio/uber-app/lrturkish/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c9b9777c-a7b8-4d2f-a504-50f765d7042e.png" group-title="Love Radio" feed-title="Love Radio",Wedding
+https://drive.uber.radio/uber-app/lrwedding/icecast.audio

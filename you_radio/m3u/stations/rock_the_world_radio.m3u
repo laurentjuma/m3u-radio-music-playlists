@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a7a81dd1-fdb2-441b-aabd-bfaacd611d94.png" group-title="Rock The World Radio" feed-title="Rock The World Radio",Alt Rock
+https://drive.uber.radio/uber-app/rtwalt/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/dc25f41d-2e09-47ea-ad92-294cf1a36c2d.png" group-title="Rock The World Radio" feed-title="Rock The World Radio",Blues Rock
+https://drive.uber.radio/uber-app/rtwblues/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/ccd36487-9de6-45f7-ac5a-31e5b550776f.png" group-title="Rock The World Radio" feed-title="Rock The World Radio",Classic Rock
+https://drive.uber.radio/uber-app/rtwclassics/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6a8484ea-3ecd-46b7-9a49-929d31944f35.png" group-title="Rock The World Radio" feed-title="Rock The World Radio",Country Rock
+https://drive.uber.radio/uber-app/rtwcountry/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/9f9e3c8f-59ee-47dd-ab88-32bbd1547223.png" group-title="Rock The World Radio" feed-title="Rock The World Radio",Heavy Metal
+https://drive.uber.radio/uber-app/rtwheavymetal/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/54cbea03-00ec-46a1-9e33-4e7823d47127.png" group-title="Rock The World Radio" feed-title="Rock The World Radio",Prog Rock
+https://drive.uber.radio/uber-app/rtwprog/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8107965e-0523-42b9-b474-e6e6af05df9d.png" group-title="Rock The World Radio" feed-title="Rock The World Radio",Punk Rock
+https://drive.uber.radio/uber-app/rtwpunk/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/bf566bf2-efc1-4ee7-b727-c2a940303ec1.png" group-title="Rock The World Radio" feed-title="Rock The World Radio",Stadium Rock
+https://drive.uber.radio/uber-app/rtwstadium/icecast.audio

@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/dec35455-94bc-490d-b5d9-b4dd7b046a5a.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2000
+https://streaming.ticktock.radio/tt-app/2000/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/dd68585f-c036-45ce-842a-bc3f7d730e03.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2001
+https://streaming.ticktock.radio/tt-app/2001/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/51b7177e-fd76-44d5-a4b3-fe791b18a4f6.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2002
+https://streaming.ticktock.radio/tt-app/2002/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/384092e0-fdaa-470e-a47d-e5c8787208e3.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2003
+https://streaming.ticktock.radio/tt-app/2003/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/28be673b-93bd-4864-8107-6bc3a95d9a96.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2004
+https://streaming.ticktock.radio/tt-app/2004/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/bb0de6c1-b852-4fea-8233-700a777faa87.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2005
+https://streaming.ticktock.radio/tt-app/2005/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/be71e5bf-fa40-4ddb-9472-87fb44304826.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2006
+https://streaming.ticktock.radio/tt-app/2006/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/14f724ce-db09-43bb-8357-9094730c7213.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2007
+https://streaming.ticktock.radio/tt-app/2007/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/60b731f8-bdca-4888-a328-2ca05908b8b6.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2008
+https://streaming.ticktock.radio/tt-app/2008/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7ea6dc8c-111e-40f5-8f29-edd544bf2290.png" group-title="Ticktock 2000s" feed-title="Ticktock 2000s",2009
+https://streaming.ticktock.radio/tt-app/2009/icecast.audio

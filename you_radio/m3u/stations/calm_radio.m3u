@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/9d9ce473-2ca2-4324-9415-5a9061c6852f.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Zen
+https://drive.uber.radio/uber-app/calmzen/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/186267b6-395c-4c47-9910-8354f07f5250.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Tai Chi
+https://drive.uber.radio/uber-app/calmtaichi/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7c2e9cd1-d9d5-4e41-8003-82a0c3d73269.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Stress Relief
+https://drive.uber.radio/uber-app/calmstressrelief/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f8951950-5c62-4c57-b046-88c7298ce6e7.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Spa
+https://drive.uber.radio/uber-app/calmspa/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0f78e71f-e549-48f9-9d24-d58e0d535a95.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Soundscapes
+https://drive.uber.radio/uber-app/calmsoundscapes/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f78742c6-727f-45f6-b1e6-b5928486e58f.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Soothing Instrumental
+https://drive.uber.radio/uber-app/calminstrumental/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a196e3d0-7414-4458-813b-e8f915bf485c.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Smooth
+https://drive.uber.radio/uber-app/calmsmooth/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/95be9610-308e-4610-8606-f15b773e0856.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Sleepy
+https://drive.uber.radio/uber-app/calmsleepy/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a46d0a80-8ace-4e88-916d-29b16a785201.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Sleep Classical
+https://drive.uber.radio/uber-app/calmsleepclassical/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5e63203e-60a3-4735-aafd-a64c444ef8b6.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Sleep Baby
+https://drive.uber.radio/uber-app/calmsleepbaby/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a22cb49f-a58e-447e-97c6-d116749bd967.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Relaxation
+https://drive.uber.radio/uber-app/calmrelaxation/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/972bd0af-f8a6-448c-be7c-46c89db88d88.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Reiki
+https://drive.uber.radio/uber-app/calmreiki/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/013bed9c-cab8-4249-86c8-bd806f48947e.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Piano
+https://drive.uber.radio/uber-app/calmpiano/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/4b59464e-e6d3-41c3-b84e-4a9fa6071d2c.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Pan Pipes
+https://drive.uber.radio/uber-app/calmpanpipes/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e502503d-0ce5-4eab-9e78-c501834c5d09.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Ocean
+https://drive.uber.radio/uber-app/calmocean/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d4417025-4aa0-4f6e-84fc-1a8be3dc8a8a.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Meditation
+https://drive.uber.radio/uber-app/calmmeditation/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/24633491-6b96-48a7-b33b-d207340b4dee.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Massage
+https://drive.uber.radio/uber-app/calmmassage/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f70b3bd0-b5da-4a4a-95c1-9863b092df49.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Kids
+https://drive.uber.radio/uber-app/calmkids/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c6679569-c23b-4e3a-86d5-45cfdc2fe05d.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Harp
+https://drive.uber.radio/uber-app/calmharp/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2472fadf-84a2-4142-93bd-864b8c014737.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Gongs
+https://drive.uber.radio/uber-app/calmgongs/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/50c4d82f-beab-4449-a230-a61d00c843e1.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Dreamscape
+https://drive.uber.radio/uber-app/calmdreamscape/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7fad2021-ecf4-41a8-afbc-9173f8df2af1.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Classical
+https://drive.uber.radio/uber-app/calmclassical/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b9c10f50-6bb7-4829-af81-4756e93e46a6.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Chants
+https://drive.uber.radio/uber-app/calmchants/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a4ff1ccc-a7cb-4fac-9416-76986e0aca55.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Chill
+https://drive.uber.radio/uber-app/calm/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1575b01b-578f-47fe-80d4-64d104ed011e.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Bowls
+https://drive.uber.radio/uber-app/calmbowls/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/21e8a36e-4fb1-4072-a5c9-335676730c93.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Birdsong
+https://drive.uber.radio/uber-app/calmbirdsong/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a8966026-109f-425f-b847-326bb9dbdc25.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Jungle
+https://drive.uber.radio/uber-app/calmjungle/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/ed337624-d83b-4e1f-aa99-ace61b967fcc.png" group-title="Calm Radio" feed-title="Calm Radio",Calm Rain
+https://drive.uber.radio/uber-app/calmrain/icecast.audio
