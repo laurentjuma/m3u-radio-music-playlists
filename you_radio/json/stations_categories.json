@@ -34,7 +34,7 @@
             {
                 "name": "Exclusive Radio - Hits",
                 "genre_id": "133",
-               "logo": "brand/bb272afb-7229-4f6c-966e-cea80b46f433.png",
+                "logo": "brand/bb272afb-7229-4f6c-966e-cea80b46f433.png",
                 "genre_m3u_id": "exclusive_radio_hits_only.m3u"
             },
             {
@@ -57,6 +57,12 @@
                 "genre_id": "93",
                 "logo": "brand/8d5d1713-915d-4162-9f6d-917e2c87560c.png",
                 "genre_m3u_id": "greatest_hits.m3u"
+            },
+            {
+                "name": "World Music Radio",
+                "genre_id": "110",
+                "logo": "brand/77550272-7125-4e19-be3b-47ac3546746d.png",
+                "genre_m3u_id": "world_music_radio.m3u"
             },
             {
                 "name": "Positivity Radio",
@@ -113,12 +119,6 @@
                 "genre_m3u_id": "calm_radio.m3u"
             },
             {
-                "name": "World Music Radio",
-                "genre_id": "110",
-                "logo": "brand/77550272-7125-4e19-be3b-47ac3546746d.png",
-                "genre_m3u_id": "world_music_radio.m3u"
-            },
-            {
                 "name": "Love Radio",
                 "genre_id": "144",
                 "logo": "brand/c2c4d185-7f99-4b82-8def-fd63947130e3.png",
@@ -131,40 +131,10 @@
                 "genre_m3u_id": "classical_radio.m3u"
             },
             {
-                "name": "Tick Tock 1950s",
-                "genre_id": "52",
-                "logo": "genre/6bb67bca-fcdc-439c-bea6-4c494562a4ad.png",
-                "genre_m3u_id": "ticktock_1950s.m3u"
-            },
-            {
-                "name": "Tick Tock 1960s",
-                "genre_id": "53",
-                "logo": "genre/65f105c0-b3d2-446d-a8ae-313debbde824.png",
-                "genre_m3u_id": "ticktock_1960s.m3u"
-            },
-            {
-                "name": "Tick Tock 1970s",
-                "genre_id": "54",
-                "logo": "genre/04bd7a07-7b0f-4318-9fd1-a5843aa5a340.png",
-                "genre_m3u_id": "ticktock_1970s.m3u"
-            },
-            {
-                "name": "Tick Tock 1980s",
-                "genre_id": "55",
-                "logo": "genre/f2f349b7-0b7a-4bcc-bfae-de91f4f8514b.png",
-                "genre_m3u_id": "ticktock_1980s.m3u"
-            },
-            {
-                "name": "Tick Tock 1990s",
-                "genre_id": "56",
-                "logo": "genre/c558c11f-c1ee-48bb-a828-3031c08bdc88.png",
-                "genre_m3u_id": "ticktock_1990s.m3u"
-            },
-            {
-                "name": "Tick Tock 2000s",
-                "genre_id": "57",
-                "logo": "genre/2b3f3e40-8939-479a-b45b-ef7f2dc434c1.png",
-                "genre_m3u_id": "ticktock_2000s.m3u"
+                "name": "Tick Tock 2020s",
+                "genre_id": "59",
+                "logo": "genre/4fc05509-35d5-4a91-8a54-e85828bb6625.png",
+                "genre_m3u_id": "ticktock_2020s.m3u"
             },
             {
                 "name": "Tick Tock 2010s",
@@ -173,10 +143,40 @@
                 "genre_m3u_id": "ticktock_2010s.m3u"
             },
             {
-                "name": "Tick Tock 2020s",
-                "genre_id": "59",
-                "logo": "genre/4fc05509-35d5-4a91-8a54-e85828bb6625.png",
-                "genre_m3u_id": "ticktock_2020s.m3u"
+                "name": "Tick Tock 2000s",
+                "genre_id": "57",
+                "logo": "genre/2b3f3e40-8939-479a-b45b-ef7f2dc434c1.png",
+                "genre_m3u_id": "ticktock_2000s.m3u"
+            },
+            {
+                "name": "Tick Tock 1990s",
+                "genre_id": "56",
+                "logo": "genre/c558c11f-c1ee-48bb-a828-3031c08bdc88.png",
+                "genre_m3u_id": "ticktock_1990s.m3u"
+            },
+            {
+                "name": "Tick Tock 1980s",
+                "genre_id": "55",
+                "logo": "genre/f2f349b7-0b7a-4bcc-bfae-de91f4f8514b.png",
+                "genre_m3u_id": "ticktock_1980s.m3u"
+            },
+            {
+                "name": "Tick Tock 1970s",
+                "genre_id": "54",
+                "logo": "genre/04bd7a07-7b0f-4318-9fd1-a5843aa5a340.png",
+                "genre_m3u_id": "ticktock_1970s.m3u"
+            },
+            {
+                "name": "Tick Tock 1960s",
+                "genre_id": "53",
+                "logo": "genre/65f105c0-b3d2-446d-a8ae-313debbde824.png",
+                "genre_m3u_id": "ticktock_1960s.m3u"
+            },
+            {
+                "name": "Tick Tock 1950s",
+                "genre_id": "52",
+                "logo": "genre/6bb67bca-fcdc-439c-bea6-4c494562a4ad.png",
+                "genre_m3u_id": "ticktock_1950s.m3u"
             },
             {
                 "name": "Sportify",
