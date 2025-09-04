@@ -38,6 +38,21 @@
                 "genre_m3u_id": "exclusive_radio_hits_only.m3u"
             },
             {
+                "name": "90s90s",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/90s90s_Logo_2017.svg/1200px-90s90s_Logo_2017.svg.png",
+                "genre_m3u_id": "90s90s.m3u"
+            },
+            {
+                "name": "80s80s",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/80s80s_Logo_2015.svg/739px-80s80s_Logo_2015.svg.png",
+                "genre_m3u_id": "80s80s.m3u"
+            },
+            {
+                "name": "100 fm",
+                "logo": "https://d20x387xvo6jlt.cloudfront.net/wp-content/uploads/2020/12/digital100-e1607596035451.png",
+                "genre_m3u_id": "100fm.m3u"
+            },
+            {
                 "name": "Greatest Hits",
                 "genre_id": "93",
                 "logo": "8d5d1713-915d-4162-9f6d-917e2c87560c.png",

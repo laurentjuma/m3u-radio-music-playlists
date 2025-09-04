@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="85" tvg-logo="https://item.radio456.com/007452/330159/logo-79016.png" group-title="80s/Holiday" feed-title="80s80s",80s80s Christmas
+http://streams.80s80s.de/christmas/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="87" tvg-logo="https://item.radio456.com/007452/330159/logo-77440.png" group-title="80s/Pop/Oldies" feed-title="80s80s",80s80s
+http://streams.80s80s.de/web/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="321" tvg-logo="https://item.radio456.com/007452/330159/logo-95101.png" group-title="80s/Dance/Electronica" feed-title="80s80s",80s80s Italo Disco
+http://streams.80s80s.de/italohits/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="416" tvg-logo="https://item.radio456.com/007452/330159/logo-79762.png" group-title="80s/Pop/Oldies" feed-title="80s80s",80s80s Love
+http://streams.80s80s.de/love/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="436" tvg-logo="https://item.radio456.com/007452/330159/logo-80897.png" group-title="80s/Pop" feed-title="80s80s",80s80s Depeche Mode
+http://streams.80s80s.de/dm/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="514" tvg-logo="https://item.radio456.com/007452/330159/logo-93339.png" group-title="80s/Dance/Pop/Oldies" feed-title="80s80s",80s80s Party
+http://streams.80s80s.de/party/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="517" tvg-logo="https://item.radio456.com/007452/330159/logo-99717.png" group-title="80s/Rock" feed-title="80s80s",80s80s Rock
+http://streams.80s80s.de/rock/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="519" tvg-logo="https://item.radio456.com/007452/330159/logo-95100.png" group-title="80s/Electronica" feed-title="80s80s",80s80s Wave
+http://streams.80s80s.de/wave/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="651" tvg-logo="https://item.radio456.com/007452/330159/logo-99651.png" group-title="80s/Pop" feed-title="80s80s",80s80s Partyhits
+http://streams.80s80s.de/party/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="653" tvg-logo="https://item.radio456.com/007452/330159/logo-103289.png" group-title="80s/Dance" feed-title="80s80s",80s80s Maxis
+http://80s80s.hoerradar.de/80s80s-maxis-mp3-hq
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="823" tvg-logo="https://item.radio456.com/007452/330159/logo-82991.png" group-title="80s/Alternative/Pop" feed-title="80s80s",80s80s NDW
+http://streams.80s80s.de/ndw/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="840" tvg-logo="https://item.radio456.com/007452/330159/logo-86768.png" group-title="80s/Pop" feed-title="80s80s",80s80s Michael Jackson
+http://streams.80s80s.de/mj/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="868" tvg-logo="https://item.radio456.com/007452/330159/logo-79468.png" group-title="80s/Pop/Alternative" feed-title="80s80s",80s80s David Bowie
+http://streams.80s80s.de/davidbowie/mp3-192
+#EXTINF:-1,tvg-country="Germany" tvg-popularity="1458" tvg-logo="https://item.radio456.com/007452/330159/logo-80898.png" group-title="80s/Pop" feed-title="80s80s",80s80s Prince
+http://streams.80s80s.de/100/mp3-192
