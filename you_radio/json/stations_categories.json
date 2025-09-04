@@ -22,147 +22,176 @@
     },
     "brands": {
         "genre_link": "https://manager.uber.radio/api/public/station/genre/",
+        "genre_m3u_link": "https://raw.githubusercontent.com/laurentjuma/m3u-radio-music-playlists/main/you_radio/m3u/stations/",
         "logo_link": "https://manager.uber.radio/static/uploads/brand/",
         "genres": [
             {
                 "name": "Exclusive Radio",
-                "genreId": "18",
-                "logo": "af0845bf-87b2-4abd-a401-8e0029bb2696.png"
+                "genre_id": "18",
+                "logo": "af0845bf-87b2-4abd-a401-8e0029bb2696.png",
+                "genre_m3u_id": "exclusive_radio.m3u"
             },
             {
                 "name": "Exclusive Radio - Hits",
-                "genreId": "133",
-                "logo": "bb272afb-7229-4f6c-966e-cea80b46f433.png"
+                "genre_id": "133",
+                "logo": "bb272afb-7229-4f6c-966e-cea80b46f433.png",
+                "genre_m3u_id": "exclusive_radio_hits_only.m3u"
             },
             {
                 "name": "Greatest Hits",
-                "genreId": "93",
-                "logo": "8d5d1713-915d-4162-9f6d-917e2c87560c.png"
+                "genre_id": "93",
+                "logo": "8d5d1713-915d-4162-9f6d-917e2c87560c.png",
+                "genre_m3u_id": "greatest_hits.m3u"
             },
             {
                 "name": "Positivity Radio",
-                "genreId": "80",
-                "logo": "70069b1c-aba7-42fd-a3de-013758111ee5.png"
+                "genre_id": "80",
+                "logo": "70069b1c-aba7-42fd-a3de-013758111ee5.png",
+                "genre_m3u_id": "positivity_radio.m3u"
             },
             {
                 "name": "Easy Radio",
-                "genreId": "47",
-                "logo": "ef5817a0-3f46-4400-83a5-9969a1ad6d34.png"
+                "genre_id": "47",
+                "logo": "ef5817a0-3f46-4400-83a5-9969a1ad6d34.png",
+                "genre_m3u_id": "easy_radio.m3u"
             },
             {
                 "name": "TikTok Trending",
-                "genreId": "143",
-                "logo": "0ff413fc-ce04-4ee7-b0bc-206685faeb45.png"
+                "genre_id": "143",
+                "logo": "0ff413fc-ce04-4ee7-b0bc-206685faeb45.png",
+                "genre_m3u_id": "tiktok_trending.m3u"
             },
             {
                 "name": "The Best Of",
-                "genreId": "102",
-                "logo": "af6c2247-71ae-48eb-9e49-53b4d1dfe464.png"
+                "genre_id": "102",
+                "logo": "af6c2247-71ae-48eb-9e49-53b4d1dfe464.png",
+                "genre_m3u_id": "best_of_you_radio.m3u"
             },
             {
                 "name": "Country Music Radio",
-                "genreId": "71",
-                "logo": "c0c57497-d011-47ce-b58d-f6a1c83d1a55.png"
+                "genre_id": "71",
+                "logo": "c0c57497-d011-47ce-b58d-f6a1c83d1a55.png",
+                "genre_m3u_id": "country_music_radio.m3u"
             },
             {
                 "name": "Just Jazz Radio",
-                "genreId": "94",
-                "logo": "5d747f5c-fb59-4d64-b7bc-2d4c9184d871.png"
+                "genre_id": "94",
+                "logo": "5d747f5c-fb59-4d64-b7bc-2d4c9184d871.png",
+                "genre_m3u_id": "just_jazz_radio.m3u"
             },
             {
                 "name": "Rock The World Radio",
-                "genreId": "131",
-                "logo": "bbdf9e9f-818d-464c-954d-4df7f9e40997.png"
+                "genre_id": "131",
+                "logo": "bbdf9e9f-818d-464c-954d-4df7f9e40997.png",
+                "genre_m3u_id": "rock_the_world_radio.m3u"
             },
             {
                 "name": "Bollywood Radio",
-                "genreId": "49",
-                "logo": "2e1598f9-25eb-43ae-b88d-8a1299f0ba9c.png"
+                "genre_id": "49",
+                "logo": "2e1598f9-25eb-43ae-b88d-8a1299f0ba9c.png",
+                "genre_m3u_id": "bollywood_radio.m3u"
             },
             {
                 "name": "Calm Radio",
-                "genreId": "44",
-                "logo": "980d444f-d1ee-4c2a-959a-800a493be1ed.png"
+                "genre_id": "44",
+                "logo": "980d444f-d1ee-4c2a-959a-800a493be1ed.png",
+                "genre_m3u_id": "calm_radio.m3u"
             },
             {
                 "name": "World Music Radio",
-                "genreId": "110",
-                "logo": "77550272-7125-4e19-be3b-47ac3546746d.png"
+                "genre_id": "110",
+                "logo": "77550272-7125-4e19-be3b-47ac3546746d.png",
+                "genre_m3u_id": "world_music_radio.m3u"
             },
             {
                 "name": "Love Radio",
-                "genreId": "144",
-                "logo": "c2c4d185-7f99-4b82-8def-fd63947130e3.png"
+                "genre_id": "144",
+                "logo": "c2c4d185-7f99-4b82-8def-fd63947130e3.png",
+                "genre_m3u_id": "love_radio.m3u"
             },
             {
                 "name": "Classical Radio",
-                "genreId": "63",
-                "logo": "d3beaa7c-f16a-4d32-b5bd-a9d9fc4ccbf3.png"
+                "genre_id": "63",
+                "logo": "d3beaa7c-f16a-4d32-b5bd-a9d9fc4ccbf3.png",
+                "genre_m3u_id": "classical_radio.m3u"
             },
             {
                 "name": "Tick Tock 1950s",
-                "genreId": "52",
-                "logo": "6bb67bca-fcdc-439c-bea6-4c494562a4ad.png"
+                "genre_id": "52",
+                "logo": "6bb67bca-fcdc-439c-bea6-4c494562a4ad.png",
+                "genre_m3u_id": "ticktock_1950s.m3u"
             },
             {
                 "name": "Tick Tock 1960s",
-                "genreId": "53",
-                "logo": "65f105c0-b3d2-446d-a8ae-313debbde824.png"
+                "genre_id": "53",
+                "logo": "65f105c0-b3d2-446d-a8ae-313debbde824.png",
+                "genre_m3u_id": "ticktock_1960s.m3u"
             },
             {
                 "name": "Tick Tock 1970s",
-                "genreId": "54",
-                "logo": "04bd7a07-7b0f-4318-9fd1-a5843aa5a340.png"
+                "genre_id": "54",
+                "logo": "04bd7a07-7b0f-4318-9fd1-a5843aa5a340.png",
+                "genre_m3u_id": "ticktock_1970s.m3u"
             },
             {
                 "name": "Tick Tock 1980s",
-                "genreId": "55",
-                "logo": "f2f349b7-0b7a-4bcc-bfae-de91f4f8514b.png"
+                "genre_id": "55",
+                "logo": "f2f349b7-0b7a-4bcc-bfae-de91f4f8514b.png",
+                "genre_m3u_id": "ticktock_1980s.m3u"
             },
             {
                 "name": "Tick Tock 1990s",
-                "genreId": "56",
-                "logo": "c558c11f-c1ee-48bb-a828-3031c08bdc88.png"
+                "genre_id": "56",
+                "logo": "c558c11f-c1ee-48bb-a828-3031c08bdc88.png",
+                "genre_m3u_id": "ticktock_1990s.m3u"
             },
             {
                 "name": "Tick Tock 2000s",
-                "genreId": "57",
-                "logo": "2b3f3e40-8939-479a-b45b-ef7f2dc434c1.png"
+                "genre_id": "57",
+                "logo": "2b3f3e40-8939-479a-b45b-ef7f2dc434c1.png",
+                "genre_m3u_id": "ticktock_2000s.m3u"
             },
             {
                 "name": "Tick Tock 2010s",
-                "genreId": "58",
-                "logo": "c1c70246-35e2-4aae-8f96-6e512e838086.png"
+                "genre_id": "58",
+                "logo": "c1c70246-35e2-4aae-8f96-6e512e838086.png",
+                "genre_m3u_id": "ticktock_2010s.m3u"
             },
             {
                 "name": "Tick Tock 2020s",
-                "genreId": "59",
-                "logo": "4fc05509-35d5-4a91-8a54-e85828bb6625.png"
+                "genre_id": "59",
+                "logo": "4fc05509-35d5-4a91-8a54-e85828bb6625.png",
+                "genre_m3u_id": "ticktock_2020s.m3u"
             },
             {
                 "name": "Sportify",
-                "genreId": "87",
-                "logo": "c29aed86-e92d-4acd-b23d-ef5fbc224ed9.jpg"
+                "genre_id": "87",
+                "logo": "c29aed86-e92d-4acd-b23d-ef5fbc224ed9.jpg",
+                "genre_m3u_id": "sportify.m3u"
             },
             {
                 "name": "You Play",
-                "genreId": "90",
-                "logo": "22e17826-757e-4621-bd97-520cc9c18964.png"
+                "genre_id": "90",
+                "logo": "22e17826-757e-4621-bd97-520cc9c18964.png",
+                "genre_m3u_id": "you_play.m3u"
             },
             {
                 "name": "For Kids",
-                "genreId": "46",
-                "logo": "39333e33-df2b-4d62-8154-76a355d5d4b2.png"
+                "genre_id": "46",
+                "logo": "39333e33-df2b-4d62-8154-76a355d5d4b2.png",
+                "genre_m3u_id": "for_kids.m3u"
             },
             {
                 "name": "Wake Up Radio",
-                "genreId": "145",
-                "logo": "b3ac2a6a-ce8b-4d39-a429-700bc42f4177.png"
+                "genre_id": "145",
+                "logo": "b3ac2a6a-ce8b-4d39-a429-700bc42f4177.png",
+                "genre_m3u_id": "wake_up_radio.m3u"
             },
             {
                 "name": "Billionz Club",
-                "genreId": "146",
-                "logo": "e69a890c-59ff-4f1d-abcc-eeb965d841e7.png"
+                "genre_id": "146",
+                "logo": "e69a890c-59ff-4f1d-abcc-eeb965d841e7.png",
+                "genre_m3u_id": "billionz_club.m3u"
             }
         ]
     }
