@@ -347,7 +347,8 @@
             {
                 "name": "Greece",
                 "logo": "greece",
-                "code": "GR"
+                "code": "GR",
+                "genre_m3u_id": "+checked+/g/greece.m3u"
             },
             {
                 "name": "Grenada",
