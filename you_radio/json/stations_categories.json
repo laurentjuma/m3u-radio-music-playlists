@@ -375,7 +375,7 @@
             {
                 "name": "Kenya",
                 "logo": "kenya",
-                "genre_m3u_id":"streema/Kenya.m3u"
+                "genre_m3u_id":"+checked+/k/kenya.m3u"
             },
             {
                 "name": "Kiribati",
