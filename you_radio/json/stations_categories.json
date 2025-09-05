@@ -7,262 +7,314 @@
             {
                 "name": "Afghanistan",
                 "logo": "afghanistan",
-                "code": "AF"
+                "code": "AF",
+                "genre_m3u_id": "+checked+/a/afghanistan.m3u"
             },
             {
                 "name": "Albania",
                 "logo": "albania",
-                "code": "AL"
+                "code": "AL",
+                "genre_m3u_id": "+checked+/a/albania.m3u"
             },
             {
                 "name": "Algeria",
                 "logo": "algeria",
-                "code": "DZ"
+                "code": "DZ",
+                "genre_m3u_id": "+checked+/a/algeria.m3u"
             },
             {
                 "name": "Angola",
                 "logo": "angola",
-                "code": "AO"
+                "code": "AO",
+                "genre_m3u_id": "+checked+/a/angola.m3u"
             },
             {
                 "name": "Antigua and Barbuda",
                 "logo": "antigua-and-barbuda",
-                "code": "AG"
+                "code": "AG",
+                "genre_m3u_id": "+checked+/a/antigua_and_barbuda.m3u"
             },
             {
                 "name": "Argentina",
                 "logo": "argentina",
-                "code": "AR"
+                "code": "AR",
+                "genre_m3u_id": "+checked+/a/argentina.m3u"
             },
             {
                 "name": "Armenia",
                 "logo": "armenia",
-                "code": "AM"
+                "code": "AM",
+                "genre_m3u_id": "+checked+/a/armenia.m3u"
             },
             {
                 "name": "Australia",
                 "logo": "australia",
-                "code": "AU"
+                "code": "AU",
+                "genre_m3u_id": "+checked+/a/australia.m3u"
             },
             {
                 "name": "Austria",
                 "logo": "austria",
-                "code": "AT"
+                "code": "AT",
+                "genre_m3u_id": "+checked+/a/austria.m3u"
             },
             {
                 "name": "Azerbaijan",
                 "logo": "azerbaijan",
-                "code": "AZ"
+                "code": "AZ",
+                "genre_m3u_id": "+checked+/a/azerbaijan.m3u"
             },
             {
                 "name": "Bahamas",
                 "logo": "bahamas",
-                "code": "BS"
+                "code": "BS",
+                "genre_m3u_id": "+checked+/b/bahamas.m3u"
             },
             {
                 "name": "Bahrain",
                 "logo": "bahrain",
-                "code": "BH"
+                "code": "BH",
+                "genre_m3u_id": "+checked+/b/bahrain.m3u"
             },
             {
                 "name": "Bangladesh",
                 "logo": "bangladesh",
-                "code": "BD"
+                "code": "BD",
+                "genre_m3u_id": "+checked+/b/bangladesh.m3u"
             },
             {
                 "name": "Barbados",
                 "logo": "barbados",
-                "code": "BB"
+                "code": "BB",
+                "genre_m3u_id": "+checked+/b/barbados.m3u"
             },
             {
                 "name": "Belarus",
                 "logo": "belarus",
-                "code": "BY"
+                "code": "BY",
+                "genre_m3u_id": "+checked+/b/belarus.m3u"
             },
             {
                 "name": "Belgium",
                 "logo": "belgium",
-                "code": "BE"
+                "code": "BE",
+                "genre_m3u_id": "+checked+/b/belgium.m3u"
             },
             {
                 "name": "Belize",
                 "logo": "belize",
-                "code": "BZ"
+                "code": "BZ",
+                "genre_m3u_id": "+checked+/b/belize.m3u"
             },
             {
                 "name": "Benin",
                 "logo": "benin",
-                "code": "BJ"
+                "code": "BJ",
+                "genre_m3u_id": "+checked+/b/benin.m3u"
             },
             {
                 "name": "Bhutan",
                 "logo": "bhutan",
-                "code": "BT"
+                "code": "BT",
+                "genre_m3u_id": "+checked+/b/bhutan.m3u"
             },
             {
                 "name": "Bolivia",
                 "logo": "bolivia",
-                "code": "BO"
+                "code": "BO",
+                "genre_m3u_id": "+checked+/b/bolivia.m3u"
             },
             {
                 "name": "Bosnia and Herzegovina",
                 "logo": "bosnia-and-herzegovina",
-                "code": "BA"
+                "code": "BA",
+                "genre_m3u_id": "+checked+/b/bosnia_and_herzegovina.m3u"
             },
             {
                 "name": "Botswana",
                 "logo": "botswana",
-                "code": "BW"
+                "code": "BW",
+                "genre_m3u_id": "+checked+/b/botswana.m3u"
             },
             {
                 "name": "Brazil",
                 "logo": "brazil",
-                "code": "BR"
+                "code": "BR",
+                "genre_m3u_id": "+checked+/b/brazil.m3u"
             },
             {
                 "name": "Brunei",
                 "logo": "brunei",
-                "code": "BN"
+                "code": "BN",
+                "genre_m3u_id": "+checked+/b/brunei.m3u"
             },
             {
                 "name": "Bulgaria",
                 "logo": "bulgaria",
-                "code": "BG"
+                "code": "BG",
+                "genre_m3u_id": "+checked+/b/bulgaria.m3u"
             },
             {
                 "name": "Burkina Faso",
                 "logo": "burkina-faso",
-                "code": "BF"
+                "code": "BF",
+                "genre_m3u_id": "+checked+/b/burkina_faso.m3u"
             },
             {
                 "name": "Burundi",
                 "logo": "burundi",
-                "code": "BI"
+                "code": "BI",
+                "genre_m3u_id": "+checked+/b/burundi.m3u"
             },
             {
                 "name": "Cambodia",
                 "logo": "cambodia",
-                "code": "KH"
+                "code": "KH",
+                "genre_m3u_id": "+checked+/c/cambodia.m3u"
             },
             {
                 "name": "Cameroon",
                 "logo": "cameroon",
-                "code": "CM"
+                "code": "CM",
+                "genre_m3u_id": "+checked+/c/cameroon.m3u"
             },
             {
                 "name": "Canada",
                 "logo": "canada",
-                "code": "CA"
+                "code": "CA",
+                "genre_m3u_id": "+checked+/c/canada.m3u"
             },
             {
                 "name": "Cape Verde",
                 "logo": "cape-verde",
-                "code": "CV"
+                "code": "CV",
+                "genre_m3u_id": "+checked+/c/cape_verde.m3u"
             },
             {
                 "name": "Central-African Republic",
                 "logo": "central-african-republic",
-                "code": "CF"
+                "code": "CF",
+                "genre_m3u_id": "+checked+/c/central_african_republic.m3u"
             },
             {
                 "name": "Chad",
                 "logo": "chad",
-                "code": "TD"
+                "code": "TD",
+                "genre_m3u_id": "+checked+/c/chad.m3u"
             },
             {
                 "name": "Chile",
                 "logo": "chile",
-                "code": "CL"
+                "code": "CL",
+                "genre_m3u_id": "+checked+/c/chile.m3u"
             },
             {
                 "name": "China",
                 "logo": "china",
-                "code": "CN"
+                "code": "CN",
+                "genre_m3u_id": "+checked+/c/china2.m3u"
             },
             {
                 "name": "Colombia",
                 "logo": "colombia",
-                "code": "CO"
+                "code": "CO",
+                "genre_m3u_id": "+checked+/c/colombia.m3u"
             },
             {
                 "name": "Comoros",
                 "logo": "comoros",
-                "code": "KM"
+                "code": "KM",
+                "genre_m3u_id": "+checked+/c/comoros.m3u"
             },
             {
                 "name": "Congo, Democratic Republic of the",
                 "logo": "congo-democratic-republic-of-the",
-                "code": "CD"
+                "code": "CD",
+                "genre_m3u_id": "+checked+/c/congo.m3u"
             },
             {
                 "name": "Congo, Republic of the",
                 "logo": "congo-republic-of-the",
-                "code": "CG"
+                "code": "CG",
+                "genre_m3u_id": "+checked+/c/congo_republic_of_the.m3u"
             },
             {
                 "name": "Costa Rica",
                 "logo": "costa-rica",
-                "code": "CR"
+                "code": "CR",
+                "genre_m3u_id": "+checked+/c/costa_rica.m3u"
             },
             {
                 "name": "Cote d’ Ivoire",
                 "logo": "cote-d-ivoire",
-                "code": "CI"
+                "code": "CI",
+                "genre_m3u_id": "+checked+/c/cote_divoire.m3u"
             },
             {
                 "name": "Croatia",
                 "logo": "croatia",
-                "code": "HR"
+                "code": "HR",
+                "genre_m3u_id": "+checked+/c/croatia.m3u"
             },
             {
                 "name": "Cuba",
                 "logo": "cuba",
-                "code": "CU"
+                "code": "CU",
+                "genre_m3u_id": "+checked+/c/cuba.m3u"
             },
             {
                 "name": "Cyprus",
                 "logo": "cyprus",
-                "code": "CY"
+                "code": "CY",
+                "genre_m3u_id": "+checked+/c/cyprus.m3u"
             },
             {
                 "name": "Czech Republic",
                 "logo": "czech-republic",
-                "code": "CZ"
+                "code": "CZ",
+                "genre_m3u_id": "+checked+/c/czech_republic.m3u"
             },
             {
                 "name": "Denmark",
                 "logo": "denmark",
-                "code": "DK"
+                "code": "DK",
+                "genre_m3u_id": "+checked+/d/denmark.m3u"
             },
             {
                 "name": "Djibouti",
                 "logo": "djibouti",
-                "code": "DJ"
+                "code": "DJ",
+                "genre_m3u_id": "+checked+/d/djibouti.m3u"
             },
             {
                 "name": "Dominica",
                 "logo": "dominica",
-                "code": "DM"
+                "code": "DM",
+                "genre_m3u_id": "+checked+/d/dominica.m3u"
             },
             {
                 "name": "Dominican Republic",
                 "logo": "dominican-republic",
-                "code": "DO"
+                "code": "DO",
+                "genre_m3u_id": "+checked+/d/dominican_republic.m3u"
             },
             {
                 "name": "East Timor",
                 "logo": "east-timor",
-                "code": "TL"
+                "code": "TL",
+                "genre_m3u_id": "+checked+/e/east_timor.m3u"
             },
             {
                 "name": "Ecuador",
                 "logo": "ecuador",
-                "code": "EC"
+                "code": "EC",
+                "genre_m3u_id": "+checked+/e/ecuador.m3u"
             },
             {
                 "name": "Egypt",
                 "logo": "egypt",
-                "code": "EG"
+                "code": "EG",
+                "genre_m3u_id": "+checked+/e/egypt.m3u"
             },
             {
                 "name": "El Salvador",
