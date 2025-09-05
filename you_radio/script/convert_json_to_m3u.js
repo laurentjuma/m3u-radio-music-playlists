@@ -26,7 +26,7 @@ function convertJsonToM3u(jsonData, filename) {
                 let extinfLine = '#EXTINF:-1';
                 
                 // Add tvg-country
-                extinfLine += ' tvg-country="United Arab Emirates"';
+                extinfLine += ' tvg-country="World"';
                 
                 // Add tvg-popularity
                 extinfLine += ' tvg-popularity="1"';
