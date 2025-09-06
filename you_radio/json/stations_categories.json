@@ -1205,7 +1205,8 @@
             {
                 "name": "United States",
                 "logo": "united-states-of-america",
-                "code": "US"
+                "code": "US",
+                "genre_m3u_id": "+checked+/u/united_states.m3u"
             },
             {
                 "name": "Uruguay",
