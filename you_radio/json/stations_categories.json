@@ -5,12 +5,6 @@
         "genre_m3u_link": "https://raw.githubusercontent.com/laurentjuma/m3u-radio-music-playlists/main/",
         "genres": [
             {
-                "name": "Afghanistan",
-                "logo": "afghanistan",
-                "code": "AF",
-                "genre_m3u_id": "+checked+/a/afghanistan.m3u"
-            },
-            {
                 "name": "Albania",
                 "logo": "albania",
                 "code": "AL",
@@ -502,18 +496,6 @@
                 "genre_m3u_id": "+checked+/i/indonesia.m3u"
             },
             {
-                "name": "Iran",
-                "logo": "iran",
-                "code": "IR",
-                "genre_m3u_id": "+checked+/i/iran.m3u"
-            },
-            {
-                "name": "Iraq",
-                "logo": "iraq",
-                "code": "IQ",
-                "genre_m3u_id": "+checked+/i/iraq.m3u"
-            },
-            {
                 "name": "Ireland",
                 "logo": "ireland",
                 "code": "IE",
@@ -862,12 +844,6 @@
                 "genre_m3u_id": "+checked+/p/palau_island.m3u"
             },
             {
-                "name": "Palestine",
-                "logo": "palestine",
-                "code": "PS",
-                "genre_m3u_id": "+checked+/p/palestine.m3u"
-            },
-            {
                 "name": "Panama",
                 "logo": "panama",
                 "code": "PA",
@@ -1036,12 +1012,6 @@
                 "genre_m3u_id": "+checked+/s/solomon_islands.m3u"
             },
             {
-                "name": "Somalia",
-                "logo": "somalia",
-                "code": "SO",
-                "genre_m3u_id": "+checked+/s/somalia.m3u"
-            },
-            {
                 "name": "South Africa",
                 "logo": "south-africa",
                 "code": "ZA",
@@ -1083,12 +1053,6 @@
                 "genre_m3u_id": "+checked+/s/saint_martin.m3u"
             },
             {
-                "name": "Sudan",
-                "logo": "sudan",
-                "code": "SD",
-                "genre_m3u_id": "+checked+/s/sudan.m3u"
-            },
-            {
                 "name": "Suriname",
                 "logo": "suriname",
                 "code": "SR",
@@ -1105,12 +1069,6 @@
                 "logo": "switzerland",
                 "code": "CH",
                 "genre_m3u_id": "+checked+/s/switzerland.m3u"
-            },
-            {
-                "name": "Syria",
-                "logo": "syria",
-                "code": "SY",
-                "genre_m3u_id": "+checked+/s/syria.m3u"
             },
             {
                 "name": "Taiwan",
@@ -1249,12 +1207,6 @@
                 "logo": "wales",
                 "code": "GB-WLS",
                 "genre_m3u_id": "+checked+/w/wales.m3u"
-            },
-            {
-                "name": "Yemen",
-                "logo": "yemen",
-                "code": "YE",
-                "genre_m3u_id": "+checked+/y/yemen.m3u"
             },
             {
                 "name": "Zambia",
