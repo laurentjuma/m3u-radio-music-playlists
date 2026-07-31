@@ -11,3 +11,5 @@ http://cdn2.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
 http://radyodinle.cansuyufm.com:17175/
 #EXTINF:-1,NTV Radyo
 http://ntvrdwmp.radyotvonline.com/
+#EXTINF:-1,TRT Radyo Haber
+https://rd-trtradyohaber.medya.trt.com.tr/master.m3u8

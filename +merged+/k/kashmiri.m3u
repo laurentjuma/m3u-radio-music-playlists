@@ -15,3 +15,7 @@ http://live.jesuscomingfm.com:8400/
 http://37.58.72.235:9974/
 #EXTINF:-1,Radio Sharda 90.4 FM
 http://stream.zenolive.com/g4ua0b105eeuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/in-radio-sharda-fm-904-logo.jpg",Radio Sharda - FM 90.4
+http://s8.voscast.com:7738/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kw-quran-radio-quran-in-kashmiri-logo.jpg",Qur'an Radio - Quran in Kashmiri
+http://server2.quraan.us:9974/;*.mp3

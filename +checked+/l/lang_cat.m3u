@@ -49,8 +49,6 @@ http://streaming.enacast.com:8000/radiocanetdemar56.mp3
 http://streaming.enantena.com:8000/radiocelra128.mp3
 #EXTINF:-1,Radio Cubelles 107.5 FM
 http://streaming.enantena.com:8000/cubelles128.mp3
-#EXTINF:-1,Radio DOS 84
-http://188.93.73.7:8064/stream
 #EXTINF:-1,Ràdio El Vendrell 107.1 FM
 http://streaming.enantena.com:8000/rtvelvendrell128.mp3
 #EXTINF:-1,Radio Falset 107.6 FM
@@ -81,8 +79,6 @@ http://91.187.93.115:8020/
 http://streaming.enantena.com:8000/radiovic56.mp3
 #EXTINF:-1,Ràdio Vilablareix
 http://streaming.enantena.com:8000/radiovilablareix56.mp3
-#EXTINF:-1,Radio Vilafant 107.3 FM
-http://str2.mediatelekom.net:9986/stream
 #EXTINF:-1,Rap 107
 http://streaming.enantena.com:8000/rapradio128.mp3
 #EXTINF:-1,Taal Radio

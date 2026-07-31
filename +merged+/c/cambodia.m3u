@@ -1053,3 +1053,53 @@ http://5.133.182.164:20512/stream?1505029097501
 http://203.189.159.204:9051/dpnefmpp
 #EXTINF:-1,SWEET FM 88 MHZ
 https://119.82.248.12:1950/
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Kampot Radio - Cambodia - Krong Kampot
+https://radio.darrylcarter.co.uk:8010/stream
+#EXTINF:-1,វិទ្យុគ្រួសារ FM 99.5 - Cambodia - Phnom Penh
+https://s14.myradiostream.com/:10064/;.mp3
+#EXTINF:-1 tv-logo="",Radio Komsan FM
+http://128.199.210.71:8000/;
+#EXTINF:-1 tv-logo="",Aspara Radio
+http://khiptv.com/fm97/default.aspx
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/khem-veasna-625200-logo.jpg",Radio Khem Veasna
+http://s10.voscast.com:8926/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/psn-fm-905-phnom-penh-633587-logo.jpg",Radio PSN FM 90.5 Phnom Penh
+http://50.22.218.101:28070/;
+#EXTINF:-1 tv-logo="",Cambodia-China Radio
+http://78.129.189.182:35928/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kampot-radio-635924-logo.jpg",Kampot Radio
+http://185.80.220.12:7053/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/---643028-logo.jpg",Radio វិទ្យុ នគរបាជ័យ កំពង់ចាម
+http://95.154.254.157:5150/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ldp-radio-610681-logo.jpg",LDP Radio
+http://s6.voscast.com:9000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sky-radio-fm10775-mhz-632891-logo.jpg",Sky Radio FM107.75 MHz
+http://50.22.217.113:15592/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mohachun-news-network-24h-632964-logo.jpg",Radio Mohachun News Network 24H
+http://50.22.218.101:26337/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-national-of-kampuchea-633029-logo.jpg",Radio National of Kampuchea
+http://95.154.254.129:24136/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wat-phnom-radio-633032-logo.jpg",Wat Phnom Radio
+http://78.129.163.129:37401/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/evo-fm-1013-mhz-633406-logo.jpg",Radio EVO FM 101.3 MHz
+http://78.129.163.129:13699/;.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/---643027-logo.jpg",Radio វិទ្យុ ភ្នំខៀវ បាត់ដំបង
+http://78.129.187.57:38011/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/s-643025-logo.jpg",Radio វិទ្យុស្កាយអេហ្វអឹម
+http://87.117.208.118:19379/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kh-love-fm-phnom-penh-logo.jpg",Radio Love FM Phnom Penh
+http://radio99.servradio.com:9298/;;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kh-radio-samleng-khemara-logo.jpg",Radio Samleng Khemara
+http://myradio.doscast.com:8570/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kh-vok-voice-of-khmer-logo.jpg",Radio VOK - Voice of Khmer
+http://s1.voscast.com:10514/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-samleng-khemara-khmer-cambodian-music-station-594778-logo.jpg",Radio Samleng Khemara - Khmer (Cambodian) Music Station
+http://167.114.64.181:8570/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sweet-fm-88-158820-logo.jpg",Radio Sweet FM 88
+http://74.63.79.60:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/khmer-love-fm-168577-logo.jpg",Radio Khmer Love FM
+http://radio.khmerlovefm.net:1333/;
+#EXTINF:-1 tv-logo="",Radio Voice of Kohsantepheap (VOK 87.5)
+http://66.90.104.99:8000/;

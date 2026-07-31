@@ -9,6 +9,8 @@ http://olirocks.stream.laut.fm/olirocks
 https://saarwoodradio.stream.laut.fm/saarwoodradio?t302=2023-04-25_19-46-00&uuid=41379e73-6157-42b8-bea8-e0cd5617b445
 #EXTINF:-1,La Pajarraca Radio
 http://67.20.61.70:8281/;stream.nsv
+#EXTINF:-1,Metal Only
+https://metalonly.spcast.eu/stream?t=1780851174
 #EXTINF:-1,Schwarze Szene
 https://schwarzeszene.stream.laut.fm/schwarzeszene
 #EXTINF:-1,SLE Radio
@@ -53,3 +55,5 @@ https://fluxfm.streamabc.net/flx-metalfm-mp3-320-9154971?sABC=6202r2p8%230%23sor
 http://dj666geordieblackcore.stream.laut.fm/dj666geordieblackcore?t302=2023-04-25_19-36-53&uuid=e408fece-a824-43b6-bd9a-6431da5d2993
 #EXTINF:-1,laut.fm Fantasyradio
 http://fantasyradio.stream.laut.fm/fantasyradio?t302=2023-04-25_19-30-05&uuid=111a4760-875d-4e89-9d44-af5c92f76ccb
+#EXTINF:-1,Demonology
+https://demonology.stream.laut.fm/demonology?t302=2026-06-07_16-53-00&uuid=8cd0a8b3-8239-4a58-abdd-2c02c5c89fd5

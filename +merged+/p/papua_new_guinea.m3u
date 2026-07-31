@@ -83,3 +83,25 @@ https://stream.zeno.fm/dct2xh8xnbnvv
 http://s6.voscast.com:10816/stream.nsv
 #EXTINF:-1,Radio Maria (Papua New Guinea)
 https://dreamsiteradiocp2.com/proxy/rmpapua2?mp=/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85585/logo_3bNA5GkY81.png",Antenna Web Papua Radio
+https://tinyurl.com/Antenna-Web-Papua
+#EXTINF:-1,NauFM 
+https://27163.live.streamtheworld.com/NAUFM.mp3
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Laiff FM 98.3 - Papua New Guinea - Wewak
+https://stream2.rcast.net/70182
+#EXTINF:-1,Legend FM 101.1 - Papua New Guinea - Port Moresby
+https://18323.live.streamtheworld.com:443/PNGLEGENDFM.mp3
+#EXTINF:-1,Nau FM - Papua New Guinea - Port Moresby
+https://17843.live.streamtheworld.com:443/NAUFMAAC.aac
+#EXTINF:-1,Radio Maria Papua New Guinea - Papua New Guinea - Boroko
+https://dreamsiteradiocp2.com/proxy/rmpapua2?mp=/stream
+#EXTINF:-1,Wantok Radio Light - Papua New Guinea - Port Moresby
+https://stream2.rcast.net/61643
+#EXTINF:-1,Yumi FM 93.0 - Papua New Guinea - Port Moresby
+https://27163.live.streamtheworld.com:443/YUMIFM.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-papua-new-guinea-592944-logo.jpg",Radio Maria (Papua New Guinea)
+http://50.7.181.186:8030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wantok-light-radio-605298-logo.jpg",Wantok Light Radio
+http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=PNGRADIO

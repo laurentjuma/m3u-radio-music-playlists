@@ -17,8 +17,6 @@ http://94.23.57.5:9063/stream
 http://stream11.shoutcastsolutions.com:8660/stream
 #EXTINF:-1,103.7 Da Beat
 http://46.105.122.141:8742/
-#EXTINF:-1,RadioU Fusion: Hip Hop
-http://67.212.238.178:7142/stream
 #EXTINF:-1,Big Shot Radio
 http://149.56.157.81:8677/stream
 #EXTINF:-1,We On Underground
@@ -93,6 +91,8 @@ http://149.56.157.81:8433/stream
 http://67.222.145.108:8000/
 #EXTINF:-1,First Up Radio Pod
 http://cast4.my-control-panel.com:7357/stream
+#EXTINF:-1,Vip-Latin-Radio
+http://149.56.157.81:8734/stream
 #EXTINF:-1,Dawgclan Network Radio 128Kbit (Automated Requests @ http://www.dawgclan.net)
 http://67.222.145.108:8005/
 #EXTINF:-1,** Hot 107 Jamz**
@@ -105,8 +105,12 @@ http://149.56.157.81:8710/stream
 http://149.56.157.81:8758/stream
 #EXTINF:-1,Beat Addictz Radio
 http://149.56.157.81:5030/stream
+#EXTINF:-1,1213 Radio
+http://radio.shoutcheap.com:8239/listen.plslisten.pls
 #EXTINF:-1,BDEJamz Radio
 http://149.56.157.81:5036/listen.pls
+#EXTINF:-1,Bld Radiocom
+http://192.99.4.210:3002/listen.pls
 #EXTINF:-1,Def Radio Station
 http://149.56.175.167:5790/stream
 #EXTINF:-1,FireWorksRadiocom
@@ -117,5 +121,3 @@ http://149.56.175.167:5852/stream
 http://149.56.157.81:8794/stream
 #EXTINF:-1,Mega Marathon Mix
 http://149.56.157.81:8379/stream
-#EXTINF:-1,RT  HipHop
-http://necenzurat.radiotequila.ro:7000/

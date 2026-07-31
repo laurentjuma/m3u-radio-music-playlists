@@ -7,5 +7,7 @@ http://live.prodjradio.net:8000/
 http://37.233.41.76:8000/lovefm
 #EXTINF:-1,PRODj Radio
 http://live.prodjradio.net:8000/?type=http\u0026nocache=4585
-#EXTINF:-1,Radio Orhei FM
-http://live.prodjradio.net:8030/
+#EXTINF:-1,RadioRetroFM Moldova
+https://europaplus.hostingradio.ru:8014/retro320.mp3
+#EXTINF:-1,RetroFM
+http://retroserver.streamr.ru:8043/retro256.mp3

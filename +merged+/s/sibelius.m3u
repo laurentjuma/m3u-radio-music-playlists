@@ -5,3 +5,5 @@ https://streams.calmradio.com:15928/stream
 https://drive.uber.radio/uber/crsibelius/icecast.audio
 #EXTINF:-1,92.3 The Fox
 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81690/logo_e229cSkzO9.jpg?v=20260529-media-restore",Classical Radio - Sibelius
+https://drive.uber.radio/uber/crsibelius/icecast.audio

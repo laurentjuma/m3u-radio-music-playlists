@@ -59,3 +59,33 @@ https://radio.telecom.tm/owaz.mp3
 http://217.174.238.16:8000/Miras
 #EXTINF:-1,Tmhits Radio
 https://26283.live.streamtheworld.com/977_HITS_SC
+#EXTINF:-1,Hayatmix 
+http://hayatmix.net/yayin.mp3/
+#EXTINF:-1,The Holy Quran  by Sheikh Mahmoud Al-Husari 
+https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
+#EXTINF:-1,Tv24 
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1,Uğur Öztürk 
+https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Radio Çar Tarapdan 69.6 FM - Turkmenistan - Ashgabat
+https://radio.telecom.tm/listen/char/radio.mp3
+#EXTINF:-1,Radio Miras FM 103.9 - Turkmenistan - Ashgabat
+https://radio.telecom.tm/listen/miras/radio.mp3
+#EXTINF:-1,Radio Owaz FM 101.3 - Turkmenistan - Ashgabat
+https://radio.telecom.tm/listen/owaz/radio.mp3
+#EXTINF:-1,Radio Watan FM 102.7 - Turkmenistan - Ashgabat
+https://radio.telecom.tm/listen/watan/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tmradioclub-640957-logo.jpg",TMRadio.Club
+http://217.174.238.16:8000/tmrc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr4-owaz-radio-640951-logo.jpg",TR4 Owaz Radio
+http://217.174.238.16:8000/Owaz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr2-car-tarapdan-640955-logo.jpg",Radio TR2 Çar Tarapdan
+http://217.174.238.59/tarap.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr1-watan-627096-logo.jpg",Radio TR1 Watan
+http://217.174.238.59/watan.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tr3-miras-640959-logo.jpg",Radio TR3 Miras
+http://217.174.238.59/miras.mp3
+#EXTINF:-1 tv-logo="",Turkmen Radio flash
+http://188.138.6.6:8006

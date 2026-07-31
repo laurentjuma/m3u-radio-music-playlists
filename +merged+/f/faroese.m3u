@@ -29,3 +29,5 @@ http://stream.midlar.fohttp:/as2
 https://ic2326.c1261.fastserv.comhttp:/m128
 #EXTINF:-1,KVF2
 http://netvarp.kringvarp.fo:4443/kvf2_2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lindin-fm-169776-logo.jpg",Radio Lindin FM
+http://lindinhigh.stream.fo:8000/lindinhigh

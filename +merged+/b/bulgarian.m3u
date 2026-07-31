@@ -799,8 +799,6 @@ http://78.129.224.13:22813/
 http://89.215.19.24:2000/
 #EXTINF:-1,Радио Ultra
 https://play.global.audio/bgradio.opus
-#EXTINF:-1,Metro Country Rock Radio
-https:/http:/adio.jump.bg/proxy/feed104?mp=/MSRR
 #EXTINF:-1,Радио Фолк 91.6
 http://83.97.65.98:8000/;
 #EXTINF:-1,Z- Rock
@@ -809,22 +807,10 @@ https://a1.asurahosting.com/listenhttp:/adiochalgahithttp:/adio.mp3
 https://play.global.audiohttp:/adio1rock.opus
 #EXTINF:-1,БНР Радио
 http://stream.bnr.bg:8030http:/adio-sofia.aac
-#EXTINF:-1,Metro Hits! Radio
-https:/http:/adio.jump.bg/proxy/metrolowb?mp=/MHRLOWDATA
-#EXTINF:-1,Metro TOP Radio
-https:/http:/adio.jump.bg/proxy/metrolowb?mp=/MGRLOWDATA
-#EXTINF:-1,Metro Love Radio
-https:/http:/adio.jump.bg/proxy/msrrrelay?mp=/service
-#EXTINF:-1,Metro Urban Hits Radio
-https:/http:/adio.jump.bg/proxy/feed11?mp=/UHRAAC
 #EXTINF:-1,Бинар - Фолклор
 https://e106-ts.cdn.bg/bnr/fls/BINAR-Folk.stream/playlist.m3u8
 #EXTINF:-1,Бинар - БГ Поп
 http://e106-ts.cdn.bg/bnr/fls/BINAR-BgPop.stream/playlist.m3u8
-#EXTINF:-1,Metro Love 90&#039;s Radio
-https:/http:/adio.jump.bg/proxy/feed911?mp=/MLR90S
-#EXTINF:-1,Metro Love 80&#039;s Radio
-https:/http:/adio.jump.bg/proxy/feed911?mp=/MLR80S
 #EXTINF:-1,Zone Radio
 http://79.98.108.170:8036/live
 #EXTINF:-1,Feelings Radio
@@ -833,12 +819,6 @@ https://cast2.radiohost.ovh:2200/proxy/feelingsradio?mp=/stream
 https://stream-149.zeno.fm/6t0ec6rwtuquv?zs=r3CdA3glTRKLhsBRImy-Fw
 #EXTINF:-1,Бинар - Пънк Джазз
 https://e106-ts.cdn.bg/bnr/fls/BINAR-PunkJazz.stream/playlist.m3u8
-#EXTINF:-1,Internet Radio Best
-http:/http:/adio-best.net:8000/best
-#EXTINF:-1,Radyo Yonika
-https:/http:/adyo1.radyo-dinle.tc/8222/stream
-#EXTINF:-1,Metro Love 70&#039;s Radio
-https:/http:/adio.jump.bg/proxy/feedyyy02?mp=/MLR70S
 #EXTINF:-1,Радио Веселина - Ретро
 https://bss2.neterra.tv/veselinaretro/veselinaretro_0.m3u8
 #EXTINF:-1,BadRock Radio - Classic Rock
@@ -855,8 +835,6 @@ https://stream-052.zeno.fm/80qzq207rm0uv?zs=6zIANyzHTTKADFYgnRHTyw
 http://195.68.214.130:8000/;stream.nsv
 #EXTINF:-1,Радио VOX
 https://free.rcast.net/68661
-#EXTINF:-1,Vatican News - Български
-https:/http:/adio.vaticannews.va/stream-bg
 #EXTINF:-1,FRED FILM RADIO
 https://s10.webradio-hosting.com/proxy/fredradiobg/stream/;
 #EXTINF:-1,Радио Югомания
@@ -879,12 +857,8 @@ https://play-radio0.jump.bg:7181/live
 http://79.98.108.170:8000/autodj
 #EXTINF:-1,TV1 Bulgaria Radio
 https://tv1.cloudcdn.bg:8081/stream.m3u8
-#EXTINF:-1,Радио Русе
-http:/http:/adio.networx-bg.com:8012/;stream.mp3
 #EXTINF:-1,Radio Teteven
 http://g5.turbohost.eu:8001/teteven
-#EXTINF:-1,Радио Резонанс
-http:/http:/nmediagroup.com:10000/;
 #EXTINF:-1,Ultra Sandanski
 http://88.80.96.25:8000/;
 #EXTINF:-1,Radio Helikon
@@ -897,8 +871,6 @@ https://stream-149.zeno.fm/ncvfb7mn6g7tv?zs=uMwB9b61SrqJdoOHUGec-g
 https://play.global.audio/citykpop.aac
 #EXTINF:-1,Radio City - Hip Hop &amp; RnB
 https://play.global.audio/cityrab.aac
-#EXTINF:-1,BadRock Radio - Hard &amp; Heavy Rock
-https:/http:/adio.jump.bg:7049/live
 #EXTINF:-1,БНР - Детска програма (Детското.БНР)
 http://stream.metacast.euhttp:/adio1rock.ogg
 #EXTINF:-1,Общинско Радио Разград
@@ -975,3 +947,277 @@ https://radyo.yayin.com.tr:4474//stream
 http://csradio.lozenec-lan.net:8080/cs-radio
 #EXTINF:-1,Radio Xaschove (Хъшове)
 http://79.98.108.173:8006/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32549.png",Радио Вероника
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_VERONIKAAAC_L.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32550.png",Radio Energy 
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ENERGYAAC_L_SC
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32553.png",Jazz FM 
+https://cdn.bweb.bg/radio/jazz-fm.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32554.png",Radio City
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CITYAAC_L.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32556.png",Radio Fresh
+https://fmradiohub.in/radio?url=http://193.108.24.21:8000/fresh
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32557.png",Radio Viva
+https://stream2.vivafm.it:9002/stream/1/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32559.png",Радио Ultra
+https://fmradiohub.in/radio?url=http://88.80.96.25:3060/stream.nsv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32560.png",Radio Folk 91.6
+https://fmradiohub.in/radio?url=http://83.97.65.98:8000/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32561.png",Radio N-JOY
+https://cdn.bweb.bg/radio/njoy.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32563.png",Радио 1 
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1AAC_L_SC
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32564.png",BG Radio
+https://fmradiohub.in/radio?url=http://149.13.0.81/bgradio128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32565.png",Радио Мая 
+https://fmradiohub.in/radio?url=http://rnmediagroup.com:9000/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32566.png",Balkansko Radio
+https://stream-152.zeno.fm/g9xrwy27bshvv?zs=3b3W3DAaQq6YA7qCV4SYBQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32567.png",Radio Melody 93.4 FM
+https://a1.asurahosting.com/listen/melody_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32569.png",Power FM 91.1
+https://fmradiohub.in/radio?url=http://a1.virtualradio.eu:8000/powerfm.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32570.png",Radio FM + 
+https://fmradiohub.in/radio?url=http://193.108.24.21:8000/fmplus?file=.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32571.png",Katra FM 
+https://fmradiohub.in/radio?url=http://www.katrafm.net:8000/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32577.png",Zorana FM 
+https://web.static.btv.bg/radio/zrock-radio-proxy/index.php
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32580.png",Радио Севтополис 
+https://fmradiohub.in/radio?url=http://79.98.108.170:8068/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32584.png",Тангра Мега Рок 
+https://fmradiohub.in/radio?url=http://stream-02.radiotangra.com/Tangra-high
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32585.png",NJS Radio - New Jack Swing
+https://fmradiohub.in/radio?url=http://162.244.80.106:11198/stream/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32588.png",Радио Добруджа
+https://fmradiohub.in/radio?url=http://5.104.174.128:8000/radiodobrudja
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32589.png",Radio Maxx FM Bulgaria
+https://play.radiomaxxfm.com/maxx
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32590.png",Радио NET
+https://fmradiohub.in/radio?url=http://195.24.89.10:8000/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32591.png",Radio Aurea 
+https://fmradiohub.in/radio?url=http://93.123.123.7:8000/stream.nsv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32594.png",Радио ORV
+https://fmradiohub.in/radio?url=http://radio.orvmedia.com:8005/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32603.png",Radio K2
+https://fmradiohub.in/radio?url=http://stream.radiok2.bg:8000/rk2
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32606.png",Радио Гама
+https://fmradiohub.in/radio?url=http://g5.turbohost.eu:8003/gama128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32610.png",Radio Net 
+https://fmradiohub.in/radio?url=http://s10.myradiostream.com:15272/stream.nsv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32615.png",Радио Vega +
+https://fmradiohub.in/radio?url=http://88.80.96.25:3050/?1358938480247.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32618.png",Radio 999
+https://fmradiohub.in/radio?url=http://62.204.158.5:8081/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32620.png",Общинско радио Велико Търново 
+https://fmradiohub.in/radio?url=http://195.34.121.140:8002/stream.nsv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32626.png",Hit FM Bulgaria
+https://play.hitfmbg.com/hitfm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32631.png",Радио В-99
+https://fmradiohub.in/radio?url=http://79.124.95.213:6688/listen.pls
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32636.png",Радио Разград 
+https://fmradiohub.in/radio?url=http://188.126.1.25:8000/razgrad
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32639.png",Radio Signal Plus
+https://stream-30.zeno.fm/eus8arb1mkeuv?zs=2-9bfSJ6QySkbyxbVgLzGw&zs=ngsS8OmFRwS8M2KpF94RJA&rj-tok=AAABgQUJGgAAptP1B4JsXF3jJQ&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32640.png",Радио Плевен 
+https://fmradiohub.in/radio?url=http://stream.metacast.eu/radio1.opus
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32645.png",Music Space Radio
+https://fmradiohub.in/radio?url=http://62.149.196.16:8888/stream1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/24261527.jpg",Radio Pianica Радио Пияника
+https://fmradiohub.in/radio?url=http://mpc.mediacp.eu:8744/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/69972274.jpg",Radio El Shadai
+https://stream-40.zeno.fm/hku46gxdexquv?zs=vgwfOh2uT4CqFv7V5BC_GA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14381042.jpg",OnlineDJRadio
+https://fmradiohub.in/radio?url=http://play.onlinedjradio.com:8000/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/57870793.jpg",Radio Zara
+https://www.radiozara.bg/play
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-antenna-web-varna-logo.jpg",Radio Antenna Web Varna
+https://tinyurl.com/Antenna-Web-Varna
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-urban-hits-radio-logo.jpg",Urban Hits Radio
+https://radio.jump.bg/proxy/feed11?mp=/UHRAAC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-internet-radio-best-logo.jpg",Internet Radio Best
+http://radio-best.net:8000/best
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bnr-horizont-567988-logo.jpg",Radio BNR Хоризонт
+https://e106-ts.cdn.bg/regstations/fls/Horizont.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-aura-logo.jpg",Radio Aura
+https://media2.streambrothers.com:8016/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-v-99-165366-logo.jpg",Radio Радио В-99
+http://onair.gp-net.bg:6688/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-maya-logo.jpg",Radio Радио Мая
+http://rnmediagroup.com:9000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bella-164702-logo.jpg",Radio Bella
+http://194.146.235.35:9999/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bnr-radio-stara-zagora-180458-logo.jpg",Radio BNR Радио Стара Загора
+https://e106-ts.cdn.bg/regstations/fls/StZagora.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-natural-logo.jpg",Radio Natural
+http://78.130.146.170:8000/live128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-dj-zone-house-radio-logo.jpg",DJ Zone House Radio
+http://162.244.80.106:11181/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-fm-logo.jpg",Radio FM +
+http://193.108.24.21:8000/fmplus?file=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/btv-radio-568688-logo.jpg",BTV Radio
+https://web.static.btv.bg/radioplayer/btvradio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-z-rock-logo.jpg",Radio Z- Rock
+https://cdn.bweb.bg/radio/z-rock.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-melody-logo.jpg",Radio Melody
+http://193.108.24.6:8000/melody?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-folk-radio-nazdrave-logo.jpg",Folk Radio Nazdrave
+http://powerdj.sf.ddns.bulsat.com:8020/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-energy-90s-only-logo.jpg",Radio Energy 90s Only
+http://stream.radioreklama.bg/energy-90s
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-dj-cobricio-hit-radio-logo.jpg",DJ Cobricio Hit Radio
+http://109.120.246.225:200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-veronika-156426-logo.jpg",Radio Радио Вероника
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_VERONIKAAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-169794-logo.jpg",Radio БГ Радио
+https://playerservices.streamtheworld.com/api/livestream-redirect/BG_RADIOAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-energy-577620-logo.jpg",Radio Energy
+https://play.global.audio/nrj.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-1-578686-logo.jpg",Radio Радио 1
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1AAC_L.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-the-big-boss-594460-logo.jpg",Radio The Big Boss
+http://79.98.108.172:8022/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-1-rok-logo.jpg",Radio Радио 1 Рок
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_1_ROCKAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vis-vitalis-183026-logo.jpg",Radio Vis Vitalis
+http://freeuk24.listen2myradio.com:39679/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nova-578118-logo.jpg",Radio Nova
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_NOVAAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-city-577619-logo.jpg",Radio City
+https://play.global.audio/city.opus
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mixx-176890-logo.jpg",Radio MIXX
+http://83.97.65.98:9000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-glasut-na-burgas-logo.jpg",Radio Гласът на Бургас
+http://84.54.180.86:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-razgrad-logo.jpg",Radio Радио Разград
+http://188.126.1.25:8000/razgrad
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-obshinsko-radio-veliko-turnovo-logo.jpg",Radio Общинско радио Велико Търново
+http://195.34.121.140:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-zetra-logo.jpg",Radio Радио Зетра
+http://79.98.108.170:8092/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-forty-radio-logo.jpg",Forty Radio
+http://s1.miami.cloudplay.ro/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-tatkovina-logo.jpg",Radio Радио Татковина
+http://www.tatkovina.eu:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-vox-logo.jpg",Radio Радио VOX
+https://servidor21.brlogic.com:7094/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-relaks-radio-folk-logo.jpg",Radio Релакс Радио Folk
+http://79.98.108.170:8060/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-beinsa-duno-logo.jpg",Radio Радио Беинса Дуно
+http://87.252.182.193:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maxxfm-deluxe-624262-logo.jpg",Radio MaxxFm Deluxe
+http://play.radiomaxxfm.com:8000/deluxe?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nova-news-626527-logo.jpg",Radio Nova News
+https://radio.nova.bg/novanews.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-turgovishe-logo.jpg",Radio Радио Търговище
+https://radiotargovishte.com/popup-player/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-net-bulgaria-logo.jpg",Radio NET Bulgaria
+http://195.24.89.10:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-bnr-radio-kurdzhali-logo.jpg",Radio BNR Радио Кърджали
+https://e106-ts.cdn.bg/regstations/fls/Kardzhali.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-detskotobnr-logo.jpg",Radio Детското.БНР
+https://lb-hls.evpn.bg/2032/fls/Hlapeta.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-binar-duende-logo.jpg",Radio Бинар - Дуенде
+https://edge16.cdn.bg:20030/fls/BINAR-Duende.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-binar-funk-soul-logo.jpg",Radio Бинар - Фънк Соул
+https://edge16.cdn.bg:20030/fls/BINAR-Indie.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-binar-klasika-logo.jpg",Radio Бинар - Класика
+https://edge17.cdn.bg:20030/fls/BINAR-Classic.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-atlantic-631702-logo.jpg",Radio Atlantic
+https://c18.radioboss.fm:8679/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-easy-radio-logo.jpg",Easy Radio
+https://c30.radioboss.fm:8758/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-metro-love-90s-radio-logo.jpg",Metro Love 90s Radio
+https://radio.jump.bg/proxy/feed911?mp=/MLR90S
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-jigga-radio-daylight-logo.jpg",Jigga Radio Daylight
+http://jiggaradio.com:10080/play/daylight
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-jigga-radio-nightlight-logo.jpg",Jigga Radio Nightlight
+https://jiggaradio.com/play/nightlight
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-jigga-radio-mitches-of-rap-logo.jpg",Jigga Radio Mitches of Rap
+https://jiggaradio.com/play/mitchesofrap
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-jigga-radio-trap-logo.jpg",Jigga Radio Trap
+http://jiggaradio.com:10080/play/trap
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-bizonio-logo.jpg",Radio Bizonio
+http://uk4freenew.listen2myradio.com:31506/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-avto-radio-logo.jpg",Avto Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/metro-dance-radio-645093-logo.jpg",Metro Dance Radio
+https://radio.jump.bg/proxy/predp?mp=/MDR
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-country-rock-radio-logo.jpg",Country Rock Radio
+https://radio.jump.bg/proxy/feed104?mp=/MSRR
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-metro-hits-radio-logo.jpg",Metro Hits! Radio
+https://radio.jump.bg/proxy/metrolowb?mp=/MHRLOWDATA
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-metro-virtuoso-radio-logo.jpg",Metro Virtuoso Radio
+https://radio.jump.bg/proxy/metrolowb?mp=/MVRLOWDATA
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-pianica-logo.jpg",Radio Pianica
+http://mpc1.mediacp.eu:8024/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-dance-mania-logo.jpg",Radio Dance Mania
+http://46.10.211.50:800/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-badrock-radio-logo.jpg",BadRock Radio
+https://radiocp.jump.bg/proxy/stan1?mp=/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radiochalgahit-logo.jpg",RadioChalgaHit
+https://cast6.asurahosting.com/proxy/radiochalgahit/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-ls-fantasy-logo.jpg",Radio LS FANTASY
+http://82.145.63.6:9246/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-vfm-logo.jpg",Radio VFM
+http://79.98.108.192:8000/vfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-onlajn-radio-folklor-logo.jpg",Radio Онлайн радио "Фолклор"
+https://listen.radioking.com/radio/244465/stream/288622
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-x-centr1c-logo.jpg",Radio X-Centr1c
+https://radio.jump.bg:9037/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radyo-yonika-logo.jpg",Radio Radyo Yonika
+https://radyo1.radyo-dinle.tc/8102/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-note-fm-logo.jpg",Radio Note FM!
+https://radiozender.mpbnetwerken.nl/notefmbg.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-knews-radio-logo.jpg",Knews Radio
+https://streaming.shoutcast.com/knewsradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-aivibe-logo.jpg",Radio AiVibe
+https://stream.zeno.fm/gvrkmlp6zpiuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-equestria-radio-logo.jpg",equestria radio
+https://stream.zeno.fm/u49px795kuhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-316-logo.jpg",Radio Радио 3:16
+https://stream.3-16.bg:8010/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-oxfm-logo.jpg",Radio OxFM
+http://65.109.88.81:7350/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-power-hit-radio-logo.jpg",Power Hit Radio
+https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6u0026port=8108u0026type=s1u00261725784310834
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-helikon-main-logo.jpg",radio helikon - Main
+http://radio.helikon.bg:9000/live_256
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-helikon-autodj-logo.jpg",radio helikon - Autodj
+http://radio.helikon.bg:9000/live_256_autodj
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-favor-radio-bulgaria-logo.jpg",Favor Radio (Bulgaria)
+https://a10.asurahosting.com:7660/bulgaria.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-the-vibe-radio-logo.jpg",The Vibe Radio
+https://stream.thevibe.tv:8000/radio1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-ventura-radio-deep-vocal-house-and-nu-disco-logo.jpg",Ventura Radio - DEEP Vocal House & Nu Disco
+https://vocal.ventura.radio/listen/d33b.house_-_247_deep_vocal_house/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-venturaradio-progressive-247-progressive-house-logo.jpg",Ventura.Radio PROGRESSIVE - 24/7  Progressive House
+https://vocal.ventura.radio/listen/d33b.house_-_247_progressive_house/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-venturaradio-club-247-exclusive-club-music-logo.jpg",Ventura.Radio CLUB - 24/7 Exclusive Club Music
+https://vocal.ventura.radio/listen/d33b.house_-_247_new__exclusive_club_music/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-venturaradio-mash-247-all-style-radio-logo.jpg",Ventura.Radio MASH - 24/7  All Style Radio
+https://vocal.ventura.radio/listen/d33b_radio_all/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-ventura-radio-classic-247-classic-vocal-deep-house-logo.jpg",Ventura Radio CLASSIC - 24/7 Classic Vocal Deep House
+https://vocal.ventura.radio/listen/d33b.house_-_top_all_times/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-venturaradio-hybrid-by-tommy-riverra-logo.jpg",Ventura.Radio HYBRID by Tommy Riverra
+https://vocal.ventura.radio/listen/ventura_hybrid/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-udarnik-logo.jpg",Radio Радио ударник
+http://213.91.137.64:8000/mobile99
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-ventura-radio-tech-247-tech-house-music-logo.jpg",Ventura Radio TECH -  24/7 Tech House Music
+https://vocal.ventura.radio/listen/ventura-tech/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-badrock-hardandheavy-logo.jpg",Radio BadRock Hard&Heavy
+https://play-radio0.jump.bg:7049/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-folk-mix-logo.jpg",Radio Folk Mix
+http://listen.radiofolkmix.com:8005/folkmixios
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-extrahit-logo.jpg",Radio ExtraHIT
+http://51.158.182.194:8020/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-ritmo-logo.jpg",RADIO RITMO
+https://c2.radioboss.fm:8979/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-brsradio-logo.jpg",BRSRadio
+http://130.61.23.153:81/listen/brsradio/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radioshanelbg-logo.jpg",RadioShanelBg
+https://cast6.asurahosting.com/proxy/neliradi/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-studio_orqhovo-logo.jpg",Radio studio_orqhovo
+https://play-radio0.jump.bg:7146/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bg-radio-nostalgia-logo.jpg",Radio Nostalgia
+https://radiozender.mpbnetwerken.nl/radionostalgia.mp3

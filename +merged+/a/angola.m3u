@@ -1811,18 +1811,10 @@ http://158.69.118.128:9388/
 http://stm6.srvstm.com:14196/
 #EXTINF:-1,Bantú Fm
 http://72.5.253.136:8008/stream
-#EXTINF:-1,Radio Metal On: The Heavy
-https:/http:/adiometalon.comhttp:/adio/8000http:/adio.mp3
-#EXTINF:-1,RFI Português
-https:/http:/fienportugais64k.ice.infomaniak.chhttp:/fienportugais-64.mp3
-#EXTINF:-1,RNA - Canal A
-https:/http:/adios.vpn.sapo.pt/AOhttp:/adio3.mp3
 #EXTINF:-1,Ebnezer Radio
 http://08.stmip.net:10028/;
 #EXTINF:-1,Radio Marcoense
 http://137.74.160.250:8000/;stream/1
-#EXTINF:-1,Radio N&#039;Gola Yetu
-https:/http:/adios.vpn.sapo.pt/AOhttp:/adio12.mp3
 #EXTINF:-1,Radio luanda fm line
 https://stream1.svrdedicado.org/8354/stream
 #EXTINF:-1,radio viana aovivo
@@ -1845,3 +1837,175 @@ https://node-35.zeno.fm/a67kenz1h2zuv
 https://stream-173.zeno.fm/rsjv86wfioovv
 #EXTINF:-1,Rádio Zango 8000
 https://stm21.srvaudio.com.br:9892/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/https://radiostationslive.com",Interkinois Angola 
+https://cast4.asurahosting.com/proxy/deograt3/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/97693.v7.png",KAJI FM "Paixão & Música" 
+https://servidor13.brlogic.com:7010/live
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/31702.v10.png",Radio Muzangala 
+http://108.59.11.81:10053/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131915.v1.png",Rádio Adventus 
+https://s2.radio.co/sa2d64bb52/listen
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131048.v1.png",Rádio Jeova Sabaoth 
+http://1.ice1.firststreaming.com/waye_fm.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132504.v1.png",RADIO ZANGO 8000 
+https://stream.zeno.fm/nq28k0vmdc9uv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132629.v1.png",Rádio Estalagem 
+https://stream.zeno.fm/rsjv86wfioovv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BK434T.png",Radio Ecclesia Angola
+https://radios.vpn.sapo.pt/AO/radio8.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ITPNM4.png",Radio Mais Angola
+https://radios.vpn.sapo.pt/AO/radio10.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GO8VTA.png",Rádio Muzangala
+http://109.169.26.216/proxy/mvonhaff?mp=/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77707/logo_g55cy5KsCf.png",Radio X 90.3
+https://servidor24-4.brlogic.com:7004/live?source=website
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77719/logo_FpECEde8Ow.png",RADIO ZANGO 8000
+https://stream1.svrdedicado.org/8042/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77723/logo_1fuCaMa4GK.png",Rádio Kamwenho Notícias
+https://stream.zeno.fm/e6mfzggsjsmuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77721/logo_YAPm6jEwjp.png",Hero Radio (Angola)
+https://a2.asurahosting.com:6790/angola.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77717/logo_tXunQ5SROU.png",Antenna Web Luanda Radio
+https://tinyurl.com/AntennawebAngola
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/45501/logo_pN0fgXlsr8.png",Rádio Kuia Bue
+https://a11.asurahosting.com:7400/radio.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77720/logo_tVsKx5PD8a.png",Rádio Jihenda
+https://s02.brascast.com:7830/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77705/logo_l1jr5kniEY.png",KAJI FM &quot;Paixão &amp; Música&quot; Radio
+https://servidor13-1.brlogic.com:7010/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77703/logo_fdhUz3AVJC.png",Powermix FM Radio
+https://cast.iplayradio.net/listen/powermixfm/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77706/logo_YrYrmhUbKJ.png",Rádio Nosso Tempo
+https://stm25.srvstm.com:6756/RadioNossoTempo.pls?sid=1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77696/logo_IYq4mCIfwp.png",RNA - Rádio Ngola Yetu
+https://live.paineldj.com.br/proxy/yetu?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77715/logo_myIUv2GFr6.png",Rádio Cuango
+https://stream.zeno.fm/bllehaq0njlvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77714/logo_imnIhmyCTh.png",Rádio Jeova Sabaoth
+https://stream.zeno.fm/ji8igeihp1avv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77722/logo_nzCRoTgMhp.png",Rádio Maria Angola
+https://dreamsiteradiocp5.com/proxy/rmangola?mp=%2Fstream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77718/logo_XoqGSmoyl0.png",Rádio Adventus
+https://stream.zeno.fm/vlef1zpk8tmuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77724/logo_GW5E0jwLcZ.png",Radio Dinguir Comercial
+https://stream.zeno.fm/xjpnke9qrarvv
+#EXTINF:-1,Rádio Fé Angola 
+http://stream-155.zeno.fm/gsndh1xvczetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnc25kaDF4dmN6ZXR2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoicm81MjdFal9TUi1xN1dwaXNVMFFIQSIsImlhdCI6MTc2ODQzNjI5OCwiZXhwIjoxNzY4NDM2MzU4fQ.8cwpv0x7PvZ-BypcPNxZU0KjySTsaVxXbVDcDhPsNow
+#EXTINF:-1,EXA FM: Música pop em inglês e espanhol 
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1,Absolute country  
+http://strm112.1.fm/acountry_mobile_mp3
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Afrirádio 106.1 FM - Angola - Luanda
+https://cast4.asurahosting.com/proxy/afriradi/stream
+#EXTINF:-1,Ebnézer Rádio - Angola - Luanda
+https://08.stmip.net:10028//listen
+#EXTINF:-1,Kaji FM - Angola - Belas
+https://servidor13.brlogic.com:7010/live
+#EXTINF:-1,MFM Radio 91.7 - Angola - Luanda
+https://centova87.instainternet.com/proxy/mfm?mp=/stream
+#EXTINF:-1,Rádio 5 - Angola - Luanda
+https://paineldj5.com.br:20088/stream
+#EXTINF:-1,Rádio D'Agosto 92.0 - Angola - Luanda
+https://live.paineldj.com.br/proxy/radio1ago?mp=/stream
+#EXTINF:-1,Radio Ecclesia FM 97.5 - Angola - Luanda
+https://mediaserv33.live-streams.nl:8089/stream
+#EXTINF:-1,Radio Ecclesia Ndalatando 89.3 FM - Angola - N'dalatando
+https://stream.zeno.fm/xmca31uwqnhvv
+#EXTINF:-1,Rádio Kuia Bue - Angola - Luanda
+https://a6.asurahosting.com:6820/radio.mp3
+#EXTINF:-1,Rádio Luanda FM 99.9 - Angola - Luanda
+https://paineldj5.com.br:20089/stream
+#EXTINF:-1,Radio Lunda Norte - Angola - Dundo
+https://stream.zeno.fm/detd58rrta0uv
+#EXTINF:-1,Radio Mais Benguela 96.3 FM Stéreo - Angola - Benguela
+https://radios.justweb.pt/8046/stream/
+#EXTINF:-1,Radio Mais Cabinda 92.3 e 92.7 FM Stéreo - Angola - Cabinda
+https://radios.justweb.pt/8062/stream/
+#EXTINF:-1,Radio Mais Huambo FM 89.9 - Angola - Huambo
+https://radios.justweb.pt/8044/stream/
+#EXTINF:-1,Radio Mais Luanda 99.1 FM Stéreo - Angola - Luanda
+https://radios.justweb.pt/8050/stream/
+#EXTINF:-1,Rádio Maranata 91.9 FM - Angola - Lubango
+https://audio8.cmaudioevideo.com/proxy/radiomar/stream
+#EXTINF:-1,Radio Maria - Angola - Luanda
+https://dreamsiteradiocp5.com/proxy/rmangola?mp=/stream.mp3
+#EXTINF:-1,Radio N'Gola Yetu FM 101.4 - Angola - Luanda
+https://live.paineldj.com.br/proxy/yetu?mp=/stream
+#EXTINF:-1,Radio Soyo 92.3 FM - Angola - Soyo
+https://stream.zeno.fm/xvaaz9cpva0uv
+#EXTINF:-1,Radio Uige FM 94.4 - Angola - Uige
+https://paineldj6.com.br:20119/stream
+#EXTINF:-1,RNA Canal A - Angola - Luanda
+https://paineldj5.com.br:20087/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-famastar-182661-logo.jpg",Radio FamaStar
+http://sirius.shoutca.st:8527/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-radio-nacional-de-angola-logo.jpg",Radio Nacional de Angola
+http://radionacional.rna.ao:88/broadwave.mp3?src=2u0026rate=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-muzangala-591490-logo.jpg",Radio Muzangala
+http://108.59.11.81:10053/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-rna-radio-estereo-logo.jpg",Radio RNA - Rádio Estéreo
+http://radionacional.rna.ao:88/broadwave.mp3?src=4u0026rate=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-5-568024-logo.jpg",Radio 5
+http://www.rna.ao/radio-cinco-2/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ngola-yetu-rna-568028-logo.jpg",Radio N'Gola Yetu RNA
+http://www.rna.ao/radio-n-gola-yetu/
+#EXTINF:-1 tv-logo="",Radio RNA R Kwanza Sul
+http://www.rna.ao/kwanzasul/
+#EXTINF:-1 tv-logo="",Radio RNA R Benguela
+http://www.rna.ao/benguela/
+#EXTINF:-1 tv-logo="",Radio RNA R Huambo
+http://www.rna.ao/huambo/
+#EXTINF:-1 tv-logo="",Radio RNA R Soyo
+http://www.rna.ao/soyo/
+#EXTINF:-1 tv-logo="",Radio RNA R Malange
+http://www.rna.ao/malange/
+#EXTINF:-1 tv-logo="",Radio RNA R Bie
+http://www.rna.ao/bie/
+#EXTINF:-1 tv-logo="",Radio RNA R Lunda Norte
+http://www.rna.ao/lundanorte/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-gospel-angola-607326-logo.jpg",Radio Gospel Angola
+http://109.169.23.243:30288/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jet7-angola-611162-logo.jpg",Radio Rádio Jet7 Angola
+http://37.59.28.208:8616/;
+#EXTINF:-1 tv-logo="",Radio RNA R Cabinda
+http://www.rna.ao/cabinda/
+#EXTINF:-1 tv-logo="",Radio RNA R Cunene
+http://www.rna.ao/cunene/
+#EXTINF:-1 tv-logo="",Radio RNA R Huila
+http://www.rna.ao/huila/
+#EXTINF:-1 tv-logo="",Radio RNA R Uige
+http://www.rna.ao/uige/
+#EXTINF:-1 tv-logo="",Radio RNA R Namibe
+http://www.rna.ao/namibe/
+#EXTINF:-1 tv-logo="",Radio RNA R Moxico
+http://www.rna.ao/moxico/
+#EXTINF:-1 tv-logo="",Radio RNA R Kwanza Norte
+http://www.rna.ao/k-norte/
+#EXTINF:-1 tv-logo="",Radio RNA R Viana
+http://www.rna.ao/viana/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dj-lex-620332-logo.jpg",Radio DJ LEX
+http://stm15.srvstm.com:13212/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fonte-de-vida-627421-logo.jpg",Radio Fonte de Vida
+http://stm6.srvstm.com:14196/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/webradionovavida-648503-logo.jpg",WebRadioNovaVida
+http://whmsonic11.ipstm.net:9306/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kuia-bue-629437-logo.jpg",Radio Kuia Bue
+https://a6.asurahosting.com:6820/radio.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-radio-f8-logo.jpg",Radio F8
+http://193.164.131.215:9302/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-radio-efata-angola-logo.jpg",Radio Rádio Efata Angola
+http://srv10.ipstm.net:28864/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-radio-luanda-live-logo.jpg",Radio Luanda live
+https://sonicpanel.oficialserver.com:7166/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ao-favor-radio-angola-logo.jpg",Favor Radio (Angola)
+https://a10.asurahosting.com:7660/angola.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lac-fm-568026-logo.jpg",Radio L.A.C FM
+http://stream.zenolive.com/cg3yk1gr7a5tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-viciana-172605-logo.jpg",Radio Viciana
+http://radioviciana.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfs-station-641531-logo.jpg",Radio RFS Station
+http://sirius.shoutca.st:8527/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-meu-refugio-161394-logo.jpg",Radio Rádio Meu Refúgio
+http://50.97.213.47:6002/;

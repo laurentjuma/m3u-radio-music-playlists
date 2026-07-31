@@ -631,8 +631,6 @@ http://streaming.bahterayudhafm.com:8050/;rojer.mp3
 http://202.129.186.43:7010/stream/1/
 #EXTINF:-1,http:/un/media/mircikemie/WD/Rádió/Amcsi rádió adók/Radio rock florida
 http://hestia2.cdnstream.com/1074_64
-#EXTINF:-1,Radio Muria FM Jepara
-https:/http:/1.siar.ushttp:/adio/8010http:/adio.mp3
 #EXTINF:-1,Radio Berita Klasik 828 AM Jakarta
 https://i.klikhost.com/9030/;rojer.mp3
 #EXTINF:-1,Prestasi FM Jakarta
@@ -823,3 +821,23 @@ https://firstnationsmedia.stream:8048/stream
 https://laut.fm/wibmedia
 #EXTINF:-1,zapstech media radio - 196 - The United States Of America - entertainment - music variety - news - sports - technology - variety
 http://kippingmultimediaal.nl:8000/ZFMmobiel
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hospital-radio-tunbridge-wells-617752-logo.jpg",Hospital Radio Tunbridge Wells
+http://lsn2.hrtw.org.uk:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-fairy-goddess-raw-647791-logo.jpg",Radio The Fairy Goddess RAW
+https://streams.radio.co/s08ea40854/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kyah-575075-logo.jpg",Radio KYAH
+http://ice66.securenetsystems.net/KYAH
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/most-talkative-stories-from-the-front-lines-of-pop-culture-591140-logo.jpg",Radio Most Talkative: Stories from the Front Lines of Pop Culture
+http://media.us.macmillan.com/mp3/9781427222589.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tele-wiser-618008-logo.jpg",Radio Tele Wiser
+http://live.mcrmedia.net:8218/wiser.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/new-jersey-africa-radio-625057-logo.jpg",New Jersey Africa Radio
+http://ample-zeno-05.radiojar.com/escvg8tvbd5tv?rj-ttl=5u0026rj-token=AAABXHVXxQ7zk_58xc4gyoPmm9NIEJ1JE9GIrGefkMhvEe7dEgJIfQ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/decision-time-radio-639901-logo.jpg",DECISION TIME RADIO
+http://stream.zeno.fm/6pkdqmn1r5quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aurora-89-606996-logo.jpg",Radio Aurora 89
+http://217.147.94.171:15628/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-armilla-emisora-municipal-ayuntamiento-de-armilla-621747-logo.jpg",Radio Armilla, Emisora Municipal Ayuntamiento de Armilla
+http://radioserver10.profesionalhosting.com:40928/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/occupy-boston-587392-logo.jpg",Radio Occupy Boston
+http://streams4.museter.com:2199/tunein/obrfm.pls

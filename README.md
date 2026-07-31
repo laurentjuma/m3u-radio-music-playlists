@@ -2,196 +2,205 @@
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/01-cassette-3.gif"></td>
+<td><img align="right" src="stuff/cat.gif"></td>
 </tr>
 </table>
 
-### index of content
+<br>
 
-* [How to listen](https://github.com/junguler/m3u-radio-music-playlists#how-to-listen)
-   * [on the web](https://github.com/junguler/m3u-radio-music-playlists#on-the-web)
-   * [on your devices](https://github.com/junguler/m3u-radio-music-playlists#on-windows-mac-and-linux)
-* [What are these genres names even mean?](https://github.com/junguler/m3u-radio-music-playlists#what-are-these-genres-names-even-mean)
-* [Check for dead links without using code](https://github.com/junguler/m3u-radio-music-playlists#Check-for-dead-links-without-using-code)
-* [How to download from a station](https://github.com/junguler/m3u-radio-music-playlists#how-to-download-from-a-station)
-   * [as a long audio file](https://github.com/junguler/m3u-radio-music-playlists#as-a-long-audio-file)
-   * [as individual songs](https://github.com/junguler/m3u-radio-music-playlists#as-individual-songs)
-* [How to download this repo](https://github.com/junguler/m3u-radio-music-playlists#how-to-download-this-repo)
-   * [using git](https://github.com/junguler/m3u-radio-music-playlists#using-git)
-   * [as a zip file](https://github.com/junguler/m3u-radio-music-playlists#as-a-zip-file)
-* [git stats](https://github.com/junguler/m3u-radio-music-playlists#git-stats)
-* [sources](https://github.com/junguler/m3u-radio-music-playlists#sources)
-* [you](https://github.com/junguler/m3u-radio-music-playlists#you)
-* [me](https://github.com/junguler/m3u-radio-music-playlists#me)
-* [related projects](https://github.com/junguler/m3u-radio-music-playlists#related-projects)
-* [friends of the repo](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#friends-of-the-repo)
-* [acknowledgement](https://github.com/junguler/m3u-radio-music-playlists#acknowledgement-thanks)
-* [behind the scenes](https://github.com/junguler/m3u-radio-music-playlists#behind-the-scenes)
+### Index of content
+
+* [Dedicated file previewer](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#dedicated-file-previewer)
+* [How to listen](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#how-to-listen)
+* [What are these genres names even mean?](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#what-are-these-genres-names-even-mean)
+* [Check for dead links without using code](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#check-for-dead-links-without-using-code)
+* [How to download from a station](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#how-to-download-from-a-station)
+* [How to download this repo](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#how-to-download-this-repo)
+* [Git stats](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#git-stats)
+* [Sources](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#sources)
+* [You](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#you)
+* [Me](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#me)
+* [Related projects](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#related-projects)
+* [Friends of the repo](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#Friends-of-the-repo)
+* [Acknowledgement](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#acknowledgement-thanks)
+* [Behind the scenes](https://github.com/junguler/m3u-radio-music-playlists?tab=readme-ov-file#behind-the-scenes)
 
 <br>
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/02-headphone-3.gif"></td>
+<td><img align="right" src="stuff/dog.gif"></td>
 </tr>
 </table>
 
-### how to listen
+<br>
 
-#### on the web
+### Dedicated file previewer
+if you don't like how github file viewer is/looks you can open the dedicated file viewer [here](https://junguler.github.io/m3u-radio-music-playlists/) which is a better viewing experience (i think)
 
-all of the stream files in the root folder of this repo can be listened to using their own page on this repo and the amazing [webamp player](https://github.com/captbaritone/webamp), use the playlist buttons or click on the entries and hit play
+<br>
+
+### How to listen
+
+#### On the web
+a newly curated list of playlists containing many (500k+) checked streams from this repo can be listened to using this [web radio player](https://junguler.github.io/m3u-player-web/)
+
+<br>
+
+additionaly all of the stream files in the root folder of this repo can be listened to using their own page and the amazing [webamp player](https://github.com/captbaritone/webamp), use the playlist buttons or click on the entries and hit play
 
 <table>
 <thead>
 <tr>
-<th colspan="6">decades</th>
+<th colspan="6">Decades</th>
 </tr>
 </thead>
 <tbody><tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/60s.html">60s</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/70s.html">70s</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/80s.html">80s</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/90s.html">90s</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/60s.html">60s</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/70s.html">70s</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/80s.html">80s</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/90s.html">90s</a></td>
 <td colspan="2"></td>
 </tr>
 <thead>
 <tr>
-<th colspan="6">genres</th>
+<th colspan="6">Genres</th>
 </tr>
 </thead>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/americana.html">americana</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/acid_jazz.html">acid_jazz</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/alternative.html">alternative</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/ambient.html">ambient</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/anime.html">anime</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/big_band.html">big band</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/americana.html">americana</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/acid_jazz.html">acid_jazz</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/alternative.html">alternative</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/ambient.html">ambient</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/anime.html">anime</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/big_band.html">big band</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/bluegrass.html">bluegrass</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/blues.html">blues</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/breakbeat.html">breakbeat</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/chillout.html">chillout</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/classical.html">classical</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/club.html">club</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/bluegrass.html">bluegrass</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/blues.html">blues</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/breakbeat.html">breakbeat</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/chillout.html">chillout</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/classical.html">classical</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/club.html">club</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/college.html">college</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/comedy.html">comedy</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/country.html">country</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/dance.html">dance</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/disco.html">disco</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/discofox.html">discofox</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/college.html">college</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/comedy.html">comedy</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/country.html">country</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/dance.html">dance</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/disco.html">disco</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/discofox.html">discofox</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/downtempo.html">downtempo</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/drum_and_bass.html">drum &amp; bass</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/easy_listening.html">easy listening</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/ebm.html">ebm</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/electronic.html">electronic</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/eurodance.html">eurodance</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/downtempo.html">downtempo</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/drum_and_bass.html">drum &amp; bass</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/easy_listening.html">easy listening</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/ebm.html">ebm</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/electronic.html">electronic</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/eurodance.html">eurodance</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/film.html">film</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/folk.html">folk</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/funk.html">funk</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/goa.html">goa</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/gospel.html">gospel</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/gothic.html">gothic</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/film.html">film</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/folk.html">folk</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/funk.html">funk</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/goa.html">goa</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/gospel.html">gospel</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/gothic.html">gothic</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/hardcore.html">hardcore</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/hardrock.html">hardrock</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/hip_hop.html">hip hop</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/house.html">house</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/indie.html">indie</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/industrial.html">industrial</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/hardcore.html">hardcore</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/hardrock.html">hardrock</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/hip_hop.html">hip hop</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/house.html">house</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/indie.html">indie</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/industrial.html">industrial</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/instrumental.html">instrumental</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/jazz.html">jazz</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/jpop.html">jpop</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/jungle.html">jungle</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/lounge.html">lounge</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/metal.html">metal</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/instrumental.html">instrumental</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/jazz.html">jazz</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/jpop.html">jpop</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/jungle.html">jungle</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/lounge.html">lounge</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/metal.html">metal</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/mixed.html">mixed</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/musical.html">musical</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/oldies.html">oldies</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/opera.html">opera</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/pop.html">pop</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/progressive.html">progressive</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/mixed.html">mixed</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/musical.html">musical</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/oldies.html">oldies</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/opera.html">opera</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/pop.html">pop</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/progressive.html">progressive</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/punk.html">punk</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/rap.html">rap</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/reggae.html">reggae</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/retro.html">retro</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/rnb.html">rnb</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/rock.html">rock</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/punk.html">punk</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/rap.html">rap</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/reggae.html">reggae</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/retro.html">retro</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/rnb.html">rnb</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/rock.html">rock</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/salsa.html">salsa</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/schlager.html">schlager</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/ska.html">ska</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/smooth_jazz.html">smooth jazz</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/soul.html">soul</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/soundtrack.html">soundtrack</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/salsa.html">salsa</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/schlager.html">schlager</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/ska.html">ska</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/smooth_jazz.html">smooth jazz</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/soul.html">soul</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/soundtrack.html">soundtrack</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/trance.html">trance</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/urban.html">urban</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/various.html">various</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/wave.html">wave</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/trance.html">trance</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/urban.html">urban</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/various.html">various</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/wave.html">wave</a></td>
 <td colspan="2"></td>
 </tr>
 <thead>
 <tr>
-<th colspan="6">location</th>
+<th colspan="6">Location</th>
 </tr>
 </thead>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/france.html">france</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/world.html">world</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/asian.html">asian</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/india.html">india</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/portugal.html">portugal</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/usa.html">usa</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/france.html">france</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/world.html">world</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/asian.html">asian</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/india.html">india</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/portugal.html">portugal</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/usa.html">usa</a></td>
 </tr>
 <thead>
 <tr>
-<th colspan="6">language</th>
+<th colspan="6">Language</th>
 </tr>
 </thead>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/african.html">african</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/arabic.html">arabic</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/deutsch.html">deutsch</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/italian.html">italian</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/greek.html">greek</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/latin.html">latin</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/african.html">african</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/arabic.html">arabic</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/deutsch.html">deutsch</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/italian.html">italian</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/greek.html">greek</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/latin.html">latin</a></td>
 </tr>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/polish.html">polish</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/polka.html">polka</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/romanian.html">romanian</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/russian.html">russian</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/turk.html">turk</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/polish.html">polish</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/polka.html">polka</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/romanian.html">romanian</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/russian.html">russian</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/turk.html">turk</a></td>
 <td></td>
 </tr>
 <thead>
 <tr>
-<th colspan="6">miscellaneous</th>
+<th colspan="6">Miscellaneous</th>
 </tr>
 </thead>
 <tr>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/christian.html">christian</a></td>
-<td><a href="https://junguler.github.io/m3u-radio-music-playlists/stuff/quran.html">quran</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/christian.html">christian</a></td>
+<td><a href="https://junguler.github.io/mrmp-extra/stuff/quran.html">quran</a></td>
 <td colspan="4"></td>
 </tr>
 </tbody></table>
+
+<br>
 
 to listen to other m3u playlists in this repo click on the specific repo for each folder and listen to them from there
 
@@ -267,9 +276,26 @@ to listen to other m3u playlists in this repo click on the specific repo for eac
 <tr>
 <td><a href="https://github.com/junguler/listen_to_radio-mixer">radio-mixer</a></td>
 <td><a href="https://github.com/junguler/listen_to_radio_tune">radio_tune</a></td>
-<td colspan="3"></td>
+<td><a href="https://github.com/junguler/listen_to_radio-ly">radio-ly</a></td>
+<td><a href="https://github.com/junguler/listen_to_radio-copycat">radio-copycat</a></td>
+<td><a href="https://github.com/junguler/listen_to_radio-stations_live">radio-stations_live</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/junguler/listen_to_strea-m-itter">strea-m-itter</a></td>
+<td><a href="https://github.com/junguler/listen_to_radio_spinner">radio_spinner</a></td>
+<td><a href="https://github.com/junguler/listen_to_zin_music">zin_music</a></td>
+<td><a href="https://github.com/junguler/listen_to_radio-world.fm">radio-world.fm</a></td>
+<td><a href="https://github.com/junguler/listen_to_pcradio_app">pcradio_app</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/junguler/listen_to_lixty">lixty</a></td>
+<td><a href="https://github.com/junguler/listen_to_ting_fm">listen_fm</a></td>
+<td><a href="https://github.com/junguler/listen_to_wavely_radio">wavely_radio</a></td>
+<td colspan="2"></td>
 </tr>
 </tbody></table>
+
+
 
 if you are on a chromium based web browser (chrome, vivaldi, opera, edge etc …) you are not able to listen to the most of the streams, here is an explanation from [chrome support](https://support.google.com/chrome/thread/29505473?hl=en&msgid=29673696) which tells you why this happens and how to fix it
 
@@ -287,11 +313,15 @@ alternativly use this [M3U radio player](https://junguler.github.io/M3U-radio-pl
 * click on the folder icon to load your local m3u playlist
 * click on the globe icon to load an online playlist (a raw github address for example)
 
+<br>
+
 ###### on windows, mac and linux
 
-*   mpv: for the tinkerer types, see my [config files](https://github.com/junguler/win_confs/tree/main/mpv/portable_config) for an example
-*   vlc: if you want an out of the box experience that just works
+*   KODI: a complete solution of all things iptv and much more
+*   MPV: for the tinkerer types, see my [config files](https://github.com/junguler/win_confs/tree/main/mpv/portable_config) for an example
+*   VLC: if you want an out of the box experience that just works
 *   AIMP: suggested by [@lux5am](https://github.com/lux5am) in [#23](https://github.com/junguler/m3u-radio-music-playlists/discussions/23), a winamp clone with everything you might need to listen and record radio
+*	Transistor: suggested by [@Mohammed-Lahboub](https://github.com/Mohammed-Lahboub) in [#63](https://github.com/junguler/m3u-radio-music-playlists/issues/63), a lightweight, open-source radio player available on F-Droid featuring a very clean interface with smooth radio listening experience
 
 note: i need to investigate players for other devices, i will update this section later, if you know of a good program to use please let me know
 
@@ -299,20 +329,16 @@ note: i need to investigate players for other devices, i will update this sectio
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/03-radio-3.gif"></td>
+<td><img align="right" src="stuff/lion.gif"></td>
 </tr>
 </table>
-
-### What are these genres names even mean?
-you might not know what every genre name means, i'm the same, so you can eaither search for it online or as an alternative see my [repo](https://github.com/junguler/music_genres_explained) that has explanations about almost every music genres you see here
 
 <br>
 
-<table align="center">
-<tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/04-player-3.gif"></td>
-</tr>
-</table>
+### What are these genres names even mean?
+you might not know what every genre name means, i'm the same, so you can either search for it online or as an alternative see my [repo](https://github.com/junguler/music_genres_explained) that has explanations about almost every music genres you see here
+
+<br>
 
 ### Check for dead links without using code
 unlike most music websites and other highly curated selections, my repo does not actively check for dead/off_air links due to the large amount of stations (more than 1 million unique stream links) and this being a one man project, i do have a folder that is `+checked+` but even then it's checked on that date i've pushed the update using american ips (github's) so things my not work on your region, so lets explain how you can check links for yourself without needing to know any coding
@@ -345,9 +371,11 @@ note: this method does not give you the stream title (tho most streams broadcast
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/05-folder-3.gif"></td>
+<td><img align="right" src="stuff/zebra.gif"></td>
 </tr>
 </table>
+
+<br>
 
 ### How to download from a station
 
@@ -385,6 +413,14 @@ this command can also be stopped using `ctrl + c` shortcut or the timeout comman
 
 <br>
 
+<table align="center">
+<tr>
+<td><img align="right" src="stuff/rabbit.gif"></td>
+</tr>
+</table>
+
+<br>
+
 #### as individual songs
 
 i have been looking for a way to do this for a while, i found this program [streamwriter](https://streamwriter.org/en/downloads/) that does this but unfortunently it's only available on windows, this [winehq page](https://appdb.winehq.org/objectManager.php?sClass=application&iId=19745) lists the program as platinum and it should work with wine without any issues but i have not tested it myself as i'm not on linux at the moment and don't have a virtual machine ready either
@@ -415,11 +451,13 @@ this command will download this stream `http://51.89.148.171:8022/stream/1/` for
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/06-floppy-3.gif"></td>
+<td><img align="right" src="stuff/wolf.gif"></td>
 </tr>
 </table>
 
-### how to download this repo
+<br>
+
+### How to download this repo
 
 #### using git
 
@@ -438,13 +476,15 @@ download the [auto-generated zip file](https://github.com/junguler/m3u-radio-mus
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/07-file-3.gif"></td>
+<td><img align="right" src="stuff/bear.gif"></td>
 </tr>
 </table>
 
-### git Stats
+<br>
 
-since the traffic section of the insight tab is hidden to other viewers of this repo i'm going to include them and update them every two weeks so you can have a feel for how this repo is doing
+### Git stats
+
+since the traffic section of the insight tab is hidden to other viewers of this repo i'm going to include and update them every two weeks so you can have a feel for how this repo is doing
 
 ![](https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/stats_1.jpg)
 
@@ -456,20 +496,22 @@ since the traffic section of the insight tab is hidden to other viewers of this 
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/08-map-3.gif"></td>
+<td><img align="right" src="stuff/monkey.gif"></td>
 </tr>
 </table>
 
-### sources
+<br>
+
+### Sources
 
 here is a list of websites i've scraped from already and included m3u streams for in this repo
 
 <table>
 <thead>
 <tr>
-<th>website</th>
-<th>folder</th>
-<th>script</th>
+<th>Website</th>
+<th>Folder</th>
+<th>Script</th>
 </tr>
 </thead>
 <tbody><tr>
@@ -725,6 +767,54 @@ here is a list of websites i've scraped from already and included m3u streams fo
 <td><a href="https://appradiofm.com/radio">https://appradiofm.com/radio</a></td>
 <td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/app_radio-fm">/app_radio-fm</a></td>
 <td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/app_radio-fm.sh">app_radio-fm.sh</a></td>
+<tr>
+<td><a href="https://radioly.app/">https://radioly.app/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/radio-ly">/radio-ly</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/radio-ly.sh">radio-ly.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://radiostationslive.com/">https://radiostationslive.com/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/radio-stations_live">/radio-stations_live</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/radio-stations_live.sh">radio-stations_live.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://radio.streamitter.com/">https://radio.streamitter.com/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/strea-m-itter">/strea-m-itter</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/strea-m-itter.sh">strea-m-itter.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://radiospinner.com/">https://radiospinner.com/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/radio_spinner">/radio_spinner</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/radio_spinner.sh">radio_spinner.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://zinmusic.com/">https://zinmusic.com/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/zin_music">/zin_music</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/zin_music.sh">zin_music.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://radioworld.fm/">https://radioworld.fm/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/radio-world.fm">/radio-world.fm</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/radio-world.fm.sh">radio-world.fm.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://pcradio.app/">https://pcradio.app/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/pcradio_app">/pcradio_app</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/pcradio.app.sh">pcradio.app.sh</a></td>
+</tr>
+<tr>
+<td><a href="http://l.lixty.com/en">http://l.lixty.com/en</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/pcradio_app">/lixty</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/pcradio.app.sh">lixty.sh</a></td>
+<tr>
+<td><a href="https://tingfm.com/">https://tingfm.com/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/listen_fm">/listen_fm</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/listen_fm.sh">listen_fm.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://wavelyradio.cz/app">https://wavelyradio.cz/app</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/wavely_radio">/wavely_radio</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/wavely_radio.sh">wavely_radio.sh</a></td>
 </tr>
 </tbody></table>
 
@@ -734,17 +824,19 @@ my future plans for this repo is to keep scraping online radio websites, if and 
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/09-note-3.gif"></td>
+<td><img align="right" src="stuff/panda.gif"></td>
 </tr>
 </table>
 
-### you
+<br>
+
+### You
 
 *   found a bug or issue? open an issue or discussion
 *   know a radio website you like to be scraped? suggest it to me
 *   have knowledge on how to improve something? don't hesitate to share it with me
 
-### me
+### Me
 
 *   i'm planning to extend this repo as much as possible
 *   trying to improve the quality of everything regarding this repo
@@ -754,11 +846,13 @@ my future plans for this repo is to keep scraping online radio websites, if and 
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/10-globe-3.gif"></td>
+<td><img align="right" src="stuff/leopard.gif"></td>
 </tr>
 </table>
 
-### related projects
+<br>
+
+### Related projects
 
 *   [focus](https://github.com/gabrielproencaalves/focus) by [gabriel proenca alves](https://github.com/gabrielproencaalves) : a fork of this repo that includes a script to easily listen to m3u streams using the [mpg123](https://www.mpg123.de/) linux audio player
 *   [\*-moode](https://github.com/konzumpro/m3u-radio-music-playlists-moode) by [konzumpro](https://github.com/konzumpro) : a fork of this repo that converts m3u files in the root of this repo to [MoOde](https://github.com/moode-player/moode) compatible stream files
@@ -766,18 +860,20 @@ my future plans for this repo is to keep scraping online radio websites, if and 
 
 <br>
 
-### friend(s) of the repo
+### Friend(s) of the repo
 *  [fony repo](https://github.com/wadadawadada/fony) + [fony website](https://fony.space/) desribed by the author as 'FONY is more than just a music player — it's a revolutionary Web3 platform designed for infinite global music streaming, blending freedom, decentralization, and cutting-edge technology.'
 
 <br>
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/11-eyeglass-3.gif"></td>
+<td><img align="right" src="stuff/horse.gif"></td>
 </tr>
 </table>
 
-### acknowledgement, thanks
+<br>
+
+### Acknowledgement, Thanks
 
 *   to github for hosting this repo and the free access to it's pages and actions
 *   to all of the website owners and admins for making those awesome radio websites
@@ -789,11 +885,13 @@ my future plans for this repo is to keep scraping online radio websites, if and 
 
 <table align="center">
 <tr>
-<td><img align="right" src="https://raw.githubusercontent.com/junguler/m3u-radio-music-playlists/main/stuff/12-cool-3.gif"></td>
+<td><img align="right" src="stuff/fox.gif"></td>
 </tr>
 </table>
 
-### behind the scenes
+<br>
+
+### Behind the scenes
 
 if you are interested on how i actually scrape websites, i've made a markdown that goes thru the nitty gritty of it all, you can find it [here](https://github.com/junguler/how_to_m3u)
 

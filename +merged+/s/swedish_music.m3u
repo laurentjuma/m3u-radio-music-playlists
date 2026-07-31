@@ -17,3 +17,5 @@ https://http-live.sr.se/p4vasternorrland-aac-192
 https://http-live.sr.se/p4gotland-mp3-128
 #EXTINF:-1,Sveriges Radio P4 Västerbotten
 https://http-live.sr.se/p4vasterbotten-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kramfors-571552-logo.jpg",Radio Kramfors
+http://dag634.primcast.com:9786/;

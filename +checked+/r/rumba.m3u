@@ -25,20 +25,6 @@ http://stream.hdserver.biz:9318/stream/
 http://62.210.38.137:8222/stream/
 #EXTINF:-1,Spice Fm 91.1
 http://live.rcast.net:8768/stream
-#EXTINF:-1,La Pachanguera FM
-http://radiolatina.info:8772/stream
-#EXTINF:-1,Radio Rumbos
-http://stream9.mexiserver.com:8358/
-#EXTINF:-1,La Voz de los Andes
-https://streamming.dobitsoluciones.com:7038/live/
-#EXTINF:-1,Radio María España
-http://dreamsiteradiocp2.com:8030/stream/
-#EXTINF:-1,Cadena Energia Lorca
-http://streaming5.elitecomunicacion.es:8126/lorca?type=.mp3
-#EXTINF:-1,Radio Fusion 1
-http://rr5100.globalhost1.com:8020/stream
-#EXTINF:-1,101.RU - Прикосновение
-http://pub0101.101.ru:8000/stream/trust/mp3/128/196
 #EXTINF:-1,Rumba Atlanta
 http://usa3.fastcast4u.com:5882/stream
 #EXTINF:-1,Rumba FM Zaragoza
@@ -49,36 +35,48 @@ https://s3.radio.co/sa3fcc78f2/listen
 http://sonic.streamingchilenos.com:8204/stream/
 #EXTINF:-1,Radio Abanico
 http://one.cloudstreaming.eu:6129/live
-#EXTINF:-1,Imperio Salsero
-http://radio.dominiserver.com:8228/stream
+#EXTINF:-1,Radiolé
+http://25353.live.streamtheworld.com/RADIOLE.mp3
 #EXTINF:-1,Ciudad Salsera
 http://sonicpanel.globalstream.pro:8012/stream
-#EXTINF:-1,La Rumba 102.3
-http://sh2.radioonlinehd.com:8082/stream
 #EXTINF:-1,Royal Media Services – Ramogi FM
 http://srv2.plugstreaming.com:8443/stream/
 #EXTINF:-1,Rumba Orgullo Latino
 http://streaming.hdserver.biz:9348/
 #EXTINF:-1,Radio Rumba 88.9 fm (Ambato)
 https://rr5200.globalhost1.com/8146/stream
-#EXTINF:-1,Airtime!
-https://popradiouk.out.airtime.pro/popradiouk_a
 #EXTINF:-1,En La Rumba
 https://us1new.listen2myradio.com:2199/listen.php
+#EXTINF:-1,Radio station name not set
+https://stream1.rcast.net/60550
+#EXTINF:-1,TENIENTIKO.COM RADIO
+https://free.rcast.net/4145
+#EXTINF:-1,Salsa Son y Sabor Latino
+https://free.rcast.net/14173
+#EXTINF:-1,LARUMBA SALSERA
+https://free.rcast.net/6589
+#EXTINF:-1,RUMBAATLANTA
+https://free.rcast.net/9154
+#EXTINF:-1,SALSA INTERACTIVA RADIO SIR
+https://free.rcast.net/4565
+#EXTINF:-1,lamegarumba
+https://free.rcast.net/9175
+#EXTINF:-1,DFM Bass House
+https://dfm-basshouse.hostingradio.ru/basshouse96.aacp
 #EXTINF:-1,NRJ Drum&amp;Bass
 https://pub0202.101.ru:8443/stream/pro/aac/64/6
+#EXTINF:-1,DFM Slap Bass
+https://dfm-slapbass.hostingradio.ru/slapbass96.aacp
+#EXTINF:-1,DFM Vocal Drum
+https://dfm-drum.hostingradio.ru/drum96.aacp
 #EXTINF:-1,Chanquete FM
 http://185.23.192.118:8008/;
-#EXTINF:-1,Bongo Radio - East African Music Channel
-http://www.bongoradio.com:8000/african.mp3?type=http
 #EXTINF:-1,Rumba Y Salsa
 http://209.126.119.28:8207/stream
 #EXTINF:-1,Rumba Vacilon
 https://sonic.globalstreaming.net/8120/
 #EXTINF:-1,Tanz-Radio
 https://tanz-radio.stream.laut.fm/tanz-radio
-#EXTINF:-1,1420 AM Radio Lider
-http://audio.birach.com:9014/
 #EXTINF:-1,Africa Radio Rumba
 https://webradio1.ice.infomaniak.ch/webradio4-128.mp3
 #EXTINF:-1,Pinguino Stereo
@@ -87,8 +85,6 @@ https://radiolatina.info/9750/stream
 https://sp.totalstreaming.net:8004/
 #EXTINF:-1,Zona Rumbera Internacional
 https://stream20.usastreams.com/8198/stream
-#EXTINF:-1,Caribe Rumba - 0 - Colombia - african music - champeta - rumba - salsa - vallenato
-https://cdn2.cloudrad.io/drumbasespace/radio.mp3/listen.pls
 #EXTINF:-1,LAVDC - 0 - The Democratic Republic Of The Congo - rumba
 http://79.111.14.76:8002/drumbass
 #EXTINF:-1,Radio Regenbogen Sommerhits - 0 - Germany - dance - latin - reggae - rumba - salsa - samba

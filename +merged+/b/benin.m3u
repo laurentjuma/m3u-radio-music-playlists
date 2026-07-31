@@ -435,3 +435,77 @@ https://stream-068.zeno.fm/dupwliw2mravv?zs=HAPn20RYS6G9YWhviJyvDQ
 https://liveonlineradio.net/file/OffAir.mp3
 #EXTINF:-1,Nwaar Music FM
 https://listen.radioking.com/radio/450125/stream/506162
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3T8PH2.png",Golfe FM
+http://icecast-choi.rncm.ca/choi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SO6CO1.png",LEGIBENIN
+https://www.radioking.com/play/legibenin-1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/013UJ1.png",MIEL RADIO
+https://www.radioking.com/play/miel-radio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GTWN8S.png",Nwaar Music Radio
+https://stream.zeno.fm/8enpgyrz1a0uv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/42WYJB.png",Radio Bénin
+https://www.radioking.com/play/radio-benin/84430
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/13MYMY.png",radio benin alafia
+https://www.radioking.com/play/radio-benin-alafia/368243
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/STDJ56.png",Radio CMI
+https://www.radioking.com/play/cite-des-miracles
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/96YTQY.png",Radio Hémicycle
+https://www.radioking.com/play/an-benin?auth=7526614488-7891-e7mgl3g3-f146f0c0e6da97ef609e6006892d6ce9
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VU63S7.png",Radio Maranatha
+http://154.72.115.49:8000/live?1562954823505
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/F71C7H.png",Radio Messagers de Dieu
+https://www.radioking.com/play/radiomessagersdedieu
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RBQQH0.png",Radio Parakou
+https://www.radioking.com/play/radio-parakou
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/G0CWGJ.png",Radio Planète
+https://www.radioking.com/play/planete
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A074TY.png",SION RADIO
+https://www.radioking.com/play/sion-radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78121/logo_XPLJUtwRNB.png",Antenna Web Cotonou Radio
+https://tinyurl.com/AntennaWebBenin
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78122/logo_emBDXc8ehf.png",Hero Radio (Benin)
+https://a2.asurahosting.com:6790/benin.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78120/logo_kK0CiLlcOC.png",Tzgospel Benin Radio
+https://stream.zeno.fm/29tb0mz7kfhvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78124/logo_QXes9JVIVu.png",FM Tonignon Radio
+https://stream.zeno.fm/kzywzsbgkmztv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78123/logo_c4Tib5U1sa.png",Afrik Motiv Radio
+https://stream.zeno.fm/saphn63q35kvv
+#EXTINF:-1,DIMusic Trance Club  🇧🇯  
+http://stream1.dimusic.club:11534/rw?type=.aac
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Bip Radio 106.0 FM - Benin - Cotonou
+https://ice.creacast.com/bipradio
+#EXTINF:-1,CAPP FM 99.6 - Benin - Cotonou
+https://cdnradio.streamakaci.com/cappfm.mp3
+#EXTINF:-1,Crystal News - Benin - Porto Novo
+https://play.radioking.io/crystal-news
+#EXTINF:-1,Deeman Radio FM 90.2 - Benin - Parakou
+https://stream.zeno.fm/cpbfat3wc8cvv
+#EXTINF:-1,Ekaaro Ejiire - Benin - Ifangni
+https://stream.zeno.fm/ox3cowdhqhevv
+#EXTINF:-1,Fraternité FM 96.5 - Benin - Parakou
+https://radio8.pro-fhi.net/flux-pjlpnvde/stream
+#EXTINF:-1,Frissons Radio FM 95.2 - Benin - Cotonou
+https://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3
+#EXTINF:-1,ORTB Atlantic FM 92.2 - Benin - Abomey Calavi
+https://listen.radioking.com/radio/613798/stream/675604
+#EXTINF:-1,ORTB Radio Nationale - Benin - Abomey Calavi
+https://listen.radioking.com/radio/47608/stream/84430
+#EXTINF:-1,ORTB Radio Parakou - Benin - Parakou
+https://listen.radioking.com/radio/51919/stream/88927
+#EXTINF:-1,Radio Hémicycle - Benin - Porto Novo
+https://listen.radioking.com/radio/117355/stream/156709
+#EXTINF:-1,Radio Tokpa FM 104.3 - Benin - Cotonou
+https://radiotokpa.info/liveradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maranatha-568908-logo.jpg",Radio Maranatha
+http://radiolatina.info:8891/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/soleil-fm-benin-626752-logo.jpg",Radio Soleil FM Benin
+http://94.23.66.114:8135/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bj-radio-immaculee-conception-logo.jpg",Radio Immaculée Conception
+https://ovps1.ulcast.com:8042/;stream.mp4
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/capp-fm-587127-logo.jpg",Radio CAPP FM
+https://cdnradio.streamakaci.com/cappfm.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bj-favor-radio-benin-logo.jpg",Favor Radio (Benin)
+https://a10.asurahosting.com:7660/benin.mp3

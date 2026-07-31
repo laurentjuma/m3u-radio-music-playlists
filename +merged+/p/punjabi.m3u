@@ -1029,8 +1029,6 @@ https://stream.rcast.net/246505
 https://stream.rcast.net/14995
 #EXTINF:-1,GURBANI StreamKhalsa FM - Edmonton, Canada - SC - LIVE 24/7, Gurbani Kirtan. Katha, Talk Shows, Punjabi Geet
 https://stream.rcast.net/14997
-#EXTINF:-1,Sikhnet Radio - The Classics
-http:/http:/adio2.sikhnet.com:8501/stream
 #EXTINF:-1,Fm 100 Pakistan
 http://162.244.80.118:4900/stream.mp3
 #EXTINF:-1,Apna
@@ -1081,3 +1079,251 @@ https://dc1.serverse.com/proxy/hojpunjabi/stream
 http://65.109.81.84:7991/live
 #EXTINF:-1,Connect FM Edmonton
 https://stream.rcs.revma.com/f6tn0q3t2f8uv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1412.png",Punjabi Radio USA
+https://fmradiohub.in/radio?url=http://s2.voscast.com:7016/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2443.png",Desi World Radio
+https://node-11.zeno.fm/4mbfcn4mf24tv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2925.png",SGPC Punjabi Radio usa.com
+https://fmradiohub.in/radio?url=http://s2.voscast.com:7016/stream0.961365678347647.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3613.png",Stockton Gurdwara Sahib
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8045/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4672.png",Radio Chardi Kala
+https://fmradiohub.in/radio?url=http://stream-156.zeno.fm/cw9qk93gkvduv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjdzlxazkzZ2t2ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRQV3JzX3NsVDNhWmNhajR2SWdQLWciLCJpYXQiOjE3MjEzMjExMDAsImV4cCI6MTcyMTMyMTE2MH0.nSsQv9tnHHb-JhHXx29H9SP-kMr-LgUzAYsGT66hpfI
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/54261821.png",Gurdwara Sahib Fremont
+https://s3.voscast.com:7409/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/74251476.jpg",Gurdwara Sahib West Sacramento
+https://fmradiohub.in/radio?url=http://n0f.radiojar.com/65wfczc3kd5tv?rj-ttl=5&rj-tok=AAABiU18ntEADGpRCO1i_hMcYQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10990.png",Sikhnet Radio - All Gurbani Styles
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8010/autodj
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14348.png",Sikhnet Radio - Takhat Hazur Sahib
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8038/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14382.png",SGPC SIKH RADIO.com
+https://fmradiohub.in/radio?url=http://s5.voscast.com:7316/stream/1/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14501.png",SGPC WESTERN (SikhNet Radio)
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8012/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/14503.png",DASHMESH DARBAR
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8036/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18196.png",Gurbani Kirtan 24x7
+https://gurbanikirtan.radioca.st/start.mp3#
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18526.png",Khalsa FM
+https://fmradiohub.in/radio?url=http://198.178.123.8:7798/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18544.png",Sikhnet Radio - Dasmesh Darbar
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8036/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18766.png",SGPC Guru Nanak Sikh Gurdwara
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8018/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/44209.png",Sikhnet Radio - Siri Guru Singh Sabha
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8039/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/44750.png",Sikhnet Radio - Gurdwara Sahib Glenwood
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8047/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36860.jpg",Non Stop Punjabi Radio
+https://fmradiohub.in/radio?url=http://s8.voscast.com:7020/stream.v92p
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/67399870.jpg",Radio Hungama Punjabi Hits
+https://s8.voscast.com:7021/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/116579232.jpg",AIR Bhatinda 101.1 FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/971131.jpg",AIR Patiala
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27659110.jpg",Listen Gurbani Radio
+https://fmradiohub.in/radio?url=http://janus.shoutca.st:8195/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/44322563.jpg",Amrinder Gill Radio
+https://stream-155.zeno.fm/ntswtgpemzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJudHN3dGdwZW16enV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlZzNlhvakdpVGhDWmU4Q0pkcFZySHciLCJpYXQiOjE3NDYyNjU0NjYsImV4cCI6MTc0NjI2NTUyNn0.EasI1Zo2I9kJ2QUIZCNCz34dDAsrqBQ454aK5oyIm4g
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/50639563.png",Karan Aujla Radio
+https://stream-156.zeno.fm/vrqrkmrfkzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cnFya21yZmt6enV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Img5R0FqRlFNU05DRFJQeGRWVk1CenciLCJpYXQiOjE3NDU0MDM5ODQsImV4cCI6MTc0NTQwNDA0NH0.5jMrZs0FatdnPDRh5xePJpoQr_TP8Lowjk9oVYb4vcM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32649301.jpg",Sidhu Moose Wala Radio
+https://stream-159.zeno.fm/e5hahqs7twzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlNWhhaHFzN3R3enV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlAxY2lPUm5qUkwtWHpYTW10aFcxdnciLCJpYXQiOjE3NDE2ODYzOTIsImV4cCI6MTc0MTY4NjQ1Mn0.lHsVgkwvWW--mWSWNeElkInwUtvzyOFRQJZt01M7ams
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40331718.png",24/7 Radio Sarab Rog Ka Aukhad Naam
+https://fmradiohub.in/radio?url=http://akalmultimedia.net:8000/srkan
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3909629.png",Radio Virsa
+https://fmradiohub.in/radio?url=http://s8.voscast.com:7992/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/117788215.jpg",Radio Chann Pardesi Punjabi
+https://fmradiohub.in/radio?url=http://mehramedia.com:8021/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/49934418.jpg",Jagat Radio
+https://fmradiohub.in/radio?url=http://equinox.shoutca.st:8183/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/11339293.jpg",Bollywood Gold Revivals
+https://stream-155.zeno.fm/das7vyu8e3quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkYXM3dnl1OGUzcXV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImZ3ZkJGZlVHU2xxcVJwUlpkVDhVRWciLCJpYXQiOjE3MzI2MjMyNDksImV4cCI6MTczMjYyMzMwOX0.S51ZcUu7-Yn7JmwHhfLbb-7--npCJ9e5nkOAnadx62U&rj-ttl=5&rj-tok=AAABgVE-TQUAq4rpXICyldaNBA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/248.png",Bol Punjabi Radio
+https://fmradiohub.in/radio?url=http://149.56.195.94:8322/stream/1/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36858.png",Yo! Punjabi Radio
+https://fmradiohub.in/radio?url=http://51.15.208.163:8081/radio/YoPunjabiHDLive/icecast.audio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7222686.png",Connect FM 91.5
+https://n11.rcs.revma.com/ygxn9vgennruv?rj-ttl=5&rj-tok=AAABepqyhAoAYiNOhInEGbR6Vw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/104148414.jpg",Indi Radio
+https://stream-175.zeno.fm/brq1w7cu44zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJicnExdzdjdTQ0enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Il93MV9pazhqUVZxVFNkWmtNTmc0emciLCJpYXQiOjE3NDI0NjU1NjEsImV4cCI6MTc0MjQ2NTYyMX0.QsaU7NQ3i3z9Y2iGLZt7f1PVD4u6UQ9Uru_Ba-wP-Cc
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3921465.jpg",Sikhnet Radio - Dukh Nivaran Sahib
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8022/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35831069.jpg",Gurdwara Sahib West Sacramento
+https://fmradiohub.in/radio?url=http://n03.radiojar.com/65wfczc3kd5tv?rj-ttl=5&rj-tok=AAABgWHAsbMAEvaPkbiX6F5-Gw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/64317438.jpg",Sikhnet Radio - Dashmesh Culture Center
+https://fmradiohub.in/radio?url=http://radio2.sikhnet.com:8030/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/136.png",Jesus Coming FM punjabi
+https://fmradiohub.in/radio?url=http://live.jesuscomingfm.com:8212
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15352038.jpg",Ammy Virk Songs
+https://stream-158.zeno.fm/9397qrt8bm8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5Mzk3cXJ0OGJtOHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlFSd0p4V3VwUVBld285OHhjSE56WEEiLCJpYXQiOjE3NDcxMTg5NTAsImV4cCI6MTc0NzExOTAxMH0.Ema6hbB5hZ-QiELA8vKEBqvWSOC0eTIU55iFPgeAIK4
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/22471445.jpg",B Praak Songs
+https://stream-161.zeno.fm/x9e8vg93yf8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4OWU4dmc5M3lmOHV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkJDdGQtS3luUXdHVUZSMEhSRTFxUlEiLCJpYXQiOjE3Mjc4NTE0NzIsImV4cCI6MTcyNzg1MTUzMn0.v4DAzoVf4iUC8pj1aA2IyqMaNlm4YzuXRn7ESadavAA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37971815.jpg",Diljit Dosanjh Songs
+https://stream-160.zeno.fm/gn4txvg9ps8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnbjR0eHZnOXBzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkMxRFIwRkViVFZhSkVldktsX1Q4MXciLCJpYXQiOjE3MzUyMDg1MzgsImV4cCI6MTczNTIwODU5OH0.yMfb-YzWXjbFE9E3l1KVjfhHQ7TnfCRcyStFkOr6V7I
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/49495645.jpg",Maninder Buttar Songs
+https://stream-169.zeno.fm/zcw9xhqpws8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6Y3c5eGhxcHdzOHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhQUVRhUTliUTZ1VXhlMkhXMS12WEEiLCJpYXQiOjE3NDIyOTY3NDksImV4cCI6MTc0MjI5NjgwOX0.4agnx-e5pGpPy8GWFSOAfp4ipA8LG1XrLmQkMH1RrAw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/92864724.jpg",Mankirt Aulakh Songs
+https://stream-162.zeno.fm/tyte962zem8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0eXRlOTYyemVtOHV2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkVwck85UWRoUTJlaUxiLTFETXR3bkEiLCJpYXQiOjE3MzQwNzI5MTAsImV4cCI6MTczNDA3Mjk3MH0._MVxQTpE0fWgLzRCdmWQbexmtuRda9ZnsjU40fSD4i0
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130347.v3.png",Desi Mix Radio 107.7 HD2 
+https://ais-sa1.streamon.fm/7404_48k.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/84973.v5.png",5 Rivers Radio 
+https://hello.citrus3.com:2020/stream/5riversradio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/16972.v6.png",Sikhnet Radio - Siri Guru Singh Sabha 
+http://radio2.sikhnet.com:8040/live
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/16991.v6.png",Sikhnet Radio - Gurdwara Sahib Glenwood 
+http://radio2.sikhnet.com:8047/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88195/logo_a71pE1I4pi.png",Sikhnet Radio - Western Singh Sabha
+http://radio2.sikhnet.com:8029/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91958/logo_MylSp06OvT.png",Sikhnet Radio - El Sobrante
+https://radio.sikhnet.com/proxy/channel27/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102362/logo_BMYZ5RBfYB.png",Sikhnet Radio - Hacienda De Guru Ram Das
+https://radio.sikhnet.com/proxy/channel12/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37212/logo_9qDjW3fHKM.png",Chakde Punjabi Radio
+http://stream.zeno.fm/wi6ktdc3f8gvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88182/logo_w2srNXeoWq.png",Sikhnet Radio - Dashmesh Culture Center
+http://radio2.sikhnet.com:8030/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88105/logo_rtMgEgOVAC.png",Sikhnet Radio - Sukh Sagar
+http://radio2.sikhnet.com:8023/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92771/logo_XzflKe9KLm.png",SikhNet Radio - Harimandir Sahib
+https://radio.sikhnet.com/proxy/channel9/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82636/logo_aipil2Rb4b.png",Sikhnet Radio -  Dukh Niwaran Sahib
+http://radio2.sikhnet.com:8022/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/89022/logo_3eVP08iC7c.jpg?v=20260529-media-restore",Malhans Hindi HQ Radio
+https://stream.zeno.fm/mabgug7xyp8uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004851/logo_notB3fhdVR.jpg?v=20260529-media-restore",SikhNet Radio Main AutoDJ - Channel 1
+http://radio2.sikhnet.com:8016/stream_high_autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82689/logo_lPjWXK1agg.jpg?v=20260529-media-restore",Sidhu Moose Wala Radio
+https://stream.zeno.fm/e5hahqs7twzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102347/logo_omewxTfbFF.jpg?v=20260529-media-restore",Sikhnet Radio - Western Non Traditional
+https://radio.sikhnet.com/proxy/channel2/autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85464/logo_e5ACK6Gm6q.jpg?v=20260529-media-restore",Bollybop
+https://s3.radio.co/s2f19d44d0/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88524/logo_z663rWFmKm.jpg?v=20260529-media-restore",SGPC GURU NANAK SIKH GURDWARA
+http://radio2.sikhnet.com:8018/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82297/logo_S9Q6tsKtt1.jpg?v=20260529-media-restore",Gurdwara Dukh Niwaran Sahib Ludhiana
+http://akalmultimedia.net:8000/GDNSLDH
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82669/logo_q2bqfZ1im8.jpg?v=20260529-media-restore",Bollywood Punjabi Radio
+https://mars.streamerr.co/8154/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82702/logo_Fb10Hrt2xU.jpg?v=20260529-media-restore",Karan Aujla Radio
+https://stream.zeno.fm/vrqrkmrfkzzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82650/logo_gG4qBJ4bVo.jpg?v=20260529-media-restore",Bollywood Gold Revivals
+https://stream.zenolive.com/0xsvm1nr7a5tv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82321/logo_hjabUJkENy.jpg?v=20260529-media-restore",Korala Maan All Song Radio
+https://stream.zeno.fm/hxgarz1594zuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50727/logo_FsCo5P6o8I.jpg?v=20260529-media-restore",5 Rivers Radio
+https://hello.citrus3.com:2020/stream/5riversradio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92771/logo_kk5VvU7K19.jpg?v=20260529-media-restore",SikhNet Radio - Harimandir Sahib
+https://radio.sikhnet.com/proxy/channel9/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82706/logo_7nwYF6FSe0.jpg?v=20260529-media-restore",Rang FM
+https://stream.zeno.fm/0qvzkvpgewzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102231/logo_QVHR1wVsbN.jpg?v=20260529-media-restore",Sikhnet Radio - All Gurbani Styles
+https://radio.sikhnet.com/proxy/channel1/autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102348/logo_j58nB69yDn.jpg?v=20260529-media-restore",Sikhnet Radio - Audio Stories for Kids
+https://radio.sikhnet.com/proxy/stories/autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102615/logo_KicWtXd0CW.jpg?v=20260529-media-restore",Sikhnet Radio - Classical Raag
+https://radio.sikhnet.com/proxy/channel3/autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82289/logo_c8e1FQXvwb.jpg?v=20260529-media-restore",Bol Punjabi Radio
+https://bolpunjabi-ekamsoftware.radioca.st//stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82637/logo_3Y09AppxUS.jpg?v=20260529-media-restore",Sikhnet Radio - Akhand Paath
+http://radio2.sikhnet.com:8018/autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88796/logo_woDrAcSvRM.jpg?v=20260529-media-restore",Indi Radio
+https://canada.startradio.in:8010/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37212/logo_qpU4Nos6AY.jpg?v=20260529-media-restore",Chakde Punjabi
+http://stream.zeno.fm/wi6ktdc3f8gvv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102671/logo_RSjogLYU7c.jpg?v=20260529-media-restore",Sikhnet Radio - Katha
+https://radio.sikhnet.com/proxy/katha/autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/89362/logo_ld9NOWfrQk.jpg?v=20260529-media-restore",Sikhnet Radio - Singh Sabha Surrey
+http://radio2.sikhnet.com:8033/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95450/logo_o1tTl3Juyk.jpg?v=20260529-media-restore",SGPC PUNJABI RADIO USA.com
+http://s2.voscast.com:7016/;stream0.961365678347647.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82638/logo_P7aJCjQhBj.jpg?v=20260529-media-restore",Sikhnet Radio - Takhat Hazur Sahib
+https://radio.sikhnet.com/proxy/channel7/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102239/logo_dOCHVsFQWC.jpg?v=20260529-media-restore",Sikhnet Radio - Sri Akhand Paath Sahib
+https://radio.sikhnet.com/proxy/channel5/autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97267/logo_CFO6PyZAfe.jpg?v=20260529-media-restore",GurbaniSewa - Akhand Paath Sri Guru Granth Sahib Ji
+http://radio.gurbanisewa.org:8000/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85144/logo_4kpymE16oi.jpg?v=20260529-media-restore",Sikhnet Radio - Gurdwara Sahib Glenwood
+http://radio2.sikhnet.com:8047/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88195/logo_enKwR5KF6r.jpg?v=20260529-media-restore",Sikhnet Radio - Western Singh Sabha
+http://radio2.sikhnet.com:8029/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88312/logo_yjeAVe9P70.jpg?v=20260529-media-restore",Connect FM 101.7
+https://stream.rcs.revma.com/f6tn0q3t2f8uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88734/logo_NHyw9HWd0Y.jpg?v=20260529-media-restore",Connect FM 91.5
+https://stream.rcs.revma.com/ygxn9vgennruv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/91958/logo_RBvqF24gA0.jpg?v=20260529-media-restore",Sikhnet Radio - El Sobrante
+https://radio.sikhnet.com/proxy/channel27/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102362/logo_JoV0vP5Qd8.jpg?v=20260529-media-restore",Sikhnet Radio - Hacienda De Guru Ram Das
+https://radio.sikhnet.com/proxy/channel12/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88182/logo_k81JiVaEJv.jpg?v=20260529-media-restore",Sikhnet Radio - Dashmesh Culture Center
+http://radio2.sikhnet.com:8030/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102711/logo_pHPT9HhHvl.jpg?v=20260529-media-restore",Gurdwara Sahib West Sacramento
+https://stream.radiojar.com/65wfczc3kd5tv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49401/logo_HTaUG3qWSu.jpg?v=20260529-media-restore",Sikhnet Radio - Siri Guru Singh Sabha
+http://radio2.sikhnet.com:8040/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95437/logo_DAFfkQSM79.jpg?v=20260529-media-restore",Punjabi Radio USA
+https://s5.voscast.com:9281/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82636/logo_lqhHxJykDM.jpg?v=20260529-media-restore",Sikhnet Radio -  Dukh Niwaran Sahib
+http://radio2.sikhnet.com:8022/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88191/logo_M2rrAuzgVF.jpg?v=20260529-media-restore",Sikhnet Radio - Dasmesh Darbar
+http://radio2.sikhnet.com:8036/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88105/logo_oNSbqW2jYn.jpg?v=20260529-media-restore",Sikhnet Radio - Sukh Sagar
+http://radio2.sikhnet.com:8023/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/in-sgpc-live-kirtan-sri-harmandir-sahib-logo.jpg",Radio SGPC Live Kirtan Sri Harmandir Sahib
+http://sgpc.net:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-chann-pardesi-gurbani-logo.jpg",Radio Chann Pardesi - Gurbani
+http://ice.mehramedia.com:8763/gurbani
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/akhand-path-radio-606604-logo.jpg",Akhand Path Radio
+http://punjabrocks.com:9968/;.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sikh-katha-radio-604769-logo.jpg",Sikh Katha Radio
+http://radio.punjabrocks.com:9978/;.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/in-dil-apna-punjabi-logo.jpg",Radio Dil Apna Punjabi
+http://my.radiodap.ca:9000/;stream1525197436037/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sikh-kirtan-radio-601552-logo.jpg",Sikh Kirtan Radio
+http://radio.punjabrocks.com:9958/kirtan
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-kbif-900-am-logo.jpg",Radio KBIF 900 AM
+http://sc03.warpradio.com:8504/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gurdwara-sahib-fremont-577542-logo.jpg",Radio Gurdwara Sahib Fremont
+http://s3.voscast.com:7408/;stream1635762375383/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-chardi-kala-584214-logo.jpg",Radio Chardi Kala
+https://stream.zenolive.com/cw9qk93gkvduv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-punjab-0-logo.jpg",Radio Punjab
+https://stream.zeno.fm/uz7g24818s5tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-krpi-radio-logo.jpg",KRPI Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sher-e-punjab-radio-578680-logo.jpg",Sher-E-Punjab Radio
+http://player.listenlive.co/37931
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-sikhnet-radio-singh-sabha-washington-logo.jpg",SikhNet Radio - Singh Sabha Washington
+https://radio.sikhnet.com/proxy/channel19/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/au-raabta-fm-logo.jpg",Radio Raabta FM
+https://mehramedia.in:9310/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gulshan-radio-625208-logo.jpg",Gulshan Radio
+http://s3.voscast.com:11510/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-sikhnet-radio-sri-guru-singh-sabha-malton-logo.jpg",Sikhnet Radio - Sri Guru Singh Sabha Malton
+http://radio2.sikhnet.com:8039/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-dil-apna-punjabi-logo.jpg",Radio Dil Apna Punjabi
+http://my.radiodap.ca:9000/;stream1607956896970/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stockton-gurdwara-sahib-596051-logo.jpg",Radio Stockton Gurdwara Sahib
+https://radio.sikhnet.com/accounts/channel29/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/khalsa-fm-601135-logo.jpg",Radio Khalsa FM
+http://198.178.123.8:7798/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-sanjhi-soch-logo.jpg",Radio Sanjhi Soch
+http://209.188.87.183:8057/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sikhnet-radio-gurdwara-san-jose-631464-logo.jpg",Sikhnet Radio - Gurdwara San Jose
+https://radio.sikhnet.com/proxy/channel18/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sikhnet-radio-the-classics-591622-logo.jpg",Sikhnet Radio - The Classics
+http://radio2.sikhnet.com:8501/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sikhnet-radio-simran-581523-logo.jpg",Sikhnet Radio - Simran
+https://radio.sikhnet.com/accounts/channel4/autodj
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-sikhnet-radio-fremont-logo.jpg",Sikhnet Radio - Fremont
+https://radio.sikhnet.com/accounts/channel13/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-sikhnet-radio-dukh-nivaran-sahib-logo.jpg",Sikhnet Radio - Dukh Nivaran Sahib
+http://radio2.sikhnet.com:8037/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-sikhnet-radio-nanak-naam-jahaj-logo.jpg",Sikhnet Radio - Nanak Naam Jahaj
+https://radio.sikhnet.com/proxy/channel26/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/punjab-rocks-radio-600897-logo.jpg",Punjab Rocks Radio
+http://radio.punjabrocks.com:9988/punjab
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/be-chakde-punjabi-logo.jpg",Radio Chakde Punjabi
+https://stream.zeno.fm/wi6ktdc3f8gvv

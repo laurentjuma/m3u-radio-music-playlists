@@ -2693,8 +2693,6 @@ https://broadcast.wssr.stream/radio/8000/radio.mp3
 http://stream.zeno.fm/m601gp8gvzzuv
 #EXTINF:-1,Radio Compagnie 
 http://stream.zeno.fm/pq30ypxav68uv
-#EXTINF:-1,Radio Magik9
-http:/http:/adiomagik9.primcast.com:7500/;stream.mp3
 #EXTINF:-1,Radio BBC News Haiti
 https://stream-046.zeno.fm/hpdayz31vd0uv?zs=hSwUMwFsTjSRCMrWBPPhDA
 #EXTINF:-1,Radio Boss Haiti
@@ -2775,3 +2773,13 @@ https://stream-176.zeno.fm/xsa350d2epeuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://stream-149.zeno.fm/rlglb0byrutvv?zs=TmXmsN64QWmToQjsk8hPlA
 #EXTINF:-1,Edwin desormeau
 http://109.169.23.84:5150/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyonou-589965-logo.jpg",Radio RADYONOU
+http://s2.voscast.com:10668/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-creoleamerique-transhaiti-logo.jpg",Radio CreoleAmerique - TransHaiti
+http://creoleamerique.ddns.net:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-douce-fm-logo.jpg",Radio Douce Fm
+https://stream.zeno.fm/wexatzayb7duv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ht-radyo-kanaval-logo.jpg",Radio Radyo Kanaval
+https://stream.zenolive.com/k4k2nc3643duv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ht-radio-tele-cherubin-logo.jpg",Radio Tele Cherubin
+https://stream.zenolive.com/2mus1h533neuv

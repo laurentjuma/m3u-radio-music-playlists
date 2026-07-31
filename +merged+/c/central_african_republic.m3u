@@ -85,3 +85,17 @@ http://stream.radiondekeluka.org:8001/ndekeluka
 https://streams.radiomast.io/ce42a7f0-b3a7-47ee-9eb2-97009bba3c2a
 #EXTINF:-1,Africa N°1
 http://african1paris.ice.infomaniak.ch/african1paris-64.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZL64F9.png",eklesiartv
+https://www.radioking.com/play/eklesiartv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LW8M35.png",Immortal Radio
+https://streaming.radio.co/s0be4039b4/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1O51E.png",Radio Ndeke Luka
+http://vps27.iron.oriented.ch:8001/ndekeluka
+#EXTINF:-1,Mambokadzi DreamRadio 
+https://cast3.asurahosting.com/proxy/dreamradio/stream.mp3
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Guira FM 93.3 - Central African Republic - Bangui
+https://audio-edge-kef8b.ams.s.radiomast.io/ce42a7f0-b3a7-47ee-9eb2-97009bba3c2a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-luz-de-dios-usa-640013-logo.jpg",Radio Luz De Dios USA
+http://51.91.44.253:9310/;

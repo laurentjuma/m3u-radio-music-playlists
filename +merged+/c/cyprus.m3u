@@ -901,20 +901,10 @@ http://philae.shoutca.st:8475/
 http://s1.voscast.com:9224/
 #EXTINF:-1,Mix Greek
 http://eco.onestreaming.com:8644/;
-#EXTINF:-1,Kiss FM (Cyprus) 89.0 
-http:/http:/adio.dialogos.com.cy:8000/stream
 #EXTINF:-1,Радио TBB
 http://79.98.108.170:8121/stream
-#EXTINF:-1,ΤΡΙΤΟ LIVE
-https:/http:/1.cloudskep.com/cybcr/cybc3/icecast.audio
-#EXTINF:-1,CyprusFunkStation
-https:/http:/adyo1.radyo-dinle.tc/8256/stream
 #EXTINF:-1,Njoy 99.5
 http://cristim84.radi0.im:8000/;stream.nsv
-#EXTINF:-1,ΔΕΥΤΕΡΟ LIVE
-https:/http:/1.cloudskep.com/cybcr/cybc2/playlist.m3u8
-#EXTINF:-1,ΤΕΤΑΡΤΟ LIVE
-https:/http:/1.cloudskep.com/cybcr/cybc4/icecast.audio
 #EXTINF:-1,Kıbrıs Sim Radyo
 http://88.255.211.12:8000/;stream.mp3
 #EXTINF:-1,Habibi FM
@@ -1001,3 +991,331 @@ https://stream.mfradio.de/listen/mf_radio_80s/radio.mp3
 https://stream.mfradio.de/listen/mf_radio_rock_hits/radio.mp3
 #EXTINF:-1,MF Radio 90s
 https://stream.mfradio.de/listen/mf_radio_90s/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UHBTJL.png",50s All Time Greatest
+https://str2b.openstream.co/577?aw_0_1st.collectionid=3126&stationId=3126&publisherId=601&k=1615370634&listenerid=1615370634308_0.043316730215084975&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/B2Z0KE.png",60s Hits Zone
+https://listen.openstream.co/3341/audio?_=1444376531
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MBTRPW.png",70s 80s Greatest
+https://stream.laut.fm/70s80sgreatest
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HFM8VF.png",90s All Time Greatest
+https://str2b.openstream.co/577?aw_0_1st.collectionid=3126&stationId=3126&publisherId=601&k=1615112605&listenerid=1615112604193_0.08573106955543963&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YY7F67.png",Akropolis Radio
+http://dione.shoutca.st:8223/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CB2V6Z.png",All 60s Radio
+http://185.105.4.100:8151/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1LJVI4.png",All 70s Radio
+http://185.105.4.100:8073/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Y9GUK3.png",All Hits 4u
+https://str2b.openstream.co/577?aw_0_1st.collectionid=3126&stationId=3126&publisherId=601&k=1610795065&listenerid=1610795066261_0.2832091746300336&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YCT2XY.png",artFM Radio
+https://cast.artfmradio.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TU3TG.png",BFBS Cyprus
+https://tx.sharp-stream.com/icecast.php?i=ssvcbfbs8.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DT00DM.png",Capital TÜRK 98.9FM
+http://159.253.37.137:9960/stream?_=1433811653
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RPTV7H.png",Chillout Zone
+https://str2b.openstream.co/943?aw_0_1st.collectionid=4090&stationId=4090&publisherId=967&listenerid=1591123527796_0.302458062178256&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GGOF7.png",First Fm 90.0
+http://185.110.242.208:8090/stream.17uo
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4L8XL4.png",GREEK HITS
+https://listen.openstream.co/4610/audio?token=303f84befe28ec133d3ecccdc0e8b772%2F7655d106
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TTW8BE.png",KISS FM 89
+https://securestreams3.autopo.st:1417/89FM?token=a4d84b9d8ad9ad564110e286dfa6850b%2Fa060aef9
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WZ55G4.png",Koubebi
+https://s65.radiolize.com/radio/8040/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PZL2KE.png",Music Moments
+http://andreas.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0UYRR.png",NRG Bob Marley
+http://88.99.254.110/stream/121/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WN4ME4.png",NRG Cage Club
+http://88.99.254.110/stream/12/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NFG0TK.png",NRG Hip-Hop
+http://88.99.254.110/stream/102/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FX0OPT.png",NRG Lemar
+http://88.99.254.110/stream/10/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RXAEM3.png",NRG Michael Jackson
+http://88.99.254.110/stream/123/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/P114M4.png",NRG Radio 99.1
+http://88.99.254.110/stream/5/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DPQGBT.png",NRG Sezen Aksu
+http://88.99.254.110/stream/222/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IX1Z8T.png",NRG Slow
+http://88.99.254.110/stream/3/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/09U8GM.png",NRG Türk 93.1
+http://88.99.254.110/stream/2/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/P0UXQG.png",NRG TürkSlow
+http://88.99.254.110/stream/4/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CG0THZ.png",Politia FM 106.7
+http://108.178.13.122:8157/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7JXMVI.png",POP N' ROLL
+https://www.radioking.com/play/pop-n-roll
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BE5DP1.png",Radio Blind Dog
+http://whooshserver.net:8227/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/U9QU8B.png",Radyo Vatan Türkü
+http://95.0.173.195:9000/turku
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RCZYHA.png",Rock Inferno
+https://str2b.openstream.co/577?aw_0_1st.collectionid=3126&stationId=3126&publisherId=601&k=1615133423&listenerid=1615133423321_0.6667748912590348&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/I6U46K.png",RockLineWorld
+https://www.radioking.com/play/rocklineworld
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VIAJ3V.png",SARA FM 97.0
+http://91.103.255.89:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ORUY1U.png",Sim Radyo
+http://88.255.211.12:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CBWTQT.png",Sports Radio 1 93.7 FM
+http://eco.onestreaming.com:8486/stream?type=http&nocache=722
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZEL4XY.png",UCY Voice 95.2FM
+http://69.175.94.98:8308/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KGUIJO.png",Русская Волна – Russian Wave Radio
+http://shout.kalsedia.com:1057/ruwave1057_64?_=1453530328
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41367/logo_ZKhhlnEpqs.png",Mix Greek Radio
+https://stream.radiojar.com/1nu68206schvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41376/logo_1S9sHOjkxQ.png",Feelgood.FM Radio
+https://radio.feelgood.fm/mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41368/logo_svyFIKPuQU.png",Radyo Juke
+http://yayin.netradyom.com:9990/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41364/logo_2a1lQkwuka.png",Radio Pafos
+https://n10.radiojar.com/qyhsg46zcccwv?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41375/logo_FGqscVJiHk.png",MF Radio.de
+https://stream.mfradio.de/listen/mf_radio_cyprus/mf_radio_main_stream_128k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41370/logo_hMlHPcC0Pt.png",Work From Home radio
+http://cristim84.radi0.im:8000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41361/logo_1cYPEMeZGx.png",Star FM Radio
+http://s6.myradiostream.com:11056/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41369/logo_8I2yoodLMN.png",Guaba Radio
+https://eco.onestreaming.com/proxy/guaba/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41365/logo_3dlWyr76Gv.png",RockFM 89.2 Radio
+https://live3.istoikona.net/proxy/rockfm/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41374/logo_Y5SekFKAfG.png",Habibi FM Radio
+http://stream.zeno.fm/3mpx1mjmusctv
+#EXTINF:-1,MixFM Cyprus 
+https://link.radiojar.com/c27wx6pdh8vtv
+#EXTINF:-1,Dance FM 
+https://live.enerjiplay.com/stream/dancefm
+#EXTINF:-1,Mix4.me uplifitng trance web radio 
+https://s9.webradio-hosting.com/proxy/mix4me/stream
+#EXTINF:-1,BitrRcord 
+https://c10.radioboss.fm:18095/stream
+#EXTINF:-1,Chillout Breeze 
+https://listen.radionomy.com/chilloutbreeze
+#EXTINF:-1,Cool Radio 91.6  
+http://live3.istoikona.net/proxy/cooleradio/stream
+#EXTINF:-1,NJOY Radio 
+https://stream.radiojar.com/mg7kftnzka3vv
+#EXTINF:-1,VIVA FM 104.3 
+https://stream1.themediasite.co.uk/8060/stream
+#EXTINF:-1,Lugaradio 
+http://91.200.41.23:8000/192.mp3
+#EXTINF:-1,Enerji 
+https://live.enerjiplay.com/stream/enerji
+#EXTINF:-1,Ι.Μ.Λεμεσού 
+http://194.154.128.242:9090/stream.mp3
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Zucca 
+https://stream.zuccaradio.com/stream?
+#EXTINF:-1,Astra FM 92.8 - Cyprus - Nicosia
+https://securestreams2.autopo.st:1106/stream
+#EXTINF:-1,BFBS Cyprus - Cyprus - Akrotiri
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.mp3?platform=radiogarden
+#EXTINF:-1,Capital Turk 107.1 FM - Cyprus - Nicosia
+https://radyo1.radyo-dinle.tc/8210/stream
+#EXTINF:-1,CCN Radio - Cyprus - Nicosia
+https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
+#EXTINF:-1,Choice FM 104.3 - Cyprus - Limassol
+https://live3.istoikona.net:18364/stream
+#EXTINF:-1,Cool Radio 91.6 FM - Cyprus - Limassol
+https://live3.istoikona.net/proxy/cooleradio/stream
+#EXTINF:-1,CyBC Radio 1 - Cyprus - Nicosia
+https://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1,CyBC Radio 2 - Cyprus - Nicosia
+https://r1.cloudskep.com/cybcr/cybc2/icecast.audio
+#EXTINF:-1,CyBC Radio 3 - Cyprus - Nicosia
+https://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1,Dance 95.5 FM - Cyprus - Nicosia
+https://live.enerjiplay.com/stream/1/;
+#EXTINF:-1,East Coast Radio Cyprus - Cyprus - Avgorou
+https://stream.zeno.fm/28b33bqkyk8uv
+#EXTINF:-1,Enerji 93.1 FM - Cyprus - Nicosia
+https://live.enerjiplay.com/stream/enerji
+#EXTINF:-1,Kanali 6 - Cyprus - Limassol
+https://live3.istoikona.net:9802/kanali
+#EXTINF:-1,Kanali 6 Jazz & Soul - Cyprus - Limassol
+https://stream.radiojar.com/gddd94mshkhvv
+#EXTINF:-1,Kanali 6 Laiko - Cyprus - Limassol
+https://stream.radiojar.com/6g4awe55sk8uv
+#EXTINF:-1,Kiss FM 89.0 - Cyprus - Nicosia
+https://securestreams3.autopo.st:1417/89FM
+#EXTINF:-1,Njoy - Cyprus - Nicosia
+https://stream.radiojar.com/mg7kftnzka3vv
+#EXTINF:-1,NRG Türk - Cyprus - Nicosia
+https://live.nrgplay.com/stream/2/;
+#EXTINF:-1,NRJ Cyprus - Cyprus - Nicosia
+https://stream.radiojar.com/ke923q0hhf9uv
+#EXTINF:-1,Old Town Radio - Cyprus - Nicosia
+https://n11.radiojar.com/3emwf2xgam8uv
+#EXTINF:-1,Radio Agios Demetrios 93.3 - Cyprus - Nicosia
+https://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio
+#EXTINF:-1,Radio Cosmos FM 95.2 - Cyprus - Paphos
+https://sonic.streamhost.gr/8018/stream
+#EXTINF:-1,Radio Proto 99.3 FM - Cyprus - Nicosia
+https://live3.istoikona.net:18191/stream
+#EXTINF:-1,Radio Sama - Cyprus - Limassol
+https://radio.radiosama.org/sama_64
+#EXTINF:-1,Radio Sfera 96.8 - Cyprus - Nicosia
+https://securestreams3.autopo.st:1417/sfera
+#EXTINF:-1,RIK Radio 4 88.2 Λευκωσία - Cyprus - Nicosia
+https://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1,Rock FM 89.2 - Cyprus - Limassol
+https://cdn.istoikona.com/RockFm/limassol/icecast.audio
+#EXTINF:-1,Rock FM 98.5 - Cyprus - Paphos
+https://cdn.istoikona.com/RockFm/Live/icecast.audio
+#EXTINF:-1,Russian Wave FM 105.7 - Cyprus - Limassol
+https://stream.veblot.net/proxy/russianradio/stream/
+#EXTINF:-1,Super Sport FM - Cyprus - Nicosia
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
+#EXTINF:-1,UCY Voice 95.2 - Cyprus - Nicosia
+https://cp10.shoutcheap.com:18142/stream/;
+#EXTINF:-1,Viva FM - Cyprus - Paphos
+https://stream1.themediasite.co.uk/8060/stream
+#EXTINF:-1,Voice of Hope Radio - Cyprus - Nicosia
+https://voh.radio.anharnet.org/voh_128
+#EXTINF:-1,Zenith 96.4 FM - Cyprus - Nicosia
+https://live3.istoikona.net:9836/stream
+#EXTINF:-1,Εκκλησία Ερήμης - Cyprus - Limassol
+https://stream.zeno.fm/1b1k768ykwzuv
+#EXTINF:-1,Πολίτης 107.6 - Cyprus - Nicosia
+https://cdn.istoikona.com/politis/live/icecast.audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-banat-598540-logo.jpg",Radio Banat
+http://live.radiobanatfm.com:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-star-fm-logo.jpg",Radio Star FM
+http://s6.myradiostream.com:11056/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-bayrak-radyosu-logo.jpg",Radio Bayrak Radyosu
+http://sc.brtk.net:8002/;*.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-nrg-turk-logo.jpg",Radio NRG Türk
+https://live.nrgplay.com/stream/2/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ydu-fm-168351-logo.jpg",Radio Ydü FM
+https://live.enerjiplay.com/stream/campusydu
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fg-radio-nostalgia-186752-logo.jpg",FG Radio Nostalgia
+http://s4.voscast.com:7376/
+#EXTINF:-1 tv-logo="",Radio Kervan Kuzey Kibris Radyosu
+http://31.3.230.122:9878/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sunset-fm-187132-logo.jpg",Radio Sunset FM
+http://78.46.112.88:8002
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/90s-all-time-greatest-187622-logo.jpg",Radio 90s All Time Greatest
+http://162.251.160.146/90salltimegreatshigh
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/70s-80s-all-time-greatest-187621-logo.jpg",Radio 70s 80s All Time Greatest
+http://173.208.157.101:8480/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/all-time-greatest-600085-logo.jpg",Radio All Time Greatest
+http://192.99.35.93:6176/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/9ka-radio-hit-618752-logo.jpg",9ka Radio HIT
+http://88.198.118.60:9959/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bayrak-r1-162526-logo.jpg",Radio Bayrak R1
+http://sc.brtk.net:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bayrak-international-162541-logo.jpg",Radio Bayrak International
+http://www.brtk.net:8004
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bayrak-classic-162542-logo.jpg",Radio Bayrak Classic
+http://www.brtk.net:8006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rik-2-cybc-2-569327-logo.jpg",Radio RIK 2 CYBC 2
+http://play.streamingvideoprovider.com/popplayer.php?it=4fhfathiv5icu0026c1=%23c8c8c8u0026c2=%23a6a6a6u0026is_link=0u0026w=640u0026h=480u0026p=0u0026title=Deftero+Programmau0026skin=2u0026repeat=u0026brandNW=1u0026start_volume=100
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/70s-80s-greatest-626682-logo.jpg",Radio 70s 80s Greatest
+http://162.219.26.69:9984/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/planet-music-171744-logo.jpg",Radio Planet Music
+http://s8.viastreaming.net:7940/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/60s-hits-zone-634388-logo.jpg",Radio 60s Hits Zone
+http://37.59.32.115:5135/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/80s-chartbusters-601949-logo.jpg",Radio 80s CHARTBUSTERS
+http://78.129.232.162:24708/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/love-zone-635696-logo.jpg",Radio Love Zone
+http://173.249.0.141:8024/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/first-fm-587468-logo.jpg",Radio First FM
+http://92.63.6.40:8090/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mega-radio-cyprus-638760-logo.jpg",MEGA RADIO CYPRUS
+http://s2.voscast.com:10602/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-vatan-155858-logo.jpg",Radio Radyo Vatan
+http://78.135.0.56:8000/vatan.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ucy-voice-592540-logo.jpg",Radio UCY Voice
+http://69.175.94.98:8308/;
+#EXTINF:-1 tv-logo="",Radio RIKSAT
+http://play.streamingvideoprovider.com/popplayer.php?it=3vszn3e79hwku0026c1=%23c8c8c8u0026c2=%23a6a6a6u0026title=RIKSAT+NEW
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zenith-964-fm-577641-logo.jpg",Radio Zenith 96.4 FM
+http://live3.istoikona.net:8023/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ant1-fm-580534-logo.jpg",Radio Ant1 FM
+http://live3.istoikona.net:2199/tunein/antenna.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sunshine-radio-605378-logo.jpg",Sunshine Radio
+http://46.20.3.229/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mycyradio-614256-logo.jpg",MYCYradio
+http://radio.canstream.co.uk:8038/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/goodburgerradio-621317-logo.jpg",GoodBurgerRadio
+http://philae.shoutca.st:8475/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ojo-radio-622809-logo.jpg",OJO Radio
+http://live3.istoikona.com:8642/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/studio64fm-626837-logo.jpg",Radio studio64fm
+http://s8.voscast.com:8238/;
+#EXTINF:-1 tv-logo="",Radio Hertz-Web Streaming
+http://s1.voscast.com:9224/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-epistrofi-webtv-radio-638521-logo.jpg",Radio Epistrofi WebTV Radio
+http://176.31.183.51:8100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-99fm-641030-logo.jpg",Radio 99FM
+http://radio99fm.iteam4media.com:1818/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sunshine-radio-paphos-648259-logo.jpg",Sunshine Radio Paphos
+http://5.63.151.52:7172/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-tetarto-live-logo.jpg",Radio ΤΕΤΑΡΤΟ LIVE
+https://r1.cloudskep.com/cybcr/cybc4/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/super-club-radio-159872-logo.jpg",Super Club Radio
+https://mpc2.mediacp.eu:8320/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-extacy-radio-kyproy-logo.jpg",Extacy Radio Κύπρου
+https://premium.streams.gr:8013/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-radyo-guven-logo.jpg",Radio Radyo Güven
+https://us2freenew.listen2myradio.com/live.mp3?typeportmount=s1_33673_stream_636786608;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-habibi-fm-logo.jpg",Radio Habibi FM
+https://stream.zeno.fm/3mpx1mjmusctv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/60s-chartbusters-187617-logo.jpg",Radio 60s Chartbusters
+http://listen.radionomy.com/60schartbusters
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/greek-hits-618733-logo.jpg",Radio GREEK HITS
+http://5.189.142.165:8140/;
+#EXTINF:-1 tv-logo="",MELODIA ENTEXNO RADIOFONO
+http://live3.istoikona.net:8031/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-fm-cyprus-1023-fm-183114-logo.jpg",Radio Mix FM Cyprus 102.3 FM
+http://live3.istoikona.com:8066/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/greek-choice-569329-logo.jpg",Radio Greek Choice
+http://live3.istoikona.net:8207/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/play-fm-597730-logo.jpg",Radio Play FM
+http://live.playfm.com.tr:9050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/all-time-70s-80s-greatest-187619-logo.jpg",Radio All Time 70s 80s Greatest
+http://streaming.radionomy.com/AllTime70s80sGreatest
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/90s-chartbusters-187620-logo.jpg",Radio 90s Chartbusters
+http://listen.radionomy.com/90schartbusters
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kanali-161827-logo.jpg",Radio Kanali
+http://stream.dnsgb.net:8012/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/go-radio-ph-645732-logo.jpg",GO RADIO PH
+http://tachyon.shoutca.st:8269/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kanali7-fm-174496-logo.jpg",Radio Kanali7 FM
+http://live.kanali7.com:4010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/60s-all-time-greatest-187618-logo.jpg",Radio 60s All Time Greatest
+http://162.251.160.146/60salltimegreatshigh
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/super-radio-1048-fm-154595-logo.jpg",Super Radio 104.8 FM
+http://37.48.68.74:8175/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-odtu-kuzey-kibris-165413-logo.jpg",Radio Radyo Odtü Kuzey Kibris
+http://144.122.152.54:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-honawaalaan-164930-logo.jpg",Radio Honawaalaan
+http://audio.honawalaan.com:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sense-166768-logo.jpg",Radio Sense
+http://live.radio-sense.com:8035/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/posta-fm-166645-logo.jpg",Radio Posta FM
+http://77.92.6.44:88/broadwavehigh.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-cool-166644-logo.jpg",Radio Radyo Cool
+http://yayin3.canlitv.com:6050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-nostaljee-166274-logo.jpg",Radio Radyo Nostaljee
+http://212.175.149.27:8250
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-fog-166276-logo.jpg",Radio Radyo Fog
+http://canliyayinda.com:9630
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ael-radio-184815-logo.jpg",AEL Radio
+http://stardust.wavestreamer.com:9896/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radyo-mayis-578065-logo.jpg",Radio Radyo Mayis
+http://216.104.46.130:80/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/super-fm-1048-577644-logo.jpg",Radio Super FM 104.8
+http://live3.istoikona.net:2199/tunein/super.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rik-3-trito-948-fm-577642-logo.jpg",Radio RIK 3 - Trito 94.8 FM
+http://www.cybc.com.cy/index.php/radio?id=79
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lions-radio-584917-logo.jpg",Lions - Radio
+http://streams4.museter.com:8392/;

@@ -197,3 +197,31 @@ http://212.84.160.3:9232/
 https://node-29.zeno.fm/tncreqmcwnhvv
 #EXTINF:-1,Friends FM 89.9
 https://stream-51.zeno.fm/rtt1xsez338uv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GEZSY0.png",AXR Yangon
+http://asiastreammp3.axr.online
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/M2AZEC.png",Nichijou Shuffle
+https://stream.zeno.fm/rbr1kqmcwnhvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81180/logo_oi36Q8lWdI.png",Thazin Indigenous Radio
+https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&ampport=9238&amptype=s1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81181/logo_PKNAcIXOwe.png",Antenna Web Birmania Radio
+https://tinyurl.com/Antenna-Web-Birmania
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81178/logo_yy6DvTuE3q.png",DWG Radio Burmese
+https://server32349.streamplus.de/?type=http&ampnocache=227
+#EXTINF:-1,DWG Radio Bumese 
+http://server32349.streamplus.de/?type=http&nocache=227
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/thaeingu-sayadaws-dhamma-radio-589935-logo.jpg",Thaeingu Sayadaw's Dhamma Radio
+http://cast.mediastreamservice.com/cast/tunein.php/ch03/playlist.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mm-cherry-fm-logo.jpg",Radio Cherry FM
+http://150.95.80.54:8000/stream/89/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mm-dwg-radio-burmese-logo.jpg",DWG Radio Burmese
+https://server32349.streamplus.de/;?type=httpu0026nocache=227
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mm-thazin-fm-logo.jpg",Radio Thazin FM
+http://212.84.160.3:9232/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mm-thazin-indigenous-radio-logo.jpg",Thazin Indigenous Radio
+https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3u0026port=9238u0026type=s1
+#EXTINF:-1 tv-logo="",Radio Thitsarparami
+http://edge.mixlr.com/channel/nmtev
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/drnandamalabhivansarector-of-itbmus-dhamma-radio-burmases-v-590513-logo.jpg",Dr.Nandamalabhivansa(Rector of ITBMU)'s Dhamma Radio (Burmases V
+http://cast.mediastreamservice.com/cast/tunein.php/ch05/playlist.pls

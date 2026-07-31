@@ -1219,16 +1219,12 @@ http://stream.ecce.sk:8000http:/adiokosice-128.mp3
 https://icecast.stv.livebox.skhttp:/si_128.mp3
 #EXTINF:-1,Radio ROCK
 https://stream.bauermedia.skhttp:/ock-hi.mp3
-#EXTINF:-1,Rádio iRock
-https:/http:/adioserver.online:9927/irockHQ.mp3
 #EXTINF:-1,Rusyn.fm
 http://stream.rusyn.fmhttp:/usyny.mp3
 #EXTINF:-1,Fun Radio 80&#039;s-90&#039;s
 http://s32.myradiostream.com:10486/;
 #EXTINF:-1,Fresh Radio Oldies
 http://8.38.78.173:8099/;stream.nsv
-#EXTINF:-1,Radio Biblia SK
-http:/http:/adiobiblia.online:8000/stream.ogg
 #EXTINF:-1,Rádio Beta - Hity 80&#039;s a 90&#039;s
 https://nn.geo.joj.sk/live/hls/joj-720.m3u8
 #EXTINF:-1,Dobré rádio
@@ -1347,3 +1343,377 @@ https://stream.bbfm.sk:18443/bbfm128.mp3
 https://stream.funradio.sk:18443/dance128.mp3
 #EXTINF:-1,Fun Radio Live - Pop Hits from Slovakia
 https://stream.funradio.sk:8000/fun128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D1CQ7I.png",DEBMS : Dark EBM Souls Radio
+https://www.radioking.com/play/bunkergate7-debms
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Flash Radio
+http://stream.radiocenter.si:80/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XC1NWU.png",Fun Rádio Live
+https://stream.funradio.sk:8000/fun192.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HK538K.png",Gospel Radio
+http://88.212.34.18:8050/mp3lowband
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5OADA9.png",G-Radio
+http://88.212.34.18:8050/mp3midband
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YRAJFA.png",Kiss Rádio
+https://radio.treecom.net/kissmp3_128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/99WOJF.png",METALSCENA netRADIO
+https://www.radioking.com/play/metalscena-netradio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/G0Q7G7.png",New Model Radio
+https://stream.sepia.sk:8000/newmodel128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FST2U1.png",Rádio 9
+http://147.232.191.167:8000/high.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RF4FJT.png",Rádio Anténa Rock
+https://stream.radioservices.sk/antena-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/S9AY9J.png",Rádio Best FM
+http://stream2.bestfm.sk/64.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0IWVY.png",Rádio Dychovka
+https://www.radioking.com/play/radio-dychovka2
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GJ1K3E.png",Rádio Dychovka
+https://www.radioking.com/play/radio-dychovka-1/354812
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LA6EU9.png",Rádio Expres Live
+http://stream.expres.sk:8000/128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BIHR8E.png",Rádio Jemné - Chillout
+http://stream.radioservices.sk/chillout.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AXVDMJ.png",Rádio Jupiter
+https://radio.treecom.net/jupiter_128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/45891N.png",Rádio Košice
+http://stream.alternet.sk:8000/radiokosice-128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Y7K7U0.png",Rádio Liptov
+http://stream.lradio.sk:8080/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/P6AVHO.png",Radio LOGOS.SK
+http://72.13.86.203:4000/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KE8MTD.png",Rádio Lumen
+http://audio.lumen.sk:8000/live64.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IGQFYA.png",Radio Max
+http://online.100i6fm.ru:8000/city_mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D2F5G7.png",Radio Muzika
+https://www.radioking.com/play/radio-muzika
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9AAFI4.png",Rádio Rebeca
+https://icecast2.radionet.sk/rebecassl.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KZ5TPT.png",Rádio Roma
+http://allnet.radionet.sk:8000/radioromaba.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TVCYYL.png",Rádio Šírava
+https://stream.radia.sk/sirava-315
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RVR82Z.png",Rádio Valec
+http://radiovalec.out.airtime.pro:8000/radiovalec_a
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6FW5LO.png",Rádio VIVA
+https://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/62BDUY.png",Rádio Vlna Golden Hits
+http://stream.radioservices.sk/goldenhits.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2QIW8S.png",radiOzora Chill channel
+http://chill.out.airtime.pro:8000/chill_a
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ANOQEU.png",RTVS R Regina BA
+http://live.slovakradio.sk:8000/Regina_BA_32.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3RE4G.png",Trnavské Rádio
+https://stream.trnavskeradio.sk/trnavske.mp3?token=849f8700e22fc87159583bbd3ffb479d%2F38910a80
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JKSO5T.png",Trnavske radio
+https://stream.trnavskeradio.sk/trnavske.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41478/logo_xXnnufrmij.png",Rádio Vlna Oldies Party
+https://stream.radiovlna.sk:8000/party-hi.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41450/logo_DeffmkvtEh.png",Rádio Paráda
+https://extra.mediacp.eu/stream/RadioParada%2Co.z.
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41477/logo_wZWc6JUbYP.png",Rádio Vlna Classic Rock
+https://stream.radiovlna.sk:8000/rock-hi.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41443/logo_ZoZhjrPZA9.png",897 GOLD Radio
+https://c10.radioboss.fm:8122/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41490/logo_QY7qGiUZ8t.png",Rádio X - Oldies X
+https://api.radiox.sk/oldies.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41482/logo_lNSh9QnMVQ.png",Rádio Music CZ
+https://mpc1.mediacp.eu/stream/radiomusiccz2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41487/logo_iwooltBhvn.png",Rádio X - Chillout X
+https://api.radiox.sk/chillout.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41447/logo_lbrb1yTYXT.png",Info Vojna Radio
+https://stream1.infovojna.com:8000/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41489/logo_Y2SrSPhRrs.png",Rádio X - DnB X
+https://api.radiox.sk/dnb.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41491/logo_6F5xJmahYA.png",Rádio X - Metal X
+https://api.radiox.sk/metal.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41486/logo_8eeFUfLDb8.png",Rádio X - Dance X
+https://api.radiox.sk/dance.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41488/logo_ie9CxQVQRH.png",Rádio X - Alternative X
+https://api.radiox.sk/alternative.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41484/logo_XjPbkhqw0x.png",Rádio Mišiačik
+https://stream-177.zeno.fm/q0aelrin1urvv?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41473/logo_NR2BJN6aW9.png",Fun Radio CZ-SK
+https://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41460/logo_Smmd16wb9O.png",Rádio X - Folklore X
+https://api.radiox.sk/ludovky.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41492/logo_fzI2diO27H.png",Rádio X
+https://api.radiox.sk/radiox_256.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41456/logo_VC5FE3v86N.png",BB FM rádio
+https://stream.bbfm.sk/bbfm128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41449/logo_KZAWL9A3aX.png",Mária Rádió
+https://dreamsiteradiocp5.com/proxy/rmslo?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41451/logo_OUzDAKJEw9.png",Rádio Dychovka
+https://stream.zeno.fm/0rfe16umv98uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41485/logo_AaqinFsdPl.png",Rádio X - Mood X
+https://api.radiox.sk/mood.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41468/logo_7B6JdqcBji.png",Fun Radio Dance
+https://stream.funradio.sk:8000/dance128.mp3
+#EXTINF:-1,Rádio Expres 
+http://stream.expres.sk/128.mp3
+#EXTINF:-1,Slobodný vysielač 
+http://159.69.219.5:8010/mp3
+#EXTINF:-1,RÁDIO EXPRES 
+https://stream.bauermedia.sk/128.mp3
+#EXTINF:-1,Rádio BestFM 
+https://stream3.bestfm.sk:8000/128.mp3
+#EXTINF:-1,Československé radio  
+http://live.topradio.cz:8000/csradio128
+#EXTINF:-1,Rádio Pohoda 2  
+http://mpc1.mediacp.eu:18111/stream
+#EXTINF:-1,Radio Melody 
+https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile
+#EXTINF:-1,mars dance 
+https://stream-153.zeno.fm/683gf5xrxfeuv?zs=gtI4gERBSUGu8f0FOcDOWw&1686916511841
+#EXTINF:-1,Radio Ekspres 
+https://stream.nextmedia.si/proxy/ekspres1?mp=/stream
+#EXTINF:-1,Funrádio Mileniálky 
+http://stream.funradio.sk:8000/milenialky128.mp3
+#EXTINF:-1,TA3 
+https://n13.stv.livebox.sk/ta3/685d9a141bd846e8facf83bc378da26b/1.smil/chunklist_b2691072.m3u8
+#EXTINF:-1,TV Lux (audio) 
+https://stream.tvlux.sk/lux/lux.stream_aac/playlist.m3u8
+#EXTINF:-1,radio metropolitan 
+https://mpc2.mediacp.eu:8214/stream
+#EXTINF:-1,Party Radio 
+https://mpc1.mediacp.eu/stream/partyradio
+#EXTINF:-1,Fred Film Radio-25 Slovenčina 
+https://s10.webradio-hosting.com/proxy/fredradiosk/stream
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Tiché Rádio 
+https://stream.ticheradio.sk/tiche.mp3
+#EXTINF:-1,BB FM 100.3 - Slovakia - Banská Bystrica
+https://stream.bbfm.sk/bbfm128.mp3
+#EXTINF:-1,Best FM - Slovakia - Bratislava
+https://stream3.bestfm.sk:8000/160.aac
+#EXTINF:-1,Fresh Rádio - Slovakia - Bratislava
+https://icecast2.radionet.sk/freshradio.sk
+#EXTINF:-1,Fun Rádio - Slovakia - Bratislava
+https://stream.funradio.sk:18443/fun192.mp3
+#EXTINF:-1,Fun Rádio 80's-90's - Slovakia - Bratislava
+https://stream.funradio.sk:18443/80-90-128.mp3
+#EXTINF:-1,Fun Rádio Chill - Slovakia - Bratislava
+https://stream.funradio.sk:8000/chill128.mp3
+#EXTINF:-1,Fun Rádio CZ-SK - Slovakia - Bratislava
+https://stream.funradio.sk:18443/cs128.mp3
+#EXTINF:-1,Fun Rádio Dance - Slovakia - Bratislava
+https://stream.funradio.sk:18443/dance128.mp3
+#EXTINF:-1,Fun Rádio Vianoce - Slovakia - Bratislava
+https://stream.funradio.sk:8000/xmas128.mp3
+#EXTINF:-1,Hitradio Slovakia - Slovakia - Bratislava
+https://hitradioslovakia.stream.laut.fm/hitradioslovakia?t302=2025-01-04_07-37-49&uuid=e748d239-e49a-4bcf-84c3-795095f351ab
+#EXTINF:-1,Rádio 7 - Slovakia - Bratislava
+https://play.radio7.sk/128
+#EXTINF:-1,Radio Aetter - Slovakia - Trnava
+https://stream.aetter.sk/aetter
+#EXTINF:-1,Rádio Dychovka - Slovakia - Trenčín
+https://epanel.mediacp.eu:7661/stream
+#EXTINF:-1,Rádio Frontinus - Slovakia - Žilina
+https://stream.frontinus.sk:8888/frontinus128.mp3
+#EXTINF:-1,Radio Jazz - Slovakia - Bratislava
+https://stream.sepia.sk:8000/jazz192.mp3
+#EXTINF:-1,Rádio KIKS - Slovakia - Košice
+https://online.radiokiks.sk:8000/kiks_hq.mp3
+#EXTINF:-1,Rádio Lumen - Slovakia - Banská Bystrica
+https://audio.lumen.sk/live64.mp3
+#EXTINF:-1,Rádio Mária Slovensko - Slovakia - Bratislava
+https://dreamsiteradiocp5.com/proxy/radiomariaslomp3?mp=/stream.mp3
+#EXTINF:-1,Rádio Patria - Slovakia - Bratislava
+https://icecast.stv.livebox.sk/patria_128.mp3
+#EXTINF:-1,Radio Pohoda 2 - Slovakia - Žilina
+https://mpc1.mediacp.eu:8111/stream
+#EXTINF:-1,Rádio Pyramída - Slovakia - Bratislava
+https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:-1,Rádio Regina Stred - Slovakia - Banská Bystrica
+https://icecast.stv.livebox.sk/regina-bb_128.mp3
+#EXTINF:-1,Rádio Regina Východ - Slovakia - Košice
+https://icecast.stv.livebox.sk/regina-ke_128.mp3
+#EXTINF:-1,Radio Rock SV - Slovakia - Snina
+https://s2.myradiostream.com:4870/listen.mp3?nocache=1735976466
+#EXTINF:-1,Rádio Šírava 89.7 FM - Slovakia - Michalovce
+https://radioserver.online:9936/radiosirava.mp3
+#EXTINF:-1,Rádio SiTy - Slovakia - Bratislava
+https://radiosity.online:8000/aac
+#EXTINF:-1,Rádio Slovakia International - Slovakia - Bratislava
+https://icecast.stv.livebox.sk/rsi_128.mp3
+#EXTINF:-1,Rádio Slovensko - Slovakia - Bratislava
+https://icecast.stv.livebox.sk/slovensko_128.mp3
+#EXTINF:-1,Radio V Nitre 105.4 FM - Slovakia - Nitra
+https://radioserver.online:9932/radiovnitre_live.mp3
+#EXTINF:-1,Radio Viva - Slovakia - Bratislava
+https://stream.sepia.sk:8000/viva128.mp3
+#EXTINF:-1,Rádio Vlna - Slovakia - Bratislava
+https://stream.radiovlna.sk/vlna-hi.mp3
+#EXTINF:-1,Rádio Vlna Classic Rock - Slovakia - Bratislava
+https://stream.radiovlna.sk/rock-hi.mp3
+#EXTINF:-1,Rádio Vlna Golden Hits - Slovakia - Bratislava
+https://stream.radiovlna.sk/gold-hi.mp3
+#EXTINF:-1,Rádio Vlna Oldies Party - Slovakia - Bratislava
+https://stream.radiovlna.sk:8000/party-hi.mp3
+#EXTINF:-1,Radio WOW FM 106.7 - Slovakia - Trenčín
+https://radioserver.online:9816/radiowow.mp3
+#EXTINF:-1,Rádio_FM - Slovakia - Bratislava
+https://icecast.stv.livebox.sk/fm_128.mp3
+#EXTINF:-1,Slobodný vysielač - Slovakia - Banská Bystrica
+https://vysielanie.online/radio/8020/SV128.mp3
+#EXTINF:-1,Sub FM Rádio - Slovakia - Piešťany
+https://stream.subfm.sk/subfm
+#EXTINF:-1,TLIS Rádio - Slovakia - Bratislava
+https://stream.tlis.sk/tlis.mp3
+#EXTINF:-1,Top Rádio 97.2 FM - Slovakia - Bratislava
+https://solid1.streamupsolutions.com/proxy/vhhggmih/stream
+#EXTINF:-1,Trnavske Radio - Slovakia - Trnava
+https://solid33.streamupsolutions.com/proxy/mujdmamw/trnavske
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/felvidek-radio-597498-logo.jpg",Radio Felvidék Rádió
+http://s6.myradiostream.com:3088/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-zet-155717-logo.jpg",Radio ZET
+http://217.67.17.155:8000/radiozet_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jemne-melodie-radio-170825-logo.jpg",Jemne Melodie Radio
+http://www.jemnemelodie.sk:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-rock-171052-logo.jpg",Fun Radio Rock
+http://stream.funradio.sk:8000/rock128.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-love-songs-171053-logo.jpg",Fun Radio Love Songs
+http://stream.funradio.sk:8000/slow64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-hip-hop-rnb-171513-logo.jpg",Fun Radio Hip Hop & R'n'B
+http://stream.funradio.sk:8000/hiphop64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pulz-radio-620603-logo.jpg",Radio Pulz rádio
+http://194.160.236.132:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tv-zemplin-580310-logo.jpg",Radio TV Zemplin
+http://www.respublica.sk/?id=2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ta3-580415-logo.jpg",Radio TA3
+http://www.ta3.com/live.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtvs-r-klasika-582871-logo.jpg",Radio RTVS R Klasika
+http://www.rozhlas.sk/stream/klasika/klasika_256.ogg.m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rti-offshore-634282-logo.jpg",Radio RTI Offshore
+http://myradiostream.com/RTIGold
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zofka-rozpavky-634680-logo.jpg",Radio Zofka - rozpavky
+http://stream.radioservices.sk/rozpravky.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rogy-172461-logo.jpg",Radio Rogy
+http://78.24.9.110:9102/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-best-173315-logo.jpg",Radio Best
+http://217.73.17.42:8000/best.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rock-jam-radio-173574-logo.jpg",Rock Jam Radio
+http://217.73.17.75:8020/;
+#EXTINF:-1 tv-logo="",Radio Rock Jam Klasika
+http://217.73.17.75:8012/;
+#EXTINF:-1 tv-logo="",Radio Rock Jam Punk
+http://217.73.17.75:8016/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tvoje-radio-gold-8090-176814-logo.jpg",Tvoje Radio - Gold 80/90
+http://93.184.66.155:8600/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-3-rdio-devn-177999-logo.jpg",Radio SRo 3 R?dio Dev?n
+http://live.slovakradio.sk:8000/devin_256.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-4-rdio-fm-178034-logo.jpg",Radio SRo 4 R?dio FM
+http://live.slovakradio.sk:8000/fm_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mixing-of-particulate-solids-radio-3-577334-logo.jpg",Mixing of Particulate Solids Radio 3
+http://147.175.61.55:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sport-582593-logo.jpg",Radio Rádio Sport
+http://stream.radiosport.sk:8000/Sport64.mp3
+#EXTINF:-1 tv-logo="",Fun Radio Cafe Del Fun
+http://stream.funradio.sk:8000/cafe128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rachab-626955-logo.jpg",Radio Rádio Rachab
+http://70.35.201.123:7018/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/romske-melodie-628663-logo.jpg",Radio Rómske Melódie
+http://37.157.195.10:10978/;
+#EXTINF:-1 tv-logo="",Radio GIPSY SK - INTERNETOVÉ RÁDIO
+http://server1.gipsy.sk:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-slovakia-645539-logo.jpg",Radio Rádio Mária Slovakia
+http://dreamsiteradiocp5.com:8012/;
+#EXTINF:-1 tv-logo="",Magix Radio
+http://ighost.eu:4455/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/897-fm-hits-648201-logo.jpg",Radio 897 FM HITS
+http://streaming.live365.com/a90094
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-topolcany-logo.jpg",Radio Rádio Topoľčany
+http://80.242.44.249:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-fred-film-radio-logo.jpg",FRED FILM RADIO
+https://s10.webradio-hosting.com/proxy/fredradiosk/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-new-model-radio-logo.jpg",New Model Radio
+https://live-fsn1-hez.mixcloud.com/hls/10E247A7D25/1721359099/jOxZmd_RrCasdGSm8GzPhQ/631d24c1-ad89-40fd-8e74-0776b7e6f596/master.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-897-hits-radio-logo.jpg",897 HITS Radio
+https://c2.radioboss.fm:8425/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radiolokal-logo.jpg",Radio RádioLOKÁL
+https://mpc1.mediacp.eu/stream/radiolokal/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-fresh-radio-hip-hop-logo.jpg",Fresh Radio Hip-Hop
+http://164.68.122.137:8000/freshradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-fresh-radio-0-logo.jpg",Fresh Radio
+http://164.68.122.137:8002/;stream/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-sirava-vianoce-logo.jpg",Radio Rádio Šírava Vianoce
+https://stream.sepia.sk:8000/vianoce.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-romper-logo.jpg",Radio Romper
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC415.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-misiacik-logo.jpg",Radio Rádio Mišiačik
+https://stream.zeno.fm/7gi0z5uqrzbvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-vlna-top1000-hitov-logo.jpg",Radio Rádio Vlna Top1000 Hitov
+https://stream.radiovlna.sk:8000/top1000-hi.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-vega-logo.jpg",Radio Vega
+https://stream.sepia.sk:8000/vega128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-80-90-roky-180711-logo.jpg",Fun Radio 80 - 90 Roky
+http://stream.funradio.sk:8000/80-90-64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-danubius-180712-logo.jpg",Fun Radio Danubius
+http://stream.funradio.sk:8000/fun64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jemne-melodie-158848-logo.jpg",Radio Jemné Melódie
+http://stream.radioservices.sk:8001/jemne-lo.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro8-r-litera-183974-logo.jpg",Radio SRo8 R Litera
+http://live.slovakradio.sk:8000/litera_128.mp3
+#EXTINF:-1 tv-logo="",Radio Mixing of particulate solids 1
+http://147.175.61.250:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-live-571522-logo.jpg",Fun Radio Live
+http://stream.funradio.sk:8000/fun128.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hot-ac-station-159190-logo.jpg",Radio HOT AC STATION
+http://93.184.66.213:8200/
+#EXTINF:-1 tv-logo="",Radio Mixing of particulate solids 2
+http://147.175.84.38:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-aligator-165353-logo.jpg",Radio Aligator
+http://217.73.28.42:8000/aligator-128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tvoje-radio-na-zelanie-153574-logo.jpg",Tvoje Radio - Na Zelanie
+http://93.184.66.213:8300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/european-hit-radio-156635-logo.jpg",EUROPEAN HIT RADIO
+http://217.16.182.32:8000/wow96.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-wow-nizsia-kvalita-156636-logo.jpg",RADIO WOW /nizsia kvalita/
+http://play.radiowow.sk:8000/wow48.mp3
+#EXTINF:-1 tv-logo="",Radio Rock Jam Metal
+http://217.73.17.75:8014/;
+#EXTINF:-1 tv-logo="",Rock Jam HIty Radio
+http://217.73.17.75:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hornet-radio-174962-logo.jpg",Hornet Radio
+http://stream.hornetradio.fm:8000/hornet.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-2-rdio-regina-bratislava-178140-logo.jpg",Radio SRo 2 R?dio Regina Bratislava
+http://live.slovakradio.sk:8000/regina_ba_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tvoje-radio-pohodove-176813-logo.jpg",Tvoje Radio - Pohodove
+http://93.184.66.155:8500/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-7-rdio-klasika-178365-logo.jpg",Radio SRo 7 R?dio Klasika
+http://live.slovakradio.sk:8000/klasika_256.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-7-radio-klasika-166921-logo.jpg",Radio SRo 7 Rádio Klasika
+http://live.slovakradio.sk:8000/klasika_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tvoje-radio-dance-176276-logo.jpg",Tvoje Radio - Dance
+http://93.184.66.155:8400/;
+#EXTINF:-1 tv-logo="",radio.MAX
+http://mp3stream4.abradio.cz:8000/max64.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-novinky-180710-logo.jpg",Fun Radio Novinky
+http://stream.funradio.sk:8000/new128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-1-rdio-slovensko-182273-logo.jpg",Radio SRo 1 R?dio Slovensko
+http://live.slovakradio.sk:8000/slovensko_32.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/headbang-radio-161006-logo.jpg",Headbang Radio
+http://85.248.45.11:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-4-r-regina-kosic-183963-logo.jpg",Radio SRo 4 R Regina Kosic
+http://live.slovakradio.sk:8000/regina_ke_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-4-radio-fm-183968-logo.jpg",Radio SRo 4 Rádio FM
+http://live.slovakradio.sk:8000/fm_32.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-4-r-regina-bb-183964-logo.jpg",Radio SRo 4 R Regina B.B.
+http://live.slovakradio.sk:8000/regina_bb_32.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-5-r-patria-183967-logo.jpg",Radio SRo 5 R Patria
+http://live.slovakradio.sk:8000/patria_32.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-2-radio-regina-bratislava-183970-logo.jpg",Radio SRo 2 Rádio Regina Bratislava
+http://live.slovakradio.sk:8000/regina_ba_32.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro-3-radio-devin-183966-logo.jpg",Radio SRo 3 Rádio Devín
+http://live.slovakradio.sk:8000/devin_32.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-slovakia-international-183965-logo.jpg",Radio Slovakia International
+http://live.slovakradio.sk:8000/rsi_128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/crtv-radio-slovensko-161397-logo.jpg",CRTV Radio Slovensko
+http://67.212.189.126:80
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sro9-r-junior-184320-logo.jpg",Radio SRo9 R Junior
+http://live.slovakradio.sk:8000/junior_32.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-top-20-173109-logo.jpg",Fun Radio Top 20
+http://stream.funradio.sk:8000/top20128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-go-deejay-154535-logo.jpg",Radio GO DeeJay
+http://195.168.11.25:8000/live128

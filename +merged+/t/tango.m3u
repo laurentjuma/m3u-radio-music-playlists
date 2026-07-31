@@ -577,8 +577,6 @@ https://stream20.usastreams.com/8090/stream
 https://stm10.xcast.com.br:10818/;
 #EXTINF:-1,Eibiza EJET
 https://live.radio-eibiza.com:1205/stream
-#EXTINF:-1,Ocamonte Stéreo
-https:/http:/adiohd.streaminghd.co:7223/stream
 #EXTINF:-1,LibelulaChile.com señal 4 Tangos y algo más
 https://streaming.viphosting.cl:7126/;
 #EXTINF:-1,Tango Copenhagen Radio
@@ -653,3 +651,279 @@ https://radiotangouno-online.pl/radio/8000/radio.mp3
 https://stream.laut.fm/tango.m3u
 #EXTINF:-1,Tango Nuevo - 128 -  - tango - tango nuevo
 http://stream.laut.fm/tango-nuevo
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/130252.v1.png",Luna 9 Radio Digital 
+https://stream.zeno.fm/a2xbqnru7qdtv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/129967.v1.png",Serturim Tango Y Bolero 
+https://stream.zeno.fm/65ueneu5g2zuv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132263.v3.png",ODISEA online 
+https://streaming.evolucionstreaming.com/8254/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2023/12/76826.v4.png",Naxi Latino Radio 
+https://naxidigital-latino128ssl.streaming.rs:8232/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/101133.v6.png",Solsticio Radio 
+https://s01.digitalserver.org:7047/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/82702.v30.png",Radio Fantasma 
+http://109.169.15.16:12266/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/86042.v2.png",Radio Nueva Aurora Miramar 
+http://78.129.139.48:8387/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/125536.v22.png",mundo comunicadores RADIO PARA EL RECUERDO 
+https://stream.zeno.fm/rueattdzdtytv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/69519.v3.png",Bohemia Stereo 
+http://199.180.75.2:10201/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/02/116809.v10.png",Caracol Radio Sevilla 
+https://streaming.intermediacolombia.com:8047/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8G1MIQ.png",Argentine Tango Radio
+http://streaming2.argentinetangoradio.com/2202_128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EOIBFS.png",Argentine Tango Radio
+https://listen.argentinetangoradio.com
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WKMF10.png",FREQUENCY5FM  - Tango
+https://usa13.fastcast4u.com/proxy/frequency5fm7?mp=/1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YXCQNP.png",Radio Tango Copenhagen
+https://stream.laut.fm/tangocopenhagen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/K4OY3J.png",Tango Pasion Radio
+https://nr11.newradio.it/proxy/tangopas?mp=/stream&1591211414792
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AX6TOZ.png",UltimateRadioTangoandOthers
+https://stream.zeno.fm/svzxw6v1ra0uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89487/logo_lCqxpsV25N.png",Radio Centro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/73537/logo_68ZtegErHe.png",Colombia Bohemia Radio
+https://play10.tikast.com/proxy/colbohemia?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/72736/logo_MBLZVMyIk2.png",La voz de antioquia Radio
+https://radio35.virtualtronics.com/proxy/lavozantioquia?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/73273/logo_Usigcax5Kl.png",Bolero y Más Radio
+http://108.59.11.81:10027/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/55032/logo_CV2CH8PK1X.png",El Observador Radial Radio
+https://streaming5.locucionar.com/proxy/elobservadorradial?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36375/logo_zlyVmJ92sk.png",Gdynia Radio
+http://51.255.8.139:8064/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/90510/logo_ZcO1VhBF52.png",Miled Music Carlos Gardel Radio
+https://miledmusic201-cybertec.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/55169/logo_EvcVBL6uiJ.png",Conexión Garden Radio
+https://argentina.republicahosting.com:1092/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/55274/logo_gOpqAMbOMn.png",Radio Galas
+https://sslstream.online/8450/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/90702/logo_UNFBQzGEa9.png",Solsticio Radio
+https://s01.digitalserver.org:7047/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/55131/logo_zxPXR4Io5O.png",ARGay Radio
+http://argay.duckdns.org/listen/argay_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/55236/logo_nwPodD2MD0.png",R.s.t.1 - Radio Libertador
+https://sonicpanel.hostradios.com/8024/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54566/logo_lxyUPAVP0W.png",Radio General Belgrano
+https://streaming2.locucionar.com/proxy/radiowall1?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/73617/logo_yFggNClsUS.png",Radio Tango.co
+https://stream.zeno.fm/g20s371e508uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54733/logo_zxeJd5KOrL.png",Espacial 93.3 Radio
+http://stream.zeno.fm/c10md5n4zf9uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54419/logo_AFXrwFcumd.png",Radio Malena
+https://playerservices.streamtheworld.com/api/livestream-redirect/MALENAAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/98330/logo_eZezlGhG9D.png",Radio Charrua USA
+http://cast6.my-control-panel.com:9377/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52353/logo_eq3ORWqsW8.png",Radio Art - Tango
+https://air.radioart.com/fTango.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54971/logo_AUmi4iylS6.png",AntiK FM Radio
+https://streaming6.locucionar.com:24378/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/55162/logo_Ba6oYvmHbU.png",Cadena AM 1470 Radio
+https://sonicpanel.hostradios.com/8060/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54604/logo_YWhLRNtNDe.png",Radio Hache
+https://icecasthd.net/proxy/radiohache/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/54912/logo_dp7ujKqs9Q.png",Todo Argentino Radio
+https://stm17.voxhd.com.br:9298/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35696/logo_4N3YU5KED0.jpg?v=20260529-media-restore",Argentine Tango
+https://ais-sa2.cdnstream1.com/2202_128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54912/logo_fp3ivpHrEf.jpg?v=20260529-media-restore",Todo Argentino
+https://stm17.voxhd.com.br:9298/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/73273/logo_pIQGjAYMqy.jpg?v=20260529-media-restore",Bolero y Más
+http://108.59.11.81:10027/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/74745/logo_b9981DUaQ1.jpg?v=20260529-media-restore",Montañera Stereo
+https://app0102.sonicpanelradio.com:8448/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31546/logo_NWDFqCHEqa.jpg?v=20260529-media-restore",Tango nuevo
+https://tango-nuevo.stream.laut.fm/tango-nuevo
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32874/logo_nzif66R49d.jpg?v=20260529-media-restore",Tango Radio Berlin
+https://tango.stream.laut.fm/tango
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36375/logo_vqJwViVQo6.jpg?v=20260529-media-restore",Gdynia Radio
+http://51.255.8.139:8064/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26530/logo_bwVkEe7jdT.jpg?v=20260529-media-restore",Lunar Horse
+https://stream.laut.fm/lunarhorse
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54678/logo_9jbA6iDCaI.jpg?v=20260529-media-restore",Hechos de Tango Radio Online
+https://argentina.republicahosting.com:1376/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76138/logo_olvONKiGlX.jpg?v=20260529-media-restore",Radio Viva
+https://streamingecuador.net:8132/radioviva
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/74626/logo_Zv4GfFMZIN.jpg?v=20260529-media-restore",Radio Nariño
+https://stream.zeno.fm/8ewqw7vbd2zuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55032/logo_Z9l8Z3TAjM.jpg?v=20260529-media-restore",El Observador Radial
+https://streaming5.locucionar.com/proxy/elobservadorradial?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52353/logo_nJTmyoESSp.jpg?v=20260529-media-restore",Radio Art - Tango
+https://air.radioart.com/fTango.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54266/logo_OwGh2d1uLZ.jpg?v=20260529-media-restore",Radio Meridiano
+https://media425.digitar.net:8051/fmmeridiano.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54738/logo_iIIwVGz2eP.jpg?v=20260529-media-restore",NaranjoFM
+http://radio02.ferozo.com:9000/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/73537/logo_RYGqk3khHu.jpg?v=20260529-media-restore",Colombia Bohemia
+https://play10.tikast.com/proxy/colbohemia?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55149/logo_1wJaCL99Oo.jpg?v=20260529-media-restore",FM Popular Salta
+https://emisora.radiosplay.com.ar/8194/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90510/logo_SVwlPxm4cg.jpg?v=20260529-media-restore",Miled Music Carlos Gardel
+https://miledmusic201-cybertec.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55162/logo_MQwOgMA5l9.jpg?v=20260529-media-restore",Cadena AM 1470
+https://sonicpanel.hostradios.com/8060/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/39747/logo_LEpnPtkFPQ.jpg?v=20260529-media-restore",Tango Pasión Radio
+https://nr1.newradio.it:19180/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/91489/logo_EDuE0UzkA1.jpg?v=20260529-media-restore",Tatas Radio
+https://stream.zeno.fm/r5810fkdwzzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27955/logo_iZIt5l9bDJ.jpg?v=20260529-media-restore",Radio Tango para Bailar
+https://tangoparabailar.stream.laut.fm/tangoparabailar
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55236/logo_2PaZeMURj1.jpg?v=20260529-media-restore",R.s.t.1 - Radio Libertador
+https://sonicpanel.hostradios.com/8024/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55169/logo_i00cWm2MvF.jpg?v=20260529-media-restore",Conexión Garden
+https://argentina.republicahosting.com:1092/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54419/logo_6a8A6VYTnW.jpg?v=20260529-media-restore",Radio Malena
+https://playerservices.streamtheworld.com/api/livestream-redirect/MALENAAAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95508/logo_GLGZ52fysk.jpg?v=20260529-media-restore",Big R Radio - Latin Tango
+https://bigrradio.cdnstream1.com/5232_128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55131/logo_F4fdRaLz5g.jpg?v=20260529-media-restore",ARGay Radio
+http://argay.duckdns.org/listen/argay_radio/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/73617/logo_0VgIU9QfsK.jpg?v=20260529-media-restore",Radio Tango.co
+https://stream.zeno.fm/g20s371e508uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54566/logo_AakQk6n0Ut.jpg?v=20260529-media-restore",Radio General Belgrano
+https://streaming2.locucionar.com/proxy/radiowall1?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90720/logo_dvz9w7TKcq.jpg?v=20260529-media-restore",Radio Tecámac
+https://stream.zeno.fm/nu706dte508uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/65001/logo_U4gcBZ2Wf5.jpg?v=20260529-media-restore",Babel FM
+https://radios.iwstreaming.uy/8030/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/72736/logo_wIpRBgDf9F.jpg?v=20260529-media-restore",La voz de antioquia
+https://radio35.virtualtronics.com/proxy/lavozantioquia?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/89487/logo_mBqtyp6HKW.jpg?v=20260529-media-restore",Radio Centro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55274/logo_XriOvfKi97.jpg?v=20260529-media-restore",Radio Galas
+https://sslstream.online/8450/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32472/logo_rFztY4Dnmb.jpg?v=20260529-media-restore",Tanz-Radio
+https://tanz-radio.stream.laut.fm/tanz-radio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55155/logo_IUfqTjebdL.jpg?v=20260529-media-restore",Radio Comrade
+https://stream.zeno.fm/uruxsz7ckr6tv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31500/logo_cLD6eThU5P.jpg?v=20260529-media-restore",Burlesque
+https://burlesque.stream.laut.fm/burlesque
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54517/logo_DthZA9iAs0.jpg?v=20260529-media-restore",Radio Conexion Web
+https://stream.zeno.fm/mquayp06p48uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/72501/logo_h868AdAWuJ.jpg?v=20260529-media-restore",Caracol Radio Sevilla
+https://panel1.intermediahost.co:8050/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54604/logo_JcrWDksyoN.jpg?v=20260529-media-restore",Radio Hache
+https://icecasthd.net/proxy/radiohache/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/64968/logo_VvkkXMOLEu.jpg?v=20260529-media-restore",Clarin AM580
+https://radioclarin-zikoxweb.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/74237/logo_LLgAOo3tPq.jpg?v=20260529-media-restore",America Stereo.Net Ídolos Del Pueblo
+https://stream.zenolive.com/3yuyec46uxquv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54733/logo_3c3cpEtUmR.jpg?v=20260529-media-restore",Espacial 93.3
+http://stream.zeno.fm/c10md5n4zf9uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98330/logo_5xOgtT5Qrr.jpg?v=20260529-media-restore",Radio Charrua USA
+http://cast6.my-control-panel.com:9377/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54521/logo_tSKeyuAXMl.jpg?v=20260529-media-restore",Fm Raices Alvear
+https://stream.zeno.fm/hx5p31ge0d0uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100503/logo_r6jT71DeTU.jpg?v=20260529-media-restore",Luna 9 Radio Digital
+https://stream.zeno.fm/a2xbqnru7qdtv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54740/logo_SH0M2FLODE.jpg?v=20260529-media-restore",Radiofusion 102.5
+http://server.laradio.online:8304/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54251/logo_xbDPTwHz9b.jpg?v=20260529-media-restore",Radio La Punta
+https://streaming01.shockmedia.com.ar:10923/stream?icy=http
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55154/logo_4ST78mJ3XQ.jpg?v=20260529-media-restore",ODISEA online
+https://streaming.evolucionstreaming.com/8254/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100103/logo_NF9QuGA4kL.jpg?v=20260529-media-restore",Bohemia Dominicana Radio
+https://stream.zeno.fm/80d00yxrf5zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-centro-185265-logo.jpg",Radio Centro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-galas-logo.jpg",Radio Galas
+http://audio.questreaming.com:25859/;?_=0.6471221755422445
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-cadena-maxima-logo.jpg",Radio Cadena Máxima
+http://01.solumedia.com.ar:8374/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/calm-radio-latin-590194-logo.jpg",Calm Radio - Latin
+http://streams.calmradio.com/api/243/128/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miled-music-tango-598331-logo.jpg",Radio Miled Music Tango
+http://192.99.34.205:8240/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/reportango-radio-609926-logo.jpg",ReporTango Radio
+http://206.190.130.182:8088/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/viceversaradio-612610-logo.jpg",ViceVersaRadio
+http://s9.myradiostream.com:4396/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-de-tango-591746-logo.jpg",Radio De Tango
+http://fine.entic.net:8000/tango.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tango-en-ibiza-radio-647226-logo.jpg",Tango en Ibiza Radio
+http://protostar.shoutca.st:8517/stream/1/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tango-fm-636409-logo.jpg",Radio Tango FM
+http://51.89.134.48:9320/;stream.mp3
+#EXTINF:-1 tv-logo="",Radio Tiempos Viejos
+http://67.20.53.180:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-impacto-tigre-590824-logo.jpg",Radio Impacto Tigre
+http://www.fmimpactotigre.com.ar/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lv11-593635-logo.jpg",Radio LV11
+http://195.154.182.222:25272/live?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/calm-radio-bachata-595375-logo.jpg",Calm Radio - Bachata
+http://streams.calmradio.com/api/389/128/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/calm-radio-merengue-595493-logo.jpg",Calm Radio - Merengue
+http://streams.calmradio.com/api/383/128/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/guajira-radio-605370-logo.jpg",Guajira Radio
+http://01.solumedia.com.ar:8252/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/malena-891-606017-logo.jpg",Radio Malena 89.1
+http://vivo.radioam750.com.ar:8000/vivofm.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/salonmalaga-612619-logo.jpg",Radio Salonmalaga
+http://s23.myradiostream.com:8596/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tangozone-612901-logo.jpg",Radio TangoZone
+https://stream.radio.co/s1cf78283a/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/exiliados-radio-617931-logo.jpg",Exiliados Radio
+http://136.243.130.139:9333/mystream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/doble-a-radio-629544-logo.jpg",Doble A Radio
+http://79.137.68.42:9608/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiotango-rosario-630810-logo.jpg",Radiotango Rosario
+http://www.radiotangorosario.com.ar:8000/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gardel-radio-639136-logo.jpg",Gardel Radio
+http://147.135.11.82:9902/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm-espacial-641587-logo.jpg",Radio FM Espacial
+http://181.166.51.50:8005/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tangoco-602074-logo.jpg",Radio Tango.co
+http://stream.aerstreaming.com:3256/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gdynia-radio-640459-logo.jpg",Gdynia Radio
+http://51.255.8.139:8064/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-calm-radio-tango-logo.jpg",Calm Radio Tango
+https://calmradio.com/channel-guide/world-music
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-malena-logo.jpg",Radio Malena
+https://playerservices.streamtheworld.com/api/livestream-redirect/MALENAAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-bohemia-stereo-logo.jpg",Radio Bohemia Stereo
+http://199.180.75.2:10201/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mx-solsticio-radio-logo.jpg",Solsticio Radio
+https://s01.digitalserver.org:7047/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-charrua-usa-logo.jpg",Radio Charrua USA
+http://cast6.my-control-panel.com:9377/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-todo-argentino-logo.jpg",Radio Todo Argentino
+https://stm17.voxhd.com.br:9298/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rs-naxi-latino-radio-logo.jpg",Naxi Latino Radio
+https://naxidigital-latino128ssl.streaming.rs:8232/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-2014radio-logo.jpg",2014radio
+http://162.210.196.140:30351/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-radio-fantasma-logo.jpg",Radio Fantasma
+http://109.169.15.16:12266/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-hache-logo.jpg",Radio Hache
+https://server.ohradio.com.ar:7036/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-art-tango-613549-logo.jpg",Radio Art - Tango
+http://air.radioart.com/fTango.mp3?dlid=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-mundo-comunicadores-logo.jpg",Radio mundo comunicadores
+https://stream.zeno.fm/cvosnjytkidvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-antik-fm-logo.jpg",Radio AntiK FM
+https://stream.sistemaultra.com.ar:18050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-radio-tombolina-fm-logo.jpg",Radio Tombolina Fm
+http://uk15freenew.listen2myradio.com:15867/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-bolero-y-mas-logo.jpg",Radio Bolero y Más
+http://108.59.11.81:10027/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-argay-radio-logo.jpg",ARGay Radio
+https://argay.duckdns.org/listen/argay_radio/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/co-la-surenita-bucaramanga-logo.jpg",Radio La Sureñita Bucaramanga
+https://stream.zeno.fm/hhj6kg0hqyzvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/calm-radio-bossa-nova-595494-logo.jpg",Calm Radio - Bossa Nova
+http://streams.calmradio.com/api/307/128/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-bocina-radio-613759-logo.jpg",La Bocina Radio
+http://01.solumedia.com.ar:7109/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-futura-590681-logo.jpg",Radio Futura
+http://streamer.fmfutura.com.ar:8000/vivo.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-caprice-ballroom-dance-599959-logo.jpg",Radio Caprice BALLROOM DANCE
+http://79.111.14.76:9089/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-caribe-166495-logo.jpg",Radio Caribe
+http://198.50.154.235:10248/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lrt-809-elite-fm-1015-and-online-general-cabrera-583788-logo.jpg",Radio LRT 809 Elite FM 101.5 & Online - General Cabrera
+http://23.111.188.219:8548/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-wtango-587919-logo.jpg",Radio Wtango
+http://200.43.192.20:8020/;

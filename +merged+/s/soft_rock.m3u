@@ -2261,8 +2261,6 @@ http://162.251.160.2:80/stream/1
 http://50.23.115.122:8458/stream/1
 #EXTINF:-1,Lightradio Gr
 http://zlin1.yourstreamnow.com/tunein.php/lightrad/stream/1playlist.pls
-#EXTINF:-1,Gi Live Radio
-Title1=http://:8060
 #EXTINF:-1,Delph Christian Radio
 http://64.150.176.42:8326/stream/1
 #EXTINF:-1,The Willow Online Radio - Continuous Soft Rock
@@ -3565,8 +3563,6 @@ http://mp3uplink.duplexfx.com:8038/stream/1
 http://23.29.123.98:8430/stream/1
 #EXTINF:-1,The Mix Rock
 http://67.212.174.226:10011/stream/1
-#EXTINF:-1,Otticfm Ottic Ottic De Alternative Alternative Rock Chillout Drum And Bass Elect
-                    http://radioadmin.laut.fm/otticfm
 #EXTINF:-1,Rock And Talk Radio
 http://gold.neostreams.info:11124/stream/1
 #EXTINF:-1,The Decade Classic Rock Pop All Decades
@@ -3817,8 +3813,6 @@ http://173.192.48.97:8327/stream/1
 http://69.175.13.132:8120/stream/1
 #EXTINF:-1,Mcc24 Rock Caf
 http://85.214.123.88:15000/stream/1
-#EXTINF:-1,Tbfm Online Rock And Metal Radio
-Title1=http://:8830
 #EXTINF:-1,Kmi Rock
 http://station.voscast.com/4dd01e791c72a/ 
 #EXTINF:-1,Party At Dans Rock Radio
@@ -5569,8 +5563,6 @@ https://bp.koenig.ru:8443/Baltic_Plus_mp3_128.mp3
 https://edge67.live-sm.absolutradio.de/absolut-relax
 #EXTINF:-1,80s Radio Hits
 https://stream-043.zeno.fm/05eu8medd3quv?zs=Oqujr6kGRKSFxA9qzXe0Mw
-#EXTINF:-1,R.SA Live
-https:/http:/sa.streamabc.nethttp:/egc-rsasachsenlive9335717-mp3-128-2111550?sABC=65097043%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695117379
 #EXTINF:-1,1.FM - America&#039;s Best Ballads Radio
 https://strmreg.1.fm/onelive_mobile_mp3
 #EXTINF:-1,Exclusively Led Zeppelin
@@ -5585,34 +5577,22 @@ https://hitfm-softrock00.hostingradio.ru/softrock0096.aacp
 https://ec4.yesstreaming.net:3025/stream
 #EXTINF:-1,181.FM Yacht Rock
 https://listen.181fm.com/181-yachtrock_128k.mp3
-#EXTINF:-1,R.SH Gold
-https:/http:/egiocast.streamabc.nethttp:/egc-rshgold7904518-mp3-128-8746121?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,181.FM The Office
 https://listen.181fm.com/181-office_128k.mp3
 #EXTINF:-1,Romantic Radio
 https://c5.auracast.net/listenhttp:/omantic_radiohttp:/adio.mp3
-#EXTINF:-1,R.SH 80er
-https:/http:/egiocast.streamabc.nethttp:/egc-rsh80er1596559-aacplus-64-4561189?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,Radio Brocken 80er
 https://fhhalle.streamabc.net/fhhal-brocken80er-aacplus-64-6017182?sABC=650973n7%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118247
 #EXTINF:-1,Music Radio
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10764&type=s1
 #EXTINF:-1,Wice QFM
 https://sonic01.instainternet.com/8306/stream
-#EXTINF:-1,R.SH 90er
-https:/http:/egiocast.streamabc.nethttp:/egc-rsh90er7223860-mp3-128-9222805?sABC=650973n6%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118246
 #EXTINF:-1,RADIO CROMA la retro
 https://stream-058.zeno.fm/468snhg22yzuv?zs=qEOd6pF_SnO9BxObIES9gw
-#EXTINF:-1,R.SH Weihnachtshits
-https:/http:/egiocast.streamabc.nethttp:/egc-rshevent025770572-mp3-128-6273256?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,Antyradio Ballads
 https://an02.cdn.eurozet.pl/ANTBAL.mp3
 #EXTINF:-1,Jags Rock Music Radio
 https://stream-021.zeno.fm/q3mskdkgg6quv?zs=LSz9j7ZqTQKgto1wK71PSg
-#EXTINF:-1,Metro Love Radio
-https:/http:/adio.jump.bg/proxy/msrrrelay?mp=/service
-#EXTINF:-1,Spreeradio Livestream
-https:/http:/tlberlin.streamabc.nethttp:/tlb-spreeradiolive-mp3-128-6206893?sABC=64480q77%230%23n1q9s1ns4osoonq326452q0po510q6pp%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1682443639
 #EXTINF:-1,Classic Hits 109 - Soft Rock
 https://broadcast.classichits109.com/softrock
 #EXTINF:-1,Montreal&#039;s Soft Rock – 1Radio.ca
@@ -5625,16 +5605,12 @@ https://hitfm-softrock90.hostingradio.ru/softrock9096.aacp
 https://stream-148.zeno.fm/h3wyzqx91mruv?zs=sNY8lFNmSDOeVRTmxjsDrg
 #EXTINF:-1,BestNetRadio - Love Channel
 https://bigrradio.cdnstream1.com/5161_128
-#EXTINF:-1,Radio Bob! BOBs Rock Hits
-https:/http:/egiocast.streamabc.nethttp:/egc-radiobobrockhits4737502-mp3-192-8003058?sABC=65097371%230%234r22236104s8nr3n29rss56oo6qo07n6%23ubzrcntr&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1695118193
 #EXTINF:-1,Radio Paradise Mellow Mix
 https://stream.radioparadise.com/mellow-320
 #EXTINF:-1,Radio Andy
 https://stream-067.zeno.fm/w6tqbtdvt4zuv?zs=IFjAmZnTT1mD3wPOGTtwYw
 #EXTINF:-1,Rádio Só Kakarecos Classic Rock
 http://sokakarecos.ddns.net:9030http:/ock128
-#EXTINF:-1,Love FM San Marino
-http:/http:/h.fluidstream.eu/lovefm.mp3
 #EXTINF:-1,Радио Maximum - Soft
 https://maximum-soft.hostingradio.ru/maxsoft96.aacp
 #EXTINF:-1,VanCity Radio Love
@@ -5645,8 +5621,6 @@ https://mettaswara.com:8700/slowrock
 https://live.powerhitz.com/officemix
 #EXTINF:-1,Exclusively Foreigner
 https://streaming.exclusive.radio/er/foreigner/icecast.audio
-#EXTINF:-1,R.SA - Oldie-club
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenoldies7771147-mp3-128-2949639?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,Exclusively Oasis
 https://streaming.exclusive.radio/er/oasis/icecast.audio
 #EXTINF:-1,Exclusively Journey
@@ -5657,22 +5631,16 @@ https://stream.mediasector.eshttp:/adio/8060http:/ockstar.mp3
 https://scoopinlove.ice.infomaniak.chhttp:/adioscoop-inlove-64.aac
 #EXTINF:-1,Totally Radio Easy
 https://19273.live.streamtheworld.com:443/T_RAD_EASY_S01AAC.aac
-#EXTINF:-1,R.SA - Maxis Maximal
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenmaxis7484300-mp3-128-3629145?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,105.5 The River
 https://prod-54-234-185-32.wostreaming.net/alphacorporate-krbifmaac-imc4?session-id=8ed8ff68a57c5dcd5d58ac24623345d7
 #EXTINF:-1,SK-Radio
 https://a8.radioheart.ru:9003/sk-radio
-#EXTINF:-1,Radio Bob! BOBs Kuschelrock
-https:/http:/egiocast.streamabc.nethttp:/egc-radiobobkuschelrock7157763-mp3-192-3881289?sABC=65097372%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118194
 #EXTINF:-1,013FM
 https://26513.live.streamtheworld.com:443/013_FMAAC.aac
 #EXTINF:-1,Virage Radio
 https://virageradio.ice.infomaniak.ch/virageradio-high.aac
 #EXTINF:-1,Hola FM
 https://stream-040.zeno.fm/2rvehvscwp8uv?zs=AHXD1_VpTQWu2ZGAB9Z8xw
-#EXTINF:-1,Radio Bob! BOBs Deutsch Rock
-https:/http:/egiocast.streamabc.nethttp:/egc-radiobobdeutschrock9978490-mp3-192-9333326?sABC=65097372%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118194
 #EXTINF:-1,MAGIC FM
 https://magicfm.stream.laut.fm/magicfm?ref=web-app&t302=2023-04-25_20-00-47&uuid=1f888bbe-59fb-430f-9b3d-cf8b1bb5038c
 #EXTINF:-1,Radio IRaBo - Dein Inselradio
@@ -5681,26 +5649,16 @@ https://server4.streamserver24.com:43545/stream
 https://void.idserverhost.com:8016/stream
 #EXTINF:-1,Radio Art - Folk &amp; Soft Rock
 http://air.radioart.com/fFolk_and_soft_rock.mp3?dlid=
-#EXTINF:-1,Radio Bob! BOBs Singer &amp; Songwriter
-https:/http:/egiocast.streamabc.nethttp:/egc-radiobobsingersong8920377-aacplus-64-8886515?sABC=65097372%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118194
-#EXTINF:-1,R.SA - Das Schnarchnasenradio
-https:/http:/sa.streamabc.nethttp:/egc-rsasachseneinschlaf1882929-mp3-192-1689958?sABC=65097550%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118672
 #EXTINF:-1,iradio.one - 80&#039;s channel
 http://a.streamsin.space:8000/80s
 #EXTINF:-1,WECK Radio
 https://prod-3-95-164-114.wostreaming.nethttp:/adioonebuffalo-weckamaac-ibc3
-#EXTINF:-1,R.SA - Rockzirkus
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenrockzirkus8440598-mp3-128-3072380?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,Exclusively Huey Lewis &amp; The News
 https://streaming.exclusive.radio/er/hueylewis/icecast.audio
-#EXTINF:-1,R.SA - Weihnachtsradio
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenevent017364573-mp3-128-6343895?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,Rock Central
 https://stream-148.zeno.fm/v3w906xbya0uv?zs=l-PT97v9SUaJ26byrwXjiw
 #EXTINF:-1,K-SUN66-WESTCOAST
 https://stream-154.zeno.fm/5z051g35enruv?zs=8_poGuayTbu6Nraop14OPg
-#EXTINF:-1,Radio BOB! Der Dunkle Parabelritter
-https:/http:/egiocast.streamabc.nethttp:/egc-radiobobdunklepritter8866343-mp3-192-1775553
 #EXTINF:-1,LFM Love
 https://webradio0010.ice.infomaniak.ch/webradio0010-128.mp3
 #EXTINF:-1,Radio Dada
@@ -5741,8 +5699,6 @@ https://stream.votreradiosurlenet.euhttp:/adioaria.mp3
 https://streamdb7web.securenetsystems.net/v5/index.cfm?stationCallSign=KCNB
 #EXTINF:-1,Radio Kyklos
 https://c30.radioboss.fm:18299/stream
-#EXTINF:-1,R.SA - Event 101
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsen1017642883-aacplus-64-7268914?sABC=65097550%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118672
 #EXTINF:-1,Easy Dr Hook
 https://streaming.exclusive.radio/uber/easydrhook/icecast.audio
 #EXTINF:-1,Classic 100
@@ -5757,8 +5713,6 @@ https://cast1.asurahosting.com/proxy/themountain/stream
 https://epanel.mediacp.eu:7019/stream
 #EXTINF:-1,KBFL FM
 https://ais-sa1.streamon.fm/7680_48k.aac/playlist.m3u8
-#EXTINF:-1,CHUP &quot;Soft Rock 97.7&quot; Calgary, AB
-http:/http:/awlco.leanstream.co/CHUPFM-MP3
 #EXTINF:-1,Радио Spinner - Soft Rock
 https://live.radiospinner.com/sftrck-96
 #EXTINF:-1,Еўрарадыё - Soft Rock
@@ -5771,8 +5725,6 @@ https://drive.uber.radio/uber/gigsfleetwoodmacdirestraitsinxs/icecast.audio
 https://aovivord102fm.rbsdirect.com.br/streams/hls/ita_poa/ita_poa-32000.m3u8
 #EXTINF:-1,Éxtasis Digital (Guadalajara) - 105.9 FM - XHQJ-FM - Radiorama - Guadalajara, JC
 http://192.99.16.17:3414/;
-#EXTINF:-1,__12PUNKS.FM__ by rautemusik (rm.fm)
-https:/http:/autemusik-de-hz-fal-stream14.radiohost.de/12punks?ref=radiobrowser
 #EXTINF:-1,Town 102
 https://ec5.yesstreaming.net:3955/stream
 #EXTINF:-1,Mar FM (Veracruz) - 99.7 FM - XHPB-FM - Grupo FM Multimedios - Veracruz, VE
@@ -5781,18 +5733,10 @@ http://ic.streann.com:8000/marfm
 https://0n-rock.radionetz.de/0n-rock.mp3
 #EXTINF:-1,Éxtasis Digital (Cuernavaca) - 107.7 FM - XHASM-FM - Radiorama - Cuernava, MO
 https://server3.sit-mexico.com:2199/proxy/grupobp?mp=/;
-#EXTINF:-1,Radio Linea Drive
-https:/http:/blive.it:8100http:/adio.mp3
-#EXTINF:-1,DrGnu - Rock Hits
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobrockhits4737502-mp3-192-8003058?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - 80th Rock
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobob80srock2115424-mp3-192-2080682?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
 #EXTINF:-1,Yacht Rock (fadefm.com) 64k aac+
 http://ec4.yesstreaming.net:3110/stream
 #EXTINF:-1,Office Mix (fadefm.com) 64k aac+
 http://ec2.yesstreaming.net:2490/stream
-#EXTINF:-1,__ROCK__ by rautemusik (rm.fm)
-https:/http:/autemusik-de-hz-fal-stream15.radiohost.dehttp:/ock?ref=radiobrowser
 #EXTINF:-1,CKZM 94.1 &quot;myFM&quot; St. Thomas, ON
 https://0n-softrock.radionetz.de/0n-softrock.aac
 #EXTINF:-1,Soft Rock
@@ -6015,3 +5959,1037 @@ http://air-tunein.radioart.com/fFolk and soft rock.mp3
 http://air.radioart.com/fFolk and soft rock.mp3
 #EXTINF:-1,Radio Art - Soft Rock & Folk - 96 - Greece - folk - folk music - music - rock - soft rock
 https://air.radioart.online/fFolk and soft rock.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/445.png",99-7 The Mix
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFMBFMAAC.aac?starttime=1756736803
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/539.png",Hot 103.3 FM
+https://fmradiohub.in/radio?url=http://playerservices.streamtheworld.com/api/livestream-redirect/KBIUFM.mp3?dist=onlineradiobox
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/968.png",Soft Rock 106.5 FM
+https://fmradiohub.in/radio?url=http://crystalout.surfernetwork.com:8001/WBMW_MP3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1644.png",Easy 102.9
+https://ad-oom-cmg.streamguys1.com/jac1065/jac1065-sgplayer-aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1722.png",The Mix 93 - WKMJ-FM 93.5
+https://fmradiohub.in/radio?url=http://audio.pasty.net:8000/mix93
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2699.png",The Breeze 105.9 FM - KBZE
+https://fmradiohub.in/radio?url=http://us2.maindigitalstream.com:7477/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/2780.png",WIRE - Radio Mom 91.1
+https://fmradiohub.in/radio?url=http://www.ophanim.net:7110/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3177.png",WNBI-LP
+https://fmradiohub.in/radio?url=http://wnbi.org:8000/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4133.png",WBNL
+https://fmradiohub.in/radio?url=http://wbnl-stream.neighborhoodca.com:8000/wbnl
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4452.png",Radio 9 WCME
+https://fmradiohub.in/radio?url=http://janus.cdnstream.com:8082/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4502.png",Sunny 99.7 FM 
+https://live.amperwave.net/direct/alphamidwest-kxftfmaac-ibc2?source=TuneIn&us_privacy=1YNY
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4884.png",Mix 107.9 FM - WFMX
+https://fmradiohub.in/radio?url=http://stream.radio.co/s5c993fa61/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6740.png",Kaleidophonics Radio Network
+https://fmradiohub.in/radio?url=http://192.211.51.158:5020/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/64342509.png",The River 105.5 FM - KRBI-FM
+https://live.amperwave.net/direct/alphacorporate-krbifmaac-imc4
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7438.png",Warm 101.3
+https://ice23.securenetsystems.net/WRMM?playSessionID=1FE0778B-E742-E419-B067003C574D08A7
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7716.png",Smooth Rock 93.5
+https://ice1.securenetsystems.net/DEMOSTN?playSessionID=5CD5A451-EC5D-8B9A-D0FED38F111E64DA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/9140.png",99.7 Jack FM - KSIT
+https://ice9.securenetsystems.net/KSIT?playSessionID=77D9C199-05A4-182D-20B88110E59B2314
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10477.png",95.3 The Gorilla
+https://ice42.securenetsystems.net/WZNF?playSessionID=2ADDEA75-E0E3-35FF-07D3A498AD6B9A16
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10591.png",Radio Sunny107
+https://ice10.securenetsystems.net/KKRB?playSessionID=53201DAF-CD82-8BA4-87883B34761869A4
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/53682384.jpg",98.7 the Dove
+https://ais-sa1.streamon.fm/7677_48k.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/64008411.jpg",Hot 103.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBIUFM.mp3?dist=radioly
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41151453.jpg",Lake 94.7 - WYLK
+https://ice6.securenetsystems.net/WYLK?playSessionID=708464FC-ED57-61F0-2B191D2B41EAE869
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/117208626.jpg",Highway 104.7 FM - WJSH
+https://ice41.securenetsystems.net/WJSH?playSessionID=DB01DBB3-BE5F-4349-92FB72BCD0464728
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3100118.jpg",KCLY 100.9 FM
+https://19003.live.streamtheworld.com/KCLYFM.mp3?dist=radioly
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/18482.png",Yimago Radio 3 | Lite Rock
+https://fmradiohub.in/radio?url=http://mediaradio.com/pop1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19695.png",Feeling FM 
+https://fmradiohub.in/radio?url=http://turadioenvivo.com:8430/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30974.png",Radio Futura
+https://fmradiohub.in/radio?url=http://5.135.183.124:8041/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34556.png",La Cible Radio
+https://streaming.radionomy.com/La-Cible-Radio?tsUid=ed88a8ca-0925-4dd6-b4f6-7705e74edcb4&amplang=ru-RU%2cru%3bq%3d0.9%2cen-US%3bq%3d0.8%2cen%3bq%3d0.7&ampad=radiono5&ampextReferer=http%3a%2f%2fwww.lacibleradio.net%2flecteur.htm&ampuserref=ed88a8ca-0925-4dd6-b4f6-770
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35485.png",Radio Aria 
+https://fmradiohub.in/radio?url=http://91.121.62.121:9410/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36548.png",Radio Irabo - Inselradio Borkum
+https://s10.streamingcloud.online:13192/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37200.png",Trauerradio
+https://fmradiohub.in/radio?url=http://trauerradio.stream.laut.fm/trauerradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38744.png",Love FM San Marino 
+https://rh.fluidstream.eu/lovefm.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43223.png",Ocean Radio Cornwall
+https://streaming.radionomy.com/OceanRadioCornwall?tsUid=660f1491-a7df-4751-a882-1d53771f428c&amplang=ru-RU%2cru%3bq%3d0.9%2cen-US%3bq%3d0.8%2cen%3bq%3d0.7&ampad=radiono5&ampextReferer=https%3a%2f%2fwww.ocean-radio.com%2f&ampuserref=660f1491-a7df-4751-a882-1d53771f42
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30274262.jpg",Radio Diamante Rock & Soft
+https://stream-32.zeno.fm/8s6b3v091k8uv?zs=JV_UrLpUT8WyZuBH3uG6Fw
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XLCW3Y.png",104.6 RTL - Rock & Pop
+http://stream.104.6rtl.com/rtl-poprock/mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MDL6GO.png",180 Grad FM
+https://180grad-fm.stream.laut.fm/180grad-fm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WZ4I27.png",2Capitales Radio
+http://151.80.97.38:8024/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3Q4T0Q.png",47 FM
+https://mediam.streamakaci.com/47fm.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CMN3DE.png",7Radio.ch
+http://romradio.stream2net.eu:8190/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GGT27P.png",94.3 RS2
+http://stream.rs2.de/rs2/mp3-128/internetradio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OEXWI6.png",96.3 WRocK Cebu
+http://37.187.79.93:8248/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XL7FQ1.png",.977 The Classic Rock Channel
+https://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCK_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/W09XGF.png",98.9 myFM Norfolk
+https://ice23.securenetsystems.net/CHCD
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/G1E4JN.png",AAB Radio
+https://radio.aab-edu.net/live.ogg
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SZDIIJ.png",Absolute Radio - 00s
+https://stream-ar.planetradio.co.uk/absolute00shigh.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8LYS27.png",Absolut Relax
+https://absolut.hoerradar.de/absolutradio-relax-mp3-128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SC37AQ.png",Alsterradio
+https://s4-webradio.webradio.de/rockantenne-hamburg
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A7ZVVN.png",Bestnet Radio - Rock Mix
+http://bigrradio-edge1.cdnstream.com/5165_128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0RBEBD.png",Big R Radio - Rock Top 40
+https://bigrradio.cdnstream1.com/5204_128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Q17D9Q.png",C2L
+http://srv2.streaming-ingenierie.fr:8164/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YTLS8R.png",California 101
+http://194.150.236.178:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JKX3LC.png",Carpinteria Valley Radio
+http://ingest.live365.com:8000/a63088_live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CXUC8R.png",Classic Hits 109 - 70s-90s
+https://broadcast.classichits109.com/70s-90s
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3RP3VH.png",Delicious Agony Progressive Rock Radio
+https://deliciousagony.streamguys1.com/?type=http
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FL1IYG.png",Die Antenne Feldgatterweg
+http://195.201.217.130:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NE6WTU.png",Double J
+http://live-radio02.mediahubaustralia.com/DJDW/aac/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LE2EU7.png",Easy 99.1
+https://24283.live.streamtheworld.com/WPLMFMAAC.aac?pname=StandardPlayerV4&pversion=4.19.2-044&csegid=888&dist=triton-web&tdsdk=js-2.9&swm=false&banners=300x250&burst-time=15&sbmid=5f8cfa4d-9e93-46ab-9906-e530484311c8
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EZQS76.png",El Tunel Radio
+http://163.172.198.16:8014/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6XCEBJ.png",ERR Raadio 2
+http://icecast.err.ee:80/raadio2.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V9NPR.png",Fun Radio CZ-SK
+http://stream.funradio.sk:8000/cs128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YLBGPC.png",Fun Tampere
+https://st.downtime.fi:80/fun.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1UQAY.png",Gotradio PS I love you
+http://173.244.215.163:8590/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/04E4W7.png",HEROLD Relax Radio
+http://arabella.stream.kapper.net:8015/heroldrelax
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TRO8UJ.png",Hitrádio PopRock
+https://ice.abradio.cz/hitpoprock128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FMVDKL.png",Houston Radio Platinum
+http://ca2.rcast.net:8058/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CWL1TO.png",IP music Switzerland
+http://live7.avf.ch:8000/ipmusic256
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5KXWCD.png",Iradiophilly The Plateau
+http://kmr-oom.streamguys1.com:80/plateau
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YWLJ3J.png",Jovem Pan FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PSCSLO.png",Kiss West Coast
+https://kisswestcoast.ice.infomaniak.ch/kisswestcoast-128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GBSKWO.png",Kuschel.fm
+http://server.rmnradio.de/kuschelfm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/73AGZK.png",Nostalgie Extra Relax
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFRELAX.mp3?dist=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HPH1H.png",NRJ Zürich
+https://energyzuerich.ice.infomaniak.ch/energyzuerich-high.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TI1LYT.png",Oyster Radio
+https://oysterradio.ice.infomaniak.ch/oysterradio-192-0-0.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/K7BUV6.png",Palm Tree Radio
+https://streaming.live365.com/a40552
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1N3Z30.png",Perfect Softrock
+https://stream.radiojar.com/eq8txpg1b5zuv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5U3QNA.png",Radio Argovia
+https://icecast.argovia.ch/argoviacr128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0IBPXV.png",Radio FM1 Nord
+https://radiofm1.ice.infomaniak.ch/radiofm1-64.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9HX5L.png",Radio Lohro FM
+http://stream.lohro.de:8000/lohro128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/U8MHJV.png",RADIO MAGNIFÍFICA
+http://192.99.18.164:9474/stream?icy=http
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/04C1OX.png",Radio Pirmasens
+http://138.201.124.80:8000/strps
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UD6YCI.png",Radio Record-Medlyak FM
+http://online.radiorecord.ru:8102/mdl_128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NA5J9N.png",Radio Regenbogen Kuschelrock
+https://stream.regenbogen.de/kuschelrock/mp3-128/streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ICIV5M.png",Radio Swiss Pop
+http://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NGW5VY.png",Radio Top (Switzerland)
+http://icecast.radiotop.ch/radiotop_128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/M8JMV6.png",Radio TOP TWO
+http://asx.skypro.ch/radio/internet-128/radiotoptwo.asx
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OT7VFX.png",RFM Radio
+https://stream.rfm.fr/rfm.mp3?aw_0_1st.playerid=lgrdrnwsradio-en-lignefr
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZWX4GK.png",RMN FM
+https://bretagnetv.bzh/concarneau
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EE9PL.png",RND - Radio Nord Bretagne
+https://radionordbretagne.ice.infomaniak.ch/radionordbretagne.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MMC39W.png",ROCK ANTENNE Soft Rock
+https://stream.rockantenne.de/soft-rock
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5U34GD.png",Rouge FM
+http://broadcast.infomaniak.ch/rougefm-high.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HG7OHR.png",Rouge Rock
+https://broadcast.infomaniak.net:80/rouge-rockpop-high.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SMXAIW.png",RPR1. Kuschelrock
+https://stream.rpr1.de/kuschelrock/mp3-128/streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CQLFSM.png",RSI Rete Tre
+http://stream.srg-ssr.ch/m/retetre/aacp_96
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YI7CWO.png",RTN
+https://rtn.ice.infomaniak.ch/rtn-high.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6IGBL.png",Soft FM Radio
+https://stream.radiojar.com/82akt31c2hhvv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QNQIT.png",soft rock 97 7
+https://rawlco.leanstream.co/CHUPFM-MP3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NOFN0R.png",SRF Virus
+http://stream.srg-ssr.ch/m/drsvirus/aacp_96
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DD6X1.png",The Cool Groove
+https://streaming.live365.com/a57829
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0V0Q3A.png",The Oasis
+http://stream.sxmradio.com:8060/channel5.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8SAGYI.png",toxic.fm
+https://toxicfm.ice.infomaniak.ch/toxicfm-128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/H9FAAK.png",Variety Lovesongs
+https://everestcast.shoutcastservices.com:1105/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IW49O6.png",Variety Lovesongs
+http://173.249.0.141:8024/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2HQXSW.png",Virage Radio
+https://broadcast.infomaniak.net:80/virageradio-high.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JIVYTS.png",WORO Radio Oro
+http://us2.internet-radio.com:8057/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5C2TY.png",Yacht Rock FM
+http://67.249.184.45:8004/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Y2VP3S.png",Yacht Rock Miami
+https://sail.yachtrockmiami.com:8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76688/logo_c1rPnfOP7r.png",Smart FM 94.1 Radio
+https://dattavolt.com/8196/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102742/180_C74i6oNyB3.png",Rock Ballads Radio
+https://spn.liveradiofree.com/rckbllds-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97843/logo_yFAS47fuIc.png",Romantic Radio
+https://c5.auracast.net/listen/romantic_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102768/180_o47wV2Otpk.png",Soft Rock Radio
+https://spn.liveradiofree.com/sftrck-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102125/logo_0NeUBn6DhT.png",WATD-FM Radio
+https://live.amperwave.net/manifest/marshfield-watdfmaac-hlsc1.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95618/logo_NTQ9RPg2KW.png",Soft Rock Radio
+https://gold.streamguys1.com/softrock.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/101792/logo_2CaiewTyAc.png",Yacht Rock Radio
+https://digitalaudiobroadcasting.net:1045/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31749/logo_5jNYwcR8GE.png",Radio Bob! BOBs Rock Hits
+https://streams.radiobob.de/bob-rockhits/mp3-192/homepage/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88626/logo_3CCf7tFPvM.png",Yimago Lite Rock (Planet Earth&#x27;s Best Music) Radio
+https://yimago.torontocast.stream/literock
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/93056/logo_X6SyxStbIm.png",The River 93.9 FM - WRSI Radio
+https://live.amperwave.net/manifest/saga-wrsifmaac-ibc2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/81439/logo_yM6IIUPwJ2.png",Exclusively Soft Rock Radio
+https://drive.uber.radio/uber-app/starboxsoftrock/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83366/logo_3zBiPJpfVQ.png",Alternatif radio
+https://void.idserverhost.com/8016/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/96642/logo_3EqOd4Kqk5.png",WYRM - Yacht Rock Miami Radio
+https://a9.asurahosting.com:7070/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38951/logo_b2GJZTQ0Vh.png",Metro Love Radio
+https://radio.jump.bg/proxy/msrrrelay?mp=%2Fservice
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50416/logo_HBMlKDL2lM.png",Lite RADIO
+https://ais-sa2.cdnstream1.com/2382_128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/100905/logo_mhSIDtxwd1.png",WSNS: Songwriters, Soul, and Solid Gold Radio
+https://streaming.live365.com/a77838
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26996/logo_MAEYfNtlRR.png",Melodic Radio
+https://www.tunefm.de:2000/stream/melodicradio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95293/logo_gTOChEzM06.png",LiteFavorites.com Radio
+https://naxos.cdnstream.com/1255_128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103067/logo_9VJGXNJb6D.png",Радио Восток России
+https://radiovostok.hopto.org/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31906/logo_TSIePiE8Ol.png",R.SH 80er Radio
+https://streams.rsh.de/rsh-80er/aac-64
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/55518/logo_xYbhShpQV9.png",Radio Soul Songs
+https://live.radiorockhits.com/listen/radiosoulsongs/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/101029/logo_aVCeBmN8Lb.png",Smooth Jazz 107.9 Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAVV_HD2AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83285/logo_yYLqywkUvX.png",Golden Memories Radio
+https://stream.zeno.fm/xg7mcgf1bf9uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/98882/logo_CMQiYpqwbn.png",Wave 101.1 Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAVVFMAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40810/logo_SaLueP3unj.png",Love FM San Marino Radio
+http://wma07.fluidstream.net:7600/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44303/logo_H7PwFPY6LB.png",Relax FM Radio
+https://stream.relaxfm.ee/relax
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/55400/logo_DTt5KG454b.png",Kiss FM Radio
+https://panelautodj.innovatestream.pe:10829/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92828/logo_jMScMND11i.png",Mix 107.9 FM - WFMX Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFMXFMAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88818/logo_O1BUuHoDHw.png",MCBN Radio
+https://usa5.fastcast4u.com/proxy/mcbnradio?mp=%2F1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95676/logo_tXqu9yVdCg.png",99-7 The Mix Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCVS_FM.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41532/logo_sv2mGC46Ie.png",Cherry80 Radio
+http://sc.ipip.cz:8062/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95798/logo_zahWmP3YEQ.png",Soft Soul Music Radio
+https://cc.vmakerhost.com/proxy/ubguzdjp?mp=%2F%3Blisten.pls
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77051/logo_e0m1pSdU40.png",K-SUN66 &quot;JAMES TAYLOR&quot; Radio
+https://stream.zeno.fm/c3m5xhr7azzuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63352/logo_7LHwqgWows.png",Mirage Web Radio
+https://fm.logicaweb.top:8020/hifi
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32365/logo_vvCFYRqTt2.png",R.SA  Maxis Maximal Radio
+https://streams.rsa-sachsen.de/maxis/mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/97869/logo_BoN9fHetIo.png",Love Online Radio
+https://c12.radioboss.fm:8029/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/27096/logo_dXFdfZaGea.png",Absolut Relax Radio
+https://absolut-relax.live-sm.absolutradio.de/absolut-relax
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38439/logo_XHjmGuCe3P.png",Radio Noise Rock
+https://rocklive.radionoise.ro:9130/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32163/logo_03OoVpTfHF.png",Radio Bob! BOBs Kuschelrock
+https://streams.radiobob.de/bob-kuschelrock/mp3-192
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/100018/logo_7HMvEyuGbO.png",PC Music Radio
+https://streaming.live365.com/a90500
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83221/logo_u733MaKPa8.png",Radio Andy
+https://stream.zeno.fm/w6tqbtdvt4zuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53345/logo_8EbXGRa8OE.png",[WebHitsRadio]
+https://cast1.torontocast.com:4450/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83114/logo_79eo0er5XI.png",Vice City FM Radio
+https://stream.zeno.fm/5349gzgeyzzuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83258/logo_DWfaRRZoXn.png",Kis Rock Radio
+https://wz.mari.co.id:1936/web_kisfm/kisfm/chunklist_w1288084654.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/45985/logo_fDEyVEBLBS.png",Virage Radio
+https://virageradio.ice.infomaniak.ch/virageradio-villefranche.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/43442/logo_Hf6yYbI4iy.png",RockStar Marina Baja (Benidorm) Radio
+https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88636/logo_jDOz8rlTFJ.png",VanCity Radio Love
+https://stream.zenolive.com/gt6tmu54urquv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48941/logo_wTtTDXlNEp.png",Radio ROKS Рок-балади
+https://768260.radio.tvstitch.com/radio.mp3?station=RadioROCKS_Ballads&ampsource=aHR0cDovL29ubGluZS5yYWRpb3Jva3MudWEvUmFkaW9ST0tTX0JhbGxhZHM%3D
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32808/logo_kr1D8PsOOu.png",Radio Brocken Lovesongs
+https://stream.radiobrocken.de/love/mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32321/logo_V9DZmMAMDa.png",R.SA  Oldie-club Radio
+https://streams.rsa-sachsen.de/rsa-oldies/mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83500/logo_JPoqdn4CE0.png",Zafira Radio Manokwari
+https://b1.alhastream.com:4210/radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95052/logo_CePWYXXSpC.png",Magic 101.9 FM Radio
+https://live.amperwave.net/manifest/audacy-wlmgfmaac-hlsc.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32412/logo_gY2ZaFuL0g.png",R.SH 90er Radio
+https://streams.rsh.de/90er/mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103025/logo_OepNlSbJqW.png",Megapolis - Радио Монте-Карло
+https://mc-megapolis.hostingradio.ru/megapolis96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28196/logo_GnaxXp6qJB.png",R.SA  Das Schnarchnasenradio
+https://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32071/logo_VTZTRqXdTN.png",Radio Bob! BOBs Singer &amp; Songwriter
+https://streams.radiobob.de/bob-singersong/aac-64
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31951/logo_FpSvqsa0Bz.png",Radio Bob! BOBs Deutsch Rock
+https://streams.radiobob.de/bob-deutsch/mp3-192
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99994/logo_j2CiP1yxCr.png",Kaleidophonics Radio Network
+https://janus.cdnstream.com/proxy/kaleidop?mp=%2Fstream&ampcb=814021.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83320/logo_94xJ99ELEt.png",Getar Cinta Radio
+https://stream.zeno.fm/wpbv42dgephvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46679/logo_OKlBHeyIvs.png",Alouette Radio
+https://alouette-larochelle.ice.infomaniak.ch/alouette-larochelle-128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83319/logo_CDFSdKHwGw.png",MTV Rocks Radio
+https://stream.zeno.fm/mqy5rybacxhvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78849/logo_gQWaGoeHxb.png",Angel Internet Radio
+https://stream.zeno.fm/kjkvor96ebbtv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92411/logo_1r4Q6nu9pU.png",WRNZ 105.1 FM Radio
+http://us2.maindigitalstream.com:7015/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89453/logo_rV6My9CwTp.png",Online Radio hd54FM Smooth Grooves
+https://radiohd54fm.out.airtime.pro/radiohd54fm_b
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82853/logo_CiZ9zHM5E6.png",80s Radio Hits
+https://stream.zeno.fm/wy1pbnedd3quv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50924/logo_jvVgf0otDm.png",Overdrive 192 Radio
+https://stream.zeno.fm/reiqnmrwub0uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/98731/logo_XKMkXxPcvh.png",Oldies Radio
+http://janus.shoutca.st:8259/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95313/logo_Fcn8mSq8TT.png",WITT Radio
+https://www.919witt.stream/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95003/logo_sUm89rqIHp.png",Sunny 99.7 Radio
+https://live.amperwave.net/direct/alphamidwest-kxftfmaac-ibc2?source=onlineradiobox
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83147/logo_amvEsNbSQZ.png",Hits Radio Makassar
+https://stream.zeno.fm/p00owbnuss2vv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46058/logo_jUSDngQ4J0.png",Virage Radio
+https://virageradio.ice.infomaniak.ch/virageradio-chambery.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32016/logo_ispK7XlvtW.png",R.SA Ostrock Radio
+https://streams.rsa-sachsen.de/rsa-ostrock/mp3-192
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65324/logo_OWgNMlzXwP.png",Radio Alta Frecuencia
+http://136.243.44.41:8604/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102326/logo_8JOXBLpVHG.png",Viva 103.1 Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77050/logo_Zr6fzX9juJ.png",K-SUN66 &quot;STEELY DAN&quot; Radio
+https://stream.zeno.fm/575w3rm0dzzuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/63255/logo_CYKc4hhy6H.png",Lógica FM Radio
+https://fm.logicaweb.top:8000/hifi
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32246/logo_UyW9nO3rPk.png",Radio Brocken 80er
+https://stream.radiobrocken.de/80er/aac-64
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/65077/logo_bShkxbN3EG.png",Dotworking Radio
+https://radiosuy.mooo.com:7443/dotworking
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/84534/logo_tnItjwmwOY.png",Lite Rock Manila Radio
+https://ice.streams.ovh:1100/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83294/logo_ktOuXtVoTi.png",Rock Ballads Radio
+https://stream.zeno.fm/ynepvmy14bhvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76986/logo_Jcyelqly4u.png",K-SUN66-WESTCOAST Radio
+https://stream.zeno.fm/qpets04rehruv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29896/logo_dKMKzsKA0x.png",Radio Regenbogen Kuschelrock
+https://stream.regenbogen.de/kuschelrock/mp3-128/radiospinner
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40243/logo_77Cz0yq7bM.png",Radio Linea Drive
+https://rblive.it:8100/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83096/logo_6HIrVUil7b.png",Rock Rewind Radio
+https://stream.zenolive.com/u18tuaphwzzuv.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/77052/logo_NZJvw1Kv3S.png",K-SUN66 &quot;JACKSON BROWNE&quot; Radio
+https://stream.zeno.fm/r3bdvssp6yzuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53657/logo_O9d5Gfp8dS.png",Unique Classic Rock Radio
+https://mscp2.live-streams.nl:8182/radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88703/logo_3covat2qfR.png",Sunny Radio
+https://securestreams6.autopo.st:2505/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46137/logo_6nN9xJtBLA.png",Virage Radio
+https://virageradio.ice.infomaniak.ch/virageradio-suisse.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103299/logo_3kAolGTceO.png",ROCK FM KUSCHELROCK Radio
+https://stream.regenbogen2.de/kuschelrock/mp3-128/radiospinner
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99961/logo_irtdHxlAA3.png",The Mountain Radio
+https://streaming.rocketonlinemedia.com/proxy/themountain/streamstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/48770/logo_xbsKEzncs2.png",Radio Fury Fusion
+https://radyo.turcloud.com.tr/listen/radio_fury_fusion/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102527/logo_Lx8wuPl5Gt.png",105.5 The River Radio
+https://live.amperwave.net/direct/alphacorporate-krbifmaac-imc4?source=onlineradiobox
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29502/logo_sXP9pTwvnk.png",Rock Antenne Soft Rock Radio
+https://mp3channels.webradio.rockantenne.de/soft-rock
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46003/logo_YTfUdxhkRG.png",Radio Aria
+https://stream.votreradiosurlenet.eu/radioaria.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32248/logo_yyFky8hgAC.png",R.SA  Rockzirkus Radio
+https://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50851/logo_VAGxGoYL8q.png",Expat Radio Scotland
+https://stream.shoutcastservices.com/proxy/expatradioscotland/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52291/logo_38WnZsSALq.png",Radio Art - Folk &amp; Soft Rock
+https://air.radioart.com/fFolk_and_soft_rock.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76661/logo_LveQVLzEUY.png",Studio54 Radio
+http://dattavolt.com:8194/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/29813/logo_XqBjvJscgl.png",Backstuw Radio Daun
+https://stream.laut.fm/backstuw-radio-daun
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46155/logo_7wmF0JBHmY.png",Virage Radio
+https://virageradio.ice.infomaniak.ch/virageradio-grenoble.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83481/logo_7oxypJexw5.png",Buzz Music Radio
+https://stream.zeno.fm/mq2q9cqhgfatv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92622/logo_ItapjVrbwW.png",The Breeze 105.9 FM - KBZE Radio
+https://us2.maindigitalstream.com/ssl/KBZE
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46851/logo_JNE3t2EQXR.png",ici Gironde Radio
+https://icecast.radiofrance.fr/fbgironde-midfi.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31776/logo_ikBsj2DsFS.png",Radio Brocken 90er
+https://stream.radiobrocken.de/90er/mp3-256
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89205/logo_QLwdUEygPc.png",KB Radio - CKKB
+https://securestream.casthost.net:8245/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82144/logo_bd0vP2x1B3.png",Exclusively Steely Dan - HITS Radio
+https://streaming.exclusive.radio/er/steelydanhits/icecast.audio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/30050/logo_nCWa79YTyk.png",RPR1. Kuschelrock Radio
+https://stream.rpr1.de/kuschelrock/mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/43555/logo_g5BbzBOHS8.png",Rock Central Radio
+https://stream.zeno.fm/v3w906xbya0uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/49959/logo_s6QpRfxzLt.png",Palm Tree Radio
+https://stream3.themediasite.co.uk:8132/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46576/logo_Lryc8XkDCa.png",ici Lorraine Radio
+https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103385/logo_IEjZT7yqL7.png",ET-Radio powerd by ROCK FM
+https://stream.regenbogen2.de/etradio/mp3-128/radiospinner
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91984/logo_VvlDRBf5mE.png",KCLY 100.9 FM Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCLYFM.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/60502/logo_z8gkjdPLAM.png",Radi-U Radio
+https://s11.maxcast.com.br:8875/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/94358/logo_WQZyGYePdc.png",95.3 KDKD Radio
+https://live.amperwave.net/direct/radford-kdkdfmmp3-ibc1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83300/logo_hiXjtSZUuZ.png",Jakarta Rock Radio
+https://stream.zeno.fm/cy0zetda9e9uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31000/logo_icLpTSCPRI.png",Classic Rock Radio - Softrock
+https://internetradio.salue.de:8443/channel12
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103384/logo_G3X253LCcG.png",Vertizontal Radio
+https://streaming.live365.com/a34398
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32196/logo_HxSoXXZQGV.png",R.SA  Weihnachtsradio
+https://streams.rsa-sachsen.de/rsa-event01/mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/95222/logo_8KTXUV9tPe.png",Hot 101.9 FM - KRSQ Radio
+https://ice1.amtstreaming.com:8443/krsqfm
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/32420/logo_Thd0CaHdK7.png",R.SH Weihnachtshits Radio
+https://streams.rsh.de/rsh-event02/mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46568/logo_54280qpPX5.png",ici Gascogne Radio
+https://icecast.radiofrance.fr/fbgascogne-midfi.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85420/logo_FMeQZKgKae.png",ROVA - Niall Horan Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_3_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28640/logo_ppCfJSdesz.png",MAGIC FM Radio
+https://stream.laut.fm/magicfm
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83254/logo_lZnsg89Vjk.png",GTA Radio
+https://stream.zeno.fm/qe1hrwvkg48uv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/98379/logo_QOWk95a3gC.png",JamsNetwork Top Hits Radio
+https://streaming.live365.com/a01334
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26732/logo_4SXdhtw2me.png",Lovetime Radio
+https://lovetime.stream.laut.fm/lovetime
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004090/logo_fIdzOt74w1.jpg?v=20260529-media-restore",1.FM Rock Classics
+https://strm112.1.fm/rockclassics_mobile_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44303/logo_JKoVDxLg4J.jpg?v=20260529-media-restore",Relax FM
+https://stream.relaxfm.ee/relax
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45185/logo_wERPvk8X1M.jpg?v=20260529-media-restore",1.FM - America's Best Ballads Radio
+https://strmreg.1.fm/onelive_mobile_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102742/logo_ykXzhAYwp1.jpg?v=20260529-media-restore",Rock Ballads
+https://tower.hayva.ru/grldc-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1003331/logo_h9qhMVOoRu.jpg?v=20260529-media-restore",Радио Твоя Волна
+https://icecast-tvoyavolna.cdnvideo.ru/tvoyavolna
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/48941/logo_DTWp5M9ZLJ.jpg?v=20260529-media-restore",Radio ROKS Рок-балади
+https://768260.radio.tvstitch.com/radio.mp3?station=RadioROCKS_Ballads&source=aHR0cDovL29ubGluZS5yYWRpb3Jva3MudWEvUmFkaW9ST0tTX0JhbGxhZHM%3D
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1003330/logo_RHUgDEAqdh.jpg?v=20260529-media-restore",Радио Monte Carlo Пятигорск
+http://s0.radioheart.ru:8000/RH82341
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004494/logo_brWj6qkuLp.jpg?v=20260529-media-restore",RMF Ballady
+http://217.74.72.11/NOSTALGIA
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80356/logo_mqrYu02kje.jpg?v=20260529-media-restore",80's channel (iradio.one)
+http://a.streamsin.space:8000/80s
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004476/logo_cSuDUHM86f.jpg?v=20260529-media-restore",Rock Antenne Soft Rock
+https://mp3channels.webradio.antenne.de/soft-rock
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52489/logo_umft7Tm0Nj.jpg?v=20260529-media-restore",Zeppelin 106.7
+https://radiostreaming.ert.gr/ert-zeppelin
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007196/logo_hAPc25ARRI.jpg?v=20260529-media-restore",Благодать FM
+https://82.146.46.30:8000/blagobarancha?nocache=1779742841364
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27096/logo_tNkk5I4UAJ.jpg?v=20260529-media-restore",Absolut Relax
+https://absolut-relax.live-sm.absolutradio.de/absolut-relax
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004511/logo_deGmrdO1ou.jpg?v=20260529-media-restore",Rock Radio Warsaw
+https://23543.live.streamtheworld.com/RADIO_ROCK.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97843/logo_71xGcIHObK.jpg?v=20260529-media-restore",Romantic Radio
+https://c5.auracast.net/listen/romantic_radio/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44299/logo_PBsr3H1Glk.jpg?v=20260529-media-restore",Relax International
+https://stream.relaxfm.ee/international
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32365/logo_65ncVPpZnm.jpg?v=20260529-media-restore",R.SA  Maxis Maximal
+https://streams.rsa-sachsen.de/maxis/mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008020/logo_aJfBsYO4J4.jpg?v=20260529-media-restore",940 Gospel Radio
+https://servidor26-5.brlogic.com:7088/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82853/logo_g7fw406Mfr.jpg?v=20260529-media-restore",80s Radio Hits
+https://stream.zeno.fm/wy1pbnedd3quv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31000/logo_HEvlKnf7sH.jpg?v=20260529-media-restore",Classic Rock Radio - Softrock
+https://internetradio.salue.de:8443/channel12
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004782/logo_Bkq16wp8Db.jpg?v=20260529-media-restore",Euroradio FM Soft Rock
+http://195.245.217.140:8950/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103067/logo_vEOyDJCnWQ.jpg?v=20260529-media-restore",Радио Восток России
+https://radiovostok.hopto.org/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76688/logo_htpehdM51m.jpg?v=20260529-media-restore",Smart FM 94.1
+https://dattavolt.com/8196/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/89166/logo_hZI1ZRKfrO.jpg?v=20260529-media-restore",D2 Relax
+https://d2relax.com/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103025/logo_7lTTQfRgno.jpg?v=20260529-media-restore",Megapolis Tenet Monte Carlo
+https://hls-01-montecarlo.hostingradio.ru/megapolis-tenet/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32246/logo_yY98L47Qft.jpg?v=20260529-media-restore",Radio Brocken 80er
+https://stream.radiobrocken.de/80er/aac-64
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95618/logo_8mTPJR8gfq.jpg?v=20260529-media-restore",Soft Rock Radio
+https://gold.streamguys1.com/softrock.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004744/logo_pUttx7cNTq.jpg?v=20260529-media-restore",BOBs Deutsch Rock Radio Bob
+https://regiocast.streamabc.net/regc-radiobobdeutschrock9978490-mp3-192-9333326
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36444/logo_WvESwxJYIo.jpg?v=20260529-media-restore",Antyradio Ballads
+https://an02.cdn.eurozet.pl/ANTBAL.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29041/logo_moKABCEZ7Q.jpg?v=20260529-media-restore",ON Soft Rock
+https://0n-softrock.radionetz.de/0n-softrock.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88713/logo_1ot3YyAEbO.jpg?v=20260529-media-restore",Classic Hits 109 - Soft Rock
+https://broadcast.classichits109.com/softrock
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102768/logo_ndxebiqaRQ.jpg?v=20260529-media-restore",Soft Rock
+https://tower.hayva.ru/rn160-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/83321/logo_tdkfI5WhvU.jpg?v=20260529-media-restore",Mettaswara SoftRock
+https://mettaswara.com:8700/slowrock
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81471/logo_ipGw52oK1u.jpg?v=20260529-media-restore",Exclusively Led Zeppelin
+https://streaming.exclusive.radio/er/ledzeppelin/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31776/logo_8kTx5lsNsJ.jpg?v=20260529-media-restore",Radio Brocken 90er
+https://stream.radiobrocken.de/90er/mp3-256
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49035/logo_y04UWrxlCR.jpg?v=20260529-media-restore",Christian Live
+http://strsrv.mirvokrugnas.in.ua:8017/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82850/logo_Wj8BPANozN.jpg?v=20260529-media-restore",Most Radio 105.8 FM
+https://wz.mari.co.id:1936/web_mostfm/mostfm/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49101/logo_GglCcOUPAq.jpg?v=20260529-media-restore",Old Periscope Radio
+https://complex.in.ua/oldper
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96209/logo_w04yk3ELXq.jpg?v=20260529-media-restore",181.FM Yacht Rock
+https://listen.181fm.com/181-yachtrock_128k.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/83366/logo_OmGeMrlwPl.jpg?v=20260529-media-restore",Alternatif radio
+https://void.idserverhost.com/8016/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008068/logo_ElavEEKp73.jpg?v=20260529-media-restore",Befonk in Stereo
+https://c42.radioboss.fm:8073/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81974/logo_el1iYk276W.jpg?v=20260529-media-restore",Greatest Hits Soft Rock
+https://drive.uber.radio/uber/starboxsoftrock/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43562/logo_pM4t1tIjPW.jpg?v=20260529-media-restore",Perfect Softrock
+https://stream.radiojar.com/eq8txpg1b5zuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81439/logo_HuSLLvZSnz.jpg?v=20260529-media-restore",Exclusively Soft Rock
+https://drive.uber.radio/uber-app/starboxsoftrock/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103184/logo_uX3ZfBeyqf.jpg?v=20260529-media-restore",Soft Maximum
+https://hls-01-maximum.hostingradio.ru/maxsoft/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29869/logo_XthyWpLL4Y.jpg?v=20260529-media-restore",0nlineradio Soft Rock
+https://stream.0nlineradio.com/soft-rock
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50416/logo_x1bLcviHMn.jpg?v=20260529-media-restore",Lite RADIO
+https://ais-sa2.cdnstream1.com/2382_128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94780/logo_EQ0htYhnkZ.jpg?v=20260529-media-restore",Soft Rock 106.5 FM
+https://crystalout.surfernetwork.com:8001/WBMW_MP3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/83481/logo_nUNnuEJO2U.jpg?v=20260529-media-restore",Buzz Music
+https://stream.zeno.fm/mq2q9cqhgfatv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/101792/logo_OD6p7iJzv0.jpg?v=20260529-media-restore",Yacht Rock Radio
+https://digitalaudiobroadcasting.net:1045/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31749/logo_2MZrk62rqN.jpg?v=20260529-media-restore",Rock Hits Radio BOB!
+https://streams.radiobob.de/bob-rockhits/mp3-192/homepage/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96642/logo_ah6RJzux5t.jpg?v=20260529-media-restore",WYRM - Yacht Rock Miami
+https://a9.asurahosting.com:7070/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43438/logo_ro2h6UqhYP.jpg?v=20260529-media-restore",RockStar
+https://stream.emisorasmusicales.net/radio/8060/rockstar.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005398/logo_BBWPDNMAFk.jpg?v=20260529-media-restore",Naxi Radio
+http://naxi128.streaming.rs:9150/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82144/logo_pAsh9DUe65.jpg?v=20260529-media-restore",Exclusively Steely Dan - HITS
+https://streaming.exclusive.radio/er/steelydanhits/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81479/logo_jXHFZZIoXe.jpg?v=20260529-media-restore",Exclusively Stone Temple Pilots
+https://streaming.exclusive.radio/er/stonetemplepilots/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97180/logo_5FlNDcgaVu.jpg?v=20260529-media-restore",Alt-Rock 97
+https://streamingv2.shoutcast.com/alt-rock-97
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/30050/logo_AtpSPLiM4o.jpg?v=20260529-media-restore",RPR1. Kuschelrock
+https://stream.rpr1.de/kuschelrock/mp3-128/radiospinner
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/48770/logo_dNuGlOb1z7.jpg?v=20260529-media-restore",Radio Fury Fusion
+https://radyo.turcloud.com.tr/listen/radio_fury_fusion/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/77051/logo_cKGhieUtnM.jpg?v=20260529-media-restore",K-SUN66 "JAMES TAYLOR"
+https://stream.zeno.fm/c3m5xhr7azzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43555/logo_avCqm9gtH8.jpg?v=20260529-media-restore",Rock Central
+https://stream.zeno.fm/v3w906xbya0uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41532/logo_SR74EesXOi.jpg?v=20260529-media-restore",Cherry80
+http://sc.ipip.cz:8062/;stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82432/logo_xIcJG2XmQM.jpg?v=20260529-media-restore",Easy Dr Hook
+https://streaming.exclusive.radio/uber/easydrhook/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37518/logo_Byh19pTAGB.jpg?v=20260529-media-restore",Turbo80s.com
+https://transmitter.turbo80s.com:8443/live.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/77050/logo_YUHmJafF4Q.jpg?v=20260529-media-restore",K-SUN66 "STEELY DAN"
+https://stream.zeno.fm/575w3rm0dzzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26996/logo_qwvISG6AGG.jpg?v=20260529-media-restore",Melodic Radio
+https://www.tunefm.de:2000/stream/melodicradio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102527/logo_vnfXm5tKcd.jpg?v=20260529-media-restore",105.5 The River
+https://live.amperwave.net/direct/alphacorporate-krbifmaac-imc4?source=onlineradiobox
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27067/logo_NcuqLN0jtm.jpg?v=20260529-media-restore",DreamStream
+https://dreamstream.stream.laut.fm/dreamstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29813/logo_iwh4T7E4DH.jpg?v=20260529-media-restore",Backstuw Radio Daun
+https://stream.laut.fm/backstuw-radio-daun
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44818/logo_mmnVvksYb8.jpg?v=20260529-media-restore",LFM Love
+https://webradio0010.ice.infomaniak.ch/webradio0010-128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32163/logo_tpIySogTh0.jpg?v=20260529-media-restore",Kuschelrock Radio BOB!
+https://streams.radiobob.de/bob-kuschelrock/mp3-192
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52291/logo_lM0wA7ZVGZ.jpg?v=20260529-media-restore",Radio Art - Folk & Soft Rock
+https://air.radioart.com/fFolk_and_soft_rock.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32321/logo_AF7MXHOi7V.jpg?v=20260529-media-restore",R.SA  Oldie-club
+https://streams.rsa-sachsen.de/rsa-oldies/mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38439/logo_fOHQFPRq3m.jpg?v=20260529-media-restore",Radio Noise Rock
+https://rocklive.radionoise.ro:9130/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103299/logo_3xtgq99n0k.jpg?v=20260529-media-restore",ROCK FM KUSCHELROCK
+https://stream.regenbogen2.de/kuschelrock/mp3-128/radiospinner
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55400/logo_H67VY5iUF1.jpg?v=20260529-media-restore",Kiss FM
+https://panelautodj.innovatestream.pe:10829/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97045/logo_kfLMiAbXre.jpg?v=20260529-media-restore",Chepito Rios Online Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC013.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100018/logo_dilq7UI4Dt.jpg?v=20260529-media-restore",PC Music Radio
+https://streaming.live365.com/a90500
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/89205/logo_xydpyZJCMw.jpg?v=20260529-media-restore",KB Radio - CKKB
+https://securestream.casthost.net:8245/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96637/logo_VtZzW0QMDH.jpg?v=20260529-media-restore",113.FM Awesome 80's
+https://113fm-atunwadigital.streamguys1.com/1003
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32808/logo_9DVPhNSjKc.jpg?v=20260529-media-restore",Radio Brocken Lovesongs
+https://stream.radiobrocken.de/love/mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97337/logo_qiFKZEAaqn.jpg?v=20260529-media-restore",The Playlist KWPM
+https://stream.zeno.fm/sd795v1kmtzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102125/logo_ix9neXlKX7.jpg?v=20260529-media-restore",WATD-FM
+https://live.amperwave.net/manifest/marshfield-watdfmaac-hlsc1.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54305/logo_Ui5mDlUF2f.jpg?v=20260529-media-restore",Feeling FM
+http://turadioenvivo.com:8430/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76986/logo_6PUdzH0IKJ.jpg?v=20260529-media-restore",K-SUN66-WESTCOAST
+https://stream.zeno.fm/qpets04rehruv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94565/logo_Z0Mnu9CTuf.jpg?v=20260529-media-restore",Радио Midcoast WCME 99,5 FM и 900 AM
+http://janus.cdnstream.com:8082/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52531/logo_0LH46IJlvm.jpg?v=20260529-media-restore",Radio Kyklos
+https://c30.radioboss.fm:18299/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76661/logo_CuAk3RI3lz.jpg?v=20260529-media-restore",Studio54
+http://dattavolt.com:8194/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008298/logo_qG8Q90WKH9.jpg?v=20260529-media-restore",Inne Radio 105.2
+https://s3.slotex.pl:7004/;?type=http&nocache=93
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/61019/logo_i7uqMipqoi.jpg?v=20260529-media-restore",Classic Club
+http://live.paineldj.com.br:8027/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46665/logo_ZrHPxqy8r8.jpg?v=20260529-media-restore",Radio SCOOP - Love
+https://scoopinlove.ice.infomaniak.ch/radioscoop-inlove-64.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32016/logo_niSRfgcZtG.jpg?v=20260529-media-restore",R.SA Ostrock
+https://streams.rsa-sachsen.de/rsa-ostrock/mp3-192
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/91942/logo_K3dqxvonkO.jpg?v=20260529-media-restore",181.FM The Office
+https://listen.181fm.com/181-office_128k.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98731/logo_p66WsZbg7O.jpg?v=20260529-media-restore",Oldies Radio
+http://janus.shoutca.st:8259/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32071/logo_49m7bMcahW.jpg?v=20260529-media-restore",Singer and Songwriter Radio BOB!
+https://streams.radiobob.de/bob-singersong/aac-64
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46922/logo_RRfCqxs4rX.jpg?v=20260529-media-restore",Vibration FM Love
+https://vibrationlove.ice.infomaniak.ch/vibrationlove.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95798/logo_LcEUCIywIu.jpg?v=20260529-media-restore",Soft Soul Music Radio
+https://cc.vmakerhost.com/proxy/ubguzdjp?mp=%2F%3Blisten.pls
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94457/logo_tVyugBefv9.jpg?v=20260529-media-restore",Powerhitz - The Office Mix
+https://live.powerhitz.com/officemix
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/59990/logo_roH6ZS88Db.jpg?v=20260529-media-restore",Rádio Só Kakarecos Classic Rock
+http://sokakarecos.ddns.net:9030/rock128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98379/logo_7GwRAvTXrq.jpg?v=20260529-media-restore",JamsNetwork Top Hits
+https://streaming.live365.com/a01334
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81418/logo_RAWyOCRukC.jpg?v=20260529-media-restore",Exclusively Huey Lewis & The News
+https://streaming.exclusive.radio/er/hueylewis/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53657/logo_xgRwWsAYrx.jpg?v=20260529-media-restore",Unique Classic Rock
+https://mscp2.live-streams.nl:8182/radio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81467/logo_GCEJ4bUcQw.jpg?v=20260529-media-restore",Exclusively Journey
+https://streaming.exclusive.radio/er/journey/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38951/logo_Kbe13yWOOK.jpg?v=20260529-media-restore",Metro Love Radio
+https://radio.jump.bg/proxy/msrrrelay?mp=%2Fservice
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92411/logo_9bgnmFHJcr.jpg?v=20260529-media-restore",WRNZ 105.1 FM
+http://us2.maindigitalstream.com:7015/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40810/logo_yu25STA7Pl.jpg?v=20260529-media-restore",Love FM San Marino
+http://wma07.fluidstream.net:7600/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32412/logo_SCKxfCr6TA.jpg?v=20260529-media-restore",R.SH 90er
+https://streams.rsh.de/90er/mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95293/logo_vL9pHsyll8.jpg?v=20260529-media-restore",LiteFavorites.com
+https://naxos.cdnstream.com/1255_128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40243/logo_H7xBQQn4nw.jpg?v=20260529-media-restore",Radio Linea Drive
+https://rblive.it:8100/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/77052/logo_8SLu8Bb2yo.jpg?v=20260529-media-restore",K-SUN66 "JACKSON BROWNE"
+https://stream.zeno.fm/r3bdvssp6yzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/99994/logo_Oo5MdJZDB7.jpg?v=20260529-media-restore",Kaleidophonics Radio Network
+https://janus.cdnstream.com/proxy/kaleidop?mp=%2Fstream&cb=814021.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31906/logo_41II2S6AlK.jpg?v=20260529-media-restore",R.SH 80er
+https://streams.rsh.de/rsh-80er/aac-64
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92828/logo_xLb0b0owmu.jpg?v=20260529-media-restore",Mix 107.9 FM - WFMX
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFMXFMAAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94358/logo_lsFsIIo7BJ.jpg?v=20260529-media-restore",95.3 KDKD
+https://live.amperwave.net/direct/radford-kdkdfmmp3-ibc1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95313/logo_qND9wpKylY.jpg?v=20260529-media-restore",WITT
+https://www.919witt.stream/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95676/logo_510uiNQPQs.jpg?v=20260529-media-restore",99-7 The Mix
+https://playerservices.streamtheworld.com/api/livestream-redirect/WCVS_FM.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88736/logo_IqNNKRM6s2.jpg?v=20260529-media-restore",Soft Hits and Lost Hits
+http://radio.streemlion.com:2380/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26732/logo_CmAjjn6mbp.jpg?v=20260529-media-restore",Lovetime
+https://lovetime.stream.laut.fm/lovetime
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90438/logo_hESpjypkCs.jpg?v=20260529-media-restore",Classic Rock Fire
+https://stream.zeno.fm/7w3yq9w0k8quv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81369/logo_BNTCcx655v.jpg?v=20260529-media-restore",Exclusively Foreigner
+https://streaming.exclusive.radio/er/foreigner/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88626/logo_4nyk8gJoj8.jpg?v=20260529-media-restore",Yimago Lite Rock (Planet Earth's Best Music)
+https://yimago.torontocast.stream/literock
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103629/logo_OoQneNoDX5.jpg?v=20260529-media-restore",Mix Naxi Radio
+https://naxidigital-mix128ssl.streaming.rs:8222/;stream.nsv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/93056/logo_7xKin6EQcN.jpg?v=20260529-media-restore",The River 93.9 FM - WRSI
+https://live.amperwave.net/manifest/saga-wrsifmaac-ibc2
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28196/logo_SkxK6hBWnV.jpg?v=20260529-media-restore",R.SA  Das Schnarchnasenradio
+https://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95052/logo_fnjpaqquMh.jpg?v=20260529-media-restore",Magic 101.9 FM
+https://live.amperwave.net/manifest/audacy-wlmgfmaac-hlsc.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/101103/logo_uQFrpyujYL.jpg?v=20260529-media-restore",GotRadio - Soft Rock Café
+https://pureplay.cdnstream1.com/6010_64.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85732/logo_R2skz6f3CK.jpg?v=20260529-media-restore",Wice QFM
+https://sonic01.instainternet.com/8306/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53345/logo_08MxFL0iK8.jpg?v=20260529-media-restore",[WebHitsRadio]
+https://cast1.torontocast.com:4450/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97869/logo_SfQa5LdiNw.jpg?v=20260529-media-restore",Love Online
+https://c12.radioboss.fm:8029/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96918/logo_dBDk78p4fr.jpg?v=20260529-media-restore",KNX FM 93
+http://ice.themellowsound.net:8000/mellow.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/83221/logo_MlXf9ezYkr.jpg?v=20260529-media-restore",Radio Andy
+https://stream.zeno.fm/w6tqbtdvt4zuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32420/logo_niyJc64fFc.jpg?v=20260529-media-restore",R.SH Weihnachtshits
+https://streams.rsh.de/rsh-event02/mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50851/logo_U23G70PnED.jpg?v=20260529-media-restore",Expat Radio Scotland
+https://stream.shoutcastservices.com/proxy/expatradioscotland/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81311/logo_JzZUU7XuO0.jpg?v=20260529-media-restore",Exclusively Oasis
+https://streaming.exclusive.radio/er/oasis/icecast.audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46058/logo_zl0PrW1Qoh.jpg?v=20260529-media-restore",Virage Radio
+https://virageradio.ice.infomaniak.ch/virageradio-chambery.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50924/logo_zDTysbfdOX.jpg?v=20260529-media-restore",Overdrive 192
+https://stream.zeno.fm/reiqnmrwub0uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55518/logo_lm0ZbO6Jvt.jpg?v=20260529-media-restore",Radio Soul Songs
+https://live.radiorockhits.com/listen/radiosoulsongs/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/78849/logo_V2Ieydr6ir.jpg?v=20260529-media-restore",Angel Internet Radio
+https://stream.zeno.fm/kjkvor96ebbtv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96078/logo_EecaQBmkup.jpg?v=20260529-media-restore",The Mix 93 - WKMJ-FM 93.5
+http://audio.pasty.net:8000/mix93
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95003/logo_4U6xVsdmtr.jpg?v=20260529-media-restore",Sunny 99.7
+https://live.amperwave.net/direct/alphamidwest-kxftfmaac-ibc2?source=onlineradiobox
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100905/logo_aRQgSgABDj.jpg?v=20260529-media-restore",WSNS: Songwriters, Soul, and Solid Gold
+https://streaming.live365.com/a77838
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100438/logo_1zW8vXRHMM.jpg?v=20260529-media-restore",MVYRadio - WMVY 88.7 FM
+https://mvyradio.streamguys1.com/mvy-mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92622/logo_4fFGW3uBsv.jpg?v=20260529-media-restore",The Breeze 105.9 FM - KBZE
+https://us2.maindigitalstream.com/ssl/KBZE
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98882/logo_deXh0sdCOF.jpg?v=20260529-media-restore",Wave 101.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAVVFMAAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/91984/logo_p1HP938odr.jpg?v=20260529-media-restore",KCLY 100.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KCLYFM.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88818/logo_Ls1cWS9bUs.jpg?v=20260529-media-restore",MCBN Radio
+https://usa5.fastcast4u.com/proxy/mcbnradio?mp=%2F1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46003/logo_23ddWFiT95.jpg?v=20260529-media-restore",Radio Aria
+https://stream.votreradiosurlenet.eu/radioaria.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92248/logo_zurvwyrphz.jpg?v=20260529-media-restore",Hot 103.3 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KBIUFM.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85876/logo_PAzuyqiRC0.jpg?v=20260529-media-restore",Adoración Digital Radio
+https://stream.zeno.fm/ssiwou2fxmtuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/101114/logo_ss1KVIL0XZ.jpg?v=20260529-media-restore",BestNetRadio - Love Channel
+https://bigrradio.cdnstream1.com/5161_128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/63352/logo_2C6gTNCrCF.jpg?v=20260529-media-restore",Mirage Web Radio Lógica FM
+https://fm.logicaweb.top:8020/hifi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102327/logo_uLuculdxQs.jpg?v=20260529-media-restore",WIRE - Radio Mom 91.1
+https://www.ophanim.net:8444/s/7110
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102326/logo_NJHJmaEfAt.jpg?v=20260529-media-restore",Viva 103.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46679/logo_QpjxJuWjBh.jpg?v=20260529-media-restore",Alouette Radio
+https://alouette-larochelle.ice.infomaniak.ch/alouette-larochelle-128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45985/logo_iDEJKF1vvx.jpg?v=20260529-media-restore",Virage Radio
+https://virageradio.ice.infomaniak.ch/virageradio-villefranche.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/61295/logo_aPXqfzVkgP.jpg?v=20260529-media-restore",RadioWeb '71
+https://servidor37.brlogic.com:7010/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/84534/logo_su0cJgd7VV.jpg?v=20260529-media-restore",Lite Rock Manila
+https://ice.streams.ovh:1100/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/63255/logo_JefvAoDIMk.jpg?v=20260529-media-restore",Lógica FM
+https://fm.logicaweb.top:8000/hifi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/65324/logo_Pq95vLc11u.jpg?v=20260529-media-restore",Radio Alta Frecuencia
+http://136.243.44.41:8604/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46137/logo_T0t4KrWUMU.jpg?v=20260529-media-restore",Virage Radio
+https://virageradio.ice.infomaniak.ch/virageradio-suisse.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29896/logo_8q0orZbRz3.jpg?v=20260529-media-restore",Radio Regenbogen Kuschelrock
+https://stream.regenbogen.de/kuschelrock/mp3-128/radiospinner
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/65077/logo_xLX5dqsIVQ.jpg?v=20260529-media-restore",Dotworking Radio
+https://radiosuy.mooo.com:7443/dotworking
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/99961/logo_v9diLJ7IH6.jpg?v=20260529-media-restore",The Mountain
+https://cast3.asurahosting.com/proxy/themountain/streamstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88584/logo_sTctKydfl3.jpg?v=20260529-media-restore",The Colorful Radio
+http://91.121.59.45:8244/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95222/logo_xVHiPGo9lG.jpg?v=20260529-media-restore",Hot 101.9 FM - KRSQ
+https://ice1.amtstreaming.com:8443/krsqfm
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76073/logo_rWvIQEvACG.jpg?v=20260529-media-restore",Radio Futura
+http://5.135.183.124:8041/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1003345/logo_jWkTgwDsxs.jpg?v=20260529-media-restore",Радио 40
+https://cors-anywhere.wcx.cloud/http://195.112.119.187:8000/Radio40
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32248/logo_CC5me5L4pV.jpg?v=20260529-media-restore",R.SA  Rockzirkus
+https://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46155/logo_8NYgiB80hr.jpg?v=20260529-media-restore",Virage Radio
+https://virageradio.ice.infomaniak.ch/virageradio-grenoble.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46576/logo_ndwLdMUxs4.jpg?v=20260529-media-restore",ici Lorraine
+https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46568/logo_gsv9SsCJdh.jpg?v=20260529-media-restore",ici Gascogne
+https://icecast.radiofrance.fr/fbgascogne-midfi.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46851/logo_65MNMg7COF.jpg?v=20260529-media-restore",ici Gironde
+https://icecast.radiofrance.fr/fbgironde-midfi.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46850/logo_8lNDx8v6OV.jpg?v=20260529-media-restore",Virage Radio
+https://virageradio.ice.infomaniak.ch/virageradio-high.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49959/logo_gTfgOC5gow.jpg?v=20260529-media-restore",Palm Tree Radio
+https://stream3.themediasite.co.uk:8132/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103385/logo_aTJhkcQPgf.jpg?v=20260529-media-restore",ET-Radio
+https://stream.regenbogen2.de/etradio/mp3-128/radiospinner
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/60502/logo_jERoj9C5lN.jpg?v=20260529-media-restore",Radi-U
+https://s11.maxcast.com.br:8875/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103384/logo_TAub5MN6WA.jpg?v=20260529-media-restore",Vertizontal Radio
+https://streaming.live365.com/a34398
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32196/logo_KsWSEG56LM.jpg?v=20260529-media-restore",R.SA  Weihnachtsradio
+https://streams.rsa-sachsen.de/rsa-event01/mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85420/logo_O48WrJN0RF.jpg?v=20260529-media-restore",ROVA - Niall Horan
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_3_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28640/logo_JzktNpsIPt.jpg?v=20260529-media-restore",MAGIC FM
+https://stream.laut.fm/magicfm
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/48184/logo_zSVU6oInFt.jpg?v=20260529-media-restore",OUI FM Girls Rock
+https://ouifmgirlsrock.ice.infomaniak.ch/ouifmgirlsrock.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-event-101-logo.jpg",Radio R.SA  Event 101
+https://streams.rsa-sachsen.de/101/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pr-prog-rock-631826-logo.jpg",Radio PR Prog Rock
+http://mp3.polskieradio.pl:8462/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsa-rockzirkus-607247-logo.jpg",Radio R.SA  Rockzirkus
+https://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsa-ostrock-607249-logo.jpg",Radio R.SA Ostrock
+https://streams.rsa-sachsen.de/rsa-ostrock/mp3-192/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsa-maxis-maximal-628900-logo.jpg",Radio R.SA  Maxis Maximal
+https://streams.rsa-sachsen.de/maxis/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-weihnachtsradio-logo.jpg",R.SA  Weihnachtsradio
+https://streams.rsa-sachsen.de/rsa-event01/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-oldie-club-logo.jpg",Radio R.SA  Oldie-club
+https://streams.rsa-sachsen.de/rsa-oldies/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-logo.jpg",Radio R.SA Live
+https://streams.rsa-sachsen.de/rsa-live/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-shine-99-wshw-logo.jpg",Radio Shine 99 - WSHW
+https://streamdb8web.securenetsystems.net/cirrusencore/WSHW
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-hot-1055-fm-kkoy-fm-logo.jpg",Radio Hot 105.5 FM - KKOY-FM
+https://streamdb9web.securenetsystems.net/cirrusencore/KKOY
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-highway-1047-fm-wjsh-logo.jpg",Radio Highway 104.7 FM - WJSH
+http://radio.securenetsystems.net/v5/WJSH
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-mix-961-wkkq-logo.jpg",Radio Mix 96.1 - WKKQ
+http://streamdb4web.securenetsystems.net/v5/WKKQ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-lake-947-wylk-logo.jpg",Radio Lake 94.7 - WYLK
+http://streamdb3web.securenetsystems.net/v5/WYLK
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-midcoast-wcme-995-fm-i-900-am-logo.jpg",Radio Радио Midcoast WCME 99,5 FM и 900 AM
+http://janus.cdnstream.com:8082/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-mix-1079-fm-wfmx-logo.jpg",Radio Mix 107.9 FM - WFMX
+https://playerservices.streamtheworld.com/api/livestream-redirect/WFMXFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-the-river-939-fm-wrsi-logo.jpg",Radio The River 93.9 FM - WRSI
+https://live.amperwave.net/manifest/saga-wrsifmaac-hlsc2.m3u8/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wghn-921-fm-logo.jpg",Radio WGHN - 92.1 FM
+https://securestreams6.autopo.st:2553/WGHNFM.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-953-the-gorilla-logo.jpg",Radio 95.3 The Gorilla
+http://streamdb3web.securenetsystems.net/v5/WZNF
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/france-bleu-lorraine-nord-178178-logo.jpg",Radio France Bleu Lorraine Nord
+https://icecast.radiofrance.fr/fblorrainenord-midfi.mp3?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-viva-1031-logo.jpg",Radio Viva 103.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/KDLDFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-985-fm-wnyr-logo.jpg",Radio 98.5 FM WNYR
+http://streamdb3web.securenetsystems.net/cirrusencore/WNYR
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/france-bleu-gascogne-180157-logo.jpg",Radio France Bleu Gascogne
+https://icecast.radiofrance.fr/fbgascogne-midfi.mp3?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-997-jack-fm-ksit-logo.jpg",Radio 99.7 Jack FM - KSIT
+http://streamdb7web.securenetsystems.net/v5/KSIT
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kaleidophonics-radio-network-610983-logo.jpg",Kaleidophonics Radio Network
+https://janus.cdnstream.com/proxy/kaleidop?mp=/streamu0026esPlayeru0026cb=814021.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dz-k-sun66-westcoast-logo.jpg",Radio K-SUN66-WESTCOAST
+https://stream.zeno.fm/5z051g35enruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-mixfm-logo.jpg",Radio MIXfm
+https://playerservices.streamtheworld.com/api/livestream-redirect/KMXZFM.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-radio-soundwave-logo.jpg",Radio SoundWave
+http://81.91.84.138:8040/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-majic-951-logo.jpg",Radio Majic 95.1
+http://streamdb7web.securenetsystems.net/v5/WAJI
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-bob-bobs-singer-and-songwriter-logo.jpg",Radio Bob! BOBs Singer & Songwriter
+https://streams.radiobob.de/bob-singersong/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amazing-radios-acoustic-and-unplugged-598679-logo.jpg",Amazing Radios - Acoustic & Unplugged
+http://mainstream.amazingradios.com:8000/rock64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/est-fm-567895-logo.jpg",Radio Est FM
+http://str0.creacast.com/estfm1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ribatejo-568578-logo.jpg",Radio Rádio Ribatejo
+http://46.105.172.166:9302/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/989-myfm-569072-logo.jpg",Radio 98.9 myFM.
+http://radio.securenetsystems.net/v5/CHCD
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/99-the-breeze-wbrz-ir-578824-logo.jpg",Radio 99 The Breeze WBRZ-IR
+http://172.93.237.106:8007/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/internetradio-amsterdam-636510-logo.jpg",Internetradio Amsterdam
+http://internetradio.amsterdam:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/progrockcom-569681-logo.jpg",Radio ProgRock.com
+http://74.82.59.197:8264/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/coolitz-fm-640494-logo.jpg",Radio Coolitz FM
+http://s2.voscast.com:12484/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wmni-easy-951-569982-logo.jpg",Radio WMNI Easy 95.1
+https://prod-65-19-131-144.wostreaming.net/nabco-wmniammp3-ibc4?session-id=4ecfaabc9db38e7b2df2779d3f5cba51u0026source=TuneIn
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-oldies-radio-0-1-logo.jpg",Oldies Radio
+http://janus.shoutca.st:8259/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aural-moon-576845-logo.jpg",Radio Aural Moon
+http://live.str3am.com:2010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-magnififica-605180-logo.jpg",RADIO MAGNIFÍFICA
+http://192.99.18.164:9474/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/963-wrock-cebu-608931-logo.jpg",Radio 96.3 WRocK Cebu
+http://37.187.79.93:8248/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yacht-rock-radio-630474-logo.jpg",Yacht Rock Radio
+http://streams.calmradio.com:19928/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-bob-bobs-kuschelrock-logo.jpg",Radio Bob! BOBs Kuschelrock
+https://streams.radiobob.de/bob-kuschelrock/mp3-192/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-warm-1013-logo.jpg",Radio Warm 101.3
+http://streamdb5web.securenetsystems.net/v5/WRMM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radiotunes-soft-rock-logo.jpg",Radiotunes - Soft Rock
+http://www.radiotunes.com/softrock
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-rockradiocom-soft-rock-logo.jpg",ROCKRADIO.com - Soft Rock
+http://www.rockradio.com/softrock
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-soft-classic-rock-logo.jpg",Radio Soft Classic Rock
+https://fmradiohub.in/play?url=http://64.71.133.122:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-b-1057-logo.jpg",Radio B 105.7
+https://playerservices.streamtheworld.com/api/livestream-redirect/WYXBFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wdso-572669-logo.jpg",Radio WDSO
+http://wdso.duneland.k12.in.us:8500/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-brocken-lovesongs-633806-logo.jpg",Radio Brocken Lovesongs
+https://stream.radiobrocken.de/love/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsh-80er-609199-logo.jpg",Radio R.SH 80er
+https://streams.rsh.de/rsh-80er/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-brocken-90er-628047-logo.jpg",Radio Brocken 90er
+https://stream.radiobrocken.de/90er/mp3-256/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsh-weihnachtshits-logo.jpg",Radio R.SH Weihnachtshits
+https://streams.rsh.de/rsh-event02/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rsh-90er-628898-logo.jpg",Radio R.SH 90er
+https://streams.rsh.de/90er/mp3-128/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-brocken-80er-logo.jpg",Radio Brocken 80er
+https://stream.radiobrocken.de/80er/aac-64/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-radio-sunny107-logo.jpg",Radio Sunny107
+http://streamdb3web.securenetsystems.net/v5/KKRB
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/id-most-radio-1058-fm-logo.jpg",Most Radio 105.8 FM
+https://ic.mari.co.id:8443/mostfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cl-radio-alta-frecuencia-logo.jpg",Radio Alta Frecuencia
+http://136.243.44.41:8604/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wraj-internet-radio-153617-logo.jpg",WRAJ Internet Radio
+http://sc2.wrajradio.com:7008/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-das-schnarchnasenradio-logo.jpg",R.SA  Das Schnarchnasenradio
+https://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192/onlineradiobox/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sg-radiochat-singer-songwriter-digital-logo.jpg",RadioChat Singer Songwriter Digital
+https://c1icy.prod.playlists.ihrhls.com/6698_icy
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-shipyard-radio-llc-logo.jpg",Shipyard Radio LLC
+https://streaming.live365.com/a77373
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-carousel-80s-stockport-logo.jpg",Radio Carousel 80s Stockport
+https://solid67.streamupsolutions.com/proxy/xcxsajbe/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/id-xbiz-radio-1007-fm-logo.jpg",XBiz Radio 100.7 FM
+http://freeuk27.listen2myradio.com:22702/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-cosmic-rock-radio-logo.jpg",Cosmic Rock Radio
+https://streaming.live365.com/a37938
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-e-z-1049-logo.jpg",Radio E-Z 104.9
+http://rylee.dyndns.org:8282/EZ
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wave-1011-logo.jpg",Radio Wave 101.1
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAVVFMAAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-croma-la-radio-retro-logo.jpg",RADIO CROMA - la radio retro
+https://stream.zeno.fm/468snhg22yzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-flamingwelle-logo.jpg",Radio Flämingwelle
+https://flaemingwelle.com/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-chessman-lounge-logo.jpg",Radio Chessman Lounge
+https://stream.rcast.net/67055
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-soft-radio-web-logo.jpg",Soft Radio Web
+https://ssl.saopaulo01.com.br:7040/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-128kbps-cleveland-tn-internet-radio-logo.jpg",128kbps Cleveland TN Internet Radio
+https://evcast.mediacp.eu:2350/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-chepito-rios-online-radio-logo.jpg",Chepito Rios Online Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC013.mp3?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-rockstar-logo.jpg",Radio RockStar
+https://stream.mediasector.es/radio/8060/rockstar.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-rockstar-javea-calp-y-marina-alta-sud-logo.jpg",Radio RockStar Javea, Calp Y Marina Alta Sud
+https://stream.mediasector.es/listen/rockstar/rockstar-marina-alta-sur.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-dotworking-radio-logo.jpg",Dotworking Radio
+https://radiosuy.ddns.net:7443/dotworking
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dz-k-sun66-jbradio-logo.jpg",K-SUN66-JBRadio
+https://stream.zeno.fm/f6hn0ssp6yzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dz-k-sun66-jtradio-logo.jpg",K-SUN66-JTRADIO
+https://stream.zeno.fm/th3x3hr7azzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-targu-jiu-171220-logo.jpg",Radio Targu Jiu
+http://86.122.193.178:8800/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-gemini-web-radio-logo.jpg",Gemini Web Radio
+https://c22.radioboss.fm:8739/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-radio-regenbogen-kuschelrock-logo.jpg",Radio Regenbogen - Kuschelrock
+https://stream.regenbogen.de/kuschelrock/mp3-128/onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rpr1-kuschelrock-logo.jpg",Radio RPR1. Kuschelrock
+https://stream.rpr1.de/kuschelrock/mp3-128/onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-the-breeze-somerset-logo.jpg",Radio The Breeze Somerset
+https://ec5.yesstreaming.net:3975/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-the-breeze-berkshire-logo.jpg",Radio The Breeze Berkshire
+https://ec5.yesstreaming.net:2545/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-bikers-garage-radio-logo.jpg",Bikers Garage Radio
+https://i9.streams.ovh/sc/bikersgarageradio/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-true-classic-rock-or-ktcr-fm-logo.jpg",Radio True Classic Rock | KTCR-FM
+https://stream.zeno.fm/lsshrcei2stuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-niall-horan-logo.jpg",Radio ROVA - Niall Horan
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_3_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-1031-metv-fm-logo.jpg",Radio 103.1 MeTV FM
+https://streamdb5web.securenetsystems.net/cirruspremier/KMEE
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-studio-mix-esportes-logo.jpg",Radio Studio Mix Esportes
+https://stm002.smghosting.com.br:7482/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-smooth-jazz-1079-logo.jpg",Radio Smooth Jazz 107.9
+https://playerservices.streamtheworld.com/api/livestream-redirect/WAVV_HD2AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-chemnitz-logo.jpg",Radio R.SA Live Chemnitz
+https://rsa.streamabc.net/regc-rsalivesnchm-mp3-192-5259305
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-rsa-live-dresden-logo.jpg",Radio R.SA Live Dresden
+https://rsa.streamabc.net/regc-rsalivesnddn-mp3-192-4941659
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-soft-logo.jpg",Radio Soft
+https://srv1.braudio.com.br:7292/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/soft-tracks-585835-logo.jpg",Radio Soft Tracks
+http://198.105.216.204:8200/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-fm-romania-160536-logo.jpg",Radio Magic FM - Romania
+http://live.kissfm.ro:9128/magicfm.aacp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/soft-1039-580972-logo.jpg",Radio Soft 103.9
+http://castanet.leanstream.co/CKOOFM-MP3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/easy-991-570320-logo.jpg",Radio Easy 99.1
+http://17523.live.streamtheworld.com:3690/WPLMFMAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/easy-rock-paradise-594610-logo.jpg",Radio Easy Rock Paradise
+http://78.129.227.10:8262/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/relaxxfm-611428-logo.jpg",Radio Relaxx.FM
+http://stream.relaxx.fm/aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-fm-159583-logo.jpg",Radio My FM
+http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=CKZM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/soft-rock-97-7-578767-logo.jpg",Radio soft rock 97 7
+http://rawlco-hls.leanstream.co/rawlco/CHUPFM.stream/playlist.m3u8?args=tunein_03
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/smooth-rock-935-574027-logo.jpg",Radio Smooth Rock 93.5
+http://69.39.47.80:8004/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aire-de-mar-588818-logo.jpg",Radio Aire De Mar
+http://stream-aacp.milmegas.com:8000/airedemar

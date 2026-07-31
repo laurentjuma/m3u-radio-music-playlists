@@ -11,6 +11,8 @@ https://solovievfm.hostingradio.ru/solovievfm128.aacp
 https://bookradio.hostingradio.ru:8069/fm
 #EXTINF:-1,Business FM
 https://bfm.hostingradio.ru:9075/fm
+#EXTINF:-1,Коммерсантъ FM
+https://kommersant77.hostingradio.ru:8016/kommersant128.mp3
 #EXTINF:-1,Радио Sputnik (Cпутник)
 https://icecast-rian.cdnvideo.ru/voicerus
 #EXTINF:-1,Радио Фантастики
@@ -29,25 +31,11 @@ https://a8.radioheart.ru:9011/RH35238
 http://94.181.45.104:8005/
 #EXTINF:-1,Радио Cassiopeia Station (Наука)
 https://stream.cassiopeia-station.ru:5125/stream
-#EXTINF:-1,Радио Волгоград 24
-https://s0.radioheart.ru:8000/RH59163
 #EXTINF:-1,Радио Москвы
 https://icecast-vgtrk.cdnvideo.ru/moscowtalk128?v=1640610887877
 #EXTINF:-1,Радио Sputnik Кыргызстан
 https://icecast-rian.cdnvideo.ru/voicekgz
 #EXTINF:-1,Радио Бродяга On-Line
 https://listen6.myradio24.com/traveller
-#EXTINF:-1,Радио Автодор
-https://avtodor-tr.hostingradio.ru/avtodortr128.mp3
-#EXTINF:-1,Радио Движение
-https://c4.radioboss.fm:18218/stream
 #EXTINF:-1,Сити-ФМ
 https://icecast-rian.cdnvideo.ru/voicearm1
-#EXTINF:-1,Радио NA
-http://c2.radioboss.fm:8543/stream
-#EXTINF:-1,Radio Maestro
-https://nue01-edge01.itdc.ge/fm-maestro-94.7/tracks-a1/playlist.m3u8
-#EXTINF:-1,Радио Пляж - Прямой Эфир
-https://listen7.myradio24.com/8382
-#EXTINF:-1,Радио ПрозаФон
-https://kira.s02.radio-tochka.com:5375/stream

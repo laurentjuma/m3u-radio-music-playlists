@@ -143,17 +143,53 @@ http://www.radioking.com/play/radio-dziani-la-voix-du-lac
 http://mayottewebradio.com:8000/
 #EXTINF:-1,Chiconifm
 http://92.222.20.72:8011/
-#EXTINF:-1,Mayotte 1ère
-https:/http:/adio.mayotte-streaming.com/8004/stream
 #EXTINF:-1,Réa FM
 http://manager6.streamradio.fr:2330/;stream.nsv
-#EXTINF:-1,RIM-Mayotte
-https:/http:/adio.mayotte-streaming.com/8006/stream
-#EXTINF:-1,RS Mayotte
-https:/http:/adio.mayotte-streaming.com/8008/stream
 #EXTINF:-1,Mayotte 1ere
 http://machaka.viens.la:8009/
 #EXTINF:-1,Radio Nour Webradio
 http://51.254.221.183:8006/
 #EXTINF:-1,Mayotte La 1ère - 128 - Mayotte - 
 http://mayotte.ice.infomaniak.ch/mayotte-128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HA2XRC.png",Mayana fm
+http://62.210.131.27:8029/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79543/logo_ax2RwXMeCa.png",SUN FM Radio
+https://play.radioking.io/sun-fm-mayotte
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79542/logo_e4TiFAAoih.png",Hero Radio (Mayotte)
+https://a2.asurahosting.com:6790/radio/mayotte.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79541/logo_LRpI3tKMHc.png",Antenna Web Mamoudzou Radio
+https://tinyurl.com/AntennaWebMamoudzou
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Mayotte 1 FM 91.0 - Mayotte - Pamandzi
+https://mayotte.ice.infomaniak.ch/mayotte-128.mp3
+#EXTINF:-1,Nour Webradio - Mayotte - Dzaoudzi
+https://nour-webradio.ice.infomaniak.ch/nour-webradio.mayotte-32.aac
+#EXTINF:-1,Radio Koudjouni - Mayotte - M'Tsangamouji
+https://radio.mayotte-streaming.com/8002/stream
+#EXTINF:-1,Radio Mawoua FM 88.1 - Mayotte - Dzaoudzi
+https://mawoua.ice.infomaniak.ch/mawoua-32.aac
+#EXTINF:-1,RF Mayotte - Mayotte - M'Tsangamouji
+https://radio.mayotte-streaming.com:10998/;
+#EXTINF:-1,RS-Mayotte - Mayotte - M'Tsangamouji
+https://radio.mayotte-streaming.com/8008/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mayotte-la-1ere-568040-logo.jpg",Radio Mayotte La 1ère
+http://radios.la1ere.fr/mayotte
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chiconifm-599731-logo.jpg",Radio Chiconifm
+http://92.222.20.72:8011/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfo-mayotte-176936-logo.jpg",Radio RFO Mayotte
+http://mp3.live.tv-radio.com/rfo/all/rfomayotte-48k.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mayotte-web-radio-582852-logo.jpg",Mayotte Web Radio
+http://mayottewebradio.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-la-voix-du-nord-591452-logo.jpg",Radio La Voix Du Nord
+http://mayottewebradio.com:8697/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yt-mayotte-one-la-radio-logo.jpg",MAYOTTE ONE LA RADIO
+http://machaka.viens.la:8090/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yt-anteou-fm-logo.jpg",Radio Antéou FM
+http://live.myradio.yt:1340/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yt-radio-parole-acoua-logo.jpg",Radio Parole Acoua
+http://51.254.221.183:8006/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yt-mayotte-fm-926-logo.jpg",Radio Mayotte FM 92.6
+http://live.myradio.yt:1090/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-machaka-165942-logo.jpg",Radio Machaka
+http://machaka.viens.la:8009/;

@@ -285,3 +285,53 @@ http://108.35.61.50:9988/
 http://e20.yesstreaming.net:7332/stream
 #EXTINF:-1,Alcatraz Radio FM
 https://stream.zeno.fm/zf8v71kkmy8uv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RX5BUO.png",Guyana Gospel Times 24X7
+https://stream.zeno.fm/7550huzkkpeuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/66345/logo_hpGZsaHZXE.png",Antenna Web Georgetown Radio
+https://tinyurl.com/AntennaWebGeorgetown
+#EXTINF:-1,97.5 FM MAAD  
+https://streaming.broadcastradio.com/brutal
+#EXTINF:-1,102.5 FM Voice of Guyana 
+https://cast4.asurahosting.com/proxy/ncn1025/stream
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,104.1 Guyana Lite FM 
+https://n08.radiojar.com/nh42m158d4duv?rj-ttl=5&rj-tok=AAABlyfWxAgAw4EgJHYs7gEKgA
+#EXTINF:-1,Bhajans Radio Guyana - Guyana - Georgetown
+https://s5.citrus3.com:8148/stream
+#EXTINF:-1,Guyana Lite FM 104.1 - Guyana - Georgetown
+https://stream.radiojar.com/nh42m158d4duv
+#EXTINF:-1,Hot FM 98.1 - Guyana - Georgetown
+https://cast4.asurahosting.com/proxy/ncn981/stream
+#EXTINF:-1,Kaieteur Radio FM 99.1 - Guyana - Georgetown
+https://audio-edge-es6pf.mia.g.radiomast.io/926713f0-ef2c-4bfb-bb16-16d13281dc00
+#EXTINF:-1,Maad FM 97.5 - Guyana - Georgetown
+https://streaming.broadcastradio.com:8870/maad975fm
+#EXTINF:-1,Mix FM 90.1 - Guyana - Georgetown
+https://audio-edge-5bkfj.fra.h.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f
+#EXTINF:-1,NTN Radio FM 89.1 - Guyana - Georgetown
+https://auds1.intacs.com/ntnradio
+#EXTINF:-1,Radio Guyana FM 89.5 - Guyana - Georgetown
+https://stream.radio.co/s9668e2ab5/listen
+#EXTINF:-1,Voice of Guyana FM 102.5 - Guyana - Georgetown
+https://cast4.asurahosting.com/proxy/ncn1025/stream
+#EXTINF:-1,Vybz 100.1 FM - Guyana - Georgetown
+https://cast4.asurahosting.com/proxy/ncn1001/stream
+#EXTINF:-1,WJREM FM 101.3 - Guyana - Linden
+https://premiumserveruk1.listen2myradio.com:8007/index.html!?sid=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gy-gtriddim-guyana-radio-logo.jpg",GTriddim Guyana Radio
+http://www.gtriddim.net:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/caribean-radio-173895-logo.jpg",Caribean Radio
+http://188.165.237.140:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/freedom-radio-613795-logo.jpg",Freedom Radio
+http://stereo.wavestreamer.com:8643/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-max-guyana-1-620168-logo.jpg",Radio Max Guyana 1
+http://samcloud.spacial.com/api/listen?sid=71811u0026m=sc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio592-620183-logo.jpg",Radio592
+http://108.35.61.50:9994/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gy-antenna-web-georgetown-logo.jpg",Radio Antenna Web Georgetown
+http://tinyurl.com/AntennaWebGeorgetown
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/guyana-nj-fm-177194-logo.jpg",Radio Guyana NJ FM
+http://199.16.186.38:8312/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/brutal-radio-guyana-157227-logo.jpg",Brutal Radio Guyana
+http://s15429922.onlinehome-server.com:8000

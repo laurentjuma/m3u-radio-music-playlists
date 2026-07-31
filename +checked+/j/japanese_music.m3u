@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Neko-Network Radio: Vision Anime & Japanese Music
+https://free.rcast.net/244291
 #EXTINF:-1,J-Pop Powerplay
 https://kathy.torontocast.com:3560/;
 #EXTINF:-1,Jazz Sakura - asia DREAM radio
@@ -9,14 +11,8 @@ https://kathy.torontocast.com:3340/;
 https://kathy.torontocast.com:3060/;
 #EXTINF:-1,J1 HITS
 https://jenny.torontocast.com:2000/stream/J1HITS
-#EXTINF:-1,Japan Hits - Asia DREAM Radio
-https://cast1.torontocast.com:2120/;
-#EXTINF:-1,J-Pop Sakura 懐かしい
-https://cast1.torontocast.com:2170/;
 #EXTINF:-1,Moon Mission
 http://uk5.internet-radio.com:8306/;stream.nsv
-#EXTINF:-1,Animu FM
-https://cast.animu.com.br:9079/stream
 #EXTINF:-1,J1 Gold
 https://jenny.torontocast.com:2000/stream/j1gold/stream
 #EXTINF:-1,SBS PopAsia
@@ -35,8 +31,6 @@ https://kathy.torontocast.com:2880/1.mp3
 https://www.jcbasimul.com/fmchappy
 #EXTINF:-1,Umeda FM Be Happy!789
 https://www.jcbasimul.com/umedafm
-#EXTINF:-1,J1 Xtra
-https://jenny.torontocast.com:2000/stream/j1xtra/xtra
 #EXTINF:-1,Radio Nanao
 https://www.jcbasimul.com/
 #EXTINF:-1,Kamakura FM
@@ -49,6 +43,8 @@ https://ais-sa3.cdnstream1.com/2629_128.mp3
 http://live.japanesemusicid.com:8000/japanesemusic
 #EXTINF:-1,Vagalume.FM - J-Pop
 https://stream.vagalume.fm/hls/1475776167864381/aac.m3u8
+#EXTINF:-1,Radio Takasaki
+https://www.takasaki.fm/
 #EXTINF:-1,FM Maizuru
 https://www.jcbasimul.com/fmmaizuru
 #EXTINF:-1,FM Kashima
@@ -57,8 +53,6 @@ https://www.jcbasimul.com/fmkashima
 https://www.jcbasimul.com/shunanfm
 #EXTINF:-1,I-wave
 https://www.jcbasimul.com/fmichinomiya
-#EXTINF:-1,J1 HD
-https://maggie.torontocast.com:2000/stream/J1HD
 #EXTINF:-1,FM Kusatsu
 https://www.jcbasimul.com/fmkusatsu
 #EXTINF:-1,TJS Japanese Radio Station
@@ -73,8 +67,12 @@ https://www.jcbasimul.com/fmdaigo
 http://www.fm-oze.co.jp/simul/player.html
 #EXTINF:-1,Curry Bun Radio
 https://streaming.shoutcast.com/curry-bun-radio
+#EXTINF:-1,Japanradio
+https://stream.japanradio.de/live.mp3
 #EXTINF:-1,RADIO wonderstorage
 https://live.776.fm/
+#EXTINF:-1,0nlineradio J-Pop
+https://0nlineradio.stream13.radiohost.de/0r-j-pop?upd-meta&upd-scheme=https&_art=dD0xNzgwOTA5MjcwJmQ9ODJiYmYxZWU4NWU3ZmQyYjI1Mjg
 #EXTINF:-1,J-Pop Powerplay (Asia DREAM Radio)
 http://kathy.torontocast.com:3560/;
 #EXTINF:-1,Japannext Radio
@@ -87,5 +85,11 @@ http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
 http://kathy.torontocast.com:3060/;
 #EXTINF:-1,LISTEN.moe Jpop (Opus)
 https://listen.moe/opus
+#EXTINF:-1,Anison.FM
+http://pool.anison.fm:9000/AniSonFM(320)
 #EXTINF:-1,A chan
 http://jenny.torontocast.com:8066/
+#EXTINF:-1,Hotmix Japan
+https://streaming.hotmixradio.com/hotmix-japan-en-mp3?
+#EXTINF:-1,Radio AMC
+https://stm3.painelcast.com:7116/stream

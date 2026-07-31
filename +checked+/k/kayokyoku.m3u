@@ -7,10 +7,6 @@ https://kathy.torontocast.com:3340/;
 https://kathy.torontocast.com:3060/;
 #EXTINF:-1,J1 HITS
 https://jenny.torontocast.com:2000/stream/J1HITS
-#EXTINF:-1,Japan Hits - Asia DREAM Radio
-https://cast1.torontocast.com:2120/;
-#EXTINF:-1,J-Pop Sakura 懐かしい
-https://cast1.torontocast.com:2170/;
 #EXTINF:-1,Super Tokio Radio
 https://streamer.radio.co/s83eb8ff39/listen
 #EXTINF:-1,J-Club Powerplay Hip-Hop
@@ -19,20 +15,18 @@ https://kathy.torontocast.com:3350/;
 https://www.jcbasimul.com/miyoshifm
 #EXTINF:-1,Umeda FM Be Happy!789
 https://www.jcbasimul.com/umedafm
-#EXTINF:-1,J1 Xtra
-https://jenny.torontocast.com:2000/stream/j1xtra/xtra
 #EXTINF:-1,Fujisan GOGO FM
 https://www.jcbasimul.com/fujiyamagogofm
 #EXTINF:-1,FM Maizuru
 https://www.jcbasimul.com/fmmaizuru
 #EXTINF:-1,I-wave
 https://www.jcbasimul.com/fmichinomiya
+#EXTINF:-1,J1 HD
+https://maggie.torontocast.com:2000/stream/J1HD
 #EXTINF:-1,FM Kusatsu
 https://www.jcbasimul.com/fmkusatsu
 #EXTINF:-1,Ashiya Radio
 https://s3.radio.co/sc8d895604/listen
-#EXTINF:-1,Studio FKM
-http://199.101.98.82:8390/;
 #EXTINF:-1,FM Daigo
 https://www.jcbasimul.com/fmdaigo
 #EXTINF:-1,Radio Shiga
@@ -41,8 +35,6 @@ https://sv10.hdradios.net:21920/;
 https://live.776.fm/
 #EXTINF:-1,Shonan Beach FM 78.9
 http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
-#EXTINF:-1,J1 XTRA (HTTP)
-http://jenny.torontocast.com:8058/;
 #EXTINF:-1,WVVV V96.9
 https://ice5.securenetsystems.net/WVVVFM
 #EXTINF:-1,J1 Gold (HTTP)

@@ -35,3 +35,17 @@ https://www.liveradio.es/http://85.17.122.32:8342/stream
 https://centova71.instainternet.com/proxy/imaifmradio?mp=/stream
 #EXTINF:-1,Радио Для Двоих
 http://radio.chastnik-m.ru:8001/rdd
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80485/logo_QHJJgXe01i.png",Imai fm Radio
+https://centova71.instainternet.com/proxy/imaifmradio?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47778/logo_Yb7ckRgXjd.jpg?v=20260529-media-restore",Radio Fréquence Méditerranée
+https://frequencemediterranee.ice.infomaniak.ch/frequencemediterranee-128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44051/logo_Ji9qDs6B6A.jpg?v=20260529-media-restore",Exitoradio
+https://eu1.lhdserver.es:8009/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80485/logo_AIPkHzdgLF.jpg?v=20260529-media-restore",Imai FM
+https://centova71.instainternet.com/proxy/imaifmradio?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/astro-tv-577803-logo.jpg",Radio Astro TV
+http://www.astrotv.de/astrotv/cms/system/modules/de.noeastro.frontend/resources/flvplayer.swf
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/astral-fm-589993-logo.jpg",Radio Astral FM
+http://188.165.248.198:44018/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-yoga-network-am-1503-khz-589159-logo.jpg",Radio Yoga Network AM 1503 KHz
+http://185.105.4.100:8180/autodj

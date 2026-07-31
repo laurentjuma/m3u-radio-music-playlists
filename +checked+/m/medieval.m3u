@@ -23,8 +23,6 @@ http://mittelalter.stream.laut.fm/mittelalter
 http://early_music.stream.laut.fm/early_music
 #EXTINF:-1,radio aena
 http://radio-aena.stream.laut.fm/radio-aena
-#EXTINF:-1,beni oldenburg
-http://beni_oldenburg.stream.laut.fm/beni_oldenburg
 #EXTINF:-1,grimyhell
 http://grimyhell.stream.laut.fm/grimyhell
 #EXTINF:-1,filiinoctis
@@ -33,8 +31,18 @@ http://filiinoctis.stream.laut.fm/filiinoctis
 http://thedarkside.stream.laut.fm/thedarkside
 #EXTINF:-1,Toutes les couleurs du trad
 https://my2.radiolize.com/radio/8100/radio.mp3
-#EXTINF:-1,Durchgehört
-https://1.stream.laut.fm/durchgehoert
+#EXTINF:-1,Radio Monacensis
+https://monacensis.stream.laut.fm/monacensis?t302=2026-06-07_16-09-02&uuid=20afa36a-4d5c-499a-a7ea-25a1722eae87
+#EXTINF:-1,Radio Sinnflut
+http://sinnflut.stream.laut.fm/sinnflut?t302=2026-06-07_16-09-02&uuid=ca58c012-750d-445c-a01e-0a3b967c15c0
+#EXTINF:-1,Narrenwut
+http://mittelalter-net.stream.laut.fm/mittelalter-net?t302=2026-06-07_16-09-02&uuid=99c5c0e8-cf37-4b04-b9e8-3cd4cc5f6220
+#EXTINF:-1,Schwarzeszene
+http://schwarzeszene.stream.laut.fm/schwarzeszene?t302=2026-06-07_16-09-02&uuid=51778ebd-da95-45eb-8127-af6389026435
+#EXTINF:-1,Fantasy Radio
+http://fantasyradio.stream.laut.fm/fantasyradio?t302=2026-06-07_16-09-02&uuid=e72ee2be-67a9-45ec-9a9a-cbd0944a841f
+#EXTINF:-1,DarkRadio
+https://radio-alperose.spcast.eu/?time=1780848543
 #EXTINF:-1,Schwarze Szene
 https://schwarzeszene.stream.laut.fm/schwarzeszene
 #EXTINF:-1,Ancient Faith Radio - Music
@@ -43,8 +51,6 @@ https://ancientfaith.streamguys1.com/music
 https://cia-radio.stream.laut.fm/cia-radio?t302=2023-04-25_19-32-57&uuid=f3ce3dca-6e32-43f1-a83a-2dfd4e88171b
 #EXTINF:-1,Mittelalterserver
 https://mittelalterserver.stream.laut.fm/mittelalterserver
-#EXTINF:-1,Metal Only (mobile)
-http://138.201.234.220:8000/
 #EXTINF:-1,Laut.FM Der Barde
 http://der-barde.stream.laut.fm/der-barde?t302=2023-04-25_19-32-13&uuid=cd6de0db-c553-46ec-a310-7863e8c50e43
 #EXTINF:-1,Flatlines Radio

@@ -53,14 +53,14 @@ http://ebm.stream.laut.fm/ebm
 http://uselinks.stream.laut.fm/uselinks
 #EXTINF:-1,80sone
 http://80sone.stream.laut.fm/80sone
+#EXTINF:-1,sunbeatsradio
+http://sunbeatsradio.stream.laut.fm/sunbeatsradio
 #EXTINF:-1,abglanz fm
 http://abglanz-fm.stream.laut.fm/abglanz-fm
 #EXTINF:-1,panorama80
 http://panorama80.stream.laut.fm/panorama80
 #EXTINF:-1,fallout
 http://fallout.stream.laut.fm/fallout
-#EXTINF:-1,rockshandy
-http://rockshandy.stream.laut.fm/rockshandy
 #EXTINF:-1,romance
 http://romance.stream.laut.fm/romance
 #EXTINF:-1,lifelandsstation
@@ -69,8 +69,6 @@ http://lifelandsstation.stream.laut.fm/lifelandsstation
 http://divaradio.stream.laut.fm/divaradio
 #EXTINF:-1,htd radio
 http://htd-radio.stream.laut.fm/htd-radio
-#EXTINF:-1,hey music 2
-http://hey-music_2.stream.laut.fm/hey-music_2
 #EXTINF:-1,darkzeroradio
 http://darkzeroradio.stream.laut.fm/darkzeroradio
 #EXTINF:-1,djneihtul
@@ -85,8 +83,6 @@ http://blackspot.stream.laut.fm/blackspot
 http://al-dente.stream.laut.fm/al-dente
 #EXTINF:-1,darksoundradio
 http://darksoundradio.stream.laut.fm/darksoundradio
-#EXTINF:-1,arie of the raven
-http://arie_of_the_raven.stream.laut.fm/arie_of_the_raven
 #EXTINF:-1,radio body music
 http://radio-body-music.stream.laut.fm/radio-body-music
 #EXTINF:-1,radiopfaffenhofen
@@ -133,8 +129,6 @@ http://operating-generating.stream.laut.fm/operating-generating
 http://phoenix-club.stream.laut.fm/phoenix-club
 #EXTINF:-1,radio mic
 http://radio-mic.stream.laut.fm/radio-mic
-#EXTINF:-1,schwarzer kanal
-http://schwarzer_kanal.stream.laut.fm/schwarzer_kanal
 #EXTINF:-1,na radio
 http://na-radio.stream.laut.fm/na-radio
 #EXTINF:-1,radiodarkpulse
@@ -155,8 +149,6 @@ http://mindestverzehr-radio.stream.laut.fm/mindestverzehr-radio
 http://pitchblackradio.stream.laut.fm/pitchblackradio
 #EXTINF:-1,hallofmusic2
 http://hallofmusic2.stream.laut.fm/hallofmusic2
-#EXTINF:-1,torsten tune
-http://torsten-tune.stream.laut.fm/torsten-tune
 #EXTINF:-1,nachtflug
 http://nachtflug.stream.laut.fm/nachtflug
 #EXTINF:-1,hey music
@@ -177,8 +169,6 @@ http://planet80s.stream.laut.fm/planet80s
 http://radio-freitag-der-13te.stream.laut.fm/radio-freitag-der-13te
 #EXTINF:-1,bleakradio
 http://bleakradio.stream.laut.fm/bleakradio
-#EXTINF:-1,plattenwerk zwo
-http://plattenwerk_zwo.stream.laut.fm/plattenwerk_zwo
 #EXTINF:-1,true mania
 http://true-mania.stream.laut.fm/true-mania
 #EXTINF:-1,paradise
@@ -191,8 +181,6 @@ http://obstwiesenfestival.stream.laut.fm/obstwiesenfestival
 http://klinikradio.stream.laut.fm/klinikradio
 #EXTINF:-1,playback
 http://playback.stream.laut.fm/playback
-#EXTINF:-1,radio synth melody
-http://radio_synth_melody.stream.laut.fm/radio_synth_melody
 #EXTINF:-1,livingdead
 http://livingdead.stream.laut.fm/livingdead
 #EXTINF:-1,radio megahertz
@@ -211,14 +199,10 @@ http://boombarradio.stream.laut.fm/boombarradio
 http://corvusnigrum.stream.laut.fm/corvusnigrum
 #EXTINF:-1,rdt
 http://rdt.stream.laut.fm/rdt
-#EXTINF:-1,digital gunfire
-http://digital_gunfire.stream.laut.fm/digital_gunfire
 #EXTINF:-1,soundwelten
 http://soundwelten.stream.laut.fm/soundwelten
 #EXTINF:-1,dmcphh
 http://dmcphh.stream.laut.fm/dmcphh
-#EXTINF:-1,torstens radioshow
-http://torstens-radioshow.stream.laut.fm/torstens-radioshow
 #EXTINF:-1,bpm
 http://bpm.stream.laut.fm/bpm
 #EXTINF:-1,saarwoodelectro
@@ -241,8 +225,18 @@ http://synthpop.stream.laut.fm/synthpop?t302=2020-08-21_00-18-20&uuid=e05c8cfc-d
 http://51.255.8.139:9090/stream
 #EXTINF:-1,Radio Cezar Gdańsk
 https://usa19.fastcast4u.com:7170/stream
+#EXTINF:-1,Synthesizer
+https://synthesizer.stream.laut.fm/synthesizer?ref=radiode&t302=2026-06-08_14-18-24&uuid=645f88a3-098c-4502-892e-c6380a8db7b6
+#EXTINF:-1,Synthwave
+https://synthwave.stream.laut.fm/synthwave?ref=radiode&t302=2026-06-08_14-18-24&uuid=dd41df89-ae1d-4f8e-bfe2-46a211594b5b
+#EXTINF:-1,Eltronic
+https://eltronic.stream.laut.fm/eltronic?ref=radiode&t302=2026-06-08_14-18-24&uuid=2d427b1c-d47c-44b7-8b1d-8388d21916eb
 #EXTINF:-1,radio ros brera
 https://ec6.yesstreaming.net:1345/stream
+#EXTINF:-1,80s80s DARK WAVE
+https://regiocast.streamabc.net/regc-80s80sdarkwave3426539-mp3-192-3262123?sABC=6n26ps31%230%23p10rs66q5100855s6nr8n9s5296rp453%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1780928305
+#EXTINF:-1,Flashback Alternatives
+https://puma.streemlion.com:1225/stream
 #EXTINF:-1,Radio Xiuxiu
 http://live.radioxiuxiu.com:8064/stream
 #EXTINF:-1,80s Forever Radio
@@ -251,8 +245,14 @@ http://s2.ssl-stream.com:8050/256.mp3
 http://gemradionw.radioca.st:8928/stream/
 #EXTINF:-1,Radio Monte Carlo - RMC 80
 http://edge.radiomontecarlo.net/rmcweb008
-#EXTINF:-1,Loose
-http://s5.radio.co/s3aca8bee3/listen
+#EXTINF:-1,Dark Zero Radio
+https://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2026-06-08_14-18-26&uuid=2fea567c-1b0e-42c7-a486-e8f8aa3bef00
+#EXTINF:-1,Alibi Radio
+http://das-edge12-live365-dal02.cdnstream.com/a86183
+#EXTINF:-1,RadioBit
+http://radiobit.stream.laut.fm/radiobit?t302=2026-06-08_14-18-26&uuid=e7e9466f-70fc-4157-bb2a-0eb994b9e12b
+#EXTINF:-1,80s Mix Radio
+http://80s-mix-radio.stream.laut.fm/80s-mix-radio?t302=2026-06-08_14-18-26&uuid=47021741-6237-4730-8eb8-c9a46d063fde
 #EXTINF:-1,Радио MAXIMUM - Depeche Mode
 https://depechemode.hostingradio.ru/depechemode96.aacp
 #EXTINF:-1,ABGLANZ-FM
@@ -261,14 +261,14 @@ http://abglanz-fm.stream.laut.fm/abglanz-fm?pl=m3u&ampt302=2023-04-14_16-47-16&a
 http://pub0101.101.ru:8000/stream/pro/aac/64/179
 #EXTINF:-1,101.RU - Cyber Space
 http://pub0101.101.ru:8000/stream/pro/aac/64/79
-#EXTINF:-1,Synthwave City FM
-http://synthwave-rex.radioca.st:8179/stream
+#EXTINF:-1,radio SAW - Synthie Pop
+http://vmg.streamabc.net/117-synthiepop-mp3-128-2228220?listenerid=33524cae49e5cbadc263e176b49f9e9b
+#EXTINF:-1,Now Wave Radio
+http://das-edge63-live365-dal03.cdnstream.com/a78360
 #EXTINF:-1,Radio Capital - Depeche Mode
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/live.m3u8
-#EXTINF:-1,RadioSpinner - Synth Pop
-https://live.radiospinner.com/synthpp-96
-#EXTINF:-1,RadioSpinner - Synthwave
-http://live.radiospinner.com/synthwave-96
+#EXTINF:-1,Antenna Network
+http://antenna-network.stream.laut.fm/antenna-network?t302=2026-06-08_14-18-30&uuid=4cb98f4c-a7f2-4f94-9ad4-fdadcf8140ce
 #EXTINF:-1,SynthPop Radio
 http://usa15.fastcast4u.com:21040/stream
 #EXTINF:-1,Радио Modern Talking
@@ -277,6 +277,8 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/115?
 https://synthpop.stream.laut.fm/synthpop
 #EXTINF:-1,DarkClubRadio
 https://darkclubradio.stream.laut.fm/darkclubradio
+#EXTINF:-1,80&#039;s New Wave Radio
+https://puma.streemlion.com:2910/stream
 #EXTINF:-1,Panorama80
 https://panorama80.stream.laut.fm/panorama80
 #EXTINF:-1,DARK ZERO RADIO
@@ -307,14 +309,14 @@ https://schwarzeszene.stream.laut.fm/schwarzeszene?pl=m3u&t302=2023-05-10_13-19-
 http://ice6.somafm.com/poptron-128-mp3
 #EXTINF:-1,Laut.FM Dark-Bites
 http://dark-bites.stream.laut.fm/dark-bites?t302=2023-04-25_19-50-28&uuid=6113de60-0c16-4eb8-9cd5-07150613f090
-#EXTINF:-1,Detroit Industrial Underground
-http://138.197.0.4:8000/stream
 #EXTINF:-1,Laut.FM Eurodance
 http://eurodance.stream.laut.fm/eurodance?t302=2023-04-25_19-31-42&uuid=1d2eb789-0aac-4e8b-8c3f-702922deff8b
 #EXTINF:-1,PetShopBoys
 http://petshopboys.stream.laut.fm/petshopboys?t302=2023-04-25_19-50-39&uuid=cdb84097-91cb-40b3-a4ac-37d43c5b465c
-#EXTINF:-1,Soulplay Radiostation
-http://s1.radioheart.ru:8018/live
+#EXTINF:-1,ByteFM | HH-UKW
+http://bytefm.stream14.radiohost.de/bytefm-hamburg_mp3-128?addradio&_art=dD0xNzgwOTI4NjEzJmQ9OGE5YjI2YTEyYjNlM2ZhNGI2N2U&upd-meta&upd-scheme=http
+#EXTINF:-1,Spacesynth radio
+https://listen8.myradio24.com/1987
 #EXTINF:-1,GEWC
 https://gewc.stream.laut.fm/gewc?
 #EXTINF:-1,Soundsystem
@@ -325,3 +327,5 @@ https://s2.radio.co/sbce6607ba/listen
 https://irmedia.streamabc.net/irm-osw2000er-mp3-128-1925859
 #EXTINF:-1,SynthTronic Radio
 https://cheetah.streemlion.com:2850/stream
+#EXTINF:-1,UferFunk
+https://uferfunk.stream.laut.fm/uferfunk?t302=2026-06-08_14-18-34&uuid=6293eff5-9c6d-4802-ba97-23eadaa2fbfd

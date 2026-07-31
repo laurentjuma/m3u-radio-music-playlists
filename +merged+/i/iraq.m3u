@@ -771,22 +771,12 @@ https://liveradio.co.il:9040/
 https://stream.xfm.iq:1057/;
 #EXTINF:-1,Babylon Arabia
 https://eu7.fastcast4u.com/proxy/babylonarabia?mp=/1?ver=565485
-#EXTINF:-1,Radio Quran Karem
-https:/http:/adio.shafaq.comhttp:/adio
-#EXTINF:-1,Radio Shafaq English
-https:/http:/adio.shafaq.com/english
 #EXTINF:-1,Al-Mirbad
 https://almirbad.mixlr.com/
-#EXTINF:-1,Radio Shafaq Kurdish
-https:/http:/adio.shafaq.com/kurdish
 #EXTINF:-1,Tzgospel (iraq)
 https://stream-149.zeno.fm/22gru5ba7ehvv?zs=K6En_psfSxqxz4Xfe8cfSQ
 #EXTINF:-1,Mix fm
 https://c2.radioboss.fm:18184/stream
-#EXTINF:-1,MIX FM
-https:/http:/adioduhok.radioca.st/live
-#EXTINF:-1,Dengi Islam-Hawler 106.1FM
-http:/http:/adio1.sotmasr.com:9354/;
 #EXTINF:-1,Albilad Radio
 https://stream-152.zeno.fm/ud0wera9hy2vv
 #EXTINF:-1,Zagros Radio
@@ -805,3 +795,181 @@ http://spedafm.servemp3.com:8000/spedafm1
 https://c22.radioboss.fm:8636/stream
 #EXTINF:-1,Nheli Radio
 https://stream-152.zeno.fm/qk3immampzqvv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5W4RN.png",Alseraj Radio
+http://eu4.fastcast4u.com:5672/1/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EL7SB2.png",Alseraj Radio Quran
+http://192.99.170.8:5550/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/57KVVO.png",Babylon fm 99.3
+http://178.32.146.187:5113/stream?s=1405495395
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0I1E55.png",hawadijlah
+https://www.radioking.com/play/hawadijlah/136030
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CJJJL3.png",Kurdmix
+http://solid55.streamupsolutions.com:32000/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MGZ4T3.png",Radio Sawa - Gulf
+https://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/R4ZOOX.png",Vin TV
+https://playerservices.streamtheworld.com/api/livestream-redirect/KHTIFM_SC
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83841/logo_5UQ3RhHdXz.png",Waar Radio
+https://c2.radioboss.fm/stream/564
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83828/logo_4CLqJzbAzl.png",Quran In Kurdish Radio
+https://strw3.openstream.co/2388
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83835/logo_DYEEEqw9tL.png",Radio Shafaq English
+https://radio.shafaq.com/english
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83830/logo_UU3bUXpk8S.png",Radio One Iraq
+https://radio1.fortihost.com/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83839/logo_iaXu2Ay3La.png",Kirkuk FM Radio
+https://video1.getstreamhosting.com:8154/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83821/logo_IPaYK99KZX.png",Babylon FM Radio
+https://eu7.fastcast4u.com/proxy/babylonarabia?mp=/1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83829/logo_eRMMtWdXI3.png",M Radio 105.5 FM
+https://usa13.fastcast4u.com/proxy/mradio02?mp=%2F1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83832/logo_7ziou2zbkT.png",Babylon Türkçe Radio
+https://eu7.fastcast4u.com/proxy/babylonfm?mp=%2F1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103229/logo_UBwg7XqxIO.png",Shady FM Kurdish Radio
+https://stream.zeno.fm/evvkgtwyqxstv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83840/logo_cLVpyF1v5S.png",Parzink Radio
+https://a1.asurahosting.com:8240/radio.mp3
+#EXTINF:-1,radio maria iraq 
+http://dreamsiteradiocp4.com:8046/stream
+#EXTINF:-1,. Al quran radio  
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1,.. مختصر التفسير  
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1,. القارئ محمد أيوب  
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1,Waar Radio Official Stream 
+https://c2.radioboss.fm:18564/stream
+#EXTINF:-1,Radio Shanasheel  
+https://stream-152.zeno.fm/a33ka0d94p8uv
+#EXTINF:-1,Al rasheed fm 
+https://streaming.shoutcast.com/alrasheed-fm?1719771692024
+#EXTINF:-1,Ankawa 
+http://178.32.146.187/proxy/radioankawa?mp=/1/
+#EXTINF:-1,Turkmen FM  تركمان إف إم 
+https://radyo1.radyo-dinle.tc/8284/stream
+#EXTINF:-1,Radio Duhok FM 
+https://stream-149.zeno.fm/unwq3jdyhmbuv
+#EXTINF:-1,FM المستقبل 
+https://edge.mixlr.com/channel/vnvcj
+#EXTINF:-1,Radyo  Şirvan Perwer 
+https://stream-156.zeno.fm/x0xhw6c6g2zuv?zs=AfL9IRdsQ_qHIebZBo-9GA
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Radio Ashur  راديو أشور ܦܪܵܣ ܩܵܠܵܐ ܕܐܵܫܘܿܪ 
+https://eu7.fastcast4u.com/proxy/radioashur?mp=/1
+#EXTINF:-1,Alrasheed FM 91.5 - Iraq - Baghdad
+https://streaming.shoutcast.com/alrasheed-fm
+#EXTINF:-1,Alseraj Radio - Iraq - Baghdad
+https://eu4.fastcast4u.com/proxy/aabdul00?mp=%2F1
+#EXTINF:-1,AUIB FM 101.5 - Iraq - Baghdad
+https://stream.auibfm.iq/radio
+#EXTINF:-1,Babylon FM 99.3 - Iraq - Ankawa
+https://eu7.fastcast4u.com/proxy/babylonfm?mp=/1
+#EXTINF:-1,Dangi Qurani Peroz FM - Iraq - Sulaymaniyah
+https://a1.asurahosting.com:10050/radio.mp3
+#EXTINF:-1,Darusalam Radio - Iraq - Baghdad
+https://streams.radio.co/s0975ec186/listen
+#EXTINF:-1,Hawa Dijlah Radio - Iraq - Baqubah
+https://listen.radioking.com/radio/96766/stream/136027
+#EXTINF:-1,Kirkuk FM 93.3 - Iraq - Kirkuk
+https://video1.getstreamhosting.com:8154/stream
+#EXTINF:-1,Kurdistan 24 - Iraq - Erbil
+https://audio-edge-kef8b.ams.s.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
+#EXTINF:-1,Leopard Radio 98.7 FM - Iraq - Duhok
+https://c2.radioboss.fm:8980/stream
+#EXTINF:-1,M Radio 105.5 FM - Iraq - Erbil
+https://usa13.fastcast4u.com/proxy/mradio02?mp=/1
+#EXTINF:-1,Mix FM 104.3 - Iraq - Sulaymaniyah
+https://c2.radioboss.fm:8184/stream
+#EXTINF:-1,New Life Radio - Iraq - Erbil
+https://s2.radio.co/sd3c7f8539/listen
+#EXTINF:-1,One 95.7 FM - Iraq - Baghdad
+https://s2.radio.co/s03d947c9d/listen
+#EXTINF:-1,Qallam FM - Iraq - Sulaymaniyah
+https://eu10.fastcast4u.com/QallamFM
+#EXTINF:-1,Radio Duhok FM 88.9 - Iraq - Duhok
+https://stream.zeno.fm/9syxjozeeuhuv
+#EXTINF:-1,Radio Mariam Iraq - Iraq - Erbil
+https://dreamsiteradiocp4.com/proxy/rmerbil1?mp=/stream?ver=523938
+#EXTINF:-1,Radio Shafaq - Iraq - Erbil
+https://radio.shafaq.com/kurdish
+#EXTINF:-1,Radio Sunnat 106.9 FM - Iraq - Sulaymaniyah
+https://a1.asurahosting.com:10270/radio.mp3
+#EXTINF:-1,Rudaw Radio - Iraq - Erbil
+https://l3.itworkscdn.net/itwaudio/9006/stream
+#EXTINF:-1,Speda FM - Iraq - Erbil
+https://rsa.kurdlive.xyz/spedafm
+#EXTINF:-1,Times Square Radio 102.5 FM - Iraq - Basrah
+https://edge.mixlr.com/channel/slpyo
+#EXTINF:-1,Türkmen FM 90.1 - Iraq - Kirkuk
+https://radyo1.radyo-dinle.tc/8284/stream;
+#EXTINF:-1,Waar Radio 95.1 - Iraq - Duhok
+https://c2.radioboss.fm:8564/stream
+#EXTINF:-1,Welat FM - Iraq - Erbil
+https://rasti.out.airtime.pro/rasti_a
+#EXTINF:-1,Yagrto Radio Duhok 93.5 - Iraq - Duhok
+https://stream.zeno.fm/ud0wera9hy2vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/iq-al-rasheed-radio-logo.jpg",Al Rasheed Radio
+http://alrasheedmedia.com:9998/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dijla-171550-logo.jpg",Radio Dijla
+http://62.201.233.118:3/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sawa-gulf-577500-logo.jpg",Radio Sawa Gulf
+https://stream.radiojar.com/mzw8z62r92quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-peyamner-186876-logo.jpg",Radio Peyamner
+http://radiopeyamner.primcast.com:7724/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-xendan-186877-logo.jpg",Radio Xendan
+http://38.96.175.97:8964
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-iraqiya-tv-578708-logo.jpg",Radio Al Iraqiya TV
+http://www.imn.iq/pages/iraqia-live-stream/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ktv-kurdistan-578710-logo.jpg",Radio KTV Kurdistan
+http://www.kurdistantv.info/KTV_live.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xfm-1057-594153-logo.jpg",Radio XFM 105.7
+http://eu.radioboss.fm:8142/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiodoremifm-607235-logo.jpg",Radiodoremifm
+http://50.22.212.203:8111/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/suliradio-609838-logo.jpg",SuliRadio
+http://95.159.72.163:8005/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dewran-601069-logo.jpg",Radio Dewran
+http://dewran1.primcast.com:8456/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-radio-erbil-622762-logo.jpg",My Radio Erbil
+http://eu3.radioboss.fm:8010/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yakgirtoo-radio-duhok-592868-logo.jpg",Yakgirtoo Radio Duhok
+http://67.231.245.170:9994/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kurd-1-580472-logo.jpg",Radio Kurd 1
+http://www.kurd1.com/ku/live/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ahlulbayt-tv-580763-logo.jpg",Radio Ahlulbayt TV
+http://ahlulbayt.tv/live/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zaxo2012-592008-logo.jpg",Radio Zaxo2012
+http://www.krykey.com/Radio/PRSPage.aspx?id=16219
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/basrayatha-radio-596412-logo.jpg",BASRAYATHA RADIO
+http://37.187.90.121:2199/tunein/mnasreld.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rasheedkirkuk-619536-logo.jpg",Radio rasheedkirkuk
+http://198.57.189.38:9994/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dwarozh-fm-623675-logo.jpg",Radio Dwarozh FM
+http://38.96.148.28:9756/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/iq-al-rasheed-radio-0-logo.jpg",Al Rasheed Radio
+http://alrasheedmedia.com:9994/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/iraqimix-radio-582160-logo.jpg",IraqiMix Radio
+http://64.71.79.181:8012/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/voice-youth-voy-154730-logo.jpg",Radio Voice Of Youth (V.O.Y)
+http://67.212.166.178:8448
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bonekan-164905-logo.jpg",Radio Bonekan
+http://87.117.199.109:8026
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dicle-fm-179812-logo.jpg",Radio Dicle FM
+http://radyo.dicle-fm.com:2021/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kurdland-radio-180719-logo.jpg",Kurdland Radio
+http://www.kurdland.eu:8881/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/duhok-radio-182772-logo.jpg",Duhok Radio
+http://radio.karwan.tv/karwan.tv/radio-duhok/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-shkar-183557-logo.jpg",Radio Shkar
+http://kurdstream.com:8080/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nawa-kurdish-184417-logo.jpg",Radio Nawa (Kurdish)
+http://nawaradio2.primcast.com:1344/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nawa-arabic-185161-logo.jpg",Radio Nawa - Arabic
+http://nawaarabicnew.primcast.com:9730/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alhurra-tv-580768-logo.jpg",Radio Alhurra TV
+http://www.alhurra.com/streaming.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/newroz-tv-580776-logo.jpg",Radio Newroz TV
+http://www.newroz.tv/content/view/78/55/lang,Kurd%C3%AE/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/altathamun-894-588630-logo.jpg",Radio Altathamun 89.4
+http://rafm89.com/image/brodcast/playlist.pls

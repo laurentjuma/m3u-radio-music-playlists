@@ -129,3 +129,11 @@ https://stream.regenbogen2.de/beatles/mp3-128/radiobrowser
 http://stream.regenbogen2.de/beatles/mp3-128/radiobrowser
 #EXTINF:-1,The Beatles Radio (MP3) - 128 - Spain - classic rock - the beatles
 http://thebeatlesradio-rowrigos.radioca.st/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90623/logo_2iRVuzTIeJ.jpg?v=20260529-media-restore",Beatles Radio Universal
+https://14553.live.streamtheworld.com/XERC_FMAAC.aac?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-mersey-radio-logo.jpg",Mersey Radio
+http://188.165.205.112:8230/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dk-radio-beatles-logo.jpg",Radio Beatles
+http://51.255.235.165:5148/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-radio-invisible-logo.jpg",Radio Invisible
+https://radios.solumedia.com/6412/stream

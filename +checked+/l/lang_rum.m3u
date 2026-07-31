@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1,Ambiento
+http://strw3.openstream.co/390?aw_0_1st.collectionid%3D2676%26stationId%3D2676%26publisherId%3D210%26k%3D1780922802
+#EXTINF:-1,Bucuresti In Noapte
+http://stream18.shoutcastsolutions.com:8238/stream
 #EXTINF:-1,Deep House Radio
 http://live.dancemusic.ro:7000/stream
 #EXTINF:-1,Doina FM
 http://89.43.138.116:8000/radiodoina.mp3
+#EXTINF:-1,Funky Radio
+http://14223.live.streamtheworld.com/SAM05AAC080_SC
 #EXTINF:-1,Gherla FM 90
 http://89.39.189.52:8000/
 #EXTINF:-1,KISS FM 96.1
@@ -15,6 +21,10 @@ http://ec2.yesstreaming.net:1810/stream
 http://ssl.radios.show/8012/stream
 #EXTINF:-1,Muz FM 88.0
 http://live.muzfm.md:8000/muzfm
+#EXTINF:-1,Play Radio 90s
+http://live.playradio.org:9090/90HD
+#EXTINF:-1,Play Radio Cafe
+http://live.playradio.org:9090/CafeHD
 #EXTINF:-1,Pro DJ Radio
 http://live.prodjradio.net:8000/
 #EXTINF:-1,Radio 1 Manele
@@ -29,6 +39,8 @@ http://live.radiobandit.ro:8000
 http://radiobeat.ro:8100/
 #EXTINF:-1,Radio Big FM 92.6
 http://82.208.143.10:8000/
+#EXTINF:-1,Radio Brasov 87.8 FM
+https://live.radiobrasov.ro/stream.mp3
 #EXTINF:-1,Radio Bucovina
 http://live.radiobucovina.ro:8000/
 #EXTINF:-1,Radio Ciresari
@@ -77,8 +89,6 @@ http://asculta.radiohitfm.ro:8340
 http://petrecere.radiohitfm.ro:8340
 #EXTINF:-1,Radio Hot Colinde
 http://mp3.radiohot.ro:8000
-#EXTINF:-1,Radio Intens Romania
-http://live.radiointens.ro:9700/stream
 #EXTINF:-1,Radio Iubire FM
 http://89.39.189.24:7070
 #EXTINF:-1,Radio KPTV - The Rock Station
@@ -97,8 +107,12 @@ http://oldies.radioliberty.ro:1989/
 http://populara.radioliberty.ro:1989
 #EXTINF:-1,Radio Liberty - Slagare
 http://slagare.radioliberty.ro:1989/
+#EXTINF:-1,Radio Lipova
+http://asculta.radiolipova.ro:1717/
 #EXTINF:-1,Radio Manele FM
 http://b.fmradiomanele.ro:8044
+#EXTINF:-1,Radio Medias 725 AM
+http://mediasfm.eushells.ro:8082/
 #EXTINF:-1,Radio Mynele
 http://live.radiomynele.ro:8000/
 #EXTINF:-1,Radio Nebunya
@@ -133,6 +147,20 @@ http://asculta.radioromanian.net:8700/stream.mp3
 http://asculta.radioromanian.net:8500/
 #EXTINF:-1,Radio Romanian - Rock
 http://asculta.radioromanian.net:8800/stream.mp3
+#EXTINF:-1,Radio Somes 96.6 FM
+http://evcast01.mediacp.eu/somesradio
+#EXTINF:-1,Radio Sun Colinde
+http://live.radiosun.ro/suncolinde
+#EXTINF:-1,Radio Sun Dance
+http://live.radiosun.ro/sundance
+#EXTINF:-1,Radio Sun Folk
+http://live.radiosun.ro/sunfolk
+#EXTINF:-1,Radio Sun Lounge
+http://live.radiosun.ro/sunlounge
+#EXTINF:-1,Radio Sun Love
+http://live.radiosun.ro/sunlove
+#EXTINF:-1,Radio Sun Romania
+http://live.radiosun.ro/sunfm
 #EXTINF:-1,Radio Taraf
 http://live.radiotaraf.com:8181
 #EXTINF:-1,Radio Tequila - Dance
@@ -149,12 +177,8 @@ http://live.radiotop.ro/radio/8000/radio.mp3
 http://radiototal.radioca.st/
 #EXTINF:-1,Radio Trinitas
 http://live.radiotrinitas.ro:8000/
-#EXTINF:-1,Radio Vitan Manele
-http://live.radiovitan.ro:8100
 #EXTINF:-1,Radio Vocea Evangheliei International
 http://162.244.80.34:9648/
-#EXTINF:-1,Radio Vocea Evangheliei Sibiu 89.4 FM
-http://c13.radioboss.fm:18286/stream
 #EXTINF:-1,Radio Wish
 http://stream.clever-host.ro/8004/stream
 #EXTINF:-1,Radio X Net Manele
@@ -165,12 +189,12 @@ http://live.radiocafe.ro:8048
 http://asculta.rfi.ro:9128/live.mp3
 #EXTINF:-1,Rock FM 100.6 FM
 http://live.rockfm.ro/rockfm.aacp
-#EXTINF:-1,Shuffle FM
-http://bluz.ro:8000
 #EXTINF:-1,SpaceFM Romania
 http://spacefm.live/radio/8000/spacefm128
 #EXTINF:-1,Star FM 90.1
 http://84.232.147.169:9090/
+#EXTINF:-1,Super FM Brasov 93.8
+https://live.superfm.ro/stream.mp3
 #EXTINF:-1,Torino International
 http://194.116.73.162/radiotorinointernational
 #EXTINF:-1,West City Radio 88.8 FM

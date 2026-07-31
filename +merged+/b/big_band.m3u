@@ -731,8 +731,6 @@ https://dfm-prodigy.hostingradio.ru/prodigy96.aacp
 https://solid2.streamupsolutions.com/proxyhttp:/sbudoyu?mp=/;type=mp3
 #EXTINF:-1,Angel Radio
 https://edge.clrmedia.co.uk/angel_hb
-#EXTINF:-1,Radio 1920
-https:/http:/adio1920.stream.laut.fmhttp:/adio1920
 #EXTINF:-1,Spinning WHAX Radio (Old Time Radio Shows &amp; Legendary Standards)
 https://stream-152.zeno.fm/716zqgn0uk8uv?zs=aJVKH6PSQNSnXXVkPMDh0Q
 #EXTINF:-1,The 1920s Radio Network (MP3)
@@ -745,8 +743,6 @@ https://icecast.walmradio.com:8443/jazz
 http://ice41.securenetsystems.net/KNCT
 #EXTINF:-1,Classic Vinyl HD
 https://icecast.walmradio.com:8443/classic
-#EXTINF:-1,WKHR
-https:/http:/adio.streemlion.com:3715/stream
 #EXTINF:-1,American Ink Radio
 https://centova.amfm247.com:8448/stream
 #EXTINF:-1,Instrumentals forever (64kbp)
@@ -775,3 +771,111 @@ https://solid1.streamupsolutions.com/proxy/kanali5?mp=/stream&amp1585635337899
 https://live.metadeftero.gr/stream
 #EXTINF:-1,ROKiT Classic Radio 1940s Radio
 http://149.255.59.3:8256/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/88225.v8.png",J-Club Bandstand Radio 
+https://cast1.torontocast.com:2060/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/87588.v8.png",The UK 1940s Radio Station 
+https://solid2.streamupsolutions.com/proxy/rsbudoyu?mp=/type=mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VYBV9R.png",Blasmusik Radio
+https://blasmusikradio.stream.laut.fm/blasmusikradio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7OS86N.png",Brass Band Radio
+https://uk6.internet-radio.com/proxy/brassbandradio?mp=/stream/&1593852231120
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GL1CLB.png",Classic Vinyl Radio
+https://walmradio.com:8443/classic
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V51UV9.png",Crooner Radio Legends
+https://direct.croonerradio.fr/croonerradio-legends-midfi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WMYCED.png",Exclusively Count Basie
+https://streaming.exclusive.radio/er/countbasie/icecast.audio?auth=2821020261-5049-sdaam116-9d16e8e6517c6858ac5e306cf4e9a92a
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IR3QZ0.png",Exclusively Matt Monro
+https://streaming.exclusive.radio/er/mattmonro/icecast.audio?token=afc41ab97eb16befc577343281a4cae2%2Ff53dc957
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QEV7V2.png",Gossamer Whimsy Radio
+http://162.243.112.4:21005/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7R5VXH.png",GotRadio Big Band
+http://173.244.215.163:8430/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IM68A0.png",GotRadio Big Band Land
+http://gr02.cdnstream.com:8430
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/92RSG9.png",Iradiophilly Martini Lounge Radio
+http://kmr-oom.streamguys1.com:80/singers
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6RJZ6B.png",Jazz Club Bandstand
+https://daniel.torontocast.com:2630/stream.88nk
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GTH5OK.png",MusicNotNoise.com - Sinatra & Friends
+https://streaming.live365.com/a81302
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/F3OM61.png",Old Friends Radio
+https://ice64.securenetsystems.net/OFRN?playSessionID=D3B04590-9EBA-F89A-2B7779BB25E0D080
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/53ET88.png",Positively  30s
+https://streaming.positivity.radio/pr/1930/icecast.audio?r=328456
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/S2B2A1.png",STA : Stay Tuned America
+https://cheetah.streemlion.com:4660/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WZ2COQ.png",Swing City Radio
+https://streaming.live365.com/a03438
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JDWZGP.png",The Big Band Jazz Review
+https://streaming.live365.com/a65748
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/364Q4Q.png",The Music Museum with Danny Stiles
+http://tektite.streamguys1.com:5330/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/88783/logo_fqcAGzGLE8.png",Radio Bellissima Jazz
+https://listen.openstream.co/6091/audio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50823/logo_vGmueBL7q7.png",The UK 1940s Radio Station
+https://solid2.streamupsolutions.com/proxy/rsbudoyu?mp=%2F%3Btype%3Dmp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/94931/logo_de4Xl7rxhp.png",WZIG 104.1 FM Radio
+http://s36.myradiostream.com:21972/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91888/logo_eobEBNhYaL.png",Racketeer Radio
+https://stream.zeno.fm/vgj9od962oitv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103438/logo_AHg9wp3nl9.png",BEAUTIFUL FM Radio
+https://beautifulfm.streampartner.nl/live?type=.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50823/logo_cd9zZn5dOM.jpg?v=20260529-media-restore",The UK 1940s Radio Station
+https://solid2.streamupsolutions.com/proxy/rsbudoyu?mp=%2F%3Btype%3Dmp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50358/logo_c1XmMRbtL7.jpg?v=20260529-media-restore",1940s Radio - Home Service - Pumpkin FM
+https://cast2.asurahosting.com/proxy/1940sradio/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103438/logo_NVMu5wAuJm.jpg?v=20260529-media-restore",BEAUTIFUL FM
+https://beautifulfm.streampartner.nl/live?type=.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97510/logo_QJC4WQ96w7.jpg?v=20260529-media-restore",WRJQ Goodtime Radio
+https://carol.epichosts.co.uk:8532/live.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97759/logo_drqEJpy2nN.jpg?v=20260529-media-restore",Best Jazz Radio
+https://c5.auracast.net/listen/best_jazz_radio/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88976/logo_iwpVi7GKQR.jpg?v=20260529-media-restore",WBRS 107.9
+https://radio.torchwoodhosting.com/8008/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100279/logo_PqqMbRMAzz.jpg?v=20260529-media-restore",The Improv Cafe'
+https://stations.radio-host.com/proxy/theimprovcafe/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97983/logo_rLNSgPQGqQ.jpg?v=20260529-media-restore",Spinning WHAX Radio (Old Time Radio Shows & Legendary Standards)
+https://stream.zeno.fm/716zqgn0uk8uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88770/logo_TU923VYRGW.jpg?v=20260529-media-restore",Tin Pan Alley Radio
+https://radio.streemlion.com:5325/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97412/logo_HUJGTr0qus.jpg?v=20260529-media-restore",WLVN Radio
+https://streams.radio.co/s7c3bc42bf/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88783/logo_EyM7k5ecGQ.jpg?v=20260529-media-restore",Radio Bellissima Jazz
+https://listen.openstream.co/6091/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88773/logo_qVcfqwii58.jpg?v=20260529-media-restore",J-Club Bandstand Radio
+https://cast1.torontocast.com:2060/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94931/logo_c1oxcoXjDq.jpg?v=20260529-media-restore",WZIG 104.1 FM
+http://s36.myradiostream.com:21972/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95434/logo_qKyafQ3HNX.jpg?v=20260529-media-restore",WRDV  - Radio Delaware Valley
+https://buxmont.streamguys1.com/Live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/84913/logo_leyRkHrzvu.jpg?v=20260529-media-restore",Swell FM
+https://ny.mysonicserver.com/8018/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100431/logo_WGcq5o79ZQ.jpg?v=20260529-media-restore",KSQM
+https://video1.getstreamhosting.com:8182/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-time-machine-591851-logo.jpg",Radio Time Machine!
+http://38.107.243.221:8462/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hog-town-radio-594857-logo.jpg",Hog Town Radio
+http://player.cheapeststream.com/_players/cheapeststream/?callsign=SAM05AAC097
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-wzig-1041-fm-logo.jpg",Radio WZIG 104.1 FM
+http://s36.myradiostream.com:21972/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-kcia-oldies-logo.jpg",Radio KCIA Oldies
+http://198.143.144.226:8310/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-radio-retro-logo.jpg",Radio Retro
+http://64.150.176.42:8098/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kabl-569971-logo.jpg",Radio KABL
+http://99.198.112.60/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kcea-574137-logo.jpg",Radio KCEA
+http://69.12.217.101:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kdki-americas-music-607522-logo.jpg",Radio KDKI - America's Music
+http://s11.myradiostream.com:12398/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/only-lounge-sound-634407-logo.jpg",Radio Only Lounge Sound
+http://streams.onlyloungesound.com:8059/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/notendatenbank-populare-blasmusik-155295-logo.jpg",Radio Notendatenbank - Populäre Blasmusik
+http://sheetmusicdb.net:8000/hnBlasorchesterPopular
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tokyo-rose-radio-643228-logo.jpg",Tokyo Rose Radio
+http://agnes.torontocast.com:8055/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-retro-4050-640846-logo.jpg",Radio UK Retro 4050
+http://149.255.59.164:8178/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gossamer-whimsy-radio-590968-logo.jpg",Gossamer Whimsy Radio
+http://162.243.112.4:21005/;

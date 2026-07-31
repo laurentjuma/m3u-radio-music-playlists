@@ -31,3 +31,7 @@ http://162.244.80.118:3024/stream.mp3?ver=349829
 http://162.244.80.118:3024/stream.mp3?ver=517748
 #EXTINF:-1,Radio Pakistan Karachi MW 639
 https://whmsonic.radio.gov.pk:7000/MW639khi?type=http&nocache=9
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/in-radio-sindhi-hd-logo.jpg",Radio Sindhi HD
+http://178.128.82.71:8261/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sindhi-vishwas-154581-logo.jpg",Radio Sindhi Vishwas
+http://178.128.82.71:8201/stream

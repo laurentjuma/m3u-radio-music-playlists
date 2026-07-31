@@ -19,8 +19,8 @@ http://192.99.8.192:3630/stream/
 https://guyane.ice.infomaniak.ch/guyane-128.mp3
 #EXTINF:-1,Radio Ngoma Ya Amani-Fizi Listen live
 https://african1paris.ice.infomaniak.ch/african1paris-64.mp3
-#EXTINF:-1,Muy Buena Elche Listen live
-https://stream.mediasector.es/radio/8010/muybuena-elche.mp3?1588961225
+#EXTINF:-1,nightcore-berlin Listen live
+https://nightcore-berlin.stream.laut.fm/nightcore-berlin?ref=radiode&t302=2026-06-08_08-40-40&uuid=3dd0feda-0f2d-450c-beb1-3ac8216d2187
 #EXTINF:-1,Mix FM
 https://audio-edge-5bkfj.fra.h.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f
 #EXTINF:-1,Voice FM
@@ -37,6 +37,8 @@ http://s5.citrus3.com:8148/stream
 http://stream.radio.co/s9668e2ab5/listen
 #EXTINF:-1,Pepperpot Radio
 http://streaming.radio.co:80/sca6c5aded/listen
+#EXTINF:-1,Mix 90.1 FM
+https://audio-edge-4ev3b.lax.g.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f
 #EXTINF:-1,BoomFM
 http://192.99.8.192:3630/
 #EXTINF:-1,NTN Radio
@@ -45,6 +47,7 @@ https://auds1.intacs.com/ntnradio
 https://listen.radioking.com/radio/190309/stream/232540
 #EXTINF:-1,Radio King
 https://listen.radioking.com/radio/1906/stream/63694
+#EXTINF:-1,iradio Mix 90.1 FM – 90.1 FM – Georgetown – GY-DE
 #EXTINF:-1,Bhajans Radio Guyana – Georgetown – GY-DE
 https://s5.citrus3.com:8148/stream
 #EXTINF:-1,Kaieteur Radio 99.1 FM – 99.1 FM – Georgetown – GY-DE
@@ -57,3 +60,11 @@ https://stream.rcs.revma.com/nxvafk744k0uv
 http://srv2.streaming-ingenierie.fr:8162
 #EXTINF:-1,TRACE FM
 https://n24a-eu.rcs.revma.com/nxvafk744k0uv?rj-ttl=5&rj-tok=AAABiq3GLAwAnKHmtXDwGYmf5Q
+#EXTINF:-1,Guyana Graphic
+https://www.guyanagraphic.com/live/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/66345/logo_hpGZsaHZXE.png",Antenna Web Georgetown Radio
+https://halo.streamerr.co/listen/italiavera/stream.mp3
+#EXTINF:-1,97.5 FM MAAD
+https://streaming.broadcastradio.com/brutal
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

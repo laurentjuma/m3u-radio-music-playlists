@@ -481,3 +481,87 @@ https://cast1.my-control-panel.com/proxy/nyanganifm/stream
 https://stream.shoutcastservices.com/proxy/radio54/stream.mp3
 #EXTINF:-1,Antenna Web Harare
 https://italiavera.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CAQN06.png",984FM Midlands
+http://197.221.240.166:88/broadwavehigh.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/65X5W.png",After5Radio
+https://listen.radioking.com/radio/268702/stream/314035
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VT6N5G.png",Breeze FM 91.2 Victoria Falls
+http://176.31.120.92:17062/?type=http&nocache=1594542269?0.2737277787967296
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/K8N3H3.png",Zi FM
+https://ice31.securenetsystems.net/ZIFM
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7Z3UEB.png",zim NET radio Gospel Channel
+http://radio.zimnetradio.com:8010/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80011/logo_pcbMFNeE8w.png",Nehanda Radio
+https://eu4.fastcast4u.com/proxy/lancguma?mp=%2F1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80019/logo_Y72idYcBHX.png",Hero Radio (Zimbabwe)
+https://a2.asurahosting.com:6790/Zimbabwe.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80018/logo_LVGpG4ccho.png",Antenna Web Harare Radio
+https://tinyurl.com/AntennaWebHarare
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80013/logo_SGSa3BoztW.png",Afro Zim Radio
+https://stream.zeno.fm/770ps9n09vzuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80017/logo_sXYIlzkE27.png",Tzgospel (Zimbabwe) Radio
+https://stream.zeno.fm/u1w1zre1uchvv
+#EXTINF:-1,CENTRAL RADIO 98.5 
+https://centralstream.zbc.co.zw:8000/radio.mp3
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,984Midlands FM - Zimbabwe - Gweru
+https://stream.zeno.fm/dtc1cz0ebkhvv
+#EXTINF:-1,Breeze FM 91.2 - Zimbabwe - Victoria Falls
+https://stream.zeno.fm/n7qepsfem98uv
+#EXTINF:-1,Capitalk FM 100.4 - Zimbabwe - Harare
+https://edge.iono.fm/xice/162_medium.aac
+#EXTINF:-1,Classic 263 92.8 - Zimbabwe - Harare
+https://mainradiostreaming.zbc.co.zw:8030/radio.mp3
+#EXTINF:-1,Diamond FM 103.8 - Zimbabwe - Mutare
+https://edge.iono.fm/xice/160_medium.aac
+#EXTINF:-1,HevoiFM 100.2 - Zimbabwe - Masvingo
+https://s27.myradiostream.com:17754/listen.m4a
+#EXTINF:-1,Khulumani FM 95.0 - Zimbabwe - Bulawayo
+https://khulumanistream.zbc.co.zw:8000/radio.mp3
+#EXTINF:-1,Lupane State University Campus Radio - Zimbabwe - Lupane
+https://stream.zeno.fm/n2wxhjrnqkuuv
+#EXTINF:-1,Nehanda Radio - Zimbabwe - Harare
+https://eu4.fastcast4u.com/proxy/lancguma?mp=/1
+#EXTINF:-1,Nust FM 101.1 - Zimbabwe - Bulawayo
+https://stream.zeno.fm/zz40oe1wtfwtv
+#EXTINF:-1,Power FM Zimbabwe - Zimbabwe - Harare
+https://backupradiostreaming.zbc.co.zw:8000/radio.mp3
+#EXTINF:-1,Radio 54 African Panorama - Zimbabwe - Harare
+https://stream.shoutcastservices.com/proxy/radio54/stream.mp3
+#EXTINF:-1,Skyz Metro FM - Zimbabwe - Bulawayo
+https://stream.zeno.fm/2634b6n4qy8uv
+#EXTINF:-1,Star FM 89.7 - Zimbabwe - Harare
+https://edge.iono.fm/xice/159_medium.aac
+#EXTINF:-1,Zi FM Stereo 106.4 - Zimbabwe - Harare
+https://edge.iono.fm/xice/134_medium.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-fm-592578-logo.jpg",Radio Star Fm
+http://albert.antfarm.co.za:8000/StarFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/padare-radio-zimbabwe-176603-logo.jpg",Padare Radio Zimbabwe
+http://padare.longmusic.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/capitalk-1004-fm-642778-logo.jpg",Radio Capitalk 100.4 FM
+http://51.255.235.165:5612/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiomthwakazifm-590445-logo.jpg",radiomthwakazifm
+http://s1.voscast.com:7126/;
+#EXTINF:-1 tv-logo="",Radio Ngokwakithi Lokhu
+http://s1.voscast.com:7126
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zifm-stereo-591920-logo.jpg",Radio ZiFM Stereo
+http://ice31.securenetsystems.net/ZIFM?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hevoifm-633524-logo.jpg",Radio HevoiFM
+http://197.221.240.226:88/broadwave.mp3?src=1u0026kbps=80u0026ref=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zw-yafm-logo.jpg",Radio YAFM
+http://173.212.241.223:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zw-favor-radio-zimbabwe-logo.jpg",Favor Radio (Zimbabwe)
+https://a10.asurahosting.com:7660/zimbabwe.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zimwaves-radio-155961-logo.jpg",Zimwaves Radio
+http://176.31.128.92:8023
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/visionsfm-159515-logo.jpg",Radio VisionsFM
+http://visionsfm2.serverroom.us:7860/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zimonline-radio-178709-logo.jpg",ZimOnline Radio
+http://zimonlineradio.serverroom.net:9960/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/visions-radio-167774-logo.jpg",Visions Radio
+http://s4.reliastream.com/tunein.php/visionsr/playlist.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zimfabradio-161178-logo.jpg",ZimFabRadio
+http://zimfabulous.serverroom.us:4576/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ngokwakithi-lokhu-169301-logo.jpg",Radio Ngokwakithi Lokhu
+http://www.s1.voscast.com:7126

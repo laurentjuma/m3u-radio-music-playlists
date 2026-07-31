@@ -81,3 +81,19 @@ http://192.240.102.3:8921/stream?type=.mp3
 https://salafiadu.radioca.st/
 #EXTINF:-1,Dhivehi FM
 http://178.32.62.172:9396/stream/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/makthaba-salafiyyah-maladives-591271-logo.jpg",Radio Makthaba Salafiyyah Maladives
+http://sirius.shoutca.st:9396/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dhivehi-fm-595019-logo.jpg",Radio Dhivehi FM
+http://s3.viastreaming.net:8795/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dhivehi-raajjeyge-adu-605782-logo.jpg",Radio Dhivehi Raajjeyge adu
+http://s3.viastreaming.net:9050/;
+#EXTINF:-1 tv-logo="",Radio VOM Raajje FM
+http://www.vom.gov.mv/dralive/vaguthun.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/97minivan-591751-logo.jpg",Radio 97minivan
+http://s1.voscast.com:9180/;
+#EXTINF:-1 tv-logo="",BSWS-Radio
+http://curiosity.shoutca.st:6906/;
+#EXTINF:-1 tv-logo="",Radio Dheenuge Adu
+http://77.92.76.134:8745/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/capital-radio-936-185716-logo.jpg",Capital Radio 93.6
+http://108.60.201.114:8018/;

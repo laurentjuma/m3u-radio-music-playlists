@@ -11,8 +11,6 @@ http://192.99.41.102:5882/stream
 http://149.56.157.81:8758/stream
 #EXTINF:-1,CHAOTIC RADIO
 http://15.204.142.77:8120/server
-#EXTINF:-1,Deluxe FM
-http://37.220.139.42:8390/deluxefm
 #EXTINF:-1,Female Funk Radio
 http://149.56.157.81:5046/stream
 #EXTINF:-1,Fleet Djs RnB
@@ -25,18 +23,12 @@ http://15.204.142.77:8012/stream.mp3
 http://197.248.42.197:8000/
 #EXTINF:-1,** KWWK-DB **
 http://149.56.157.81:8637/stream
-#EXTINF:-1,LOVE and INSP
-https://quincy.torontocast.com:1860/
 #EXTINF:-1,LuvLee Radio
 http://15.204.142.77:9231/stream
 #EXTINF:-1,Majestic Radio
 http://15.204.142.77:9309/stream
 #EXTINF:-1,Nasty Grind Radio
 http://15.204.142.77:9381/stream
-#EXTINF:-1,NJS RADIO - New Jack Swing
-http://162.244.80.106:11198/stream
-#EXTINF:-1,Power 104.9 WTSX
-http://94.23.23.97:5832
 #EXTINF:-1,POWERHITZ.COM - Real R&B - #1 For R&B
 http://66.85.88.174:80/realrnb
 #EXTINF:-1,Radio Alba Shqip

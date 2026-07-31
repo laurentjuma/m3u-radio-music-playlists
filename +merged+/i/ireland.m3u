@@ -3021,8 +3021,6 @@ http://sirius.shoutca.st:8291/stream/1/
 https://broadcastify.cdnstream1.com/21466
 #EXTINF:-1,RTE 2XM
 http://icecast2.rte.ie/2xm
-#EXTINF:-1,Non-Stop X
-/urlParser?l=http%3A%2F%2Fstream.liffeysoundfm.ie%3A8000%2Flisten.pls.mp3
 #EXTINF:-1,Cork's 96 FM
 https://ice31.securenetsystems.net/XMAS22
 #EXTINF:-1,Beat 102-103 FM
@@ -3513,9 +3511,1383 @@ https://live.radiocenzura.pl:8000/radio.mp3
 https://radio.mensajito.mx/b50354236acd
 #EXTINF:-1,Bloomberg DAB Digital Radio London - 0 - The United Kingdom Of Great Britain And Northern Ireland - business - business news - news
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1 live.m3u8
-#EXTINF:-1,House Radio - 128 - The United Kingdom Of Great Britain And Northern Ireland - 
-#EXTINF:-1,https://www.differentdrumz.co.uk/ - 192 - The United Kingdom Of Great Britain And Northern Ireland - 
-#EXTINF:-1,Planet Rock - 112 - The United Kingdom Of Great Britain And Northern Ireland - classic rock - hard rock - heavy metal
-#EXTINF:-1,Planet Rock -- (https) - 112 - The United Kingdom Of Great Britain And Northern Ireland - classic rock
-#EXTINF:-1,Space Unicorn Radio - 192 - The United Kingdom Of Great Britain And Northern Ireland - 
-#EXTINF:-1,Space Unicorn Radio (not https) - 192 - The United Kingdom Of Great Britain And Northern Ireland - psy-trance - trance
+#EXTINF:-1,Kiss 90
+https://donalgreene.com/radact8000
+#EXTINF:-1,Spin 103.8
+https://edge3.audioxi.com/98?aw_0_1st.playerId=GoLoudSS
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132971.v1.png",MPB FunX 
+https://radiozender.mpbnetwerken.nl/mpbfunx
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131607.v1.png",Izz Radio 
+http://radio4.citrus3.com:8256/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131008.v2.png",today evangelho line online 
+https://stream2.svrdedicado.org/8474/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127819.v1.png",chathair Bhaile Atha Cliath 
+https://stream1.svrdedicado.org:7152/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127198.v1.png",ZeNK radio 
+https://streaming.live365.com/a99181
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132652.v5.png",Shuffle Radio 
+https://shuffleradio.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131001.v3.png",MPB FeelGOOD 
+https://live.one-tv.co.uk/listen/mecradio/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/88372.v8.png",Lockdown Live Radio 
+https://stream.zeno.fm/pmtwqwm4czzuv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/88797.v13.png",JazzÉIRE 
+http://visual.shoutca.st:8096/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/8107.v10.png",All Gold 
+http://centova2.cheapshoutcast.com:8247/stream/1/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/7739.v4.png",Tipperary Mid West Radio 
+https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/7430.v6.png",Gem Radio Gold 
+https://gemradio.radioca.st/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/7927.v6.png",Irish Country Music Radio 
+https://streaming.galaxywebsolutions.com/stream/irishcountry
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/7019.v13.png",All 80s 
+https://securestreams7.autopo.st/?uri=https://all80s.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5BVL8.png",103.2 Dublin City FM
+http://31.14.40.241:18091/dcfm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/C0UFXT.png",8Radio.com
+https://cassl.rcast.net/stream/60888/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/J2480O.png",ABC 70s
+https://ruby.torontocast.com:2275/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8PPW2K.png",Adk Radio
+http://104.250.155.162:9438/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1MBH7W.png",All 80s
+http://109.169.26.139:8432/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A13M3U.png",All 80s
+http://91.121.113.129:8035/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LGOZR.png",Animal & Nature Radio
+https://www.radioking.com/play/radio-for-animals-and-nature
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JFWYY.png",Beat 102-103
+https://stream.audioxi.com/BEAT
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/30CQEE.png",BFBS Northern Ireland
+https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs4.aac?_=1444574500&i=ssvcbfbs4.aac&device=bfbs_northern_ireland
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3MF2AS.png",Birdhill Radio
+http://5.79.74.155:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V3EVR.png",BlueCat Radio
+https://bluecat.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NITXO.png",Century 100fm
+https://stream.zeno.fm/498fsabkns8uv.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AEFGOL.png",CharityRadio Ireland
+http://andromeda.shoutca.st:8640/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CFJ22C.png",Christmas FM Classical & Carols
+https://christmasfm.cdnstream1.com/2549_128.mp3 
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QJQV4.png",Christmas FM Classics and Crooners
+https://christmasfm.cdnstream1.com/2550_128.mp3 
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/B3ALM5.png",Christmas FM North Pole
+https://christmasfm.cdnstream1.com/2548_128.mp3 
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2H7O3Y.png",Classic Dance Hitz
+https://streams.radio.co:80/s7a933605c/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YLZZY8.png",Classic Hits
+http://178.32.62.172:8166/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/L4PMJ.png",Classix
+http://classix.bitcast.eu:8000/classix
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8PN6B9.png",Coastline Radio
+https://eu10.fastcast4u.com:2575/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8P5SJ.png",Concerts That Made Us
+https://stream.zeno.fm/h4pgfusv5rhvv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MGADKB.png",Country Mix Radio
+http://178.32.62.172:8087/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LTF0D.png",CRCfm
+http://213.175.217.198:8000/crcfm?1637775260522
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FN0JAV.png",CUH FM Jukebox
+https://tx.sharp-stream.com/icecast.php?i=midwestfmie.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VC90QL.png",Donegal Sounds
+https://c20.radioboss.fm:18053/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/32VHH4.png",Eclectic Vibrations Radio
+http://111.90.150.133/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V14B2K.png",EMERALD ISLE RADIO
+https://a4.asurahosting.com:6600/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/39A2W.png",Energy 106 Belfast
+http://192.111.140.6:9633/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3N460D.png",Energy Ratoath
+http://uk2.internet-radio.com:8175/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XO8IS8.png",Flirt FM 101.3
+https://audio-edge-qgk6d.ams.f.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZYKNQ0.png",Flirt FM 101.3
+http://audio-edge-kef8b.ams.s.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/U656SZ.png",FM104
+https://gbradio.cdn.tibus.net/fm104MP3128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BQGWEU.png",FUSE FM Ballymoney
+http://81.130.227.147:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7MIOF5.png",Garden County Radio
+https://uk6.internet-radio.com/proxy/eventfm?mp=/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/N2IJQG.png",Gem Radio Gold
+http://167.114.64.181:9031/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/272IYN.png",Highland Radio
+http://ice1.gocaster.net:80/highlandradio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7VVQIY.png",Highland Radio
+https://pri.gocaster.net/highlandradio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8Y7MIM.png",Hits Radio Ireland
+https://uk7.internet-radio.com/proxy/hitsradioireland?mp=/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0GC3SF.png",HotMix 263 FM
+https://everestcast.shoutcastservices.com:1325/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XPP81C.png",IADT FM 
+https://streaming.radio.co/s0f891c28b/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1G3QPO.png",Irish and Chin
+https://s2.voscast.com:9059/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YLZO0N.png",Irish Country Music Radio
+http://46.28.49.164:7502/stream?tok=10230399vBrkeB46uP1ds6TVRzhBO9CGO7jucy52cx1KAAAAAAAAAAAAAAAAAA%3D
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9U8BQ.png",IrishRadio.org
+http://cast1.citrus3.com:8866/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UU4EIA.png",JehovahRapha FM
+https://azura.shoutca.st/radio/8180/jehovahrapha.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DX79WN.png",Kfm Radio
+https://edge2.audioxi.com/KFM
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VEPU6.png",Kfm Radio
+http://sirius.shoutca.st:9307/stream?s=1440020941
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3WUQ0L.png",KISS Classical
+https://igor.torontocast.com:3275/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QG7WHK.png",Midwest Irish Radio
+https://edge-audio-01-cr.sharp-stream.com/midwestfmie.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/82ZXRB.png",NaijaXtreme Radio
+https://naijaxtremeradio.out.airtime.pro/naijaxtremeradio_a
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MADZAX.png",Nawyspie.fm
+https://samcloud.spacial.com/api/listen?sid=132022&rid=277765&f=aac,any&br=64000,any&m=sc&t=ssl
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RMZT2M.png",NewsTalk
+https://edge2.audioxi.com/NT
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3G2O8L.png",Non-Stop 90's
+https://stream.btsstream.com:8042/nonstop90s.mp3?DIST=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/09MTAB.png",Nova Chill
+https://edge2.audioxi.com/NOVACHILL
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1L9RLV.png",PlanetRadio.ie Classic Hits
+https://stream.zeno.fm/31sh85dfmzzuv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/K7R4LK.png",RADIO DIALOG
+https://stream.zeno.fm/0v0w6ttv9c0uv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3ICZRS.png",Radio Maria Ireland
+http://dreamsiteradiocp2.com:8014/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NAVERJ.png",Radio Nova
+https://stream.audioxi.com/NOVA?aw_0_1st.playerid=streamitter.com
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BOMX8T.png",Radio Vocea Diasporei
+http://janus.shoutca.st:9019/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VHXJAP.png",RTÉ Pulse
+http://icecast2.rte.ie/pulse
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/03P87W.png",RTÉ Radio 1
+http://icecast1.rte.ie/radio1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Z4NV8.png",RTÉ Radio 1
+http://icecast2.rte.ie/radio1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5YF3O8.png",ska express
+http://s3.voscast.com:9838/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/66UFAA.png",SMOOTH GOLD HITS RADIO IRELAND
+https://a4.asurahosting.com:6620/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EYE7LA.png",SOLID GOLD IRELAND'S RADIO NETWORK
+https://a4.asurahosting.com:6640/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XKKAR.png",SOLID GOLD RADIO IRELAND 3
+https://a4.asurahosting.com:6660/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MSFLQR.png",South East Country Net
+http://antares.dribb.com:6444/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A7LZRK.png",Spirit Radio
+http://st2.webradioworld.net:8034/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IQ4W5.png",Spirit Radio
+http://199.189.111.149:8034/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZDV1W.png",Tech Radio Dublin
+https://cast1.asurahosting.com/proxy/winston/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/N0H92A.png",The 90s Network
+http://146.185.18.251:7020/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7HFP5Z.png",Today FM 90's
+https://stream.audioxi.com/TD?listenerid=59860345b2a640b5d1376dc04719ef59&awparams=companionAds%3Atrue
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/S1W4AE.png",Today FM
+https://pri.gocaster.net/td2
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/E3LWOS.png",Triplag Dark Psy
+http://8.43.48.6:8130/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/INTDA7.png",Tullamore Community Radio
+http://91.121.91.172:8018/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4DICQY.png",UCB Ireland
+http://stream.btsstream.com:8020/ucbireland.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZH84UW.png",Zenith Classic Rock
+http://148.163.81.10:8001/zenith64
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LONR9Z.png",ZOO Station Radio
+http://eu1.radio.u-2.im:9998/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37436/logo_zUCm4zfrNJ.png",Irish Pub Radio
+https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=%2Flive
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37381/logo_S32C7ws4Mh.png",Raidió Rí-Rá Radio
+https://uksoutha.streaming.broadcast.radio/ri-ra
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37523/logo_4TKem0OOA0.png",Easy Radio Ireland
+https://easyradio.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37463/logo_Ochp5IMs0j.png",The Sound of Ireland Radio
+https://ais-sa2.cdnstream1.com/2548_128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37409/logo_xRGtje6TRv.png",KISS Country Radio
+https://cast1.torontocast.com:2105/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37465/logo_9lJJW1Rijh.png",Cruize Radio Online
+http://centauri.shoutca.st:8965/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37450/logo_cD1eUKOhuN.png",KISS Classical Radio
+https://cast1.torontocast.com:2085/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37441/logo_y55vrKio1X.png",Limerick City Community Radio
+https://stream.lccr.ie/high
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37534/logo_BHuTy0Cj2y.png",MPB Radio 1
+https://sc.mpbnl.nl/stream/1/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37451/logo_4JIiqwwagf.png",Amazing Radio
+https://stream5.amazingradio.com:8443/stream.mp3?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37519/logo_lbeNbZ2Bhw.png",Gem Radio New Wave
+https://gemradionw.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37375/logo_VX8gUNfoLW.png",All 80s Radio
+http://centauri.shoutca.st:8035/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37482/logo_bKN7M3SSDK.png",JazzÉIRE Radio
+https://visual.shoutca.st:8096/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37541/logo_h18EKZmJCl.png",Mild Havok Radio
+http://65.108.124.70:8511/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37533/logo_yIqW3cHxHr.png",MPB Radio 2
+https://sc.mpbnl.nl/stream/2/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37455/logo_UKWUrCqGqL.png",Classic Dance Hitz Radio
+https://cast1.my-control-panel.com/proxy/classic4/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37385/logo_GUWqFLXgEE.png",Antenna Web Cork Radio
+https://tinyurl.com/Antenna-Web-Cork
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37368/logo_x85MJbBhYr.png",All Irish Radio
+https://cast1.torontocast.com:3315/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37384/logo_5o2l4yT1Rw.png",ABC 60&#x27;s Radio
+https://cast1.torontocast.com:4685/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37545/logo_D1XFvMl34X.png",PlayFm Dublin Radio
+https://stream.playfmdublin.com/radio192.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37387/logo_2z8SKUXsze.png",Antenna Web Dublino Radio
+https://tinyurl.com/Antenna-Web-Dublino
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37546/logo_sYhhEPO4O5.png",MPB Radio 2 90s and 00s
+https://sc.mpbnl.nl/stream/3/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37401/logo_jsNd97bI3v.png",Copper Coast Radio
+http://s12.ssl-stream.com:8056/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37388/logo_vpsH2bhvmh.png",MPB Radio 1 MixMingle
+https://sc.mpbnl.nl/stream/4/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37543/logo_NG973BQI1R.png",MPB Radio 2 Christmas
+https://radiozender.mpbnetwerken.nl/radio2xmas.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37491/logo_VZgd0mg9Fz.png",Ignoreradio Shoegaze
+https://uk7.internet-radio.com/proxy/ignoreland?mp=%2Fstream%3B
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37412/logo_Wcn6dKZtl8.png",SPIN South West Radio
+https://live-bauerie.sharp-stream.com/SW
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103196/logo_Qrf6ULq4zw.png",West Limerick 102FM Radio
+https://s29.myradiostream.com/17796/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37377/logo_Ao7NMl2TwD.png",Gem Radio Gold
+https://gemradio.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37389/logo_3nWbVJbDvw.png",Phantom Radio Ireland
+https://streaming05.liveboxstream.uk/proxy/prienter?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37531/logo_oEFqhbDCha.png",RadioWave
+https://radiowave.eu/listen/test/aacHQ
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37499/logo_GRrfwmiyHp.png",Hope Radio Ireland
+https://cast3.asurahosting.com/proxy/alg/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37460/logo_5iIuLuTPv7.png",Sunshine Soul Radio
+https://live-bauerie.sharp-stream.com/SUN?_=633242
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37411/logo_sIufbAjxlf.png",Connemara Community Radio
+https://audio-edge-cmc51.fra.h.radiomast.io/5008371a-b8fd-4745-a5a3-e17837dad90c
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37380/logo_ZYhfjftX6x.png",Funky Ass Tunes Radio
+https://ams1.reliastream.com/proxy/john12/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37442/logo_ogJAGqjAEm.png",OpenTempo FM Radio
+https://eu7.fastcast4u.com/proxy/opentemp?mp=%2F%3B
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37371/logo_WeSFmf22nX.png",IRadio Northeast &amp; Midlands
+https://live-bauerie.sharp-stream.com/IRADNW
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37511/logo_nk5cYWkvOe.png",Dublin Digital Radio
+https://dublin-digital-radio.radiocult.fm/stream?nocache=0.ko5gdouwf29
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37386/logo_X594vHXw8K.png",Antenna Web Galway Radio
+https://tinyurl.com/Antenna-Web-Galway
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37538/logo_MY7Pl1Xi1e.png",Classic House Party Ireland Radio
+http://stream.zeno.fm/gyxx6juo6p7tv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37501/logo_DBptdhshVm.png",Radio Maria
+https://dreamsiteradiocp2.com/proxy/rmirlanda2?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37416/logo_SfbSrzte5A.png",Life FM Radio
+https://uksoutha.streaming.broadcast.radio/lifefm?1762614139296=
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37527/logo_xzb5J2WIdx.png",Vibe FM Radio
+https://uk2.internet-radio.com/proxy/vibefm?mp=%2Flive
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37426/logo_zICNAjhH7o.png",ABC Christmas Radio
+https://kathy.torontocast.com:4435/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37376/logo_AoMjdYwLT3.png",8Radio.com
+https://edge4.audioxi.com/8RADIOAAC
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/37524/logo_h9SimoGUVx.png",Classic Hits 80s Radio
+https://edge7.audioxi.com/CH80S
+#EXTINF:-1,Irish Pub Radio 
+http://solid24.streamupsolutions.com:8026/stream
+#EXTINF:-1,RTE1 
+http://icecast.rte.ie/radio1
+#EXTINF:-1,Highland Radio 
+https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3
+#EXTINF:-1,RTÉ lyric fm 
+http://icecast.rte.ie/lyric
+#EXTINF:-1,8Radio 
+https://stream.rcast.net/66127
+#EXTINF:-1,GEM New Wave Radio 
+http://95.217.34.48:8928/stream
+#EXTINF:-1,Christmas FM 
+https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esAdblock0724411&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1671316064&aw_0_req.gdpr=false
+#EXTINF:-1,Easy Radio Ireland, Easy Mix 
+https://streaming.exclusive.radio/uber/easymix/icecast.audio
+#EXTINF:-1,Christmas FM Ireland 
+https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019
+#EXTINF:-1,Sunshine 106.8 
+http://sirius.shoutca.st:8291/stream.mp3
+#EXTINF:-1,Nova Classic Rock 
+https://edge2.audioxi.com/NOVA
+#EXTINF:-1,TrancePulse [FLAC] 
+http://stream.trance.ie:8000/tpmixes
+#EXTINF:-1,DEEP HOUSE RADIO 
+https://streaming.shoutcast.com/dhr?1728967549574
+#EXTINF:-1,RTE 2 FM 
+https://icecast.rte.ie/2fm
+#EXTINF:-1,PHEVER Radio 
+https://uk1.internet-radio.com/proxy/phever?mp=/live
+#EXTINF:-1,Clare FM 
+http://edge.audioxi.com/CLAREFM
+#EXTINF:-1,Deephouse radio 
+http://ec1.everestcast.host:1490/stream?xi1amefeqvksbquhue3jidp6boikushz
+#EXTINF:-1,Radio Psychobilly 
+http://radio-psychobilly.stream.laut.fm/radio-psychobilly?pl=m3u&t302=2026-01-15_08-36-16&uuid=2c2a02d6-f3e1-408f-bf5a-0f06cd14d64a
+#EXTINF:-1,Radio Kerry 
+http://edge.audioxi.com/KERRY
+#EXTINF:-1,RTÉ Radio 1 Extra 
+https://liveaudio.rte.ie/hls-radio/radio1extra/chunklist.m3u8
+#EXTINF:-1,Free FM Ireland 
+https://rocafmadrid.radioca.st/stream
+#EXTINF:-1,Christmas FM Classics 
+https://christmasfm.cdnstream1.com/2550_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448283
+#EXTINF:-1,PowerFM Dublin 320Kbps Ogg/Vorbis 
+https://www.powerfm.org:8443/powerfm.ogg
+#EXTINF:-1,Dublin's Q102 80s 
+http://wg.cdn.tibus.net/Q10280s
+#EXTINF:-1,Deep House Radio 
+http://master.shoutcast.com:8000/dhr
+#EXTINF:-1,LMFM 
+https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507
+#EXTINF:-1,WLR FM 
+https://live-bauerie.sharp-stream.com/WLRAAC
+#EXTINF:-1,Kfm 97.6 
+https://live-bauerie.sharp-stream.com/KFM?_=668840
+#EXTINF:-1,MPB Radio 2 90s & 00s 
+https://sc.mpbnl.nl/radio2-90s00s.mp3
+#EXTINF:-1,RTÉ Pulse 
+https://liveaudio.rte.ie/hls-radio/pulse/chunklist.m3u8
+#EXTINF:-1,The Zone - Dublin 
+https://uk1.internet-radio.com/proxy/thezone/stream
+#EXTINF:-1,MPB Radio 2 
+https://sc.mpbnl.nl/radio2.mp3
+#EXTINF:-1,Dublin Digital Radio 
+https://dublin-digital-radio.radiocult.fm/stream
+#EXTINF:-1,Christmas FM Classical 
+https://christmasfm.cdnstream1.com/2549_128.mp3?listenerId=94d1ac3bf877b65e4e17cd7e9bfec132&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448390
+#EXTINF:-1,Flirt FM 101.3 
+http://streams.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1,LMFM Country 
+http://gbradio.cdn.tibus.net/LMFMCountry?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=223438
+#EXTINF:-1,OpenTempoFM 
+http://178.32.146.187:8025/
+#EXTINF:-1,Onic 80s 
+https://live.onic.ie/stream-80s?_=184336
+#EXTINF:-1,Onic Movies 
+https://live.onic.ie/stream-movies?_=55552
+#EXTINF:-1,XT independent alternate  
+http://xt.stream.ie/xt
+#EXTINF:-1,Off The Ball 
+https://stream.audioxi.com/OTB?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false
+#EXTINF:-1,RTE Radio 1>  
+http://icecast.rte.ie/ieradio1
+#EXTINF:-1,MPB Radio 2 Easy 
+https://sc.mpbnl.nl/radio2easy.mp3
+#EXTINF:-1,Finn Valley FM 
+http://visual.shoutca.st:8000/
+#EXTINF:-1,FM104 
+https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417
+#EXTINF:-1,West Cork FM 
+http://lyra.shoutca.st:8147/live
+#EXTINF:-1,Club FM Dublin 
+https://c6.radioboss.fm:8225/stream
+#EXTINF:-1,Onic RnB 
+https://live.onic.ie/stream-rnb?_=890764
+#EXTINF:-1,iRadio 
+https://live-bauerie.sharp-stream.com/IRADNWAAC
+#EXTINF:-1,MPB Radio 2 Ulster 
+https://radiozender.mpbnetwerken.nl/radioulster.mp3
+#EXTINF:-1,BFBS Northern Ireland 
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs4.aac
+#EXTINF:-1,MPB Radio 1 
+https://sc.mpbnl.nl/radio1.mp3
+#EXTINF:-1,Biggest Disco Radio 
+https://s5.radio.co/s823d25743/low
+#EXTINF:-1,MPB Radio 1 MixMingle 
+https://radiozender.mpbnetwerken.nl/radio1mixmingle.mp3
+#EXTINF:-1,Pacific FM Relax 
+https://radiozender.mpbnetwerken.nl/pacificfm-relax
+#EXTINF:-1,Live95FM 
+https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350
+#EXTINF:-1,Raidió Rí-Rá 
+http://icy-zurich.mpbnl.nl/rrr
+#EXTINF:-1,Phantom Radio Ireland 
+https://streaming05.liveboxstream.uk/proxy/prienter?mp=/stream&_=1739569292206
+#EXTINF:-1,Onic Country 
+https://live.onic.ie/stream-country?_=267164
+#EXTINF:-1,DDM RADIO IRELAND 
+http://93.107.98.107:8000/stream.nsv
+#EXTINF:-1,Onic Rock 
+https://live.onic.ie/stream-rock?_=630901
+#EXTINF:-1,Planet Radio ACC 
+https://media.planetradio.ie/radio/8000/ACC
+#EXTINF:-1,98FM Throwback 
+https://live-bauerie.sharp-stream.com/98
+#EXTINF:-1,HITMIX RADIO IRELAND  
+https://a8.asurahosting.com:7180/radio.mp3
+#EXTINF:-1,Raídío Rí-Rá 
+https://uksoutha.streaming.broadcast.radio/ri-ra?1728850589472=
+#EXTINF:-1,Onic Alternative 
+https://live.onic.ie/stream-alternative?_=623178
+#EXTINF:-1,West Side Radio 
+https://radiozender.mpbnetwerken.nl/westsideradio.mp3
+#EXTINF:-1,SPIN South West 
+https://edge.audioxi.com/SW
+#EXTINF:-1,Wired 99.9 
+https://cast5.magicstreams.gr:8010/
+#EXTINF:-1,Onic Gold 
+https://live.onic.ie/stream-gold?_=718030
+#EXTINF:-1,Onic Classical 
+https://live.onic.ie/stream-classical?_=954716
+#EXTINF:-1,Near FM 
+https://nearfm-radiohosting.radioca.st/stream.mp3
+#EXTINF:-1,CFC FM 
+https://visual.shoutca.st/stream/crcfm
+#EXTINF:-1,Scariff Bay Community Radio 
+https://s4.radio.co/s87ac5cf5a/listen
+#EXTINF:-1,RabbitHole Radio 
+http://stream.zeno.fm/c88dha3fmzzuv
+#EXTINF:-1,Loughrea Community Radio 
+http://stream1.hippynet.co.uk/stream/loughrea
+#EXTINF:-1,Radio Cenzura 
+http://live.radiocenzura.pl:8000/radio.mp3
+#EXTINF:-1,. Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Onic Hits 
+https://live.onic.ie/stream-hits?_=408214
+#EXTINF:-1,Community Radio Castlebar 
+https://radiozender.mpbnetwerken.nl/crcfm
+#EXTINF:-1,Dunnes Radio 
+http://icy-zurich.mpbnl.nl/dunnesradio.mp3
+#EXTINF:-1,Pacific FM 
+https://radiozender.mpbnetwerken.nl/pacificfm
+#EXTINF:-1,Near FM (webcam) 
+https://vdo.ssl-stream.com:3550/live/nearfmlive.m3u8
+#EXTINF:-1,Longwave Music Radio 
+https://longwave.out.airtime.pro/longwave_b?_ga=2.49867887.852857122.1712754709-729263087.1631270723
+#EXTINF:-1,Onic Kids 
+https://live.onic.ie/stream-kids?_=661229
+#EXTINF:-1,GOCOM Radio 
+https://stream-57.zeno.fm/6rx2z8u2um0uv?zs=1dODRfWFRzyrlJXub0Ru6Q
+#EXTINF:-1,Radio Leinster  
+http://xt.stream.ie/leinster
+#EXTINF:-1,Onic Pride Vibes 
+https://live.onic.ie/stream-pride-vibes?_=895437
+#EXTINF:-1,St. Itas Hospital Radio 
+http://uk1.streamingpulse.com:7022/stream
+#EXTINF:-1,Community Radio Castlebar (Backup) 
+https://radiozender.mpbnetwerken.nl/crcfm-backup
+#EXTINF:-1,XT Independent Alternative  
+https://radiozender.mpbnetwerken.nl/dunnesradio.mp3
+#EXTINF:-1,MixLive - Progressive & Tech-house 
+https://strw3.openstream.co/939
+#EXTINF:-1,8Radio.com - Ireland - Dublin
+https://free.rcast.net/66127
+#EXTINF:-1,90s Network 98.4 FM - Ireland - Dublin
+https://de4.streamingpulse.com/ssl/90sNetwork
+#EXTINF:-1,Atlantic Christmas - Ireland - Galway
+https://broadcast.shoutstream.co.uk/stream/8014
+#EXTINF:-1,Atlantic Easy - Ireland - Galway
+https://s34.radiolize.com/radio/8210/radio.mp3
+#EXTINF:-1,Atlantic Gold - Ireland - Galway
+https://broadcast.shoutstream.co.uk/stream/8012
+#EXTINF:-1,Atlantic Waves - Ireland - Galway
+https://stream.radiojar.com/xhh5qxh6rmzuv
+#EXTINF:-1,Ballina Killaloe Local Radio - Ireland - Killaloe
+https://das-edge13-live365-dal02.cdnstream.com/a89412
+#EXTINF:-1,BCRFM 101.9 - Ireland - Ballina
+https://pj1019.radioca.st/streams/128kbps
+#EXTINF:-1,Beat 102-103 - Ireland - Waterford
+https://stream.audioxi.com/BEATAAC
+#EXTINF:-1,Biggest Disco Radio - Ireland - Dublin
+https://s5.radio.co/s823d25743/listen
+#EXTINF:-1,C103 - Ireland - Cork
+https://wg.cdn.tibus.net/C103
+#EXTINF:-1,Castlebar Community Radio 102.1 - Ireland - Castlebar
+https://visual.shoutca.st/stream/crcfm
+#EXTINF:-1,Christmas FM - Ireland - Dublin
+https://christmasfm.cdnstream1.com/2547_128.mp3
+#EXTINF:-1,Christmas FM Classical - Ireland - Dublin
+https://christmasfm.cdnstream1.com/2549_128.mp3
+#EXTINF:-1,Christmas FM Classics - Ireland - Dublin
+https://christmasfm.cdnstream1.com/2550_128.mp3
+#EXTINF:-1,Ciao World Radio - Ireland - Dublin
+https://stream.radiojar.com/2sfp8mz5tyduv
+#EXTINF:-1,Circle Of White Light Radio - Ireland - Kells
+https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1
+#EXTINF:-1,Clare.FM - Ireland - Ennis
+https://edge.audioxi.com/CLAREFM
+#EXTINF:-1,Claremorris Community Radio - Ireland - Claremorris
+https://s2.radio.co/sddd96b52a/listen
+#EXTINF:-1,Classic Hits - Ireland - Dublin
+https://edge2.audioxi.com/CLASSIC
+#EXTINF:-1,Classic Hits 80s - Ireland - Dublin
+https://edge7.audioxi.com/CH80S
+#EXTINF:-1,Clonmellon Community Radio - Ireland - Clonmellon
+https://eu8.fastcast4u.com/proxy/ccr?mp=/1
+#EXTINF:-1,Club FM Dublin - Ireland - Dublin
+https://c6.radioboss.fm:18225/stream
+#EXTINF:-1,Coastline Radio Dublin - Ireland - Dublin
+https://eu4.fastcast4u.com/proxy/clr?mp=/1
+#EXTINF:-1,Connemara CR FM 106.1 - Ireland - Letterfrack
+https://audio-edge-ey5nr.ams.s.radiomast.io/5008371a-b8fd-4745-a5a3-e17837dad90c
+#EXTINF:-1,Cork Music Station - Ireland - Cork
+https://streamer.radio.co/s1a04f8902/listen
+#EXTINF:-1,Cork's 96FM - Ireland - Cork
+https://wg.cdn.tibus.net/96fm
+#EXTINF:-1,Cork's 96FM - talkSPORT - Ireland - Cork
+https://radio.talksport.com/stream
+#EXTINF:-1,Cork's 96FM HitMix - Ireland - Cork
+https://wg.cdn.tibus.net/TA
+#EXTINF:-1,CRY104FM Community Radio Youghal - Ireland - Youghal
+https://cry104fmtech.radioca.st/stream
+#EXTINF:-1,Deephouse Radio 104.9FM - Ireland - Cork
+https://streaming.shoutcast.com/dhr
+#EXTINF:-1,Downda Road Radio - Ireland - Naas
+https://downdaroad.out.airtime.pro/downdaroad_a
+#EXTINF:-1,Dublin City FM 103.2 - Ireland - Dublin
+https://listen-dublincity.sharp-stream.com/dublin_city.mp3
+#EXTINF:-1,Dublin Digital Radio - Ireland - Dublin
+https://dublindigitalradio.out.airtime.pro/dublindigitalradio_a
+#EXTINF:-1,Dublin South FM - Ireland - Dublin
+https://dublinsouthfm.radioca.st/live
+#EXTINF:-1,Dublin's ABC - Ireland - Dublin
+https://kathy.torontocast.com:3645/stream
+#EXTINF:-1,Energy 103 Ratoath - Ireland - Ratoath
+https://cast1.torontocast.com:2025/stream
+#EXTINF:-1,Event FM - Ireland - Bray
+https://uk6.internet-radio.com/proxy/eventfm?mp=/stream
+#EXTINF:-1,Finn Valley 95.8 FM - Ireland - Castlefinn
+https://visual.shoutca.st/stream/finnvalleyfm
+#EXTINF:-1,Flirt FM 101.3 - Ireland - Galway
+https://audio-edge-cmc51.fra.h.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1,FM 104 - Ireland - Dublin
+https://wg.cdn.tibus.net/fm104MP3128
+#EXTINF:-1,Freedom Country - Ireland - Galway
+https://stream.zeno.fm/8v1mfy1qgzzuv
+#EXTINF:-1,Freedom FM - Ireland - Dublin
+https://edge3.audioxi.com/FREEDOMFM
+#EXTINF:-1,Freedom Gold - Ireland - Galway
+https://stream.zeno.fm/37tcwd6vfzzuv
+#EXTINF:-1,Galway Bay FM 95.8 - Ireland - Galway
+https://wg.cdn.tibus.net/galwaybay.mp3
+#EXTINF:-1,Gem Radio Gold - Ireland - Dublin
+https://gemradio.radioca.st/;
+#EXTINF:-1,Gem Radio New Wave - Ireland - Dublin
+https://gemradionw.radioca.st/;
+#EXTINF:-1,Global Irish Radio GIR.ie - Ireland - Glenisland
+https://s3.radio.co/s05b500bb8/listen
+#EXTINF:-1,GOCOM Radio - Ireland - Galway
+https://stream.zeno.fm/pc0k58u2um0uv
+#EXTINF:-1,Heartbeat FM IE - Ireland - Dublin
+https://cast5.magicstreams.gr/sc/heartbeat/stream
+#EXTINF:-1,Highland Radio - Ireland - Letterkenny
+https://edge.audioxi.com/HIGHLAND
+#EXTINF:-1,Hits Radio Ireland - Ireland - Dublin
+https://uk7.internet-radio.com/proxy/hitsradioireland/stream
+#EXTINF:-1,I Radio - Ireland - Galway
+https://stream.audioxi.com/IRADNW
+#EXTINF:-1,Ignoreradio Shoegaze - Ireland - Dublin
+https://uk7.internet-radio.com/proxy/ignoreland?mp=/stream;
+#EXTINF:-1,Irish Country Music Radio - Ireland - Limerick
+https://stream.galaxywebsolutions.com/proxy/irishcountry?mp=/stream
+#EXTINF:-1,Irish Pub Radio - Ireland - Dublin
+https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=/live
+#EXTINF:-1,Jazz Radio Ireland - Ireland - Waterford
+https://carina.streamerr.co:8116/stream
+#EXTINF:-1,jazzÉIRE - Ireland - Waterford
+https://visual.shoutca.st/stream/jazzeire/stream
+#EXTINF:-1,Juice FM 88.7 - Ireland - Cork
+https://stream.rcs.revma.com/a8mqrmhcyy8uv
+#EXTINF:-1,KIISCork - Ireland - Cork
+https://c2.radioboss.fm:18490/stream
+#EXTINF:-1,Limerick City Community Radio - Ireland - Limerick
+https://stream.lccr.ie/high
+#EXTINF:-1,Live 95 - Ireland - Limerick
+https://wg.cdn.tibus.net/Live95fm
+#EXTINF:-1,Live 95 Extra - Ireland - Limerick
+https://wg.cdn.tibus.net/live95Extra
+#EXTINF:-1,LMFM 95.8 - Ireland - Drogheda
+https://wg.cdn.tibus.net/LMFM
+#EXTINF:-1,LMFM Country - Ireland - Drogheda
+https://gbradio.cdn.tibus.net/LMFMCountry
+#EXTINF:-1,Longwave Music Radio LMR - Ireland - Cork
+https://longwave.out.airtime.pro:8000/longwave_a
+#EXTINF:-1,Loughrea Community Radio - Ireland - Loughrea
+https://stream1.hippynet.co.uk/stream/loughrea
+#EXTINF:-1,Mid West Irish Radio - Ireland - Ballyhaunis
+https://edge-audio-01-cr.sharp-stream.com/midwestfmie2.aac
+#EXTINF:-1,Midlands 103 - Ireland - Tullamore
+https://n08a-eu.rcs.revma.com/tq45ca1vftzuv
+#EXTINF:-1,Midwest Radio - Ireland - Ballyhaunis
+https://listen-midwest.sharp-stream.com/midwestfmie2.aac
+#EXTINF:-1,Northern Sound - Ireland - Cavan
+https://edge.audioxi.com/NORTHERNSOUND
+#EXTINF:-1,Noughty Beats - Ireland - Waterford
+https://stream.audioxi.com/NBEATSAAC
+#EXTINF:-1,Noughty Dublin - Ireland - Dublin
+https://uk3.internet-radio.com/proxy/noughtymusic/stream
+#EXTINF:-1,Ocean FM 102.5 - Ireland - Sligo
+https://edge4.audioxi.com/OCEANS
+#EXTINF:-1,OpenTempo FM - Ireland - Waterford
+https://eu7.fastcast4u.com/proxy/opentemp?mp=/;
+#EXTINF:-1,OTB - Off The Ball - Ireland - Dublin
+https://stream.audioxi.com/OTB
+#EXTINF:-1,Over the West Online Radio - Ireland - Letterkenny
+https://fast.citrus3.com:8302/stream
+#EXTINF:-1,Owenea FM 100.8 - Ireland - Ardara
+https://rsstreaming.com/proxy/owenea_fm?mp=/stream
+#EXTINF:-1,Phoenix FM 92.5 - Ireland - Dublin
+https://audio-edge-cmc51.fra.h.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02
+#EXTINF:-1,PlanetCountry.ie - Ireland - Galway
+https://media.planetradio.ie/radio/8010/Country
+#EXTINF:-1,PlanetRadio.ie - Ireland - Galway
+https://media.planetradio.ie/radio/8000/OnAir
+#EXTINF:-1,Power FM - Ireland - Dublin
+https://www.powerfm.org:8443/powerfm.mp3
+#EXTINF:-1,Q102 - Ireland - Dublin
+https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1,Q102 80s - Ireland - Dublin
+https://wg.cdn.tibus.net/Q10280s
+#EXTINF:-1,RabbitHole Radio - Ireland - Galway
+https://stream.zeno.fm/c88dha3fmzzuv
+#EXTINF:-1,Radio Kerry FM 96 - Ireland - Tralee
+https://edge.audioxi.com/KERRY
+#EXTINF:-1,Radio Maria Ireland - Ireland - Dublin
+https://dreamsiteradiocp2.com/proxy/rmirlanda2?mp=/stream
+#EXTINF:-1,Radio Siamsa - Ireland - Dublin
+https://cast02.siamsa.ie/radio/8000/radio.mp3
+#EXTINF:-1,Radio Star Country 981mw - Ireland - Monaghan
+https://eu4.fastcast4u.com/proxy/blueeyeg?mp=/;
+#EXTINF:-1,Radio Zodiac Ireland - Ireland - Dublin
+https://listen.radioking.com/radio/124966/stream/164656
+#EXTINF:-1,Radioactive International - Ireland - Dublin
+https://donalgreene.com/radact8000
+#EXTINF:-1,Raidió Rí-Rá - Ireland - Dublin
+https://uksoutha.streaming.broadcast.radio/ri-ra
+#EXTINF:-1,RosFM 94.6 - Ireland - Roscommon
+https://fra-ranger01.dedicateware.com:2020/stream/rosfm946/stream
+#EXTINF:-1,RTÉ 2FM - Ireland - Dublin
+https://icecast.rte.ie/2fm
+#EXTINF:-1,RTÉ 2XM - Ireland - Dublin
+https://icecast.rte.ie/2xm
+#EXTINF:-1,RTÉ Gold - Ireland - Dublin
+https://icecast.rte.ie/gold
+#EXTINF:-1,RTÉ Junior - Ireland - Dublin
+https://icecast.rte.ie/junior
+#EXTINF:-1,RTÉ Lyric FM - Ireland - Dublin
+https://icecast.rte.ie/lyric
+#EXTINF:-1,RTÉ Pulse - Ireland - Dublin
+https://icecast.rte.ie/pulse
+#EXTINF:-1,RTÉ Radio 1 Extra - Ireland - Dublin
+https://icecast.rte.ie/radio1extra
+#EXTINF:-1,RTÉ Radio 1 FM 88 - Ireland - Dublin
+https://icecast.rte.ie/radio1
+#EXTINF:-1,RTÉ Raidió na Gaeltachta - Ireland - Costelloe
+https://icecast.rte.ie/rnag
+#EXTINF:-1,Scariff Bay CR FM 88.3 - Ireland - Scarriff
+https://s4.radio.co/s87ac5cf5a/listen
+#EXTINF:-1,Shannonside FM - Ireland - Longford
+https://edge.audioxi.com/SHANNONSIDE
+#EXTINF:-1,Smooth Gold Radio Ireland - Ireland - Rathdowney
+https://a4.asurahosting.com:6630/radio.mp3
+#EXTINF:-1,Solid Gold Radio Ireland - Ireland - Rathdowney
+https://a1.asurahosting.com:10000/radio.mp3
+#EXTINF:-1,Solid Gold Radio Ireland 2 - Ireland - Rathdowney
+https://a4.asurahosting.com:6650/radio.mp3
+#EXTINF:-1,South East Radio - Ireland - Wexford
+https://edge4.audioxi.com/SOUTHEAST
+#EXTINF:-1,Spektrum Radio - Ireland - Dublin
+https://stream.radio.co/sff39bf55e/listen
+#EXTINF:-1,Spin South West - Ireland - Limerick
+https://stream.audioxi.com/SW
+#EXTINF:-1,St. Ita's Hospital Radio 89.5 FM - Ireland - Donabate
+https://de2.streamingpulse.com/ssl/8042
+#EXTINF:-1,Storm North East - Ireland - Dundalk
+https://stormnortheast.com:8443/storm
+#EXTINF:-1,Studio 15 - Ireland - Stradbally
+https://stream.zeno.fm/ny52cgqpdg8uv
+#EXTINF:-1,Sunshine 106.8 - Ireland - Dublin
+https://edge2.audioxi.com/SUN
+#EXTINF:-1,Sunshine Soul - Ireland - Dublin
+https://edge.audioxi.com/SUN
+#EXTINF:-1,The Cool Music - Ireland - Glandore
+https://studio25.radiolize.com/radio/8110/radio.mp3
+#EXTINF:-1,The Sound of Ireland 94.3 FM - Ireland - Dublin
+https://ais-sa2.cdnstream1.com/2548_128.mp3
+#EXTINF:-1,THRCL 93.7 FM - Ireland - Clonmel
+https://de2.streamingpulse.com/ssl/THRCL
+#EXTINF:-1,Tipp Mid West - Ireland - Tipperary
+https://rsstreaming.com/proxy/tippmwr?mp=/stream
+#EXTINF:-1,Together FM - Ireland - Ballyfermot
+https://togetherfmradio.radioca.st/stream
+#EXTINF:-1,TrancePulse - Ireland - Dublin
+https://stream.trance.ie/stream
+#EXTINF:-1,TrancePulse - The Mixes - Ireland - Dublin
+https://stream.trancepulse.eu/tpmixes
+#EXTINF:-1,UCB Ireland - Ireland - Dublin
+https://stream.btsstream.com:8022/ucbireland
+#EXTINF:-1,UCBI Worship - Ireland - Dublin
+https://stream.btsstream.com/stream/iworship
+#EXTINF:-1,UCC 98.3 FM - Ireland - Cork
+https://stream.btsstream.com:8062/ucc.mp3
+#EXTINF:-1,Uplift Radio - Ireland - Kincasslagh
+https://ice31.securenetsystems.net/UPLIFTFM
+#EXTINF:-1,Vibe FM - Ireland - Dublin
+https://uk2.internet-radio.com/proxy/vibefm?mp=/live
+#EXTINF:-1,West Limerick 102 FM - Ireland - Newcastle West
+https://s29.myradiostream.com/17796/;
+#EXTINF:-1,Wired FM - Ireland - Limerick
+https://s2.radio.co/sf0986595a/listen
+#EXTINF:-1,WLR FM 95.1 - Ireland - Waterford
+https://stream.audioxi.com/WLRAAC
+#EXTINF:-1,Christmas FM Classical & Carols 
+https://gemradionw.radioca.st/stream.nsv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102833/logo_35MU0VkreK.jpg?v=20260529-media-restore",80s Party
+https://tower.hayva.ru/efjql-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37436/logo_6bEnQckLUM.jpg?v=20260529-media-restore",Irish Pub Radio
+https://solid24.streamupsolutions.com/proxy/vbkiacud?mp=%2Flive
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102767/logo_LatQ5TeG5i.jpg?v=20260529-media-restore",Cafe Del Mar
+https://tower.hayva.ru/ipvs4-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37520/logo_rOhUl0s7Wy.jpg?v=20260529-media-restore",Dance Nation Radio
+https://uksoutha.streaming.broadcast.radio/dancenationradio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102816/logo_uoLt9FEDcY.jpg?v=20260529-media-restore",100 Dance Hits
+https://tower.hayva.ru/ogw9l-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37369/logo_PIKPbx47TV.jpg?v=20260529-media-restore",Power FM
+http://war.powerfm.org:8000/powerfm.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37447/logo_5okxpMgj98.jpg?v=20260529-media-restore",TrancePulse Dublin
+https://stream.trance.ie:8443/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37511/logo_Mg7zJy7wpU.jpg?v=20260529-media-restore",Dublin Digital Radio
+https://dublin-digital-radio.radiocult.fm/stream?nocache=0.ko5gdouwf29
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37380/logo_yGRdTA1h0c.jpg?v=20260529-media-restore",Funky Ass Tunes
+https://ams1.reliastream.com/proxy/john12/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37541/logo_mgCXMPmO8q.jpg?v=20260529-media-restore",Mild Havok
+https://live.86x.uk/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37399/logo_50rk5HzzNX.jpg?v=20260529-media-restore",Newstalk
+https://stream.audioxi.com/NT
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37508/logo_pfcpptcNbl.jpg?v=20260529-media-restore",Symphony Radio
+https://christmasfm.cdnstream1.com/2551_128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37545/logo_OtELeTZDlN.jpg?v=20260529-media-restore",PlayFm Dublin
+https://stream.playfmdublin.com/radio192.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37410/logo_ikXjybBfQ3.jpg?v=20260529-media-restore",Irish Country Music Radio
+https://streaming.galaxywebsolutions.com/stream/irishcountry
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37407/logo_TBnusuBikZ.jpg?v=20260529-media-restore",Cork's Red FM
+https://edge.audioxi.com/RED
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37491/logo_rn1PFEdqNH.jpg?v=20260529-media-restore",Ignoreradio Shoegaze
+https://sp1.autopo.st/8026/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37365/logo_JhFIsskXeA.jpg?v=20260529-media-restore",IFusion Radio
+https://listen.radioking.com/radio/523747/stream/582004
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37538/logo_GEB84nkG23.jpg?v=20260529-media-restore",Classic House Party Ireland
+http://stream.zeno.fm/gyxx6juo6p7tv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37475/logo_TBSnSukmS6.jpg?v=20260529-media-restore",Deep Planet on MixLive.ie
+https://listen.openstream.co/6524/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37454/logo_5yNOlO42j4.jpg?v=20260529-media-restore",Dundalk Bay and North Dublin Bay Marine
+https://broadcastify.cdnstream1.com/34883
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103797/logo_8Mg11HvDlX.jpg?v=20260529-media-restore",Phever Radio
+https://uk1.internet-radio.com/proxy/phever?mp=/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37503/logo_07RLkmN4ne.jpg?v=20260529-media-restore",Global Irish Radio
+https://s3.radio.co:80/s05b500bb8/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37523/logo_16MunZPCGs.jpg?v=20260529-media-restore",Easy Radio Ireland
+https://live.btsstream.com/stream/easyradio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37451/logo_y1HMSi5OmS.jpg?v=20260529-media-restore",Amazing Radio
+https://stream5.amazingradio.com:8443/stream.mp3?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37378/logo_BCMJwdpF8A.jpg?v=20260529-media-restore",Live Ireland
+http://192.111.140.11:8058/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37395/logo_LPQtHGVnVp.jpg?v=20260529-media-restore",SPIN 1038
+https://stream.audioxi.com/SP
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37510/logo_AuuEhuIB6Z.jpg?v=20260529-media-restore",98FM Dance
+https://edge.audioxi.com/98DANCE
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37389/logo_tBWbfiOH3p.jpg?v=20260529-media-restore",Phantom Radio Ireland
+https://streaming05.liveboxstream.uk/proxy/prienter?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37466/logo_cv3REF3fsC.jpg?v=20260529-media-restore",Harmony
+http://173.208.177.90:13410/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37455/logo_dGjZMJcqtX.jpg?v=20260529-media-restore",Classic Dance Hitz
+https://cast1.my-control-panel.com/proxy/classic4/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103196/logo_lyP3hGF4Vf.jpg?v=20260529-media-restore",West Limerick 102FM
+https://s29.myradiostream.com/17796/listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37483/logo_1Ar6FGCTkF.jpg?v=20260529-media-restore",Mix Pulse FM
+https://stream.zenolive.com/zh3zvrzszwzuv.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37392/logo_LTRfoqUw8m.jpg?v=20260529-media-restore",EAST COAST FM
+https://live-bauerie.sharp-stream.com/EASTCOAST
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37521/logo_UjBIK6RQiO.jpg?v=20260529-media-restore",REALRADIO Ireland
+https://stream.zeno.fm/6g19fr9psnhvv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37450/logo_9f6I1rOv44.jpg?v=20260529-media-restore",KISS Classical
+https://cast1.torontocast.com:2085/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37518/logo_Byh19pTAGB.jpg?v=20260529-media-restore",Turbo80s.com
+https://transmitter.turbo80s.com:8443/live.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004379/logo_lmFz5R994I.jpg?v=20260529-media-restore",RTÉ 2FM
+https://liveaudio.rte.ie/hls-radio/2fm/chunklist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37519/logo_CFhCchA2Hq.jpg?v=20260529-media-restore",Gem Radio New Wave
+https://gemradionw.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37385/logo_FDCyrH3BwI.jpg?v=20260529-media-restore",Antenna Web Cork
+https://tinyurl.com/Antenna-Web-Cork
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37409/logo_HjuqHVb7Zn.jpg?v=20260529-media-restore",KISS Country
+https://cast1.torontocast.com:2105/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37494/logo_2eOPyU07i7.jpg?v=20260529-media-restore",Solid Gold Radio Ireland 3
+https://a4.asurahosting.com:6660/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37444/logo_o5oTGj9THu.jpg?v=20260529-media-restore",Zenith Classic Rock
+http://91.189.64.188:3644/zenith64
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37449/logo_RoTV310dQ0.jpg?v=20260529-media-restore",Radio Corca Baiscinn
+http://178.33.135.245:3074/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37469/logo_hOPNxrm6pm.jpg?v=20260529-media-restore",Solid Gold Radio Ireland
+https://az11.yesstreaming.net:8020/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37504/logo_NdQt70aUdd.jpg?v=20260529-media-restore",Today fm Block Rockin' Beats
+https://stream.audioxi.com/XMAAC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37388/logo_08GzlzMPIe.jpg?v=20260529-media-restore",MPB Radio 1 MixMingle
+https://sc.mpbnl.nl/stream/4/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37478/logo_3jzJMANdkv.jpg?v=20260529-media-restore",Smooth Gold Hits Radio Ireland
+https://a4.asurahosting.com:6620/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37486/logo_EAZWlKXOzc.jpg?v=20260529-media-restore",Progressive & Tech-house on MixLive.ie
+https://listen.openstream.co/6520/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37496/logo_bsnWZpr4Hh.jpg?v=20260529-media-restore",Minimal & Techno on MixLive.ie
+https://listen.openstream.co/6521/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37479/logo_J65Vst657q.jpg?v=20260529-media-restore",House & Techno Classics on MixLive.ie
+https://listen.openstream.co/6519/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37474/logo_1etkqxign4.jpg?v=20260529-media-restore",Psybient Sunset on MixLive.ie
+https://listen.openstream.co/6517/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37480/logo_W9SXfv8ZmN.jpg?v=20260529-media-restore",Ambient Lounge on MixLive.ie
+https://listen.openstream.co/6273/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37412/logo_AZfeSA4FJd.jpg?v=20260529-media-restore",SPIN South West
+https://live-bauerie.sharp-stream.com/SW
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37433/logo_q94mfdIS79.jpg?v=20260529-media-restore",Birdhill Radio
+https://w42pfn4y.hostingenergy.com/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37487/logo_e5po4ToSVX.jpg?v=20260529-media-restore",FM104 Radio FitMix
+https://gbradio.cdn.tibus.net/104FitMix
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37536/logo_JvgSRd16XE.jpg?v=20260529-media-restore",Радіо АУРІ
+https://globalic.stream:1650/;?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37517/logo_grpximjjI7.jpg?v=20260529-media-restore",Timewarp Ireland
+https://broadcast.shoutstream.co.uk:8052/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37452/logo_mavSVDwMYr.jpg?v=20260529-media-restore",ABC 80's
+https://kathy.torontocast.com:4365/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37514/logo_QsuLJI9jUO.jpg?v=20260529-media-restore",Solid Gold Ireland's Radio Network
+https://a4.asurahosting.com:6640/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37368/logo_Uf9IdAjPjN.jpg?v=20260529-media-restore",All Irish Radio
+https://cast1.torontocast.com:3315/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37446/logo_Rf3jLakbaE.jpg?v=20260529-media-restore",Flirt FM
+https://audio-edge-3mayu.fra.h.radiomast.io/89e24041-fdab-4b2d-95bd-830f5bfda900
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37476/logo_dy0i3Po8NP.jpg?v=20260529-media-restore",Total Country Inchicore
+http://sirius.shoutca.st:8180/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37495/logo_WDCyFdI2DQ.jpg?v=20260529-media-restore",Trance Illusion on MixLive.ie
+https://listen.openstream.co/6522/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37398/logo_EKb5SnXasr.jpg?v=20260529-media-restore",98FM
+https://stream.audioxi.com/98
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37534/logo_kRFNhYvDwa.jpg?v=20260529-media-restore",MPB Radio 1
+https://sc.mpbnl.nl/stream/1/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37387/logo_j6JFvmGFkJ.jpg?v=20260529-media-restore",Antenna Web Dublino
+https://tinyurl.com/Antenna-Web-Dublino
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37379/logo_AnCgKM75g3.jpg?v=20260529-media-restore",Radio Nova
+https://stream.audioxi.com/NOVA?aw_0_1st.playerid=onlineradiobox.com
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37377/logo_TqdiDkdkbU.jpg?v=20260529-media-restore",Gem Radio Gold
+https://gemradio.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37472/logo_USBavPCnYS.jpg?v=20260529-media-restore",FM104's HitMix
+https://gbradio.cdn.tibus.net/TA
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37499/logo_lI64shGur5.jpg?v=20260529-media-restore",Hope Radio Ireland
+https://cast3.asurahosting.com/proxy/alg/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37402/logo_O55VuVicpq.jpg?v=20260529-media-restore",Heartbeat FM
+http://cast5.magicstreams.gr:8010/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37416/logo_IBGLzdyqi4.jpg?v=20260529-media-restore",Life FM
+https://uksoutha.streaming.broadcast.radio/lifefm?1762614139296=
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37383/logo_N6QATwNi2I.jpg?v=20260529-media-restore",The 90s Network
+http://uk1.streamingpulse.com:7020/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37512/logo_yLuQ16J1e0.jpg?v=20260529-media-restore",Carlowfm
+https://s21.myradiostream.com/:14706/listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37532/logo_L3YvlbPZ5C.jpg?v=20260529-media-restore",Emerald Isle Radio
+https://az10.yesstreaming.net:8360/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37529/logo_8YoZme5D9w.jpg?v=20260529-media-restore",FitMusic
+https://uk3.internet-radio.com/proxy/fitmusicradio/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37501/logo_TKz9p4Tk80.jpg?v=20260529-media-restore",Radio Maria
+https://dreamsiteradiocp2.com/proxy/rmirlanda2?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37484/logo_Xtzy6zHwbC.jpg?v=20260529-media-restore",Bass Station DnB on MixLive.ie
+https://listen.openstream.co/6518/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37382/logo_JGntRiCEuf.jpg?v=20260529-media-restore",Raidió na Life
+http://beryl.streamguys.com:5010/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37419/logo_8fUzSDiZlg.jpg?v=20260529-media-restore",Midlands 103
+https://stream.rcs.revma.com/tq45ca1vftzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37492/logo_NYz9fnjLN5.jpg?v=20260529-media-restore",Submit Promo on MixLive.ie
+https://listen.openstream.co/6523/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37460/logo_5FGUbuNTDi.jpg?v=20260529-media-restore",Sunshine Soul
+https://live-bauerie.sharp-stream.com/SUN?_=633242
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37372/logo_BUuleeYu5X.jpg?v=20260529-media-restore",Kfm Radio
+http://sirius.shoutca.st:9307/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37465/logo_19npeoXooo.jpg?v=20260529-media-restore",Cruize Radio Online
+http://centauri.shoutca.st:8965/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37497/logo_VXrFpbYLLa.jpg?v=20260529-media-restore",PlanetRadio.ie - Classic Hits
+https://stream.zeno.fm/31sh85dfmzzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37544/logo_Q8el5dvjDf.jpg?v=20260529-media-restore",Shuffle Radio
+https://shuffleradio.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37500/logo_KZjus73Yme.jpg?v=20260529-media-restore",Downda Road Radio
+https://downdaroad.out.airtime.pro/downdaroad_b
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37435/logo_FW9bFAbtAT.jpg?v=20260529-media-restore",Midwest Radio
+https://tx.sharp-stream.com/icecast.php?i=midwestfmie2.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37481/logo_JONuz4srxe.jpg?v=20260529-media-restore",Open Stage Project on MixLive.ie
+https://listen.openstream.co/6525/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37490/logo_9vSN6vfpfP.jpg?v=20260529-media-restore",The Cool Music
+https://stream.netradyom.com/listen/parkfm/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37540/logo_TUMjZOohpO.jpg?v=20260529-media-restore",Radio Cenzura
+https://live.radiocenzura.pl:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37470/logo_1oqkgMRmfB.jpg?v=20260529-media-restore",Radio Limerick Online
+https://streamingv2.shoutcast.com/rlo
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37482/logo_THVvwwh3Ml.jpg?v=20260529-media-restore",JazzÉIRE
+https://visual.shoutca.st:8096/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37473/logo_bsCVprBD2h.jpg?v=20260529-media-restore",Chillout Essentials on MixLive.ie
+https://listen.openstream.co/6516/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37502/logo_nuyDD0n92I.jpg?v=20260529-media-restore",Today FM 80's
+https://edge3.audioxi.com/T80
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37366/logo_epksYStTpo.jpg?v=20260529-media-restore",Nearfm
+http://stream11.shoutcastsolutions.com:8114/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37533/logo_jLBsdh0MOh.jpg?v=20260529-media-restore",MPB Radio 2
+https://sc.mpbnl.nl/stream/2/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37505/logo_lhvrLcfkXb.jpg?v=20260529-media-restore",Today FM 90's
+https://pri.gocaster.net/TDFM90
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37543/logo_IlPPdHyxyr.jpg?v=20260529-media-restore",MPB Radio 2 Christmas
+https://radiozender.mpbnetwerken.nl/radio2xmas.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37376/logo_5nDhqVytBd.jpg?v=20260529-media-restore",8Radio.com
+https://edge4.audioxi.com/8RADIOAAC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37546/logo_HEwjQH9Pip.jpg?v=20260529-media-restore",MPB Radio 2 90s and 00s
+https://sc.mpbnl.nl/stream/3/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37401/logo_kPo9t6krsG.jpg?v=20260529-media-restore",Copper Coast Radio
+http://s12.ssl-stream.com:8056/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37391/logo_6UBwpCLLIG.jpg?v=20260529-media-restore",Dublin's Q102
+https://gbradio.cdn.tibus.net/q102MP3128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37424/logo_OEMBmhcxSh.jpg?v=20260529-media-restore",Tipp FM
+https://edge.audioxi.com/TIPPFM
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37429/logo_bun6pG5EDU.jpg?v=20260529-media-restore",Ocean FM
+https://edge4.audioxi.com/OCEANSAAC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37371/logo_FiNce8HMR9.jpg?v=20260529-media-restore",IRadio Northeast & Midlands
+https://live-bauerie.sharp-stream.com/IRADNW
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37458/logo_7X1yhlbNU4.jpg?v=20260529-media-restore",Absolute Irish Radio
+https://stream.audioxi.com/IRISHAAC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37531/logo_58DjgfKELV.jpg?v=20260529-media-restore",RadioWave
+https://radiowave.eu/listen/test/aacHQ
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37370/logo_9or3UC3Ba9.jpg?v=20260529-media-restore",Classic Hits 4FM
+https://stream.audioxi.com/CLASSIC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37386/logo_pjNLLUxx1q.jpg?v=20260529-media-restore",Antenna Web Galway
+https://tinyurl.com/Antenna-Web-Galway
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37525/logo_0gZxn6Fbux.jpg?v=20260529-media-restore",Minimal & Deep-tech on MixLive.ie
+https://listen.openstream.co/7031/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37408/logo_EKsbwnoX2I.jpg?v=20260529-media-restore",Dundalk FM
+http://80.249.249.245:8000/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37485/logo_uibpjB12Y5.jpg?v=20260529-media-restore",Lockdown Live Radio
+https://stream.zeno.fm/pmtwqwm4czzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37443/logo_bYG60FSVUk.jpg?v=20260529-media-restore",KCLR
+https://live-bauerie.sharp-stream.com/KCLRCAR
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37434/logo_1KHzAGbqdL.jpg?v=20260529-media-restore",Tipperary Mid West Radio
+https://rsstreaming.com/proxy/tippmwr/stream?type=.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37374/logo_eqEcHfaKIP.jpg?v=20260529-media-restore",Today FM
+https://edge.audioxi.com/TDAAC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37442/logo_releg9aW92.jpg?v=20260529-media-restore",OpenTempo FM
+https://eu7.fastcast4u.com/proxy/opentemp?mp=%2F%3B
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37394/logo_rPAOckC5tc.jpg?v=20260529-media-restore",Event FM
+http://uk6.internet-radio.com:8085/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37411/logo_77M4fP3XOg.jpg?v=20260529-media-restore",Connemara Community Radio
+https://audio-edge-cmc51.fra.h.radiomast.io/5008371a-b8fd-4745-a5a3-e17837dad90c
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37462/logo_GEw57jCLg0.jpg?v=20260529-media-restore",C103 (West)
+https://wg.cdn.tibus.net/C103West
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37456/logo_iEv2EVamDE.jpg?v=20260529-media-restore",Ocean FM
+https://edge4.audioxi.com/OCEANDAAC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37439/logo_49t1o4dEdc.jpg?v=20260529-media-restore",Liffey Sound FM
+http://stream.liffeysoundfm.ie:8000/listen.pls.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37373/logo_ZZ5aXXCH0h.jpg?v=20260529-media-restore",Phoenix FM
+https://audio-edge-ey5nr.ams.s.radiomast.io/cfee4afe-9f7e-4902-84bd-807f6b5d1c02
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37527/logo_j7ipH90PLv.jpg?v=20260529-media-restore",Vibe FM
+https://uk2.internet-radio.com/proxy/vibefm?mp=%2Flive
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37464/logo_SYidusfZXU.jpg?v=20260529-media-restore",Redrock Radio
+https://stream.zeno.fm/6wkae5vugtzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37537/logo_gV4ywpnByJ.jpg?v=20260529-media-restore",today evangelho line online
+https://stream2.svrdedicado.org/8474/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37535/logo_LNSCqxcuCJ.jpg?v=20260529-media-restore",chathair Bhaile Atha Cliath
+https://stream1.svrdedicado.org:7152/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37457/logo_8Wh56BOuDB.jpg?v=20260529-media-restore",Reggae Ireland Radio
+https://stream.zeno.fm/be0nv32qychvv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103819/logo_bv9x7ccsDt.jpg?v=20260529-media-restore",Social Light Radio
+https://uk5.internet-radio.com/proxy/slightradio?mp=/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/all-80s-579421-logo.jpg",Radio All 80s
+http://centauri.shoutca.st:8035/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-8radiocom-logo.jpg",8Radio.com
+https://securestreams.autopo.st:1035/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-ddm-radio-ireland-logo.jpg",DDM Radio Ireland
+http://93.107.98.107:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/event-fm-164782-logo.jpg",Radio Event FM
+http://uk6.internet-radio.com:8085/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-garden-county-radio-logo.jpg",Garden County Radio
+http://uk6.internet-radio.com:8267/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rte-2fm-569434-logo.jpg",Radio RTÉ 2fm
+https://www.rte.ie/radio/2fm/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-chill-fm-dublin-logo.jpg",Radio Chill FM Dublin
+http://161.97.144.188:4062/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rte-lyric-fm-571493-logo.jpg",Radio RTÉ Lyric FM
+https://www.rte.ie/radio/lyricfm/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rte-radio-1-extra-577588-logo.jpg",RTÉ Radio 1 Extra
+https://www.rte.ie/radio/rte-radio1-extra/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rte-gold-577355-logo.jpg",Radio RTÉ Gold
+https://www.rte.ie/radio/gold/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-rte-2xm-logo.jpg",Radio RTÉ 2XM
+https://www.rte.ie/radio/2xm/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rte-pulse-578342-logo.jpg",Radio RTÉ Pulse
+https://www.rte.ie/radio/pulse/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-rtejr-radio-logo.jpg",RTÉjr Radio
+https://www.rte.ie/radio/rtejrradio/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rte-raidio-na-gaeltachta-571660-logo.jpg",Radio RTÉ Raidió na Gaeltachta
+https://www.rte.ie/radio/rnag/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-abc-60s-logo.jpg",Radio ABC 60's
+https://cast1.torontocast.com:1145/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-raidio-ri-ra-logo.jpg",Radio Raidió Rí-Rá
+https://uksoutha.streaming.broadcast.radio/ri-ra?1723655329874=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-gem-radio-gold-logo.jpg",Gem Radio Gold
+https://gemradio.radioca.st/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dundalk-fm-576421-logo.jpg",Radio Dundalk FM
+http://80.249.249.245:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-opentempo-fm-logo.jpg",Radio OpenTempo FM
+https://eu7.fastcast4u.com/proxy/opentemp?mp=/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/agmradio-african-gospel-media-radio-591393-logo.jpg",Agmradio (African Gospel Media Radio)
+http://agmradio.serverhostingcenter.com:8474/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/inishowen-live-596091-logo.jpg",Radio Inishowen Live
+http://s2.voscast.com:8282/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ulfm-186992-logo.jpg",Radio ULFM
+http://216.75.20.63:8700/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/opentempofm-594390-logo.jpg",Radio OpenTempoFM
+http://37.59.32.115:8025/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-foxtrot-100-597284-logo.jpg",radio foxtrot 100
+http://eu1.reliastream.com/tunein.php/anthbond/playlist.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/neil-young-radio-597522-logo.jpg",Neil Young Radio
+http://digital.radio.ie:8027/;
+#EXTINF:-1 tv-logo="",Balbriigan Community Radio
+http://192.95.18.120:9986/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/crcfm-567645-logo.jpg",Radio CRCfm
+http://91.121.91.172:8555/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/triplag-radio-trance-170860-logo.jpg",Triplag Radio Trance
+http://69.175.39.146:8624/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wrfm-982-598554-logo.jpg",Radio WRFM 98.2
+http://www.wrfm.ie/listennow/listennow.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nova-vroom-597929-logo.jpg",Radio Nova Vroom
+http://digital.radio.ie:8012/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nova-classic-rock-597932-logo.jpg",Radio Nova Classic Rock
+http://31.14.40.241:9744/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nova-irish-597930-logo.jpg",Radio Nova Irish
+http://digital.radio.ie:8022/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nova-beatles-597934-logo.jpg",Radio Nova Beatles
+http://digital.radio.ie:8014/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/electronic-80s-597931-logo.jpg",Radio Electronic 80s
+http://digital.radio.ie:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/british-invasion-597935-logo.jpg",Radio British Invasion
+http://digital.radio.ie:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nova-chill-597933-logo.jpg",Radio Nova Chill
+http://31.14.40.241:9746/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fluidmusic-lounge-155750-logo.jpg",Radio FluidMusic - Lounge
+http://174.37.159.206:8020
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mid-west-irish-radio-568072-logo.jpg",Mid West Irish Radio
+http://tx.sharp-stream.com/icecast.php?i=mwir.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/triplag-radio-chill-out-171203-logo.jpg",Triplag Radio Chill Out
+http://199.16.186.36:8208/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/plk-fm-599818-logo.jpg",Radio PLK FM
+http://stream.plka.ie:8000/96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/finn-valley-fm-603225-logo.jpg",Radio Finn Valley FM
+http://192.99.8.192:2874/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/876-chill-fm-606550-logo.jpg",Radio 87.6 Chill FM
+http://s4.myradiostream.com:4062/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cuh-fm-hospital-radio-606923-logo.jpg",CUH fm Hospital Radio
+http://148.163.81.10:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pcr-108-fm-610132-logo.jpg",Radio PCR 108 FM
+http://s22.myradiostream.com:6026/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-hit-radio-610991-logo.jpg",Mix Hit Radio
+http://172.93.237.106:8201/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/barrowside-online-611931-logo.jpg",Radio Barrowside Online
+http://94.23.27.122:6962/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-groovalizacion-174484-logo.jpg",Radio Groovalizacion
+http://icecast.arscenic.tv:8000/groovalizacion
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vessel-of-praise-radio-614534-logo.jpg",Vessel of Praise Radio
+http://38.107.242.151:8031/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/coastline-radio-614582-logo.jpg",Coastline Radio
+http://38.107.243.188:8649/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/scariff-bay-community-radio-614976-logo.jpg",Scariff Bay Community Radio
+http://scariffbay15.primcast.com:4588/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/world-rugby-radio-615048-logo.jpg",World Rugby Radio
+http://rugby.primcast.com:5960/;stream.mp3?source=TuneInu0026aw_0_1st.playerid=RadioTimeu0026aw_0_1st.skey=1568980277u0026aw_0_1st.premium=false
+#EXTINF:-1 tv-logo="",Radio NOVA 70s
+http://31.14.40.241:9750/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/other-friends-620563-logo.jpg",Radio Other Friends
+http://93.188.161.192:9996/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/irelandunsignedcom-620996-logo.jpg",Radio IrelandUnsigned.Com
+http://s32.myradiostream.com:5206/;
+#EXTINF:-1 tv-logo="",Radio Mix FM
+http://78.129.232.226:8187/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/absolute-arsenal-604336-logo.jpg",Radio Absolute Arsenal
+http://uk3.internet-radio.com:11120/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/clonline-radio-626431-logo.jpg",Clonline Radio
+http://142.4.215.64:8276/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/frank-keane-deansgrange-624856-logo.jpg",Radio Frank Keane Deansgrange
+http://178.32.62.163:8068/;
+#EXTINF:-1 tv-logo="",Radio Christmas FM - Classical
+http://ice31.securenetsystems.net/CLASSICL
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/minimal-techno-on-mixliveie-601971-logo.jpg",Radio Minimal Techno on MixLive.ie
+http://mixlive.ie:9608/;Minimal
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/live-ireland-christmas-radio-633499-logo.jpg",Live Ireland Christmas Radio
+http://liveireland.net:8680/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/submit-promo-radio-on-mixliveie-633944-logo.jpg",Submit Promo Radio on MixLive.ie
+http://mixlive.ie:9640/;Submit
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/klubb-fm-584724-logo.jpg",Radio Klubb FM
+http://45.76.134.44:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eden-fm-635148-logo.jpg",Radio Eden FM
+http://cast5.magicstreams.gr:8026/stream
+#EXTINF:-1 tv-logo="",AfroDiaspora FM  Radio
+http://bissamedia.out.airtime.pro:8000/bissamedia_b
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/south-west-donegal-community-radio-154668-logo.jpg",South West Donegal Community Radio
+http://82.141.235.169:88/broadwave.mp3?src=1u0026amp;rate=1u0026amp;ref=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/icrpr-radio-640472-logo.jpg",ICRPR Radio
+http://142.54.171.210:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xfm-dublin-569670-logo.jpg",Radio Xfm Dublin
+http://69.167.190.234:8888/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/true-radio-cork-641847-logo.jpg",True Radio Cork
+http://shaincast.caster.fm:31880/listen.mp3?authn42c1c402220493743e54c4e420eca7ef
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lay-deep-radio-162687-logo.jpg",Lay Deep Radio
+http://laydeepradio.zapto.org:8004
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ireland-live-television-569857-logo.jpg",Radio Ireland Live Television
+http://www.liveireland.com/tv.shtml
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gold24-645714-logo.jpg",Radio Gold24
+http://radio4.citrus3.com:8032/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/breeze-am-158897-logo.jpg",Radio Breeze AM
+http://s03.whooshstream.net:8068/radioleinster
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-leinster-169506-logo.jpg",Radio Leinster
+http://38.96.148.80:8858/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/atlantic-radio-174344-logo.jpg",Atlantic Radio
+http://stream.atlanticradio.ie:8100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/judge-fm-176082-logo.jpg",Radio Judge FM
+http://cp.internet-radio.org.uk:15383/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/live-ireland-1-178030-logo.jpg",Radio Live Ireland 1
+http://208.53.131.29:8080/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tallaght-fm-576428-logo.jpg",Radio Tallaght FM
+http://majestic.wavestreamer.com:7424/listen.pls?sid=1u0026sid=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rte-news-now-577559-logo.jpg",Radio RTÉ News Now
+http://www.rte.ie/news/player_newsnow.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rosfm-946-583528-logo.jpg",Radio RosFM 94.6
+http://rosfm.ie/stream.htm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/true-80s-radio-589907-logo.jpg",True 80s Radio
+http://50.97.94.44:8800/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rcb-west-clare-590154-logo.jpg",Radio RCB West  Clare
+http://37.187.90.121:3074/stream%26lang=en
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/west-dublin-access-radio-590223-logo.jpg",West Dublin Access Radio
+http://85.25.106.172:80/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/allgoldie-591320-logo.jpg",Radio allgold.ie
+http://stn2.streamthenet.com:8060/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eirewave-593695-logo.jpg",Radio Eirewave
+http://eirewave.ice.infomaniak.ch/eirewave-128.mp3
+#EXTINF:-1 tv-logo="",Murphys Irish Pub Radio
+http://www.greenalligatormg.com/MurphysLawRadio.html
+#EXTINF:-1 tv-logo="",Radio Belfield FM
+http://flashhost.heanet.ie/ucdfm/live.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/strabane-radio-603667-logo.jpg",Strabane Radio
+http://s7.voscast.com:7460/;
+#EXTINF:-1 tv-logo="",Radio I Live
+http://s8.voscast.com:8868/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/charityradio-604980-logo.jpg",CharityRadio
+http://37.59.28.208:8974/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pinoy-radio-ireland-606453-logo.jpg",PINOY RADIO IRELAND
+http://206.72.194.250:9990/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/walk-in-my-shoes-radio-607286-logo.jpg",Walk In My Shoes Radio
+http://149.255.59.3:8037/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/opentempofm-plus-607349-logo.jpg",Radio OpenTempoFM Plus
+http://www.opentempofm.com/PopupPlayerPlus.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-tara-easy-listening-oldies-607933-logo.jpg",Radio TARA (Easy Listening Oldies)
+http://185.2.138.236:8045/;
+#EXTINF:-1 tv-logo="",South West Radio
+http://81.24.248.50:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oymradiocom-608453-logo.jpg",OYMRADIO.COM
+http://37.187.79.153:5624/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/redrock-country-radio-608773-logo.jpg",Redrock Country Radio
+http://78.129.193.82:12469/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/juice-fm-cork-609373-logo.jpg",Radio Juice FM Cork
+http://87.38.125.8:8001/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/together-fm-613425-logo.jpg",Radio Together FM
+http://andromeda.shoutcast.st:8216/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/udmi-radio-614760-logo.jpg",U.D.M.I Radio
+http://142.4.215.64:8008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/project-castlebar-online-radio-615177-logo.jpg",Project Castlebar Online Radio
+http://s3.myradiostream.com:14730/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-rock-radio-the-rock-616867-logo.jpg",Classic Rock Radio - The ROCK
+http://31.14.40.241:9742/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/yag1025fm-619230-logo.jpg",Radio YAG102.5FM
+http://216.55.131.213:9974/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rince-radio-619612-logo.jpg",RINCE RADIO
+http://rince.bitcast.eu:8000/rince
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/i96ie-621539-logo.jpg",Radio i96.ie
+http://centauri.shoutca.st:8086/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/thirty-three-45-622191-logo.jpg",Radio Thirty Three 45
+http://thirtythree-45.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/old-time-radio-jazz-626012-logo.jpg",Old Time Radio Jazz
+http://epsilon.shoutca.st:8701/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/west-limerick-102fm-629842-logo.jpg",Radio West Limerick 102FM
+http://s29.myradiostream.com:17796/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pl-630088-logo.jpg",Radio PL
+http://84.39.234.117:8000/plradio320low
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/swdcr-south-west-donegal-community-radio-631180-logo.jpg",SWDCR - South West Donegal Community Radio
+http://51.171.129.238:8000/swdcr
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/energy-80s-631196-logo.jpg",Radio Energy 80s
+http://158.69.227.214:8063/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/westport-community-radio-633070-logo.jpg",Westport Community Radio
+http://westportradio.duckdns.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-knob-634833-logo.jpg",Radio The Knob
+http://s42.myradiostream.com:30208/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/red-cherry-love-636075-logo.jpg",Radio Red Cherry Love
+http://s45.myradiostream.com:8156/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/logic-radio-636730-logo.jpg",Logic Radio
+http://38.107.242.151:8080/live
+#EXTINF:-1 tv-logo="",Radio Zodiac FM - Dublin
+http://147.135.184.151:9516/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/country-mix-642258-logo.jpg",Radio Country Mix
+http://178.32.62.172:8087/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/slice-audio-642786-logo.jpg",Radio Slice Audio
+http://62.210.10.4:8490/sid=1
+#EXTINF:-1 tv-logo="",Radio CAU FM
+http://s4.myradiostream.com:4874/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sunshine-at-christmas-646990-logo.jpg",Radio Sunshine at Christmas
+http://sirius.shoutca.st:8323/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shining-bright-radio-647239-logo.jpg",Shining Bright Radio
+http://samcloud.spacial.com/api/listen/?sid=92700u0026method=sc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/world-rugby-radio-espanyol-649648-logo.jpg",World Rugby Radio Espanyol
+https://stream.rcs.revma.com/nnfv5a2bseruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/world-rugby-radio-japanese-649649-logo.jpg",World Rugby Radio Japanese
+https://d7o8dbg4qjjd7.cloudfront.net/out/v1/4a32ad6ea625468d949dc1431f6c78c3/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-1music-logo.jpg",Radio 1MUSIC
+https://s3.radio.co/s6f635e29f/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-christmas-fm-uk-logo.jpg",Radio Christmas FM UK
+http://streamdb8web.securenetsystems.net/ce/XMASUK2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-hope-radio-ireland-logo.jpg",Hope Radio Ireland
+https://cast3.asurahosting.com/proxy/alg/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-98fm-unwind-logo.jpg",Radio 98FM Unwind
+https://edge.audioxi.com/98UNWIND
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-dream-radio-logo.jpg",Dream Radio
+http://178.32.62.154:8024/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/harmony-589060-logo.jpg",Radio Harmony
+http://173.208.177.90:13410/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-cruize-radio-online-logo.jpg",Cruize Radio Online
+http://centauri.shoutca.st:8965/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-kiss-love-canada-logo.jpg",Radio KISS Love (Canada)
+http://cast1.torontocast.com:1120/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-ignoreradio-shoegaze-logo.jpg",Ignoreradio Shoegaze
+https://uk7.internet-radio.com/proxy/ignoreland?mp=/stream;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gem-radio-new-wave-592836-logo.jpg",Gem Radio New Wave
+https://gemradionw.radioca.st/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-mpb-radio-2-logo.jpg",MPB Radio 2
+https://radiozender.mpbnetwerken.nl/radio2.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-radio-auri-logo.jpg",Radio Радіо АУРІ
+https://globalic.stream:1400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-chathair-bhaile-atha-cliath-logo.jpg",Radio chathair Bhaile Atha Cliath
+https://stream1.svrdedicado.org:7152/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-favor-radio-ireland-logo.jpg",Favor Radio (Ireland)
+https://a10.asurahosting.com:7660/ireland.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-mpb-radio-2-90s-and-00s-logo.jpg",MPB Radio 2 90s and 00s
+https://radiozender.mpbnetwerken.nl/radio2-90s00s.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ie-cornerstone-tamil-fm-logo.jpg",Radio Cornerstone Tamil FM
+https://c23.radioboss.fm:8108/cornerstone
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/loveradioie-180073-logo.jpg",LoveRadio.ie
+http://31.14.40.241:9724/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/world-rugby-radio-deutsch-649650-logo.jpg",World Rugby Radio Deutsch
+https://d19j3ds9chl1bb.cloudfront.net/out/v1/07ab23fa3c814b6092e9c0eac9e7a4ab/index.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kiss-fm-ireland-185761-logo.jpg",Radio KISS FM Ireland
+http://agnes.torontocast.com:8124/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/news-talk-569441-logo.jpg",Radio News Talk
+http://stream.audioxi.com/NT
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/limerick-city-community-radio-lccr-594988-logo.jpg",Limerick City Community Radio (LCCR)
+http://abacus.hostingenergy.com:7016/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/liveireland-631282-logo.jpg",Radio liveIreland
+http://192.111.140.11:8058/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/deep-house-radio-dhr-604947-logo.jpg",Deep House Radio (DHR)
+http://37.187.93.104:8589/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-house-and-techno-on-mixliveie-601969-logo.jpg",Radio Classic House & Techno on MixLive.ie
+http://mixlive.ie:9664/;house
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/todayfm-158282-logo.jpg",Radio TodayFM
+http://streaming.todayfm.com:8000/;
+#EXTINF:-1 tv-logo="",Radio Storm 106
+http://80.249.249.246:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/i102-104-158464-logo.jpg",Radio i102-104
+http://208.92.52.76:443/iradioaaccmp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/abc-eighties-dublin-154789-logo.jpg",Radio ABC Eighties Dublin
+http://173.244.194.212:8067/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fluidmusic-chart-hits-158676-logo.jpg",Radio FluidMusic - Chart Hits
+http://68.68.28.167:5009
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kclr-carlow-154815-logo.jpg",Radio KCLR Carlow
+http://ghost.wavestreamer.com:4858/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eventmusicie-159000-logo.jpg",Radio Eventmusic.ie
+http://lush.wavestreamer.com:3259/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rustyradio-602547-logo.jpg",Rustyradio
+http://eu4.fastcast4u.com:5372/;
+#EXTINF:-1 tv-logo="",Dundalk Amateur Radio
+http://80.249.246.58:8000/;
+#EXTINF:-1 tv-logo="",Radio LiveIreland 2
+http://208.53.131.29:8480/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/punjabi-radio-ireland-air-156458-logo.jpg",Punjabi Radio Ireland On Air
+http://184.154.125.18:8417/;
+#EXTINF:-1 tv-logo="",Radio KISS Trance (Dublin)
+http://173.244.194.212:8012/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/phantom-1052-154257-logo.jpg",Radio Phantom 105.2
+http://phantom128.media.vistatec.ie:80/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zava-radio-165042-logo.jpg",Zava Radio
+http://173.236.28.138:8305
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/onesky-radio-156621-logo.jpg",OneSky Radio
+http://184.82.19.16:8200/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vkrs-radio-176077-logo.jpg",VKRS Radio
+http://ca9.rcast.net:8052/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/triplag-webradio-dark-psy-175999-logo.jpg",Triplag Webradio - Dark Psy
+http://81.176.237.219:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/inferno-radio-176492-logo.jpg",Inferno Radio
+http://67.212.179.130:8100/;
+#EXTINF:-1 tv-logo="",Radio Dundalk EI2MOG
+http://80.249.244.74:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dublin-city-179740-logo.jpg",Radio Dublin City
+http://80.93.5.126:8081/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lucan-lounge-studios-179416-logo.jpg",Radio Lucan Lounge Studios
+http://lucanloungestudios.zapto.org:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/athr-all-hitz-radio-160145-logo.jpg",ATHR - All The Hitz Radio
+http://174.37.159.206:8026
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pulsefm-ireland-180306-logo.jpg",Radio PulseFM Ireland
+http://66.90.103.144:8912/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/all-irish-radio-new-music-180317-logo.jpg",All Irish Radio - New Music
+http://188.138.16.143:8130/;stream.nsv
+#EXTINF:-1 tv-logo="",Radio Dance Mix Dublin (D.M.D.)
+http://173.244.194.212:8069/;
+#EXTINF:-1 tv-logo="",Radio Freedom 92Fm
+http://178.250.112.178:8092/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm-104-182526-logo.jpg",Radio FM 104
+http://fm104-64.media.vistatec.ie
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tonik-radio-ireland-182341-logo.jpg",Tonik Radio Ireland
+http://shoutcast.internet-radio.org.uk:10523/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/freedom-93fm-182429-logo.jpg",Radio Freedom 93fm
+http://174.37.194.139:8400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sunshine-birdsong-184176-logo.jpg",Radio Sunshine Birdsong
+http://78.129.159.111:8042/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/beatbox-ireland-184011-logo.jpg",Radio The BeatBox -IRELAND
+http://69.64.92.79:8271
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/abc-60s-dublin-184753-logo.jpg",Radio ABC 60s Dublin
+http://173.192.22.204:8050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/near-fm-903-161278-logo.jpg",Radio Near Fm 90.3
+http://178.250.112.178:89/
+#EXTINF:-1 tv-logo="",Radio Dublins ABC (mobile)
+http://cp.internet-radio.org.uk:15476/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/live-ireland-channel-2-183571-logo.jpg",Radio Live Ireland Channel 2
+http://www.liveireland.com/ch2high.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/live-ireland-channel-1-155454-logo.jpg",Radio Live Ireland Channel 1
+http://66.90.73.250:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/easy-radio-184468-logo.jpg",Easy Radio
+http://radio.sritis.lt:8002/
+#EXTINF:-1 tv-logo="",Radio ABC Seventies Dublin
+http://173.192.22.204:8102/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/scr-jet-fm-172396-logo.jpg",Radio SCR: Jet FM
+http://stream.algorhythmradio.net:8000/public
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/abc-dublin-94fm-169410-logo.jpg",Radio ABC Dublin 94FM
+http://173.244.194.212:8049/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/trancepulse-fm-dublin-169442-logo.jpg",Radio TrancePulse FM Dublin
+http://173.192.48.97:8386/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tcr-radio-185308-logo.jpg",TCR Radio
+http://83.170.104.183:10656/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/claremorris-community-radio-577435-logo.jpg",Claremorris Community Radio
+http://s2.radio.co/sddd96b52a/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/province-5-tv-580672-logo.jpg",Radio Province 5 TV
+http://www.p5tv.com/livetv.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oxegen-radio-185801-logo.jpg",Oxegen Radio
+http://89.238.166.245/9228/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/z103-584750-logo.jpg",Radio Z103
+http://stream2.radiokerry.ie:8050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wkd-radio-186382-logo.jpg",WKD RADIO
+http://groove.wavestreamer.com:5623/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zone-161740-logo.jpg",Radio The Zone
+http://50.7.242.114:7512/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gcr-digital-radio-greystones-587726-logo.jpg",GCR digital Radio, Greystones
+http://5.63.151.52:7044/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jaffafm-588315-logo.jpg",Radio JaffaFM
+http://176.61.107.187:8000/;
+#EXTINF:-1 tv-logo="",Radio Sunshine Swing
+http://digitalradionetworks.com:8006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/8radio-589138-logo.jpg",8Radio
+http://ca.rcast.net:8012/;

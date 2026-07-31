@@ -3025,8 +3025,6 @@ http://radiostreamthree.mine.nu:18020
 http://http-live.sr.se/p4dalarna-aac-96
 #EXTINF:-1,Radio Bohuslän 106.2
 http://radio.itconnect.se/rb2.m3u
-#EXTINF:-1,P2 Världen
-/urlParser?l=http%3A%2F%2Fsverigesradio.se%2Ftopsy%2Fdirekt%2F2619-aac.pls
 #EXTINF:-1,Sveriges Radio P4 Kalmar
 http://http-live.sr.se/p4kalmar-aac-96
 #EXTINF:-1,Partystation - Sverige
@@ -3055,8 +3053,6 @@ http://tx-bauerse.sharp-stream.com/http_live.php?i=rockklassiker_instream_se_mp3
 http://http-live.sr.se/p4vast-aac-96
 #EXTINF:-1,HITCITY
 http://http-live.sr.se/p4stockholm-aac-96
-#EXTINF:-1,Dansbandskanalen 102.6
-/urlParser?l=http%3A%2F%2Fwww.guldkanalen.se%2Fstatic%2FstreamDBK%2F96AAC.pls
 #EXTINF:-1,Stockholm Närradio 95.3
 http://radiostreamtwo.mine.nu:18010
 #EXTINF:-1,Sveriges Radio P3
@@ -3375,34 +3371,20 @@ http://stream.euroradio.se:9000/
 http://174.36.232.227:8008/stream
 #EXTINF:-1,oheneba radio
 http://s35.myradiostream.com:33068/live
-#EXTINF:-1,RB Dance
-https:/http:/b.enson.sehttp:/b3
-#EXTINF:-1,SR P2 Språk och musik
-http:/http:/adio.tabyenskilda.se:8050/;
-#EXTINF:-1,Radio Lidingo
-http:/http:/adio-lidiingo.duckdns.org:18000/;
-#EXTINF:-1,Studentradion - Stockholm University
-http:/http:/adiostreamone.mine.nu:8010/;
 #EXTINF:-1,Radio Bubb La
 http://85.17.122.32:8013/;
-#EXTINF:-1,Roslagen Live DJ
-https:/http:/adio.daemon.nuhttp:/adio/8030http:/adio02
 #EXTINF:-1,Radio Trollhattan
 http://lyssna.fnf.nu:8080http:/adiotrollhattan.mp3
 #EXTINF:-1,Senior
 https://cors-proxy.elfsight.com/http://nap.casthost.net:8626/;
 #EXTINF:-1,Radio Yalla
 https://listen.radioking.comhttp:/adio/540410/stream/599099
-#EXTINF:-1,Järva-Västerorts Närradioförening
-http:/http:/adiostreamtwo.mine.nu:9058/;
 #EXTINF:-1,Sverige Kanalen Lyssna 8
 http://freeuk24.listen2myradio.com:3739/;stream.nsv
 #EXTINF:-1,Clubalicious
 https://listen.radioking.comhttp:/adio/319832/stream/524243
 #EXTINF:-1,Pop &amp; Rock
 https://whsh4u-clients.com/proxy/ndhfnbqx?mp=/stream
-#EXTINF:-1,A &amp; J
-http:/http:/adio.bodensradio.se:8000/stream.ogg
 #EXTINF:-1,Popradio Stockholm
 http://streaming.radionomy.com:80/JamendoLounge
 #EXTINF:-1,Stockholm Närradio FM 101.1
@@ -3459,3 +3441,1631 @@ https://s2.free-shoutcast.com/stream/18092
 https://stream.zeno.fm/gass9n5th2rtv
 #EXTINF:-1,Mix Music Radio
 https://s4.radio.co:80/s32835e59d/listen
+#EXTINF:-1,Furry.FM
+https://listen.radionomy.com/popandrockmusicradio
+#EXTINF:-1,BollywoodBio LIVE! 
+https://securestreams2.autopo.st:1061/stream/1/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132727.v3.png",iptn live 
+https://stream2.svrdedicado.org:7252/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/117500.v7.png",Radio Los Andes Gotemburgo 
+http://streaming.xtservers.com:8006/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/120930.v4.png",Sverigekanalen Mediacast 1 
+http://176.227.215.27:35022/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/49340.v5.png",KN RADIO 
+http://46.105.124.120:8004/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/112050.v3.png",Sverigekanalen Mediacast 2 
+http://82.145.41.50:32472/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131994.v2.png",Iranzamin 
+https://stream.radiojar.com/rhrpk4s474uvv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/113937.v1.png",Sverigekanalen Lyssna 4 
+http://78.129.252.13:32591/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/49273.v2.png",Hallsta Sura Narradio 
+https://s16.myradiostream.com/:6630/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/129359.v3.png",Popradio Stockholm 
+https://popradiostream.se/streamIn
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131849.v6.png",Julradio 
+https://relay.julradio.se/julradio
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/21909.v7.png",Radio Ayeneh 
+http://83.250.49.43/&amptype=mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128460.v5.png",Oldschoolgames 
+https://s6.ssl-stream.com/listen/neradio-wake-up/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/49357.v9.png",Sverige Kanalen Lyssna 8 
+http://78.129.241.110:4281/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/49208.v4.png",RadioHits 
+https://stream4.rcast.net/71184
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/49235.v1.png",HIT FM Gold 
+http://gold24.xnk.nu:8080/469928443008656
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/49232.v1.png",Vikingarock Radio 
+http://radio.vikingarock.se:8000/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/49064.v2.png",Nonstop Casiopea 
+http://hyades.shoutca.st:8551/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/49265.v4.png",Radio MNF 
+https://radio.fnf.nu/gnf102.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/22613.v2.png",Slay Radio 
+http://relay2.slayradio.org:8100/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AKKW24.png",Alcantara Radio
+https://freeuk25.listen2myradio.com/live.mp3?typeportmount=s2_35460_stream_799629498
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3Y7S0K.png",AssyrianMP3 Radio
+http://assyrianmp3.com:9998/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2774EU.png",Bananradion
+https://lyssna.bananradion.se/lyssna
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CB30O7.png",Bandit Metal
+https://wr03-ice.stream.khz.se/wr03_mp3?listenerid=fb5efc862dffd348a68b29f7f7e4b835&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1559475379
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/99PICO.png",Bandit Rock
+https://wr03-ice.stream.khz.se/wr03_mp3?listenerid=fb5efc862dffd348a68b29f7f7e4b835&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1559475661
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6I8FW6.png",BozRadio
+https://ais-edge09-live365-dal02.cdnstream.com/a80252?DIST=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0GCY7N.png",BPM Malmö
+https://n05.radiojar.com/bbhah441b6quv.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Q51REC.png",Country Classics
+https://wr14-ice.stream.khz.se/wr14_mp3?listenerid=fb5efc862dffd348a68b29f7f7e4b835&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1560112783
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CO8WY.png",Dagnys Jukebox
+http://streaming2.nordblommedia.se:443/dagny.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7PK64P.png",Dansbandsfavoriter
+https://wr15-ice.stream.khz.se/wr15_mp3?listenerid=fb5efc862dffd348a68b29f7f7e4b835&awparams=companionAds%3Atrue&platform=web
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NUZMBT.png",Disciples Radio 
+http://s5.voscast.com:10032/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8M6GBE.png",DistFM - 100% ROCK!
+http://185.80.220.12/proxy/distfmsam128?mp=/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MJAND0.png",Electro Lounge
+https://wr16-ice.stream.khz.se/wr16_mp3?listenerid=fb5efc862dffd348a68b29f7f7e4b835&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1560330108
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D2EQAL.png",FatKat Radio
+https://stream.radio.co/s83dd10e53/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5HD1LF.png",Fun Radio 95.3
+http://stream.funradio.se:81/live192?auth=2570004543-5107-eu615e98-cb481eab9ffd9aa09a6af53e90ee1f57
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Q0V9YV.png",GNF 100.2
+http://stream2.100komma7.lu/100komma7/live/mp3/320/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6S1290.png",GO FM - Radio Göteborg
+http://gofm.zapto.org:8030/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",GTVoice
+https://sverigesradio.se/topsy/direkt/tunein/211-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9ZBATI.png",Guldkanalen 60-tal
+http://stream.dbmedia.se/gk60talMP3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V5JCP0.png",Guldkanalen 70-tal
+http://stream.dbmedia.se/gk70talMP3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DV7L4A.png",Guldkanalen 80-tal
+http://stream.dbmedia.se/gk80talMP3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/E5QUEC.png",Guldkanalen 80-tal
+http://stream.dbmedia.se/gk80tal64
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/J5ACIN.png",Guldkanalen 90-tal
+http://stream.dbmedia.se/gk90tal64
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VN0QXX.png",Guldkanalen 90-tal
+http://stream.dbmedia.se/gk90talMP3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7OL88W.png",Halmstad Närradio
+http://81.233.31.238:8000/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0G9VI4.png",Höganäs Närradio 104.9
+http://server.pmradio.se:10000/stream.r97e
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RJ0KJF.png",Höganäs Närradio
+http://us.pmradio.se:10000/high
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8SVXFR.png",Kanon FM 98,6
+https://85.229.150.185:8000/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AAIH7Y.png",Kingdom Life Radio
+http://equinox.shoutca.st:8347/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8G5QI6.png",Kungsbacka Närradioförening 95.2
+http://212.73.175.58:8010/stream.204r
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UOZVOV.png",New Fresh Music
+https://a2.asurahosting.com:6180/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0814E0.png",Örebro Närradio
+https://sverigesradio.se/topsy/direkt/tunein/216-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OJW9R2.png",P4 Kronoberg
+https://http-live.sr.se/p4kronoberg-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XYEIK.png",P4 Norrbotten
+https://http-live.sr.se/p4norrbotten-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZUNCC7.png",P4 Örebro
+https://http-live.sr.se/p4orebro-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/T986XZ.png",P4 Sjuhärad
+https://http-live.sr.se/p4sjuharad-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0UHEQF.png",P4 Skaraborg
+https://http-live.sr.se/p4skaraborg-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZW1C9S.png",P4 Uppland
+https://http-live.sr.se/p4uppland-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7RSIK.png",P4 Värmland
+https://http-live.sr.se/p4varmland-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3P98V1.png",P4 Västerbotten
+https://sverigesradio.se/topsy/direkt/tunein/215-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9XRFNZ.png",P4 Västerbotten
+https://http-live.sr.se/p4vasterbotten-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/N03RVE.png",P4 Västmanland
+https://http-live.sr.se/p4vastmanland-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PSO7R8.png",P4 Väst
+https://http-live.sr.se/p4vast-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NC25H9.png",Pulsefm.se
+http://quasar.shoutca.st:8092/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Radio 45
+http://streaming.ddns.net:443/amal.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4WVZSF.png",Radio AF
+http://live.radioaf.se:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ESQ2S3.png",Radioapans knattekanal
+https://sverigesradio.se/topsy/direkt/tunein/2755-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YF65BJ.png",Radioapans knattekanal
+https://http-live.sr.se/knattekanalen-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WXJ53J.png",Radio Bahía Suecia
+https://radioserver.es/radio/8020/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0BTK1Y.png",Radio Bergslagen
+https://lyssna.radiobergslagen.se:8443/listen/rbsg/radio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DEJ5EN.png",Radio Boden 98.2 FM
+http://radio.bodensradio.se:8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/12ZG6F.png",RadioBullen
+https://s3.radio.co/s4e00bd88d/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Radio Cordillera
+https://jazz-wr09.ice.infomaniak.ch/jazz-wr09-128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/U2C3P.png",Radio Cordillera
+http://68.235.35.243:9059/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QA3W63.png",Radio Ellada
+https://solid55.streamupsolutions.com/proxy/bbraxgjr?mp=/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DNBT01.png",Radio Eskilstuna 92.7
+http://83.233.8.177:8000/stream.ogg
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/M1MX1G.png",RadioFisus
+https://www.radioking.com/play/radiofisus/159550
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0FVW.png",Radio Gbg Laganini
+http://62.210.188.38:8050/relay3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZSQOY.png",Radio Gbg Narodna
+http://62.210.188.38:8050/relay2
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/W01ATW.png",Radio Gbg Sevdah
+http://62.210.188.38:8050/relay4
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UYNUG.png",Radio Mariestad
+https://sverigesradio.se/topsy/direkt/tunein/223-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/44H6YS.png",Radio Melody 97.3
+http://radio2.darub.se/melody.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7SMXNQ.png",Radio M Göteborg
+http://69.175.94.98:8359/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NROR14.png",Radio Narmak
+https://streaming.live365.com/a99375
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/18U568.png",Radio Öckerö
+http://www.radioockero.se/sites/arkiv/ockero_20200107_0815.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BS8D1U.png",Radioparty sweden
+https://stream.zeno.fm/zz0amfhxftzuv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/I6TEQK.png",Radio Pasion Latina
+https://sonic-us.streaming-chile.com:7025/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PLC76M.png",Radio Record
+http://streaming.ddns.net:443/radiorecord.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2JNRX.png",Radio Shkelzeni
+https://www.radioking.com/play/radio-shkelzeni
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6P44CP.png",Radio Siljan
+http://stream.radiosiljan.com:8000/siljan?type=http&nocache=255648
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A72VKN.png",RADIO STLHM
+https://www.radioking.com/play/radio-sthlm1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1LDH1.png",Radio Treby 101,6
+http://stream1.bogalnet.se:443/tidaholm.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/P8JBFA.png",Radio Trelleborg
+http://stream.nsp.se:8000/RaTbg_MP3_Lo
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/N0H6EE.png",Rocket 95.3 FM
+http://stream.thsradio.se:8000/rocket_hi.mp3.m3u
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1CK8UO.png",RS Sandviken 89.9
+http://rssand.se:4027/stream.jcqn
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Y2FPM.png",SceneSat Radio
+http://oscar.scenesat.com:8000/scenesatmax
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3YDXBE.png",SR Extra 1
+https://http-live.sr.se/srextra01-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CUBUL3.png",SR Extra 6
+https://http-live.sr.se/srextra06-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6KNEPS.png",SR P6 R Sweden
+https://sverigesradio.se/topsy/direkt/tunein/166-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VVTPHM.png",SR Sapmi
+https://sverigesradio.se/topsy/direkt/tunein/224-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WG0JN8.png",SR Sisuradio
+https://sverigesradio.se/topsy/direkt/tunein/226-hi.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2PQ4OI.png",Star 90's
+https://wr12-ice.stream.khz.se/wr12_mp3?listenerid=4d3c5b7e7a5c263b83996fff8172a462ad9f9ba3c59f095ea5f13783d107cc3&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.ske
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DRQKEB.png",Strul FM
+https://stream.streamaudio.de:8000/strul-fm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/36CCE.png",Studentradio 98.9
+https://130.238.166.180:8004/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/138XNZ.png",Svensk Pop
+http://tx-bauerse.sharp-stream.com/http_live.php?i=svenskpop_se_mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1CLCOS.png",Sveriges Radio P4 Plus
+https://http-live.sr.se/srextra17-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/419VWR.png",Sveriges Radio Sápmi
+https://http-live.sr.se/srsapmi-mp3-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6O11HM.png",Sweden Tamils FM
+https://www.radioking.com/play/sweden-tamils-fm/404626
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",The Beat
+http://listen.thebeat.se:8154/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Z54BI.png",Vaxjo Community Radio
+https://sverigesradio.se/topsy/direkt/tunein/701-hi.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44680/logo_WlNS9H31BR.png",Northern Metal Radio
+https://dc5.serverse.com/proxy/lvzgnvcj/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44497/logo_PG6MbD99qV.png",Bandit Ballads Radio
+https://wr21-ice.stream.khz.se/wr21_mp3?platform=web
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44532/logo_rsr8NepoDH.png",Star 70&#x27;s Radio
+https://wr10-ice.stream.khz.se/wr10_mp3?platform=web
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44639/logo_f3BYfFUEw7.png",Psy Radio - Chillout
+http://host.psyradio.fm:8020/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44471/logo_bGXd1X0g52.png",Guldkanalen 80-tal Radio
+https://stream.dbmedia.se/gk80talMP3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44578/logo_wCY6yZ5XYL.png",Power Club Radio
+https://wr06-ice.stream.khz.se/wr06_mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44536/logo_2MzlbqdwaM.png",Star 80&#x27;s Radio
+https://wr02-ice.stream.khz.se/wr02_mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44644/logo_DRAqh60GCS.png",RadioHits
+https://stream.rcast.net/71184
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44571/logo_NbUQHYlurY.png",KanonFM 98.6 Radio
+http://kanonnens.ddns.net:8000/listen
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44655/logo_T1eEMzIVDl.png",Nonstop Casiopea Radio
+http://hyades.shoutca.st:8551/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44607/logo_IeV7LY9uD6.png",Best Music Ever Radio
+https://s47.myradiostream.com:12196/listen.m4a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44525/logo_RzLPq3o4yQ.png",MIX MUSIC RADIO
+https://mars.streamerr.co/8074/mixmusicradiosweden
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44483/logo_SXIbLv9bXA.png",Guldkanalen 70-tal Radio
+https://stream.dbmedia.se/gk70talMP3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44675/logo_S64O5b56Xe.png",HitNet Radio
+https://carol.epichosts.co.uk:8592/live256
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44596/logo_nqmzvEZnox.png",Rix FM Fresh Radio
+https://wr04-ice.stream.khz.se/wr04_mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44474/logo_CToSJhrkHD.png",Dansbandskanalen Julmusik Radio
+https://stream.dbmedia.se/dbkjulMP3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44602/logo_q8qi8kNxuZ.png",Radio Nacka
+https://s4.ssl-stream.com/radio/7900/radionacka
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44567/logo_R9TK8cNn0r.png",PWR Street Radio
+https://wr07-ice.stream.khz.se/wr07_mp3?platform=web
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44559/logo_J7AB8FiloG.png",P4 Gävleborg Radio
+https://http-live.sr.se/p4gavleborg-aac-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44558/logo_jyY8iRX3CI.png",SR P3 Din Gata Radio
+https://http-live.sr.se/dingata-mp3-64
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44685/logo_LJTlWGzlSq.png",NRJ Fresh Radio
+https://live-bauerse-fm.sharp-stream.com/nrjfresh_web_se_aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44615/logo_jE7N2wT0jE.png",P4 Uppland Radio
+https://http-live.sr.se/p4uppland-aac-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44612/logo_wyCsXtBjWl.png",HITCITY Radio
+https://stream.hitcity.se/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44543/logo_QondC1bOTY.png",Guldkanalen 60-tal Radio
+https://stream.dbmedia.se/gk60talMP3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44594/logo_O3dZIBSI4V.png",DistFM Radio
+https://ams1.reliastream.com/proxy/distfmsam192?mp=/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44531/logo_12biWcKWPh.png",Radio en Vivo Suecia
+https://stream.miradio.in/proxy/susana/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44557/logo_gKJif4ignr.png",P4 Värmland Radio
+https://live-cdn.sr.se/pool1/p4varmland/p4varmland.isml/p4varmland.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44537/logo_xeYTZASOiS.png",Radio Shalom
+http://radiostreamone.mine.nu:18010/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44661/logo_DZmzjb3lMO.png",Psy Radio - Progressive
+http://host.psyradio.fm:8010/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44520/logo_nt8Dbkn0D3.png",Sverigekanalen Lyssna 4 Radio
+https://uk6freenew.listen2myradio.com/live.mp3?typeportmount=s1_32591_stream_513954993
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44659/logo_8Rf9QC2goi.png",Country Rocks Radio
+https://stream.dbmedia.se/crrMP3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44513/logo_s83o6WJEIA.png",DJ LOBO RADIO
+http://streaming.xtservers.com:8000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44652/logo_zbZLpFkZtc.png",Radio Bubb La
+https://live.radio.bubb.la/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44507/logo_7Dm7yDBgMe.png",We Rock FM Radio
+https://s2.citrus3.com:8214/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44564/logo_4YwkGYrRNG.png",ROCKSTAR Radio
+https://sstream.ueteknik.se/listen/poporock/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44487/logo_I3veE9xOvo.png",Radio Treby
+https://streaming.943.se/treby915
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44475/logo_u9cw6Ydsv5.png",Guldkanalen 90-tal Radio
+https://stream.dbmedia.se/gk90talMP3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44494/logo_3DX5C50uN9.png",Radio Treby
+https://streaming.943.se/treby958
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44498/logo_LJE2dFk4Xp.png",Radio Treby
+https://streaming.943.se/treby1016
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44538/logo_wDcTWcNWuR.png",Star 90&#x27;s Radio
+https://wr12-ice.stream.khz.se/wr12_mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44528/logo_73Ix326FQz.png",Scandinavian Albania Radio
+https://streaming.shoutcast.com/skandinavian-albania-radio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44479/logo_a7jWKcaDPO.png",P4 Malmöhus Radio
+https://http-live.sr.se/p3-mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44614/logo_V7BG1W6RIV.png",Stockholm Närradio
+http://live.narradio.se:8030/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44516/logo_fCFVP7g7ZU.png",Sverigekanalen 5D Radio
+https://uk21freenew.listen2myradio.com/live.mp3?typeportmount=s1_13252_stream_445467666
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44495/logo_PM6SvCFHXK.png",Radio Treby
+https://streaming.943.se/treby1014
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44670/logo_pWSplINkE6.png",Ljungbykanalen Radio
+https://lyssna.ljungbykanalen.se/lkssl
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44527/logo_HheKzAvtxG.png",iptn live Radio
+https://stream2.svrdedicado.org:7252/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44489/logo_qWC4HcPLmd.png",Radio Treby
+https://streaming.943.se/treby924
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44678/logo_PsKxRv7lE0.png",ICPRM RADIO Sweden
+http://stream.zenolive.com/kybydz65sfeuv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44560/logo_PpBRN5ohXB.png",Radioapans knattekanal
+https://http-live.sr.se/knattekanalen-aac-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44662/logo_quCjZRVZrX.png",RB Dance Radio
+https://rb.enson.se/rb3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44488/logo_yrfdgCYlXD.png",Radio Treby
+https://streaming.943.se/treby970
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44570/logo_z6Wf2b6Uuu.png",P4 Sjuhärad Radio
+https://http-live.sr.se/p4sjuharad-aac-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44510/logo_wODX0rWTWl.png",Sverigekanalen 4D Radio
+https://uk20freenew.listen2myradio.com/live.mp3?typeportmount=s1_11138_stream_88908544
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44681/logo_kUgdOXh59u.png",P4 Västmanland Radio
+https://live-cdn.sr.se/pool3/p4vastmanland/p4vastmanland.isml/p4vastmanland.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44599/logo_ey4K1DsA0w.png",Järva-Västerorts Närradioförening
+http://radiostreamtwo.mine.nu:9058/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44640/logo_xdCsVkpw9j.png",Radio 45
+https://streaming.943.se/radio45
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44566/logo_lVVHfvpI9L.png",P4 Blekinge Radio
+https://http-live.sr.se/p4blekinge-mp3-64
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44600/logo_Ru7vV48PNJ.png",P4 Jämtland Radio
+https://http-live.sr.se/p4jamtland-aac-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44530/logo_koz4iikWNp.png",Hitmix 90&#x27;s Radio
+https://wr19-ice.stream.khz.se/wr19_mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44610/logo_WLos77bKaG.png",P4 Halland Radio
+https://http-live.sr.se/p4halland-aac-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44529/logo_KSvd8XL8qy.png",Sverigekanalen Direkt Radio
+https://uk4freenew.listen2myradio.com/live.mp3?typeportmount=s1_26778_stream_466606381
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44503/logo_rb9ug0hEtJ.png",Radio SRF
+https://media-eu.readspeaker.com/cache/60a880cd2029844d40214ae08033713f-1.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44584/logo_W6HjWbc2xI.png",P4 Sörmland Radio
+https://http-live.sr.se/p4sormland-aac-96
+#EXTINF:-1,Sveriges Radio - P1 
+https://live1.sr.se/p1-aac-320
+#EXTINF:-1,Mix Megapol 
+http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=mixmegapol_instream_se_mp3
+#EXTINF:-1,Country Rocks Radio 
+http://stream.dbmedia.se/crr96
+#EXTINF:-1,Sveriges Radio - P3 
+https://live1.sr.se/p3-aac-320
+#EXTINF:-1,106,7 Rockklassiker 
+http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3
+#EXTINF:-1,Retro FM Skåne 
+https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@
+#EXTINF:-1,Sveriges Radio - P4 Plus 
+https://live1.sr.se/p4plus-aac-320
+#EXTINF:-1,Sveriges Radio - P2 
+https://live1.sr.se/p2-aac-320
+#EXTINF:-1,SVT P1 192kps 
+https://live1.sr.se/p1-mp3-96
+#EXTINF:-1,Polushon 
+https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream
+#EXTINF:-1,Stockholm FM 88,0 Sweden 
+http://radiostreamfour.sytes.net:18000/
+#EXTINF:-1,Vinyl FM 
+https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3?
+#EXTINF:-1,Disco 54 
+https://wr15-ice.stream.khz.se/wr15_mp3
+#EXTINF:-1,SceneSat Radio (AAC+ mobile) 
+http://oscar.scenesat.com:8000/scenesatmed
+#EXTINF:-1,Sveriges Radio P1 
+https://live1.sr.se/p1-aac-32
+#EXTINF:-1,RIX FM 106,7 
+https://fm01-ice.stream.khz.se/fm01_mp3
+#EXTINF:-1,Sveriges Radio P2 flac 
+https://edge1.sr.se/p2-flac
+#EXTINF:-1,Sveriges Radio - Ekot sänder direkt 
+https://live1.sr.se/ekotdirekt-aac-320
+#EXTINF:-1,Sveriges Radio - P2 Språk och musik 
+https://live1.sr.se/p2sm-aac-320
+#EXTINF:-1,Sveriges Radio - P3 Din gata 
+https://live1.sr.se/dingata-aac-320
+#EXTINF:-1,Sveriges Radio - P6 
+https://live1.sr.se/p6-aac-320
+#EXTINF:-1,Bandit Ballads 
+https://wr21-ice.stream.khz.se/wr21_aac
+#EXTINF:-1,SLAY Radio [aac] 
+http://relay1.slayradio.org:8300/
+#EXTINF:-1,Bandit Alternative 
+http://wr05-ice.stream.khz.se/wr05_mp3
+#EXTINF:-1,Sveiges Radio - P4 Malmöhus 
+https://sverigesradio.se/topsy/direkt/207-hi.mp3
+#EXTINF:-1,. Al quran radio  
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1,Power Hit Radio 
+https://fm04-ice.stream.khz.se/fm04_mp3
+#EXTINF:-1,NRJ 
+http://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3
+#EXTINF:-1,Sveriges Radio P3 
+https://edge1.sr.se/p3-aac-320
+#EXTINF:-1,Dagnys Jukebox 
+https://stream4.rcast.net/73224
+#EXTINF:-1,Guldkanalen (80-tal) 
+https://stream.dbmedia.se/gk80tal96
+#EXTINF:-1,Gold FM Växjö, Sweden 
+https://live-bauerse-fm.sharp-stream.com/goldfm_web_se_aacp?direct=true&listenerid=undefined&aw_0_1st.bauer_listenerid=undefined&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1678939562&aw_0_1st.bauer_loggedin=false&aw_0_req.userConsentV2=CPot5gAPot5gAAGABCENC7CsAP_AAE_AABJ4IoNF5GdUTXFBOH59YJtwKYxXx1BwoKAhBgAFA4AAyJIELJAGVEEaJAyKACACAAYAIEIBAABAEAFAAAgAYIEBIACEAEEEJAAAIAAAEEABIEQAEAAMAAAAUAIAgEBWEhAggBQA4RJETMBACoABCUAwigkEAAAAAgAAAAAAQAAAAAAAAAAAAAAAAAAAgAQNvgEAAIAJ-AXUA7YB-wF2gNoAbeAoEgVgAIAAXABQAFQAMgAcAA8ACAAGQANIAiACKAEwAJ4AVQA3gBzAD8AISARABEgCOAEsAKUAZAA-AB-wD_AQAAigBGACOAEmAJSAT8AoIBigDaAIdATKAtgBeYDDQGSAMnAbeBEMIAKABIAD8ARQA5wCBgHVATYApsBdQDFg0AgAZABAACMAEmgLQAtIB1QEOgMnDABADZAHUATYApsRAHAGQAQAAjABJgDqgIdAZOIABAAkATYKgDgAUACYAI4AjkBaAFpAWwAvMUACAOqAmwZAFACYAI4AjgC2AF5jAAYB1QEnAJsHQMwAFwAUABUADIAHAAQAAuABkADQAH0ARABFACYAE8AKoAYgAzABvADmAH6ARABEgCWAFGAKUAZAAygBogD9AH-AQMAigBFgCMAEcAJMASkAn4BQYC0ALSAYoA2gB1AEOgJUAVYAtgBdoC8wGGgMkAZOAywBt44AsACQAH4AUAAyACKAEcAOcAdwBAACIgGBAOOAdIA6oCYoEyATKAmwBSACmwFqALqAYsQgNgALAAoABkAFwATAAqgBiADMAG8ARwApQBlAD_AIoARwAlIBQYC0ALSAYoA2gB1AEqAKsAWwAu0Bk4DgCIAEA_ZAAOAOcA6oB2wEnAJiATYApAlAbAAQAAsACgAGQAOABEACYAFUAMQAZoBEAESAI4AUYApQBlAEcgLQAtIBigDqAIdAWwAu0BeYDJwGWANvAcASADgBkAFyAO4AgAB1QE2AMWKQKAAFwAUABUADIAHAAQAAyABpAEQARQAmABPACkAFUAMQAZgA5gB-gEQARIAowBSgDIAGUANEAfoBFgCMAEcAJSAUEA2gCHQEnAKsAWwAu0BeYDDQGSAMnAZYA28qABAP2UAKAAkAB-AGQANoAjgBcgDnAHcAQAAkQBigDqgHbATEAmUBNgCkAFNgMWAakAAA.YAAAAAAAAAAA
+#EXTINF:-1,Sveriges Radion P4 Östergötland 
+https://live1.sr.se/p4ostg-mp3-96
+#EXTINF:-1,Sveriges Radio - SR Extra 1 
+https://http-live.sr.se/srextra01-aac-192
+#EXTINF:-1,Magic Radio 
+http://stream.magicradio.se/magic
+#EXTINF:-1,Radio 88 Partille - Golden Hits 
+https://streaming.943.se/radio88dans
+#EXTINF:-1,Sveriges Radio - P4 Halland 
+https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3
+#EXTINF:-1,Sveriges Radio - P4 Väst 
+https://live1.sr.se/p4vast-mp3-96
+#EXTINF:-1,P4 Östergötland 
+http://http-live.sr.se/p4ostergotland-aac-192?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPSxGf7PSxGf7AcABBENB9CsAP_AAAAAACiQIfhBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAgAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAAAAAAAAAICAAAAAAAAQAAAAkAwAPv____f_7-3_3__5_3---_e_V_99zLv9____39nP___9v-_9___4AAAEgkB4ACoAGQAOAAgABkADSAIgAigBMACeAKUAaoA7wEiAMNAYeAyIBkgDJwGXAM5AZ8A0gBp0DWANZAbrA5EDlQHLgOsAeOA-UIAZAC2AOcBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe6A-QB9gYAOAFsBkYDQgG6AOJAdmA90NAMARUAkQBh4DGAGTgM5AZ4Az4ByQDlAHWAPwEABgAtgNCAboA4kB2YD3REAkBIgDDwGTgM5AZ8A5IBygDrAH4CoBgATAFNgLzAYeAyIBnIDPAGfANyAckA5QB-AoAIA0IBrwDiQH2DIBYATAF5gMPAZEAzkBngDPgHJAOUAfEA_AYADAaEA4kB9g6BeABUADIAHAAQAAyABpAEQARQAmABPAC-AGIAUoA7wCLAF1ARUAkQBhoDDwGJAMYAY8AyQBk4DKgGWAMuAZyAz4BokDSANJAaWA04BqoDWAGxgN1AcXA5IDlQHLgOsAeOA9IB6oD5QH1gPwHAHwAtgDnAHcAQgBiADFgGQgMmAZeA0KBooGjANKAaaA1MBrwDaAG2ANuAcTA48DkAHSAOwAdmA8CB5IHlAPaAe6A-IB9gD8QH7EICwAGQAmABfADEAO8BIgDDwGJAMiAZOAzkBngDPgGiANJAaWA1UBwADkgHWAPHAfgQAIADnAaEA0UBpQDUwG2ANuAcSA6MB2EDyQPKAeiA90B8QD7AH7EoDAAGQAOABEACYAF8AMQApQBqgDvALqAioBIgDDwGRAMnAZYAzkBngDPgGkANYAcAA6wB-BIAUAO4BiwDSgG5AOJAdIA7AB5QD2gH2FIEoAFQAMgAcABAADIAGkARABFACYAE8AKQAXwAxAClAGqAO8AiwCRAGGgMPAYwAyIBkgDJwGXAM5AZ4Az6BpAGkwNYA1kBsYDdYHJgcoA5cB1gDxwHygPwKAFABzgDuALqAxYBkwDRAGlANNgakBqYDXgHBAOJAdgA7MB5QD2gHugPiAfYA_YA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY0MjA5OTA4OSwiaXNzIjoidGlzcnYifQ.lHS2wM3X_1OBMWllZXm4SFuLlvIaF92RC0UI7VYlDfc
+#EXTINF:-1,Sveriges Radio - SR Extra 4 
+https://http-live.sr.se/srextra04-aac-192
+#EXTINF:-1,Sveiges Radio - P4 Kristianstad 
+https://live1.sr.se/p4krist-mp3-96
+#EXTINF:-1,Sveriges Radio - SR Extra 8 
+https://http-live.sr.se/srextra08-aac-192
+#EXTINF:-1,Radio Orinoco 
+https://icecast.radio-orinoco.com/orinoco
+#EXTINF:-1,P4 Kalmar 
+https://live1.sr.se/p4kalm-mp3-96
+#EXTINF:-1,Sveriges Radio - SR Extra 2 
+http://http-live.sr.se/srextra02-aac-192
+#EXTINF:-1,Höganäs Närradio 
+https://deb.patrikmalmgrenrask.se:10443/
+#EXTINF:-1,Sveriges Radio - SR Extra 6 
+https://http-live.sr.se/srextra06-aac-192
+#EXTINF:-1,Roxette 
+https://stream.pcradio.ru/Roxette-hi
+#EXTINF:-1,Dansbandskanalen 
+https://fm09-ice.stream.khz.se/fm09_mp3
+#EXTINF:-1,Best of ericade.radio 
+https://radio.ericade.net/sc/stream/2/
+#EXTINF:-1,P4 Västerbotten 
+https://live1.sr.se/p4vbtn-mp3-96
+#EXTINF:-1,P4 Dalarna 
+http://http-live.sr.se/p4dalarna-aac-192
+#EXTINF:-1,Sveriges Radio - P4 Blekinge 
+https://live1.sr.se/p4blek-mp3-96
+#EXTINF:-1,Sveriges Radio - SR Extra 5 
+https://http-live.sr.se/srextra05-aac-192
+#EXTINF:-1,Sveriges Radio P4 Malmöhus 
+https://live1.sr.se/p4malm-mp3-96
+#EXTINF:-1,Banjalučki Sevdah Radio Šeherčani 
+https://stream-172.zeno.fm/wazhcyi9ak5vv?zs=tApDLixiTGuqRhXqTfctZQ&1709234440014
+#EXTINF:-1,Sveriges Radio - SR Extra 3 
+https://http-live.sr.se/srextra03-aac-192
+#EXTINF:-1,Sveriges Radio - SR Extra 7 
+https://http-live.sr.se/srextra07-aac-192
+#EXTINF:-1,Sveriges Radio - SR Extra 10 
+https://http-live.sr.se/srextra10-aac-192
+#EXTINF:-1,Pop Radio Stockholm 
+http://master.shoutcast.com:8000/popradio-stockholm
+#EXTINF:-1,Redback Radio 
+https://redback.mywire.org/stream.mp3
+#EXTINF:-1,Sveriges Radio - SR Extra 9 
+http://http-live.sr.se/srextra09-aac-192
+#EXTINF:-1,Radio Nostalgi SE 
+https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3
+#EXTINF:-1,P4 Örebro 
+http://http-live.sr.se/p4orebro-aac-192
+#EXTINF:-1,Guldkanalen (90-tal) 
+https://stream.dbmedia.se/gk90tal96
+#EXTINF:-1,P4 Jämtland 
+https://live1.sr.se/p4jmtl-aac-320
+#EXTINF:-1,. Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,SR Din Gata 
+https://http-live.sr.se/dingata-aac-192
+#EXTINF:-1,Radio Faceit FM 
+https://stream.zeno.fm/c6ufpty9w1ctv
+#EXTINF:-1,P4 Västernorrland 
+https://live1.sr.se/p4vnrl-mp3-96
+#EXTINF:-1,Pain 
+https://stream.pcradio.ru/Pain-hi
+#EXTINF:-1,Sveriges Radio P4 Uppland AAC 
+https://http-live.sr.se/p4uppland-aac-192
+#EXTINF:-1,P4 Västmanland 
+https://live1.sr.se/p4vstm-mp3-96
+#EXTINF:-1,Guldkanalen 60-tal 
+https://stream.dbmedia.se/gk60tal96
+#EXTINF:-1,Sveriges Radio P4 Dalarna 
+https://live1.sr.se/p4dala-aac-320
+#EXTINF:-1,REPLAY NEWS - Svenska 
+https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
+#EXTINF:-1,Oldies FM 
+https://stream3.themediasite.co.uk:8030/
+#EXTINF:-1,Sveriges Radio -P4 Stockholm 
+https://live1.sr.se/p4sth-aac-32
+#EXTINF:-1,Av egen Kraft webbradio - Sweden - Sigtuna
+https://stream.zeno.fm/sn7fwexz0f8uv
+#EXTINF:-1,Bananradion - Sweden - Stråssa
+https://lyssna.bananradion.se/lyssna
+#EXTINF:-1,Bandit Classic Rock - Sweden - Stockholm
+https://wr11-ice.stream.khz.se/wr11_mp3
+#EXTINF:-1,Bandit Metal - Sweden - Stockholm
+https://wr03-ice.stream.khz.se/wr03_mp3
+#EXTINF:-1,Bandit Rock FM 101.9 - Sweden - Stockholm
+https://fm02-ice.stream.khz.se/fm02_mp3
+#EXTINF:-1,Clubalicious Radio - Sweden - Järfälla
+https://play.radioking.io/deejay-2
+#EXTINF:-1,Country Rocks Radio - Sweden - Staffanstorp
+https://stream.dbmedia.se/crrMP3
+#EXTINF:-1,Countrykanalen Sweden - Sweden - Tidaholm
+https://eu2.fastcast4u.com/proxy/counrtyk?mp=/;
+#EXTINF:-1,Dagnys musikcafe - Sweden - Uddevalla
+https://ssl-streaming.nordblommedia.se/dagny.mp3
+#EXTINF:-1,Dansbandsfavoriter - Sweden - Stockholm
+https://wr15-ice.stream.khz.se/wr15_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572636723
+#EXTINF:-1,Dansbandskanalen Julmusik - Sweden - Staffanstorp
+https://stream.dbmedia.se/dbkjulMP3?.mp3
+#EXTINF:-1,Go Country FM 107.9 - Sweden - Stockholm
+https://wr14-ice.stream.khz.se/wr14_mp3
+#EXTINF:-1,Guldkanalen - Sweden - Staffanstorp
+https://stream.dbmedia.se/gk96
+#EXTINF:-1,Guldkanalen 60-tal - Sweden - Staffanstorp
+https://stream.dbmedia.se/gk60talMP3
+#EXTINF:-1,Guldkanalen 70-tal - Sweden - Staffanstorp
+https://stream.dbmedia.se/gk70tal96
+#EXTINF:-1,Guldkanalen 80-tal - Sweden - Staffanstorp
+https://stream.dbmedia.se/gk80tal96
+#EXTINF:-1,Hamsafar Radio FM 94.2 - Sweden - Stockholm
+https://stream.radiojar.com/pyea7q9h5ehvv.m4a
+#EXTINF:-1,HitzFM Sommenbygd 97,8FM - Sweden - Tranås
+https://s2.stationplaylist.com:7098/listen.mp3
+#EXTINF:-1,LeonFM - Sweden - Arlöv
+https://leonfmlive.stream.laut.fm/leonfmlive
+#EXTINF:-1,Lite FM - Sweden - Vänersborg
+https://streaming.943.se/litefm
+#EXTINF:-1,lugna favoriter 104.7FM - Sweden - Stockholm
+https://fm03-ice.stream.khz.se/fm03_mp3
+#EXTINF:-1,Oldies FM - Sweden - Gävle
+https://stream3.themediasite.co.uk:8030/stream
+#EXTINF:-1,P4 Värmland FM 103.5 - Sweden - Karlstad
+https://http-live.sr.se/p4varmland-mp3-192
+#EXTINF:-1,P4 Västerbotten - Sweden - Umeå
+https://http-live.sr.se/p4vasterbotten-aac-192
+#EXTINF:-1,P4 Västmanland FM 100.5 - Sweden - Vastmanland
+https://http-live.sr.se/p4vastmanland-mp3-128
+#EXTINF:-1,Pirate Rock - Sweden - Gothenburg
+https://stream.piraterock.se:8100/webradio
+#EXTINF:-1,Power Hit Radio - Sweden - Stockholm
+https://fm04-ice.stream.khz.se/fm04_mp3?listenerid=7104709ca5f8cbd117d1bfb1ae549a42&awparams=companionAds%3Atrue&platform=web&aw_0_1st.playerid=mtgradio-web&aw_0_1st.skey=1572636863
+#EXTINF:-1,Puls FM 104.1 - Sweden - Borås
+https://pulsfm.radioca.st/stream
+#EXTINF:-1,Puls FM 91.9 Varberg - Sweden - Varberg
+https://pulsfmvbg.radioca.st/stream
+#EXTINF:-1,Radio 45 FM 98.1 - Sweden - Åmål
+https://streaming.943.se/radio45
+#EXTINF:-1,Radio Active - Sweden - Ystad
+https://stream.nsp.se/radioactive48
+#EXTINF:-1,Radio AF - Sweden - Lund
+https://stream.rcs.revma.com/e3tha8v4dkhvv
+#EXTINF:-1,Radio Båstad 96.1 FM - Sweden - Båstad
+https://audio-edge-fvq45.ams.d.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac
+#EXTINF:-1,Radio Fryksdalen FM 100.6 - Sweden - Sunne
+https://webradio.radiofryksdalen.se/RF_Live
+#EXTINF:-1,Radio Halmstad FM 88.6 - Sweden - Halmstad
+https://s5.voscast.com:10189/stream
+#EXTINF:-1,Radio Kinnekulle 102,6 MHz - Sweden - Götene
+https://radio.fnf.nu/radiokinnekulle.mp3
+#EXTINF:-1,Radio Krokom - Sweden - Offerdal
+https://securestreams4.autopo.st:1798/;
+#EXTINF:-1,Radio Linköping FM 95.5 - Sweden - Linköping
+https://stream.linkopingsnarradio.se:8005/radioprogram
+#EXTINF:-1,Radio Malmökanalen FM 89.2 - Sweden - Malmö
+https://stream.nsp.se/MNR89_AAC_Hi
+#EXTINF:-1,Radio Nacka FM 99.9 - Sweden - Stockholm
+https://s4.ssl-stream.com/radio/7900/radionacka
+#EXTINF:-1,Radio Nynäshamn - Sweden - Nynäshamn
+https://cast4.asurahosting.com/proxy/gtconsul/stream
+#EXTINF:-1,Radio Öckerö - Sweden - Öckerö
+https://radio.darub.se/ockero.mp3
+#EXTINF:-1,Radio Payam - Sweden - Gothenburg
+https://stream.zeno.fm/vd7p6g922rhvv
+#EXTINF:-1,Radio pE20 - Sweden - Lerum
+https://streaming.943.se/radiope20
+#EXTINF:-1,Radio Rivendell - Sweden - Stockholm
+https://play.radiorivendell.com/radio/8000/radio.mp3
+#EXTINF:-1,Radio Sotenäs FM 95.3 - Sweden - Kungshamn
+https://sc1.radiosotenas.se/;
+#EXTINF:-1,Radio Tidaholm 101,6 - Sweden - Tidaholm
+https://streaming.943.se/radiotidaholm
+#EXTINF:-1,Radio Treby - Sweden - Vara
+https://streaming.943.se/treby878
+#EXTINF:-1,Radio Viking 101,4 - Sweden - Ekerö
+https://stream.rcs.revma.com/qp6w2wzrruhvv
+#EXTINF:-1,Radio Wix FM 97.9 - Sweden - Valdemarsvik
+https://s2.radio.co/s74d4d7992/listen
+#EXTINF:-1,Retreat Radio - Sweden - Malmö
+https://retreatradio.out.airtime.pro/retreatradio_b
+#EXTINF:-1,Rix FM - Sweden - Stockholm
+https://fm01-ice.stream.khz.se/fm01_mp3
+#EXTINF:-1,Rix FM Fresh - Sweden - Stockholm
+https://wr04-ice.stream.khz.se/wr04_mp3
+#EXTINF:-1,Roslagen Live Rock - Sweden - Norrtälje
+https://radio.daemon.nu/radio/8020/hq
+#EXTINF:-1,SceneSat - Sweden - Stockholm
+https://sj-1.scenesat.com/scenesatmax
+#EXTINF:-1,Skandi Alb Radio - Sweden - Nässjö
+https://streaming.shoutcast.com/skandinavian-albania-radio
+#EXTINF:-1,Skärgårdsradion FM 90.2 - Sweden - Stockholm
+https://fm06-ice.stream.khz.se/fm06_aac
+#EXTINF:-1,Sonic Radio - Sweden - Stockholm
+https://wr10-ice.stream.khz.se/wr10_aac
+#EXTINF:-1,Spinning Seal FM - Sweden - Gällinge
+https://stream.zeno.fm/9q3ez3k3fchvv
+#EXTINF:-1,SR Din gata - Sweden - Malmö
+https://http-live.sr.se/dingata-mp3-192?.mp3
+#EXTINF:-1,SR P1 - Sweden - Stockholm
+https://http-live.sr.se/p1-mp3-128
+#EXTINF:-1,SR P2 Alltid Musik - Sweden - Stockholm
+https://http-live.sr.se/p2musik-mp3-192?.mp3
+#EXTINF:-1,SR P3 - Sweden - Stockholm
+https://http-live.sr.se/p3-mp3-192
+#EXTINF:-1,SR P3 Din Gata - Sweden - Stockholm
+https://http-live.sr.se/dingata-mp3-192
+#EXTINF:-1,SR P4 Blekinge - Sweden - Ronneby
+https://http-live.sr.se/p4blekinge-mp3-192
+#EXTINF:-1,SR P4 Dalarna - Sweden - Borlänge
+https://http-live.sr.se/p4dalarna-mp3-192
+#EXTINF:-1,SR P4 Gävleborg - Sweden - Gävle
+https://http-live.sr.se/p4gavleborg-mp3-192
+#EXTINF:-1,SR P4 Göteborg - Sweden - Gothenburg
+https://http-live.sr.se/p4goteborg-mp3-192
+#EXTINF:-1,SR P4 Gotland - Sweden - Visby
+https://http-live.sr.se/p4gotland-mp3-192
+#EXTINF:-1,SR P4 Halland - Sweden - Halmstad
+https://http-live.sr.se/p4halland-mp3-192
+#EXTINF:-1,SR P4 Jämtland - Sweden - Östersund
+https://http-live.sr.se/p4jamtland-mp3-192
+#EXTINF:-1,SR P4 Jonköping - Sweden - Jönköping
+https://http-live.sr.se/p4jonkoping-mp3-192
+#EXTINF:-1,SR P4 Kalmar - Sweden - Kalmar
+https://http-live.sr.se/p4kalmar-mp3-192
+#EXTINF:-1,SR P4 Kristianstad - Sweden - Kristianstad
+https://http-live.sr.se/p4kristianstad-mp3-192
+#EXTINF:-1,SR P4 Kronoberg - Sweden - Vislanda
+https://http-live.sr.se/p4kronoberg-mp3-192
+#EXTINF:-1,SR P4 Malmöhus - Sweden - Malmö
+https://http-live.sr.se/p4malmo-mp3-192
+#EXTINF:-1,SR P4 Norrbotten - Sweden - Luleå
+https://http-live.sr.se/p4norrbotten-mp3-192
+#EXTINF:-1,SR P4 Örebro - Sweden - Örebro
+https://http-live.sr.se/p4orebro-aac-32
+#EXTINF:-1,SR P4 Östergötland - Sweden - Norrköping
+https://http-live.sr.se/p4ostergotland-mp3-128
+#EXTINF:-1,SR P4 Plus - Sweden - Stockholm
+https://http-live.sr.se/srextra17-mp3-192
+#EXTINF:-1,SR P4 Sjuhärad - Sweden - Borås
+https://http-live.sr.se/p4sjuharad-mp3-192
+#EXTINF:-1,SR P4 Skaraborg - Sweden - Skövde
+https://http-live.sr.se/p4skaraborg-mp3-128
+#EXTINF:-1,SR P4 Stockholm - Sweden - Stockholm
+https://http-live.sr.se/p4stockholm-aac-192
+#EXTINF:-1,SR P4 Uppland - Sweden - Uppsala
+https://http-live.sr.se/p4uppland-mp3-192
+#EXTINF:-1,SR P4 Västernorrland - Sweden - Sundsvall
+https://http-live.sr.se/p4vasternorrland-mp3-128
+#EXTINF:-1,SR Radio Finska - Sweden - Stockholm
+https://http-live.sr.se/sisuradio-aac-32
+#EXTINF:-1,SR Sápmi - Sameradion - Sweden - Kiruna
+https://http-live.sr.se/srsapmi-mp3-192
+#EXTINF:-1,Star FM - Sweden - Stockholm
+https://fm05-ice.stream.khz.se/fm05_mp3
+#EXTINF:-1,Strul FM - Sweden - Stockholm
+https://stream.streamaudio.de:8000/strul-fm
+#EXTINF:-1,Svenska Favoriter - Sweden - Stockholm
+https://wr13-ice.stream.khz.se/wr13_mp3
+#EXTINF:-1,Värnamo Närradio 98.1 - Sweden - Värnamo
+https://stream.zeno.fm/axkrdnb3x1zuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44471/logo_85CHxoTok3.jpg?v=20260529-media-restore",Guldkanalen 80-tal
+https://stream.dbmedia.se/gk80talMP3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44677/logo_ZqYzx2ycVe.jpg?v=20260529-media-restore",24/7 Continuous Music
+https://securestream.cuelightsmedia.com.au/listen/247_continuous_music/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44475/logo_l4TdLjMyMo.jpg?v=20260529-media-restore",Guldkanalen 90-tal
+https://stream.dbmedia.se/gk90talMP3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44482/logo_oeIwuW3rnn.jpg?v=20260529-media-restore",NRJ
+https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004602/logo_mS5v8AcFpJ.jpg?v=20260529-media-restore",DNBRadio - Darkstep
+http://trace.dnbradio.com:8000/dnbradio_darkstep.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44483/logo_EVnFR5vzYS.jpg?v=20260529-media-restore",Guldkanalen 70-tal
+https://stream.dbmedia.se/gk70talMP3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44661/logo_GfNkRFw7fl.jpg?v=20260529-media-restore",Psy Radio - Progressive
+http://host.psyradio.fm:8010/;listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44639/logo_UgaPKQRy5l.jpg?v=20260529-media-restore",Psy Radio - Chillout
+http://host.psyradio.fm:8020/;listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44511/logo_lbx7wQpqpt.jpg?v=20260529-media-restore",Relax FM
+https://live-bauerse-fm.sharp-stream.com/relaxfm_se_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102824/logo_PVdhC223Ay.jpg?v=20260529-media-restore",Ambient
+https://tower.hayva.ru/79als-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44472/logo_AA5LRyeK8V.jpg?v=20260529-media-restore",Fun Radio
+http://stream.funradio.se:81/live192
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102794/logo_etdDPXrTFh.jpg?v=20260529-media-restore",New Age Wave
+https://tower.hayva.ru/5tpgl-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44683/logo_MfpEvzgx00.jpg?v=20260529-media-restore",Svensk Pop
+https://live-bauerse-fm.sharp-stream.com/svenskpop_se_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44549/logo_Quqrj01Wyo.jpg?v=20260529-media-restore",Guldkanalen
+https://stream.dbmedia.se/gkMP3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44504/logo_qdR8Pc80ka.jpg?v=20260529-media-restore",Northern Metal Radio Extreme
+https://s2.free-shoutcast.com/stream/18092
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102785/logo_hLATqKdQ8B.jpg?v=20260529-media-restore",Calm Piano: for Relaxation
+https://tower.hayva.ru/hq4i1-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004546/logo_BlNPkcKxye.jpg?v=20260529-media-restore",SR P3
+https://edge2.sr.se/p3-mp3-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44522/logo_yb3FN62pIH.jpg?v=20260529-media-restore",Clubalicious
+https://listen.radioking.com/radio/319832/stream/524243
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44530/logo_oTnjGVJ0rw.jpg?v=20260529-media-restore",Hitmix 90's
+https://wr19-ice.stream.khz.se/wr19_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44680/logo_RKGi1mhrRQ.jpg?v=20260529-media-restore",Northern Metal Radio
+https://dc5.serverse.com/proxy/lvzgnvcj/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44633/logo_uzSk4mRRPa.jpg?v=20260529-media-restore",Radio Gbg NARODNA
+https://stream.radiogbg.se:8050/relay2
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44636/logo_i5dispghI1.jpg?v=20260529-media-restore",Radio Gbg SEVDAH
+https://stream.radiogbg.se:8050/relay4
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44635/logo_7sVTEMddug.jpg?v=20260529-media-restore",Bandit Metal
+https://wr03-ice.stream.khz.se/wr03_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44476/logo_Ci6GYj4E9Q.jpg?v=20260529-media-restore",STAR FM
+https://fm05-ice.stream.khz.se/fm05_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44501/logo_ynLSY7VWx1.jpg?v=20260529-media-restore",Rockklassiker Hårdrock
+https://live-bauerse-fm.sharp-stream.com/rockklassiker_hardrock_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44629/logo_OyjPikvWps.jpg?v=20260529-media-restore",SDX Synthetic Experience
+http://radio.dawnshadow.se:8000/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102774/logo_mFYicjb5yg.jpg?v=20260529-media-restore",Modern Vocal Jazz
+https://tower.hayva.ru/8ivu3-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44569/logo_nWy9nbkSUW.jpg?v=20260529-media-restore",Electro Lounge
+https://wr16-ice.stream.khz.se/wr16_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44548/logo_WmqH0k6hRf.jpg?v=20260529-media-restore",Mix Megapol
+https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44542/logo_T2kNOpj0tx.jpg?v=20260529-media-restore",Mix Megapol Göteborg
+https://live-bauerse-fm.sharp-stream.com/mixmegapolgbg_instream_se_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44625/logo_x54kUiMTD7.jpg?v=20260529-media-restore",Sveriges Kristna Radio
+https://s2.radio.co/sfbf5f5b85/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44637/logo_lF78MMnWUq.jpg?v=20260529-media-restore",Radio Gbg ZABAVNA
+https://stream.radiogbg.se:8050/relay
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44536/logo_Ekvx5JLBPt.jpg?v=20260529-media-restore",Star 80's
+https://wr02-ice.stream.khz.se/wr02_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44607/logo_bNy5oVFB4k.jpg?v=20260529-media-restore",Best Music Ever
+https://s47.myradiostream.com:12196/listen.m4a
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44686/logo_iWUg1qKZ3R.jpg?v=20260529-media-restore",Lugna Klassiker
+https://live-bauerse-fm.sharp-stream.com/lugnaklassiker_instream_se_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44474/logo_tBP12ZV0Qe.jpg?v=20260529-media-restore",Dansbandskanalen Julmusik
+https://stream.dbmedia.se/dbkjulMP3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44644/logo_YtdzAbHyn5.jpg?v=20260529-media-restore",RadioHits
+https://stream.rcast.net/71184
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44594/logo_ltBBAr0xIs.jpg?v=20260529-media-restore",DistFM
+https://ams1.reliastream.com/proxy/distfmsam192?mp=/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44578/logo_bXk2Zz0Bz0.jpg?v=20260529-media-restore",Power Club
+https://wr06-ice.stream.khz.se/wr06_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44485/logo_cUCEjJQbJT.jpg?v=20260529-media-restore",Retro FM Skåne
+https://live-bauerse-fm.sharp-stream.com/retrofm_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44533/logo_BOaxhp7T3P.jpg?v=20260529-media-restore",Radio Sydvast
+http://radiosydvast.duckdns.org:12932/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44647/logo_GQve8kCbvO.jpg?v=20260529-media-restore",Radio Topp 40 Bara Hits
+https://live-bauerse-fm.sharp-stream.com/topp40_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44632/logo_B5Xi7ZBmuM.jpg?v=20260529-media-restore",Power Hit Radio
+https://fm04-ice.stream.khz.se/fm04_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44641/logo_GGcIi7XEi3.jpg?v=20260529-media-restore",Polarlicht
+https://polarlicht.stream.laut.fm/polarlicht
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44662/logo_HOnp18vI4s.jpg?v=20260529-media-restore",RB Dance
+https://rb.enson.se/rb3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44646/logo_4yUGyapA2t.jpg?v=20260529-media-restore",Gold
+http://goldfm.nu:8082/goldfm_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103897/logo_GjQYo0Ps1n.jpg?v=20260529-media-restore",SLAY Radio
+http://relay3.slayradio.org:8100/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44581/logo_0KbjFs3Mtl.jpg?v=20260529-media-restore",Radio Gbg LAGANINI
+https://stream.radiogbg.se:8050/relay3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44545/logo_YMzz41bH9s.jpg?v=20260529-media-restore",Lugna Favoriter
+https://fm03-ice.stream.khz.se/fm03_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44628/logo_XymqR6qduF.jpg?v=20260529-media-restore",Radio Osteraker
+http://lyssna.osteraker.se/live-mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44674/logo_SZTCDKLUlc.jpg?v=20260529-media-restore",Puls FM Borås
+http://stream.pulsfm.se:8908/stream/1/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44551/logo_Iqxh7foiyJ.jpg?v=20260529-media-restore",Rocket FM
+http://stream.thsradio.se:8000/rocket_hi.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44490/logo_6Zvj7zVS5F.jpg?v=20260529-media-restore",Power Millennium
+https://wr19-ice.stream.khz.se/wr19_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44484/logo_1ER9MoeGQ1.jpg?v=20260529-media-restore",Rix FM
+https://fm01-ice.stream.khz.se/fm01_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44509/logo_83ZF1OOMz7.jpg?v=20260529-media-restore",Mix Megapol 2
+https://live-bauerse-fm.sharp-stream.com/mixmegapol2_instream_se_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44652/logo_GAdXkQw69F.jpg?v=20260529-media-restore",Radio Bubb La
+https://live.radio.bubb.la/stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44571/logo_ur8eilERUg.jpg?v=20260529-media-restore",KanonFM 98.6
+http://kanonnens.ddns.net:8000/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44567/logo_fdyK8GcEol.jpg?v=20260529-media-restore",PWR Street
+https://wr07-ice.stream.khz.se/wr07_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44666/logo_hpuUEZ6UmG.jpg?v=20260529-media-restore",Radio Malmokanalen
+http://stream.nsp.se:8000/MNR89_AAC_Hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44523/logo_kP9ws2gfM0.jpg?v=20260529-media-restore",Radio Nattsudd
+https://listen.radioking.com/radio/405787/stream/458038
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44537/logo_YPoR1Wiqot.jpg?v=20260529-media-restore",Radio Shalom
+http://radiostreamone.mine.nu:18010/;stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44540/logo_dQEkKxcnLK.jpg?v=20260529-media-restore",Bandit Rock
+https://fm02-ice.stream.khz.se/fm02_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44591/logo_XKKIQvU4W7.jpg?v=20260529-media-restore",Radio Avesta
+http://test.radioavesta.se:8000/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44513/logo_BMwYi0S4Jf.jpg?v=20260529-media-restore",DJ LOBO RADIO
+http://streaming.xtservers.com:8000/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007906/logo_Muqfvew7u2.jpg?v=20260529-media-restore",Bananradion
+https://lyssna.bananradion.se/listen/bananradion/128aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44492/logo_HmCATV2kIc.jpg?v=20260529-media-restore",Gamla Favoriter
+https://wr09-ice.stream.khz.se/wr09_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44608/logo_MZcUsjlgVt.jpg?v=20260529-media-restore",Radio Trollhattan
+http://lyssna.fnf.nu:8080/radiotrollhattan.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44613/logo_FYA3apoDlT.jpg?v=20260529-media-restore",Strul FM
+http://s1.streamaudio.de:8000/strul-fm
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44500/logo_P9mo3N1AO9.jpg?v=20260529-media-restore",Radio Gold Sweden
+https://stream.943.se/radiogold
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44544/logo_LUEuNCaoJt.jpg?v=20260529-media-restore",Vinyl
+https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44626/logo_iWCmE0HcBa.jpg?v=20260529-media-restore",Radio Krokom
+http://radiokrokom.ddns.net/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44557/logo_eUvI1kEPzl.jpg?v=20260529-media-restore",P4 Värmland
+https://ljud1-cdn.sr.se/lc/p4gotl.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44679/logo_s79smVd4j9.jpg?v=20260529-media-restore",Kohina Radio
+https://kohina.duckdns.org/icecast/stream.ogg
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44525/logo_QRY7BVyXUU.jpg?v=20260529-media-restore",MIX MUSIC RADIO
+https://mars.streamerr.co/8074/mixmusicradiosweden
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44655/logo_ObJwagQah7.jpg?v=20260529-media-restore",Nonstop Casiopea
+http://hyades.shoutca.st:8551/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44627/logo_nwxkFQ5tMc.jpg?v=20260529-media-restore",Bandit Alternative
+https://wr05-ice.stream.khz.se/wr05_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44575/logo_ctwreATqNX.jpg?v=20260529-media-restore",Stockholm NARRadio
+http://live.narradio.se:8010/;stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44671/logo_aDhRpVHwrb.jpg?v=20260529-media-restore",Radio Sotenäs
+http://sc1.radiosotenas.se/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44685/logo_TKn03JW3vp.jpg?v=20260529-media-restore",NRJ Fresh
+https://live-bauerse-fm.sharp-stream.com/nrjfresh_web_se_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44582/logo_eRfoQU0Plk.jpg?v=20260529-media-restore",Soulfood Radio
+https://soulfood.stream.laut.fm/soulfood
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44579/logo_uCV1vIzKJK.jpg?v=20260529-media-restore",True Life in God Radio Swedish
+https://stream.tligradio.org/listen/swedish/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44473/logo_hOs81fRJzo.jpg?v=20260529-media-restore",Radio Haninge Direkt
+http://213.115.49.175:1157/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44563/logo_TiKvv6K8wj.jpg?v=20260529-media-restore",Trucknet Radio
+http://stream.ueteknik.se:8000/trucknetradio/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44550/logo_svttE0PD5u.jpg?v=20260529-media-restore",Dansbandskanalen
+https://stream.dbmedia.se/dbkMP3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44599/logo_qs80mthBgb.jpg?v=20260529-media-restore",Järva-Västerorts Närradioförening
+http://radiostreamtwo.mine.nu:9058/;stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44619/logo_sTygBmn8BK.jpg?v=20260529-media-restore",Hoganas Narradio
+http://deb.patrikmalmgrenrask.se:10000/high/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44486/logo_lAO1CTfJAG.jpg?v=20260529-media-restore",Radio Trelleborg
+https://stream.nsp.se/RaTbg_AAC_Hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44606/logo_4WRMmk0exp.jpg?v=20260529-media-restore",Stockholm Närradio
+http://live.narradio.se:8020/;stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44556/logo_8ABsRgZ6Fb.jpg?v=20260529-media-restore",SVENSKA FAVORITER
+https://wr13-ice.stream.khz.se/wr13_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44574/logo_AA6qBRUP3Z.jpg?v=20260529-media-restore",Radio Båstad
+https://audio-edge-vqwx4.yyz.g.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44577/logo_4kMjLdScET.jpg?v=20260529-media-restore",Radio Falköping
+http://lyssna.fnf.nu:8080/fnf.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44676/logo_SnZusThQbu.jpg?v=20260529-media-restore",Dunken FM
+http://stream.nsp.se:8000/DFM_MP3_Hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44532/logo_KWbrYBhXoz.jpg?v=20260529-media-restore",Star 70's
+https://wr10-ice.stream.khz.se/wr10_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44497/logo_J0iNwuWx8M.jpg?v=20260529-media-restore",Bandit Ballads
+https://wr21-ice.stream.khz.se/wr21_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44506/logo_0lMatFgyHn.jpg?v=20260529-media-restore",Julkanalen
+https://fm10-ice.stream.khz.se/fm10_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44638/logo_QfNQ3X34KT.jpg?v=20260529-media-restore",Boras Narradio
+http://lyssna.fnf.nu:8080/radioboras.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44597/logo_Sur21PhUC9.jpg?v=20260529-media-restore",Soul Classics
+https://wr08-ice.stream.khz.se/wr08_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44487/logo_DHsOd4aGmo.jpg?v=20260529-media-restore",Radio Treby
+https://streaming.943.se/treby915
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44565/logo_vKSiTk7edK.jpg?v=20260529-media-restore",Radio Vara
+http://lyssna.fnf.nu:8080/radiovara.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44488/logo_BARVBImQOj.jpg?v=20260529-media-restore",Radio Treby
+https://streaming.943.se/treby970
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44546/logo_paBiEinSUt.jpg?v=20260529-media-restore",Rockklassiker
+https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44538/logo_QbQxZFVc7l.jpg?v=20260529-media-restore",Star 90's
+https://wr12-ice.stream.khz.se/wr12_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44590/logo_8PZ0Y8aqMY.jpg?v=20260529-media-restore",Radio Bohuslan
+https://rb.enson.se/rb1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44495/logo_9pQBb1kYPZ.jpg?v=20260529-media-restore",Radio Treby
+https://streaming.943.se/treby1014
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44562/logo_uwxtpaQVE2.jpg?v=20260529-media-restore",The Beat
+https://soundicradio.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44512/logo_R1BUBhmFD6.jpg?v=20260529-media-restore",Radio Active
+https://live-bauerse-fm.sharp-stream.com/radioactive_aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44481/logo_bO8hIjCRSi.jpg?v=20260529-media-restore",Radio Pontos Stockholm
+http://pontosstockholm.com:8000/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44654/logo_qpp0XsrKcH.jpg?v=20260529-media-restore",Radio-Schweden
+https://radio-schweden.stream.laut.fm/radio-schweden
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44491/logo_ihUXhr5LQg.jpg?v=20260529-media-restore",Radio Rainbow
+https://wr20-ice.stream.khz.se/wr20_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44508/logo_ahjkckpyii.jpg?v=20260529-media-restore",Feel Good Hits
+https://live-bauerse-fm.sharp-stream.com/radiodisney_instream_se_aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44653/logo_SzqU1kD6s0.jpg?v=20260529-media-restore",Pop och Rock
+http://stream.ueteknik.se:8000/poporock
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44665/logo_st3HeGtHMl.jpg?v=20260529-media-restore",Radio Payam
+https://streaming.shoutcast.com/radio-payam-gbg
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44564/logo_gmxevcyGt7.jpg?v=20260529-media-restore",ROCKSTAR
+https://sstream.ueteknik.se/listen/poporock/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44614/logo_l1apAU9H8O.jpg?v=20260529-media-restore",Stockholm Närradio
+http://live.narradio.se:8030/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44667/logo_8XwGOdMXMd.jpg?v=20260529-media-restore",Radio MNF
+https://radio.fnf.nu/gnf102.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44587/logo_OMZp0FhBFl.jpg?v=20260529-media-restore",Radio 943
+http://stream.radio943.se:8000/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44658/logo_qZQxeAoXH0.jpg?v=20260529-media-restore",Radio GNF
+http://lyssna.fnf.nu:8080/gnf094.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44592/logo_1ROIFG1vyU.jpg?v=20260529-media-restore",Radio Ljungby
+http://lyssna.ljungbykanalen.se/ljungbykanalen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44664/logo_Jsp6ncVJpb.jpg?v=20260529-media-restore",Tyresöradion
+https://s5.radio.co/s8ace52d32/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44657/logo_h6yGyZQXjv.jpg?v=20260529-media-restore",Radio Shahrvand
+http://radiostreamone.mine.nu:9100/;stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44585/logo_7LxUHpCB38.jpg?v=20260529-media-restore",Radio Gävle
+http://kepler.shoutca.st:8271/;stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44630/logo_L0PsFK9nZV.jpg?v=20260529-media-restore",Radio IberoAmericana
+http://radiostreamtwo.mine.nu:9100/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44477/logo_Z5lzwTxDJ9.jpg?v=20260529-media-restore",Radio Ayeneh
+http://83.250.49.43/;&type=mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44669/logo_sYeB1NSxoU.jpg?v=20260529-media-restore",Radio Siljan
+http://stream.ueteknik.se:8000/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44573/logo_l48WFYLHjs.jpg?v=20260529-media-restore",Radio Sandviken
+http://rssand.se:4027/;;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44687/logo_RhagHWRYwY.jpg?v=20260529-media-restore",Skärgårdsradion
+https://fm06-ice.stream.khz.se/fm06_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44470/logo_Hnz5m4aSvz.jpg?v=20260529-media-restore",Radio Iran On Air
+http://iranonairone.mine.nu:9300/;
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44507/logo_dd7Ad0sY6j.jpg?v=20260529-media-restore",We Rock FM
+https://s2.citrus3.com:8214/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44603/logo_vNDuL766p0.jpg?v=20260529-media-restore",P4 Örebro
+https://http-live.sr.se/p4orebro-aac-32?type=mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44558/logo_Iw0QURCYEE.jpg?v=20260529-media-restore",SR P3 Din Gata
+https://http-live.sr.se/dingata-mp3-64
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44675/logo_wbKnrBgpX8.jpg?v=20260529-media-restore",HitNet
+https://carol.epichosts.co.uk:8592/live256
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44559/logo_8bouhf61vl.jpg?v=20260529-media-restore",P4 Gävleborg
+https://http-live.sr.se/p4gavleborg-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44541/logo_o4kNA19C17.jpg?v=20260529-media-restore",SR P4 Stockholm
+https://http-live.sr.se/p4stockholm-mp3-192
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44598/logo_yPFGuqgzxw.jpg?v=20260529-media-restore",Radio Nybro
+http://deb.patrikmalmgrenrask.se:8020/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44480/logo_wzuqhCqVXk.jpg?v=20260529-media-restore",Radio Gagnef
+http://stream.ueteknik.se:8000/gagnef
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44612/logo_4Cj6hjKcCg.jpg?v=20260529-media-restore",HITCITY
+https://stream.hitcity.se/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44496/logo_mmIxP7raHC.jpg?v=20260529-media-restore",One Hit Wonders
+https://wr18-ice.stream.khz.se/wr18_mp3?platform=web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44649/logo_99F00UshYe.jpg?v=20260529-media-restore",SR P2
+https://ljud2-cdn.sr.se/lc/p2/p2_320.pls
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44531/logo_rOdebD1fms.jpg?v=20260529-media-restore",Radio en Vivo Suecia
+https://stream.miradio.in/proxy/susana/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44615/logo_pxU3FuEKbq.jpg?v=20260529-media-restore",P4 Uppland
+https://http-live.sr.se/p4uppland-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44554/logo_7OvII9o8eA.jpg?v=20260529-media-restore",P4 Västerbotten
+https://http-live.sr.se/p4vasterbotten-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44553/logo_huHQ9ihSuT.jpg?v=20260529-media-restore",P4 Kristianstad
+https://http-live.sr.se/p4kristianstad-aac-32
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44534/logo_b3r46DToug.jpg?v=20260529-media-restore",P4 Göteborg
+https://http-live.sr.se/p4goteborg-mp3-64
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44468/logo_EsMiSLOyrB.jpg?v=20260529-media-restore",SR P6
+https://http-live.sr.se/srinternational-mp3-64
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44605/logo_4vb9QMbr4U.jpg?v=20260529-media-restore",Helsingborgs Närradio
+http://deb.patrikmalmgrenrask.se:8010/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44478/logo_K4SwNtlkS3.jpg?v=20260529-media-restore",Radio GNF
+http://lyssna.fnf.nu:8080/gnf102.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44660/logo_uuDnwpvbkB.jpg?v=20260529-media-restore",Radio GNF
+http://lyssna.fnf.nu:8080/gnf103.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44521/logo_cArEl8IfTh.jpg?v=20260529-media-restore",Radio Los Andes Gotemburgo
+http://streaming.xtservers.com:8006/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44634/logo_mXqXjBrBhv.jpg?v=20260529-media-restore",P4 Skaraborg
+https://http-live.sr.se/p4skaraborg-mp3-192
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44489/logo_daeLgnuqTC.jpg?v=20260529-media-restore",Radio Treby
+https://streaming.943.se/treby924
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44479/logo_OABVV6HtVI.jpg?v=20260529-media-restore",P4 Malmöhus
+https://http-live.sr.se/p3-mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44618/logo_WW5Vp4P1tr.jpg?v=20260529-media-restore",K103
+https://stream.k103.se/webradio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44494/logo_Eoyvvd7gUK.jpg?v=20260529-media-restore",Radio Treby
+https://streaming.943.se/treby958
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44645/logo_Ee9NAUaFA4.jpg?v=20260529-media-restore",Radio Vattervag
+http://uk5.internet-radio.com:8199/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44589/logo_Y90xasUqXh.jpg?v=20260529-media-restore",P4 Västernorrland
+https://http-live.sr.se/p4vasternorrland-mp3-192
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44527/logo_DjgEnfoSgi.jpg?v=20260529-media-restore",iptn live
+https://stream2.svrdedicado.org:7252/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44555/logo_oAEcomhCFd.jpg?v=20260529-media-restore",Radio Active
+http://stream.nsp.se:8000/radioactive48
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44561/logo_njbwGd1E2c.jpg?v=20260529-media-restore",SR Sápmi
+https://http-live.sr.se/srsapmi-mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44498/logo_vBoeIO6VYv.jpg?v=20260529-media-restore",Radio Treby
+https://streaming.943.se/treby1016
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44673/logo_61qnyewGEN.jpg?v=20260529-media-restore",Radio Soderhamn
+http://80.245.225.101:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44552/logo_6A9Sm34Zc8.jpg?v=20260529-media-restore",P4 Väst
+https://http-live.sr.se/p4vast-mp3-128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44624/logo_J4XQp9xN2U.jpg?v=20260529-media-restore",Radio P5
+https://stream.nsp.se/P5
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44560/logo_0vyb82G94v.jpg?v=20260529-media-restore",Radioapans knattekanal
+https://http-live.sr.se/knattekanalen-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44678/logo_rwIQIxys49.jpg?v=20260529-media-restore",ICPRM RADIO Sweden
+http://stream.zenolive.com/kybydz65sfeuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44670/logo_SMetNa0iYj.jpg?v=20260529-media-restore",Ljungbykanalen
+https://lyssna.ljungbykanalen.se/lkssl
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44566/logo_15exfbcdkc.jpg?v=20260529-media-restore",P4 Blekinge
+https://http-live.sr.se/p4blekinge-mp3-64
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44631/logo_TxSumw7gLM.jpg?v=20260529-media-restore",P4 Östergötland
+https://http-live.sr.se/p4ostergotland-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44600/logo_Xvz62NbFBo.jpg?v=20260529-media-restore",P4 Jämtland
+https://http-live.sr.se/p4jamtland-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44570/logo_8YUOJmdwyo.jpg?v=20260529-media-restore",P4 Sjuhärad
+https://http-live.sr.se/p4sjuharad-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44535/logo_4jpM9c06dN.jpg?v=20260529-media-restore",Radio 88 Partille
+http://62.209.164.60:8000/mp96.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44616/logo_0bOqI7k5cD.jpg?v=20260529-media-restore",P4 Dalarna
+https://http-live.sr.se/p4dalarna-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44502/logo_JuzQmVdZxK.jpg?v=20260529-media-restore",All Radio
+https://s5.radio.co/s0072b90d9/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44650/logo_mS6VqPWhdF.jpg?v=20260529-media-restore",SR Ekot
+https://http-live.sr.se/ekotsanderdirekt-mp3-192
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44610/logo_wge4szYHsp.jpg?v=20260529-media-restore",P4 Halland
+https://http-live.sr.se/p4halland-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44524/logo_upfIUjLNGB.jpg?v=20260529-media-restore",Popradio Stockholm
+https://popradiostream.se/streamIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44503/logo_UC6Z4IT5ke.jpg?v=20260529-media-restore",Radio SRF
+https://vtdnntts-eu.readspeaker.com/cgi-bin/vtapi4/b0b6039bbd332c4d258499bd1739c2a4-1.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44584/logo_7gGgqzVaei.jpg?v=20260529-media-restore",P4 Sörmland
+https://http-live.sr.se/p4sormland-aac-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004817/logo_rOwDoxDWNd.jpg?v=20260529-media-restore",SR P4 Malmö
+https://live-cdn.sr.se/pool2/p4malmo/p4malmo.isml/p4malmo.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004723/logo_euEi5SQODb.jpg?v=20260529-media-restore",SR P2 Språk och musik
+https://ljud1-cdn.sr.se/lc/p2/p2_320.pls
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004722/logo_rDxppA16KL.jpg?v=20260529-media-restore",SR P1 Stockholm
+https://http-live.sr.se/p1-aac-32?type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-iran-air-176371-logo.jpg",Radio Iran On Air
+http://iranonairone.mine.nu:9300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-ayeneh-logo.jpg",Radio Ayeneh
+http://83.250.49.43/;u0026type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-haninge-direkt-162325-logo.jpg",Radio Haninge Direkt
+http://213.115.49.175:1157/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-berg-157813-logo.jpg",Radio Berg
+http://62.20.28.156/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-shalom-logo.jpg",Radio Shalom
+http://radiostreamone.mine.nu:18010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radiosol-logo.jpg",Radiosol
+http://91.145.17.9:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/streetfm-186680-logo.jpg",Radio StreetFM
+http://lyssna.streetfm.se:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dansbandsradiose-186758-logo.jpg",Dansbandsradio.se
+http://213.112.242.106:8082/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-voces-del-alba-589912-logo.jpg",Radio Voces Del Alba
+http://198.15.86.218:8031/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stockholmian-590079-logo.jpg",Radio Stockholmian
+http://217.210.9.84:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/netstop-radio-187018-logo.jpg",NETSTOP Radio
+http://netstopradio.no-ip.info:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiometanasths-595426-logo.jpg",RADIOMETANASTHS
+http://46.59.18.189:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-sisuradio-567787-logo.jpg",SR Sisuradio
+https://http-live.sr.se/sisuradio-mp3-64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioseven-567793-logo.jpg",Radioseven
+http://sc8.radioseven.se:8500/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aftonbladet-webb-radio-567614-logo.jpg",Aftonbladet Webb - Radio
+http://wwwc.aftonbladet.se/special/radio/radiobrand/underqt.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiobullen-597951-logo.jpg",RadioBullen
+http://69.4.230.79:9900/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiohits-sverige-597972-logo.jpg",Radiohits sverige
+http://john631.serverroom.net:6484/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-melody-157798-logo.jpg",Radio Melody
+http://78.69.242.58:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stampus-fm-598048-logo.jpg",Radio Stampus FM
+http://streamstampusfm.zapto.org:8000/studiostream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/p2-567796-logo.jpg",Radio P2
+https://sverigesradio.se/topsy/direkt/tunein/163-hi.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/v97-170908-logo.jpg",Radio V97
+http://v97stream.audire.se:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-deshmia-599120-logo.jpg",Radio Deshmia
+http://fire.wavestreamer.com:6511/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ths-radio-157948-logo.jpg",THS Radio
+http://130.237.46.42:8000/thsradio_hi.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/p1-571535-logo.jpg",Radio P1
+http://http-live.sr.se/p1-mp3-64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/motgift-24-608792-logo.jpg",Radio Motgift 24
+http://svegot.out.airtime.pro:8000/svegot_b
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dixie-radio-1079-607331-logo.jpg",Dixie Radio 107.9
+http://stream.radiojar.com/szhd6x2wb3vtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-halgan-live-609205-logo.jpg",Radio Halgan Live
+http://smoke.wavestreamer.com:9390/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/julradiose-609253-logo.jpg",JULRADIO.se
+http://relay2.julradio.se:9000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-onda-latina-609715-logo.jpg",Radio Onda Latina
+http://streaming.xtservers.com:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-oskarshamn-615142-logo.jpg",Radio Oskarshamn
+http://moon.wavestreamer.com:4687/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/csradio-online-614759-logo.jpg",CSRADIO Online
+https://streamingv2.shoutcast.com/csradio-online
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-victor-jara-de-estocolmo-615398-logo.jpg",Radio Victor Jara de Estocolmo
+http://s35.myradiostream.com:7104/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shabachworld-radio-601312-logo.jpg",Shabachworld Radio
+http://stereo.wavestreamer.com:9781/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/assyrianmp3-radio-601497-logo.jpg",AssyrianMp3 Radio
+http://79.142.67.91:9998/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-imagina-623807-logo.jpg",Radio-Imagina
+http://192.99.16.17:7942/;
+#EXTINF:-1 tv-logo="",Radio Sydnärke
+http://54.229.143.189:8000/;
+#EXTINF:-1 tv-logo="",Radio EventFM Härjedalen
+http://78.129.187.73:5612/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sin-fronteras-630233-logo.jpg",RADIO SIN FRONTERAS
+http://50.22.219.97:15541/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/emils-radio-635228-logo.jpg",Emils Radio
+http://lyssna.emilsradio.se/;
+#EXTINF:-1 tv-logo="",Sjöbo Närradio
+http://stream.flexitech.se:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-estocolmocom-636794-logo.jpg",Radio Estocolmo.com
+http://78.129.193.103:4726/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/elit-klubb-radio-635154-logo.jpg",Elit Klubb Radio
+http://84.216.35.188:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/katrineholm-fm-634644-logo.jpg",Radio Katrineholm FM
+http://katrineholmfm.server.forss.net:8000/kfm-mp3-lo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tunnel-fm-588355-logo.jpg",Radio Tunnel FM
+http://eu7.fastcast4u.com:8065/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ornskoldsvik-589898-logo.jpg",Radio Örnsköldsvik
+http://webradio.radioovik.se:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/caribbean-and-thailand-day-645406-logo.jpg",Radio Caribbean & Thailand Day
+http://162.210.196.145:33939/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dream-radio-sweden-647967-logo.jpg",Dream Radio Sweden
+http://dreamradio.mine.nu:9000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kristen-narradio-vaxjo-648021-logo.jpg",Kristen Närradio Växjö
+http://us.pmradio.se:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bpm-malmo-648466-logo.jpg",Radio BPM Malmö
+http://streamer.radio.co/sac2d40aab/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/p5-sthlm-569964-logo.jpg",Radio P5 STHLM
+http://sverigesradio.se/topsy/direkt/2842-aac.m3u
+#EXTINF:-1 tv-logo="",BalkanRadio
+http://176.31.159.53:8012/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sverigekanalen-603058-logo.jpg",Radio Sverigekanalen
+http://78.129.187.57:10496/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/neradio-hardstyle-155360-logo.jpg",NERadio Hardstyle
+http://load.hardstyle.nu:443/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gamla-godingar-172255-logo.jpg",Radio Gamla Godingar
+http://93.182.176.123:80/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/grid-stream-productions-radio-172502-logo.jpg",Grid Stream Productions Radio
+http://s7.viastreaming.net:7350/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ljusdal-172601-logo.jpg",Radio Ljusdal
+http://80.65.199.78:8002
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/super-torrents-radio-176004-logo.jpg",Super Torrents Radio
+http://206.217.216.16:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/neradio-international-177409-logo.jpg",NERadio International
+http://fire1.neradio.com/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p7-sisuradio-177972-logo.jpg",SR P7 Sisuradio
+http://http-live.sr.se/sisuradio-aac-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p3-star-177974-logo.jpg",Radio SR P3 Star
+http://http-live.sr.se/p3star-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-vast-177997-logo.jpg",Radio SR P4 Vast
+http://http-live.sr.se/p4vast-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-vastmanland-178013-logo.jpg",Radio SR P4 Vastmanland
+http://http-live.sr.se/p4vastmanland-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kramfors-571552-logo.jpg",Radio Kramfors
+http://dag634.primcast.com:9786/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stockholm-narradio-88-0-576811-logo.jpg",Stockholm Närradio 88,0
+http://live.narradio.se:8010/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/neradio-sweden-577036-logo.jpg",NERadio Sweden
+http://bigbrother.dinmamma.be:8000/;
+#EXTINF:-1 tv-logo="",Radio Voice of Youth
+http://67.212.166.178:8448/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/halmstads-narradio-580828-logo.jpg",Halmstads närradio
+http://81.233.31.238:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kungsbacka-narradio-580891-logo.jpg",Kungsbacka Närradio
+http://212.73.175.58:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-wake-up-580893-logo.jpg",Radio Wake Up
+http://radiowakeup.falkenberg.se:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/twr-tingsholm-web-radio-582071-logo.jpg",TWR-Tingsholm Web Radio
+http://www.medieprogrammet.eu/twr/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-chakavak-587379-logo.jpg",Radio Chakavak
+http://radiochakavak.no-ip.org:28002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mei-radio-588839-logo.jpg",MEI Radio
+http://37.59.32.115:5152/stream
+#EXTINF:-1 tv-logo="",Radiogodis.se 80 tal dygnet runt
+http://radiogodis.org:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-af-offshore-race-590756-logo.jpg",Radio AF offshore race
+http://delicious.wavestreamer.com:9531/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pasion-latina-591116-logo.jpg",Radio Pasion Latina
+http://radio.fhost.cl:9948/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jan-e-bjorsared-593793-logo.jpg",Radio Jan E Bjorsared
+http://player.cheapeststream.com/_players/cheapeststream/?callsign=SAM06AAC236
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/madbone365-594455-logo.jpg",Radio Madbone365
+http://live.noip.me/stream/1/?sid=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nordic-vibrations-594980-logo.jpg",Radio Nordic Vibrations
+http://neon.wavestreamer.com:6767/;
+#EXTINF:-1 tv-logo="",Puttes radio
+http://14833.live.streamtheworld.com/SAM10AAC056_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amazing-fm-603211-logo.jpg",Radio Amazing FM
+http://amazingfm.no-ip.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/beat-fm-605018-logo.jpg",Radio Beat FM
+http://stream.beatfm.se/beatweb128.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-visby-605366-logo.jpg",Radio Visby
+http://s3.radioboss.fm:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/power-street-605912-logo.jpg",Radio Power Street
+http://wr07-ice.stream.khz.se/wr07_aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/grekisk-radio-606621-logo.jpg",Grekisk Radio
+http://192.99.45.145:8018/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-habayeb-607514-logo.jpg",Radio Habayeb
+http://getall.info:7000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-explosiva-fm-608937-logo.jpg",RADIO EXPLOSIVA FM
+http://185.50.197.212:9972/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-network-610647-logo.jpg",Radio Network
+http://listen.spacial.com/api/listen/?sid=62135u0026method=scu0026rid=1154977
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sverige-612534-logo.jpg",Radio Sverige
+http://radio.kurdradio.se:1999/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/euroradio-614158-logo.jpg",EuroRadio
+http://stream.euroradio.se:9000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/homs-radio-617131-logo.jpg",homs radio
+http://listen.spacial.com/api/listen/?sid=69758u0026method=scu0026rid=1370448
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rockklassiker-ballads-618666-logo.jpg",Radio Rockklassiker Ballads
+https://live-bauerse-online.sharp-stream.com/129_se_mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/musikmixense-mix-619543-logo.jpg",Radio MusikMixen.se - Mix
+http://sc2.musikmixen.se:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sbfplay-radio-619817-logo.jpg",SBFPLAY Radio
+http://188.165.192.5:8323/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-db1-621947-logo.jpg",Radio DB1
+http://streaming.radio.co:80/s739f8146c/listen
+#EXTINF:-1 tv-logo="",Radio BackTrax
+http://50.22.219.97:26749/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-fm-vaxjo-623349-logo.jpg",Radio Star FM Växjö
+http://soho.wavestreamer.com:4356/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sky-1-625565-logo.jpg",Radio Sky 1
+http://radiosky1.out.airtime.pro:8000/radiosky1_a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sverigekanalen-mixxx-626187-logo.jpg",Radio Sverigekanalen Mixxx
+http://78.129.193.82:6039/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rosengardsradio-627267-logo.jpg",RosengårdsRadio
+http://176.31.159.53:8006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ciyaye-kurmenc-fm-631790-logo.jpg",Radio Çiyayê Kurmênc FM
+http://192.80.133.80:2199/tunein/ciyaye-stream.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bahia-suecia-636695-logo.jpg",Radio Bahía Suecia
+http://37.59.32.115/proxy/radiobahia?mp=/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-taknava-637648-logo.jpg",Radio Taknava
+http://live.radiotaknava.com/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sverigekanalen-dalaradion-638280-logo.jpg",Sverigekanalen Dalaradion
+http://87.117.247.212:6397/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-beth-gazo-638456-logo.jpg",Radio Beth Gazo
+http://knight.wavestreamer.com:3404/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/subantaba-639856-logo.jpg",Radio Subantaba
+http://tachyon.shoutca.st:8128/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bodens-radio-639950-logo.jpg",Bodens Radio
+http://5.152.208.98:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/direkt3-640045-logo.jpg",Radio Direkt3
+http://87.117.208.118:35561/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/color-radio-sweden-crs-640507-logo.jpg",Color Radio Sweden (CRS)
+http://quasar.shoutca.st:9027/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sverigekanalen-2d-640733-logo.jpg",Radio Sverigekanalen 2D
+http://78.129.193.127:26396/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-madtrek-642919-logo.jpg",RADIO MADTREK
+http://stream.crib.kokain.ninja:42069/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nacka-rockers-kommunal-radio-644654-logo.jpg",Nacka Rockers Kommunal Radio
+http://81.228.196.20:80/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sverigekanalen-1-645679-logo.jpg",Radio Sverigekanalen 1
+http://78.129.193.127:3355/;
+#EXTINF:-1 tv-logo="",positiveradio
+http://soho.wavestreamer.com:6141/1/;stream/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hitnet-648630-logo.jpg",Radio HitNet
+http://188.165.192.5:8723/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/slay-radio-165939-logo.jpg",Slay Radio
+http://relay2.slayradio.org:8100/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-studentradion-stockholm-university-logo.jpg",Studentradion - Stockholm University
+http://radiostreamone.mine.nu:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-iberoamericana-184901-logo.jpg",Radio IberoAmericana
+http://radiostreamtwo.mine.nu:9100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-krokom-166901-logo.jpg",Radio Krokom
+http://radiokrokom.ddns.net/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sandviken-164184-logo.jpg",Radio Sandviken
+http://rssand.se:4027/;;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-af-176547-logo.jpg",Radio AF
+http://live.radioaf.se:8000/;stream/1/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-mrs-logo.jpg",Radio MRS
+http://radiostreamone.mine.nu:19050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-nacka-logo.jpg",Radio Nacka
+http://radiostreamtwo.mine.nu:9990/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hoganas-narradio-580407-logo.jpg",Hoganas Narradio
+http://deb.patrikmalmgrenrask.se:10000/high/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-halmstad-narradio-logo.jpg",Halmstad Narradio
+http://81.233.31.238:8000/;?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/trucknet-radio-172618-logo.jpg",Trucknet Radio
+http://stream.ueteknik.se:8000/trucknetradio/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-stockholm-college-radio-logo.jpg",Stockholm College Radio
+http://radiostreamone.mine.nu:18010/;?1444906179227.mp3/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-nybro-logo.jpg",Radio Nybro
+http://deb.patrikmalmgrenrask.se:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-92-164708-logo.jpg",Radio 92
+http://s6.voscast.com:8210/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-nostalgi-logo.jpg",Radio Nostalgi
+http://212.73.175.58:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-nord-983-logo.jpg",Radio Nord 98,3
+http://radio.tabyenskilda.se:8050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-gavle-logo.jpg",Radio Gävle
+http://kepler.shoutca.st:8271/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-rangarang-logo.jpg",Radio Rangarang
+http://radio.rangarang.us:8000/stream/1/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vinyl-godis-radio-163486-logo.jpg",Vinyl Godis Radio
+http://nvradio.info:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-helsingborgs-narradio-logo.jpg",Helsingborgs Närradio
+http://deb.patrikmalmgrenrask.se:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jarfalla-radio-172742-logo.jpg",Järfälla Radio
+http://www.jfasandare.se:8000/test.mp3/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hambastegi-178617-logo.jpg",Radio Hambastegi
+http://hambastegithree.mine.nu:9600/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-jarva-vasterorts-narradioforening-logo.jpg",Järva-Västerorts Närradioförening
+http://radiostreamtwo.mine.nu:9058/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-psy-radio-progressive-logo.jpg",Psy Radio - Progressive
+http://host.psyradio.fm:8010/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-nonstop-casiopea-logo.jpg",Radio Nonstop Casiopea
+http://hyades.shoutca.st:8551/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-hit-fm-gold-logo.jpg",Radio HIT FM Gold
+http://gold24.xnk.nu:8080/;469928443008656stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sotenas-568838-logo.jpg",Radio Sotenäs
+http://sc1.radiosotenas.se/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-vikingarock-radio-logo.jpg",Vikingarock Radio
+http://radio.vikingarock.se:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hallsta-sura-narradio-581031-logo.jpg",Hallsta Sura Narradio
+https://s16.myradiostream.com/:6630/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nanan-radio-601543-logo.jpg",Nanan Radio
+http://s1.wohooo.net:8971/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-shahrvand-logo.jpg",Radio Shahrvand
+http://radiostreamone.mine.nu:9100/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-kn-radio-logo.jpg",KN RADIO
+http://46.105.124.120:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-lyssna-8-logo.jpg",Radio Sverigekanalen Lyssna 8
+http://109.169.23.84:22259/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverige-kanalen-3c-logo.jpg",Radio Sverige Kanalen 3C
+http://78.129.187.57/stream.mp3?ipport=78.129.187.57_19101
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-halgan-logo.jpg",Radio Halgan
+http://smoke.wavestreamer.com:9390/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-sala-logo.jpg",Radio Sala
+http://test.radioavesta.se:9700/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-veckans-band-metal-radio-logo.jpg",Veckans Band Metal Radio
+http://freeuk28.listen2myradio.com:30609/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-roslagen-live-dj-logo.jpg",Radio Roslagen Live DJ
+https://radio.daemon.nu/radio/8030/radio02
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-rb-classic-logo.jpg",Radio RB Classic
+https://rb.enson.se/rb5
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-mix-logo.jpg",Radio Sverigekanalen Mix
+http://109.169.76.104:19577/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-mediacast-2-logo.jpg",Radio Sverigekanalen Mediacast 2
+http://82.145.41.50:32472/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-4d-logo.jpg",Radio Sverigekanalen 4D
+http://37.157.242.105:4497/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-mobil-logo.jpg",Radio Sverigekanalen Mobil
+http://109.169.23.22:8912/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-hit-sweden-logo.jpg",Radio Hit Sweden
+https://stream.zeno.fm/wxwfb99r8hhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-5d-logo.jpg",Radio Sverigekanalen 5D
+http://78.129.237.51:22226/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-dala-1-logo.jpg",Radio Sverigekanalen Dala 1
+http://109.169.23.84:27008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-lyssna-4-logo.jpg",Radio Sverigekanalen Lyssna 4
+http://78.129.252.13:32591/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-dj-lobo-radio-logo.jpg",DJ LOBO RADIO
+http://streaming.xtservers.com:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-lyssna-2-logo.jpg",Radio Sverigekanalen Lyssna 2
+http://109.169.76.153:34799/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-mediacast-1-logo.jpg",Radio Sverigekanalen Mediacast 1
+http://176.227.215.27:35022/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-2-logo.jpg",Radio Sverigekanalen 2
+http://37.157.242.102:31991/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-favor-radio-sweden-logo.jpg",Favor Radio (Sweden)
+https://a10.asurahosting.com:7660/sweden.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-radio-los-andes-gotemburgo-logo.jpg",Radio Los Andes Gotemburgo
+http://streaming.xtservers.com:8006/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-roslagen-live-logo.jpg",Radio Roslagen Live
+https://radio.daemon.nu/listen/roslagen_live/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-direkt-logo.jpg",Radio Sverigekanalen Direkt
+http://109.169.23.84:26778/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-mix2-logo.jpg",Radio Sverigekanalen Mix2
+http://uk22freenew.listen2myradio.com:24232/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-sverigekanalen-livekanal-logo.jpg",Radio Sverigekanalen Livekanal
+http://78.129.241.110:7445/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-iptn-live-logo.jpg",Radio iptn live
+https://stream2.svrdedicado.org:7252/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/se-blackcomb-radio-logo.jpg",Blackcomb Radio
+https://cast6.asurahosting.com/proxy/mikael/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gold-1024-169820-logo.jpg",Radio Gold 102.4
+http://gold24.xnk.nu:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-knattekanal-178209-logo.jpg",Radio SR Knattekanal
+http://http-live.sr.se/knattekanalen-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alfdeejay-radio-channel-two-601995-logo.jpg",Alfdeejay Radio - Channel Two
+http://us3.ishout.net:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-nord-176540-logo.jpg",Radio Nord
+http://radio.tabyenskilda.se:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/p2-musik-577504-logo.jpg",Radio P2 Musik
+http://http-live.sr.se/p2musik-aac-192
+#EXTINF:-1 tv-logo="",Stockholm Närradio 95,3
+http://radiostreamthree.mine.nu:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-extra-9-180311-logo.jpg",Radio SR Extra 9
+http://http-live.sr.se/srextra09-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-extra-11-178290-logo.jpg",Radio SR Extra 11
+http://http-live.sr.se/srextra11-aac-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-varlden-178204-logo.jpg",Radio SR Varlden
+http://http-live.sr.se/srvarlden-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-kalmar-178004-logo.jpg",Radio SR P4 Kalmar
+http://http-live.sr.se/p4kalmar-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p2-musik-178217-logo.jpg",Radio SR P2 Musik
+http://http-live.sr.se/p2musik-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hallefors-178833-logo.jpg",Radio Hallefors
+http://www.grythyttan.se:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-ostergotland-178161-logo.jpg",Radio SR P4 Ostergotland
+http://http-live.sr.se/p4ostergotland-aac-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eurovision-radio-159464-logo.jpg",EUROVISION RADIO
+http://streaming.radionomy.com:8000/songcontest-radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1026-guldkanalen-163739-logo.jpg",Radio 102,6 Guldkanalen
+http://ice4.radiostreaming.se:8011/gk1026m
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-markaryd-163773-logo.jpg",Radio Markaryd
+http://87.117.201.22:8400/;
+#EXTINF:-1 tv-logo="",MRS, music radio service
+http://radiostreamtwo.no-ip.org:19050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-clubzone-clubbing-247-163948-logo.jpg",Radio Clubzone - Clubbing 24/7
+http://server1.radioclubzone.com/128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-all-nyheter-154838-logo.jpg",Radio SR All Nyheter
+http://http-live.sr.se/alltidnyheter-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-plehan-156242-logo.jpg",Radio Plehan
+http://46.4.213.97:8462
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/neradio-house-trance-164279-logo.jpg",NERadio House & Trance
+http://87.98.145.139
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/neradio-hardstyle-164278-logo.jpg",NERadio Hardstyle
+http://2.hardstyle.nu:443/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alfdeejay-radio-601996-logo.jpg",Alfdeejay Radio
+http://64.34.186.10:9052/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dnb-radio-159156-logo.jpg",Dnb Radio
+http://source.dnbradio.com:8020/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fresh-fm-164817-logo.jpg",Radio Fresh FM
+http://stream.kennet.se/soAAC64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/coola-hits-159206-logo.jpg",Radio Coola Hits
+http://calle.myvnc.com:8000/chits2
+#EXTINF:-1 tv-logo="",Stockholm Närradio 88,0
+http://radiostreamthree.mine.nu:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hit24-165426-logo.jpg",Radio Hit24
+http://usa5-vn.mixstream.net:8084
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nrj-sweden-153911-logo.jpg",Radio NRJ Sweden
+http://mtg-ice.bahnhof.net:8000/nrj
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-karlstad-rocks-172080-logo.jpg",Radio Karlstad Rocks
+http://radio.karlstadrocks.se:8000/;
+#EXTINF:-1 tv-logo="",Stockholm Närradio 101,1
+http://radiostreamone.mine.nu:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kockase-radio-za-sve-173047-logo.jpg",Kocka.Se - Radio Za Sve!!!
+http://kocka.topstream.net:19596/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stockholm-gay-radio-567589-logo.jpg",Stockholm Gay Radio
+http://radiostreamfour.mine.nu:18010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sveriges-radio-p2-177973-logo.jpg",Sveriges Radio P2
+http://http-live.sr.se/p2-aac-192
+#EXTINF:-1 tv-logo="",Radio Mali YugiC
+http://zlobo.bounceme.net:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-10-173973-logo.jpg",Radio 10
+http://radio10.nlab.se:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dkeserverse-radio-174319-logo.jpg",Dkeserver.se Radio
+http://jonnyeriksson.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-baranen-177230-logo.jpg",Radio Baranen
+http://fastlane.dyndns.org/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p3-rockster-178124-logo.jpg",Radio SR P3 Rockster
+http://http-live.sr.se/p3rockster-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-c-178122-logo.jpg",Radio SR C
+http://http-live.sr.se/src-aac-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p3-svea-178126-logo.jpg",Radio SR P3 Svea
+http://http-live.sr.se/p3svea-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p3-street-178125-logo.jpg",Radio SR P3 Street
+http://http-live.sr.se/p3street-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-goteborg-178149-logo.jpg",Radio SR P4 Goteborg
+http://http-live.sr.se/p4goteborg-aac-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-kristianstad-178152-logo.jpg",Radio SR P4 Kristianstad
+http://http-live.sr.se/p4kristianstad-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-sjuharad-178156-logo.jpg",Radio SR P4 Sjuharad
+http://http-live.sr.se/p4sjuharad-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-sormland-178158-logo.jpg",Radio SR P4 Sormland
+http://http-live.sr.se/p4sormland-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-norrbotten-178155-logo.jpg",Radio SR P4 Norrbotten
+http://http-live.sr.se/p4norrbotten-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-kronoberg-178153-logo.jpg",Radio SR P4 Kronoberg
+http://http-live.sr.se/p4kronoberg-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-varmland-178160-logo.jpg",Radio SR P4 Varmland
+http://http-live.sr.se/p4varmland-aac-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-halland-178007-logo.jpg",Radio SR P4 Halland
+http://http-live.sr.se/p4halland-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-dalarna-178005-logo.jpg",Radio SR P4 Dalarna
+http://http-live.sr.se/p4dalarna-aac-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-vasterbotten-177967-logo.jpg",Radio SR P4 Vasterbotten
+http://http-live.sr.se/p4vasterbotten-aac-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-radiosporten-177984-logo.jpg",SR P4 Radiosporten
+http://http-live.sr.se/p4sport-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-gavleborg-178010-logo.jpg",Radio SR P4 Gavleborg
+http://http-live.sr.se/p4gavleborg-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-gotland-178006-logo.jpg",Radio SR P4 Gotland
+http://http-live.sr.se/p4gotland-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-din-gata-178189-logo.jpg",Radio SR Din Gata
+http://http-live.sr.se/dingata-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-extra-2-178205-logo.jpg",Radio SR Extra 2
+http://http-live.sr.se/srextra02-aac-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-atlas-178207-logo.jpg",Radio SR Atlas
+http://http-live.sr.se/sratlas-aac-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-extra-4-178220-logo.jpg",Radio SR Extra 4
+http://http-live.sr.se/srextra04-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-extra-8-178288-logo.jpg",Radio SR Extra 8
+http://http-live.sr.se/srextra08-mp3-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-extra-10-178289-logo.jpg",Radio SR Extra 10
+http://http-live.sr.se/srextra10-aac-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-extra-6-178286-logo.jpg",Radio SR Extra 6
+http://http-live.sr.se/srextra06-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-extra-5-178285-logo.jpg",Radio SR Extra 5
+http://http-live.sr.se/srextra05-mp3-128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-playfactory-177786-logo.jpg",Radio PlayFactory
+http://dab.no:8900/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pop-music-178320-logo.jpg",Radio Pop Music
+http://78.70.155.96:8000/pop
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-african-music-178319-logo.jpg",Radio African Music
+http://radio.servicesbyone.se/african
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/narradion-boden-178431-logo.jpg",Narradion Boden
+http://bodensradio.no-ip.org:8888/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hogsby-178486-logo.jpg",Radio Hogsby
+http://217.25.244.196:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-shqiponja-178949-logo.jpg",Radio Shqiponja
+http://radioshqiponja.dyndns-server.com:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stockholm-vasterort-fm-179771-logo.jpg",Radio Stockholm Vasterort FM
+http://radiostreamone.mine.nu:9050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dcm-179480-logo.jpg",Radio DCM
+http://radiodcm2.no-ip.info:8090/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vinyl-107-178813-logo.jpg",Radio Vinyl 107
+http://icy1.abacast.com/sbsradiosweden-sbsradiosweden6-64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-1075-178814-logo.jpg",Radio 107.5
+http://tx-bauerse.sharp-stream.com/http_live.php?i=749_se_aacp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-extra-7-180257-logo.jpg",Radio SR Extra 7
+http://http-live.sr.se/srextra07-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rock-klassiker-180298-logo.jpg",Radio Rock Klassiker
+http://icy1.abacast.com/sbsradiosweden-sbsradiosweden4-64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/urban-radio-stockholm-80s-156917-logo.jpg",Urban Radio Stockholm 80's
+http://urbanradio.dyndns.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/trafikradionse-592244-logo.jpg",Trafikradion.se
+http://www.gofm.se/sound/offair2.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/are-radio-areradio-577205-logo.jpg",Åre Radio (AreRadio)
+http://radio.aremedia.se:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-jamtland-178150-logo.jpg",Radio SR P4 Jamtland
+http://http-live.sr.se/p4jamtland-aac-192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sveriges-radio-p1-178057-logo.jpg",Sveriges Radio P1
+http://http-live.sr.se/p1-mp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mariestad-180613-logo.jpg",Radio Mariestad
+http://radiomariestad.dyndns.org:8050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-10-classic-180640-logo.jpg",Radio 10 Classic
+http://91.189.47.58:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/one-eleven-radio-180671-logo.jpg",One Eleven Radio
+http://sc1.one-eleven.se:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lidingo-181043-logo.jpg",Radio Lidingö
+http://radio-lidiingo.duckdns.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/red-mercury-181407-logo.jpg",Radio Red Mercury
+http://radio.redmercury.se:8988/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-new-age-music-181757-logo.jpg",Radio New Age Music
+http://78.70.155.96:8000/newage
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-guld-182040-logo.jpg",Radio Guld
+http://audiostream.picsearch.com:8000/radioguld
+#EXTINF:-1 tv-logo="",Soundic Radio
+http://s3.soundicradio.com:8100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hope-fm-sverigesweden-160858-logo.jpg",Radio Hope FM Sverige/Sweden
+http://radio.darub.se/hopefm.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dansbandsdax-577849-logo.jpg",Radio Dansbandsdax
+http://sc.dbd.nu:8358/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-en-vivo-suecia-642780-logo.jpg",Radio en Vivo Suecia
+http://184.154.45.106:8534/;
+#EXTINF:-1 tv-logo="",NERadio Nonstop
+http://ms.neradio.com:5500/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zakaria-music-radio-184660-logo.jpg",Zakaria Music Radio
+http://server54174.uk2net.com:8002/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/laser-fm-183347-logo.jpg",Radio Laser FM
+http://62.88.138.35:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/playdio-184561-logo.jpg",Radio Playdio
+http://scb1.fantis.se:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-umea-184555-logo.jpg",Radio Umea
+http://radioumea.dyndns.info:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-wake-183518-logo.jpg",Radio Wake Up
+http://212.162.177.124:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lite-fm-sweden-154015-logo.jpg",Radio Lite FM Sweden
+http://litefm.mine.nu:8000/aac64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-plus-168757-logo.jpg",Radio Plus
+http://radioplus.sytes.net:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ava-184429-logo.jpg",Radio AVA
+http://89.233.225.16:88/broadwave.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/p3-571666-logo.jpg",Radio P3
+http://http-live.sr.se/p3-mp3-64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dansbandsdaxse-169403-logo.jpg",Radio Dansbandsdax.se
+http://ams02.egihosting.com:8100
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/east-fm-185067-logo.jpg",Radio East FM
+http://stream.dbmedia.se/eastfm48
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tekno-cool-175415-logo.jpg",Radio Tekno Cool
+http://rs1.stream24.org:8100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/piratradio-great-169521-logo.jpg",Piratradio Is Great
+http://piratradio.dyndns.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiosiljan-169524-logo.jpg",radiosiljan
+http://62.101.38.171:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/k-103-169666-logo.jpg",Radio K 103
+http://130.241.172.94:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/crystalone-talk-579690-logo.jpg",Radio CrystalOne - Talk
+http://www.crystalone.net/plgen.php?id=2u0026mode=plsu0026id=2u0026mode=pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-p4-vasternorrland-177969-logo.jpg",Radio SR P4 Västernorrland
+http://http-live.sr.se/p4vasternorrland-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-skelleftea-169730-logo.jpg",Radio Skelleftea
+http://u1.radioskelleftea.se:8020/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-seven-161628-logo.jpg",Radio Seven
+http://sc5.radioseven.se:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/crystalone-christmas-582422-logo.jpg",Radio CrystalOne - Christmas
+http://www.crystalone.net/plgen.php?id=1u0026mode=plsu0026id=1u0026mode=pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/musikmixen-186217-logo.jpg",Radio MusikMixen
+http://mobil-radiomg.no-ip.biz:9000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gbs-fm-goon-radio-587032-logo.jpg",GBS-FM Goon Radio
+https://gbs.fm/192
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-faryad-588816-logo.jpg",Radio Faryad
+http://narradio.se/webbradio.php?k=101u0026q=64u0026m=m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/countrykanalen-sweden-588522-logo.jpg",Radio Countrykanalen Sweden
+http://eu2.fastcast4u.com:3326/;
+#EXTINF:-1 tv-logo="",Are Radio 96
+http://217.198.148.101/;

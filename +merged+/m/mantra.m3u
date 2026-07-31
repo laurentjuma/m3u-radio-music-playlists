@@ -31,8 +31,6 @@ http://akalmultimedia.net:8000/srkan
 https://c22.radioboss.fm:18291/stream
 #EXTINF:-1,Radio Art - Mantras
 http://air.radioart.com/fMantras.mp3?dlid=
-#EXTINF:-1,2B! Radio Sangam Ganesha
-http:/http:/adio2bindia.out.airtime.pro:8000http:/adio2bindia_a
 #EXTINF:-1,2B! Radio Sangam Guruvar
 http://iskon2b.out.airtime.pro:8000/iskon2b_a
 #EXTINF:-1,2B! Radio Sangam Krishna
@@ -47,3 +45,35 @@ http://hot.out.airtime.pro:8000/hot_a
 http://streamlky.alsolnet.com:443/mantrafm
 #EXTINF:-1,Radio Caprice - Indian Spiritual Music - 320 - The Russian Federation - ethnic - folk - mantra - spiritual
 http://213.141.131.10:8004/mantras
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44222/logo_kLspfro7p3.png",Alternativa Radio
+https://audio.bild-und-ton.stream:16162/alternativaradio-en
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44235/logo_1clf9wqxlp.png",Alternativa Radio
+https://audio.bild-und-ton.stream:16162/alternativaradio-pt
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44225/logo_qb5rcUJia4.png",Alternativa Radio
+https://audio.bild-und-ton.stream:16162/alternativaradio-es
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44209/logo_8K7LiWqx8M.png",Alternativa Radio
+https://audio.bild-und-ton.stream:16162/alternativaradio-fr
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004161/logo_j9K9QW16oT.jpg?v=20260529-media-restore",Радио Мантра
+https://c22.radioboss.fm:18291/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008082/logo_1bFSUkTH7d.jpg?v=20260529-media-restore",Indian Classical Caprice
+http://79.111.14.76:8002/indianfolk
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/64841/logo_8zOUN81GtT.jpg?v=20260529-media-restore",Esoterica.FM Mantras
+https://radio.esoterica.fm.br/8002/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82629/logo_osF78YmnvG.jpg?v=20260529-media-restore",Radio Sai FM Telugu
+https://stream.sssmediacentre.org:8443/telugu
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82626/logo_Gy0xr243aZ.jpg?v=20260529-media-restore",24/7 Radio Sarab Rog Ka Aukhad Naam
+http://akalmultimedia.net:8000/srkan
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82297/logo_S9Q6tsKtt1.jpg?v=20260529-media-restore",Gurdwara Dukh Niwaran Sahib Ludhiana
+http://akalmultimedia.net:8000/GDNSLDH
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53322/logo_M1fMjZkKvQ.jpg?v=20260529-media-restore",Chakra Angels radio
+https://kathy.torontocast.com:3035/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97381/logo_qpzSdFNWAz.jpg?v=20260529-media-restore",ISKCON - Los Angeles Temple Live
+https://nap.casthost.net/proxy/john1238/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44222/logo_xvyBc8IjMi.jpg?v=20260529-media-restore",Alternativa Radio
+https://audio.bild-und-ton.stream:16162/alternativaradio-en
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44209/logo_clEHa9Fp6x.jpg?v=20260529-media-restore",Alternativa Radio
+https://audio.bild-und-ton.stream:16162/alternativaradio-fr
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44225/logo_fJa5uBfd8z.jpg?v=20260529-media-restore",Alternativa Radio
+https://audio.bild-und-ton.stream:16162/alternativaradio-es
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44235/logo_xl9dj8ZUI9.jpg?v=20260529-media-restore",Alternativa Radio
+https://audio.bild-und-ton.stream:16162/alternativaradio-pt

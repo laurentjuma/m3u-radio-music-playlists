@@ -427,3 +427,117 @@ http://mu1stream.mushost.com:8230/
 http://uk24freenew.listen2myradio.com:13769/
 #EXTINF:-1,Antenna Web Port Louis
 https://italiavera.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1THP6T.png",Aryon Air
+https://www.radioking.com/play/aryon-air-4
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/I3Y59W.png",GRF Web Radio
+https://www.radioking.com/play/global-rainbow-foundation-web-radio/194872
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KM18AO.png",LOUANGE MAURICE
+https://www.radioking.com/play/louange-maurice
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/36Q8LB.png",radio230
+http://listen.shoutcast.com/radio230webradio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79456/logo_1SpPDZv2jH.png",Radio One
+http://centova57.instainternet.com:9278/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79454/logo_0hEBxqrrXk.png",Top FM Radio
+http://s3.voscast.com:10152/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79469/logo_pDhscPxBA4.png",OUI Radio
+https://mu2stream.mushost.com:9443/index.html
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79475/logo_g1KGMVlOek.png",Antenna Web Port Louis Radio
+https://tinyurl.com/Antenna-Web-Port-Louis
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79476/logo_csGEQWyiCd.png",Best of Music Radio
+https://s4.voscast.com:8929/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79468/logo_fXgsy1RKSQ.png",Wazaa FM Radio
+https://listen.radioking.com/radio/660412/stream/724168
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79467/logo_mfy16jbBYN.png",Faith Radio
+http://mu1stream.mushost.com:8230/stream
+#EXTINF:-1,Radio Plus Mauritius 
+https://stream.radioplus.mu:8000/radio.mp3
+#EXTINF:-1,Top FM 
+https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Biker Hart Radio - Mauritius - Quatre Bornes
+https://edge.iono.fm/xice/158_medium.mp3
+#EXTINF:-1,FERadio - Mauritius - Port Mathurin
+https://stream.zeno.fm/xesauwewfzzuv
+#EXTINF:-1,HitFM Mauritius - Mauritius - Port Louis
+https://stream.zeno.fm/8e5h28q71bwtv
+#EXTINF:-1,Nouradio - Mauritius - Accacia
+https://stream.zeno.fm/y16v3p6qgzzuv
+#EXTINF:-1,NRJ Maurice FM 92.4 - Mauritius - Port Louis
+https://scdn.nrjaudio.fm/mu/55802/aac_64.mp3?cdn_path=adswizz_lbs11&adws_out_2&access_token=b0dc2605dc524fa2aff43a5f9dad9527
+#EXTINF:-1,Radio Moris - Mauritius - Port Louis
+https://azc.radiomoris.com:8010/radio.mp3
+#EXTINF:-1,Radio One FM 100.8 - Mauritius - Port Louis
+https://centova57.instainternet.com/proxy/radiofm/stream
+#EXTINF:-1,Radio Plus FM 88.6 - Mauritius - Port Louis
+https://stream.radio.co/s8cc7a5da4/listen
+#EXTINF:-1,Radio7Mauritius - Mauritius - Ebène
+https://ec1.yesstreaming.net:2380/stream
+#EXTINF:-1,Tamizen Radio - Mauritius - Port Louis
+https://c34.radioboss.fm:18023/autodj
+#EXTINF:-1,Wazaa FM 100.5 - Mauritius - Quatre Bornes
+https://listen.radioking.com/radio/660412/stream/724168
+#EXTINF:-1,Zero Alpha Radio - Mauritius - Port Louis
+https://listen.spacial.com/api/listen/?sid=5692&method=sc&rid=853926
+#EXTINF:-1 tv-logo="",MBC Radio Rodrigues
+http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/rodfm.m3u8
+#EXTINF:-1 tv-logo="",Jarsor Mizik Radio
+http://72.55.149.162:5807/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zero-alpha-608066-logo.jpg",Radio Zero Alpha
+http://samcloud.spacial.com/api/listen?sid=5692u0026rid=122149
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/porneswarradio-611849-logo.jpg",PorneswarRadio
+http://listen.spacial.com/api/listen/?sid=56772u0026method=scu0026rid=1133913
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fullfaya-mauritius-613820-logo.jpg",Radio FULLFAYA MAURITIUS
+http://87.117.193.10:8400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/maurimizik-web-radio-601412-logo.jpg",Maurimizik Web Radio
+http://194.145.209.121:9998/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mauriclub-627887-logo.jpg",Radio Mauriclub
+http://91.121.134.80:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-one-la-radio-de-linfo-578046-logo.jpg",Radio One - La radio de l'info
+http://151.80.44.127:8022/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dreamsky-fresh-hit-588515-logo.jpg",Radio DreamSky - Fresh Hit
+http://151.80.44.127:8248/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/i-netradio-591404-logo.jpg",i-netradio
+http://176.31.239.83:8451/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hits-fm-mauritius-596014-logo.jpg",Radio Hits FM Mauritius
+http://node-11.zeno.fm/8e5h28q71bwtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ensam-nu-kapav-online-radio-605761-logo.jpg",Ensam Nu Kapav Online Radio
+http://ensamnukapav.mu/online-radio/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/galaxy-webradio-615630-logo.jpg",Galaxy - Webradio
+http://151.80.44.127:8024/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rock-mauritius-radio-594560-logo.jpg",Rock Mauritius Radio
+https://stream.radiojar.com/2v1ydmukb
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mu-gigairc-paradise-radio-logo.jpg",GigaIRC Paradise Radio
+http://r.gigairc.com:7240/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mu-zero-alpha-radio-logo.jpg",Zero Alpha Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM10AAC078_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mu-oui-radio-logo.jpg",OUI Radio
+http://mu1stream.mushost.com:8080/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mu-radio-mystere-logo.jpg",Radio Mystere
+https://puma.streemlion.com:2570/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mu-kirpip-radio-logo.jpg",Kirpip Radio
+http://radio7.pro-fhi.net:9187/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mu-faith-radio-logo.jpg",Faith Radio
+http://mu1stream.mushost.com:8230/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mu-top-djs-mauritius-logo.jpg",Radio Top Dj's Mauritius
+http://freeuk19.listen2myradio.com:29730/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mu-maurinews-radio-logo.jpg",Maurinews Radio
+http://uk3freenew.listen2myradio.com:17968/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiomoris-576761-logo.jpg",RadioMoris
+http://cc.radiomoris.com/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ado-hd-163368-logo.jpg",Radio ADO (HD)
+http://208.109.205.114:8018/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-158985-logo.jpg",Fun Radio
+http://76.73.125.26:8077
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/paradise-mauritius-159606-logo.jpg",Radio Paradise Mauritius
+http://r1.gigairc.net:8030
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-noutizil-175161-logo.jpg",Radio NouTiZil
+http://74.86.230.34:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ado-165941-logo.jpg",Radio ADO
+http://91.121.29.104:8144/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/basemu-165962-logo.jpg",Radio base.mu
+http://208.109.205.114:8030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-priyawaanie-180896-logo.jpg",Radio Priyawaanie
+http://66.90.73.200:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nu-radio-180905-logo.jpg",Nu Radio
+http://91.121.29.128:8048/;

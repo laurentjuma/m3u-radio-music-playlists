@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Celt Rock Radio Live
-https://jenny.torontocast.com:8074/stream
-#EXTINF:-1,Celtic Moon
-https://jenny.torontocast.com:8096/stream
+#EXTINF:-1,radiorogue
+http://185.91.116.175:8000/login

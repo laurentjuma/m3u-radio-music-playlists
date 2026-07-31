@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Narrenwut
 https://mittelalter-net.stream.laut.fm/mittelalter-net
+#EXTINF:-1,DarkRadio
+https://radiohit80.spcast.eu/?time=1780842842
 #EXTINF:-1,Radio Monacensis
 https://monacensis.stream.laut.fm/monacensis
 #EXTINF:-1,CIA Radio

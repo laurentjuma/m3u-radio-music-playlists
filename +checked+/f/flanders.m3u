@@ -3,8 +3,6 @@
 https://22733.live.streamtheworld.com:443/NOSTALGIEWHATAFEELING.mp3
 #EXTINF:-1,One World Radio
 https://25533.live.streamtheworld.com:443/OWR_INTERNATIONAL.mp3
-#EXTINF:-1,Goldies Radio
-http://5.63.151.52:7064/stream
 #EXTINF:-1,Q-Music
 https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
 #EXTINF:-1,C-Dance
@@ -12,15 +10,11 @@ https://s45.myradiostream.com/:18304/;
 #EXTINF:-1,Radio FG
 https://n05a-eu.rcs.revma.com/5wesqhfap98uv?rj-ttl=5&rj-tok=AAABiLPva70AXtwb56tQnH1F7Q
 #EXTINF:-1,De Jukebox
-https://free.rcast.net/66592
+https://s35.myradiostream.com:14472/listen.mp3?nocache=1780907205
 #EXTINF:-1,Radio FM Gold
 http://fmgold.mvserver.be:3181/;
-#EXTINF:-1,CROOZE.fm - The Original
-https://streaming.shoutcast.com/crooze-aac
 #EXTINF:-1,FG-Xtra
 https://n20a-eu.rcs.revma.com/w33p2cfap98uv?rj-ttl=5&rj-tok=AAABiLQPlXsAgvkaXYOEWi68Rg
-#EXTINF:-1,CROOZE smooth jazz
-https://streaming.shoutcast.com/smoothjazz-crooze-aac
 #EXTINF:-1,Radio FG Deep &amp; Dance
 https://n17a-eu.rcs.revma.com/tmbhq479n98uv?rj-ttl=5&rj-tok=AAABiq2-2zIAqoPw4c63STyUCA
 #EXTINF:-1,Radio FG Underground
@@ -31,10 +25,10 @@ https://icecast-qmusicbe-cdp.triple-it.nl/willy.aac
 https://n19a-eu.rcs.revma.com/5kucq079n98uv?rj-ttl=5&rj-tok=AAABiq2-2vYAnp5pEsV306w8JA
 #EXTINF:-1,ZZROCK
 https://axtran.radioca.st/stream
-#EXTINF:-1,CROOZE easy
-https://streaming.shoutcast.com/easy-crooze-aac
 #EXTINF:-1,Vlaamse Wonderjaren
 https://c16.radioboss.fm:8096/stream
+#EXTINF:-1,Radio Kompas
+https://mediaserv33.live-streams.nl:8052/
 #EXTINF:-1,La Classica
 http://stream.laclassica.be:8023/stream2
 #EXTINF:-1,Belgian Dance Radio
@@ -53,16 +47,12 @@ https://play.citymusic.be/citymusic.mp3
 https://play.ajoinmusic.be/ajoinmusic.mp3
 #EXTINF:-1,Radio FG Starter
 https://n06a-eu.rcs.revma.com/vww68g69n98uv?rj-ttl=5&rj-tok=AAABiq2-2w8AH0h4N9bPL2ey2w
-#EXTINF:-1,CROOZE lounge
-https://streaming.shoutcast.com/lounge-crooze-aac
 #EXTINF:-1,Radio Paloma
 https://ex52.voordeligstreamen.nl/8054/stream
-#EXTINF:-1,CROOZE dinner
-https://streaming.shoutcast.com/dinner-crooze-aac
 #EXTINF:-1,Q-Foute Radio
 https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.mp3
-#EXTINF:-1,Radio Barbier
-http://server5.radio-streams.net:8095/stream
+#EXTINF:-1,Radio Only Music
+https://onlymusic.stream.laut.fm/onlymusic
 #EXTINF:-1,MooyZo
 https://play.mooyzo.be/mooyzo.mp3
 #EXTINF:-1,TROS FM Belgium
@@ -71,12 +61,12 @@ https://s16.myradiostream.com/:9362/;
 http://stream03.level27.be/;stream.ogg
 #EXTINF:-1,Sea Fun
 https://seafun.radioca.st/stream
-#EXTINF:-1,CROOZE christmas
-https://streaming.shoutcast.com/xmas-crooze-aac
 #EXTINF:-1,Radio Stad
 https://shoutcast2.wirelessantwerpen.be/stad/live
 #EXTINF:-1,Radio I.R.O
 http://www.stadsradio-iro.be:3001/;
+#EXTINF:-1,Radio Internazionale
+https://ice07.fluidstream.net/fluid713.aac?FLID=8&type=.aac
 #EXTINF:-1,Willy Class X
 https://icecast-qmusicbe-cdp.triple-it.nl/willy-class-x.mp3
 #EXTINF:-1,Radio GRK
@@ -99,12 +89,16 @@ http://caster05.streampakket.com:8928/stream/1/
 https://shoutcast2.wirelessbelgie.be/zuidrand/;audio.mp3
 #EXTINF:-1,Music Stars - Gold
 https://server.musicstars.online/listen/gold/live
-#EXTINF:-1,Menense Radio
-https://molnartje2.radioca.st/;
+#EXTINF:-1,Hitcity Radio
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Q-Music non-stop
+https://icecast-qmusicbe-cdp.triple-it.nl/q-maximum-hits.mp3
 #EXTINF:-1,RWL-Event radio
 http://s20.myradiostream.com:8090/;
 #EXTINF:-1,2dance
 https://webradiobe.be/listen/2dance/2dance128.mp3
+#EXTINF:-1,Radio Gemini
+http://stream.twinmedia.be:8700/;stream.nsv
 #EXTINF:-1,Music Stars - Feel Young Again
 https://server.musicstars.online:8120/live
 #EXTINF:-1,Jess FM
@@ -121,8 +115,6 @@ http://orion.shoutca.st:8079/;
 http://philae.shoutca.st:8388/;
 #EXTINF:-1,Music Stars - 100% Retro
 https://server.musicstars.online/listen/100procentretro/listen
-#EXTINF:-1,Angel Radio Limburg Live
-https://sonixcast.ssl-stream.com/angelradio
 #EXTINF:-1,Radio Ariane
 http://caster04.streampakket.com:8862/stream
 #EXTINF:-1,Radio Hoeselt
@@ -133,8 +125,6 @@ https://s44.myradiostream.com/:8612/listen.MP3
 https://stream.bem-heaven.be/
 #EXTINF:-1,Omroep Neteland
 https://media1.hostin.cc/omroepneteland.mp3
-#EXTINF:-1,RDG Music
-http://bluford.torontocast.com:8070/stream
 #EXTINF:-1,S Music
 http://smusic.stream.laut.fm/smusic
 #EXTINF:-1,Focus Fantastic

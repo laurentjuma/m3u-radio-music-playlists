@@ -13,6 +13,8 @@ https://ssl.servereradio.ro/7000/stream
 http://live.radiolautaru.ro:9000/Stream
 #EXTINF:-1,Napoca FM
 https://streaming.napocalive.ro/napoca-fm
+#EXTINF:-1,Play Urban
+https://live.playradio.org:8443/UrbanHD
 #EXTINF:-1,PlayMusic FM
 http://stream.playmusicfm.info:9000/;
 #EXTINF:-1,YOU FM Romania
@@ -35,13 +37,7 @@ http://live.gofm.ro:9128/;
 https://live.kissfm.ro/kissfm.aacp
 #EXTINF:-1,Radio Tequila Hip-Hop
 http://necenzurat.radiotequila.ro:7000/;
-#EXTINF:-1,Fresh FM
-https://radio.onlinehost.ro/listen/freshfm/radio.mp3
 #EXTINF:-1,Radio Funky
 http://live.radiofunky.ro:8888/
 #EXTINF:-1,Radio Petrecere
 http://petrecere.fmradiomanele.ro:8123/
-#EXTINF:-1,Radio Prahova 99.2 FM
-http://streamx.rph.ro:8002/relay
-#EXTINF:-1,Shuffle FM
-http://bluz.ro:8000/

@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Radio Acktiva
-https://24403.live.streamtheworld.com:443/RADIO_ACTIVAAAC.aac
-#EXTINF:-1,Radio Policia Bogotá
-http://95.111.251.90:8185/stream
-#EXTINF:-1,Acuario Estéreo
-https://27393.live.streamtheworld.com:443/ACUARIO.mp3
 #EXTINF:-1,Los 40
 https://26643.live.streamtheworld.com:443/LOS40_COLOMBIAAAC.aac
 #EXTINF:-1,La X Mas Musica
@@ -21,12 +15,12 @@ http://163.172.198.16:8014/;stream.mp3
 https://supresenciaradio.out.airtime.pro/supresenciaradio_a
 #EXTINF:-1,Radio Maria
 http://dreamsiteradiocp.com:8076/;
+#EXTINF:-1,La Voz de Bogotá
+https://tupanel.info:2000/stream/lavozdebogota/stream
 #EXTINF:-1,Emisora Minuto de Dios
 https://sp4.colombiatelecom.com.co/8002/stream
 #EXTINF:-1,Tropirumba FM
 https://server2.ejeserver.com:8070/live
-#EXTINF:-1,La Kantina Online
-http://163.172.198.16:8417/stream?1537947549886.mp3
 #EXTINF:-1,La Vallenata Fm
 https://server2.ejeserver.com:8360/stream
 #EXTINF:-1,La Rompe Stereo
@@ -77,50 +71,42 @@ https://server2.ejeserver.com:8078/live?ext=.mp3
 https://laradiossl.online:10592/;stream.nsv
 #EXTINF:-1,BCRadio
 https://whmsonic.playerfullhd.com/8088/;
-#EXTINF:-1,Colombia Sports Radio
-https://cursos.colombiasports.net/content/audio/get/18370
-#EXTINF:-1,EMITC La Salle
-http://emisora.itc.edu.co:8000/;
 #EXTINF:-1,Ciudad Salsera
 http://sonicpanel.globalstream.pro:8012/stream
+#EXTINF:-1,Ondambiental Stereo
+https://virtualtronics.net/proxy/ondambientalstereo?mp=/stream
 #EXTINF:-1,Yotuve.org
 https://play14.tikast.com:22030/stream
 #EXTINF:-1,Bunka Radio
 http://play14.tikast.com:9009/index.html/;
 #EXTINF:-1,La Consentida 89.3 fm
 https://stream2.305stream.com/proxy/client128?mp=/stream
-#EXTINF:-1,Radio Wesley
-http://streamingraddios.online:10054/;
-#EXTINF:-1,Estudio Radio Tv
-https://streaming.radiosenlinea.com.ar/8884/stream
 #EXTINF:-1,Expresiones Colombia Radio
 https://tustreamingradios2.com/8042/stream
 #EXTINF:-1,Radio Innovación Virtual
 http://51.15.160.78:8154/stream
 #EXTINF:-1,La Voz del Universo
 https://cloudstream2030.conectarhosting.com/8176/stream
-#EXTINF:-1,Tropicalisimo Stereo
-http://stream.playerlive.info:8128/live.aac
 #EXTINF:-1,RCCRADIO.FM
 https://sp4.colombiatelecom.com.co/8046/stream
 #EXTINF:-1,Jala Stereo
 https://server2.ejeserver.com:8074/live
 #EXTINF:-1,Energia Radio
 http://51.15.160.78:8039/;
-#EXTINF:-1,La Stacion Del Rock
-http://163.172.77.142:8231/index
 #EXTINF:-1,La Voz del Seminario Virtual
 http://209.126.119.28:8777/;
 #EXTINF:-1,Mi voz FM
 http://mivozfm.usuarios.space:8074/live
-#EXTINF:-1,Rumba Mix
-http://163.172.77.142:9078/index
+#EXTINF:-1,Cool D Radio Electronica
+http://209.126.119.28:8032/stream
 #EXTINF:-1,Mivallenata.com
 http://51.15.160.78:8470/;
 #EXTINF:-1,Pedraza Estereo
 http://sonic.paulatina.co/8098/stream
 #EXTINF:-1,Sintopia Radio-Universidad Central
 https://s5.radio.co/s80cb52a5b/listen
+#EXTINF:-1,MegaMixRadio
+https://sonic.cloudstreaming.eu:10912/stream
 #EXTINF:-1,ESCENARIO RADIO
 https://escenario.usta.edu.co/esr/
 #EXTINF:-1,EnCanTaDoraS XsiemprE
@@ -133,5 +119,9 @@ http://24493.live.streamtheworld.com:80/CARACOL_RADIOAAC_SC
 https://stream.radio.co/s978e5f6bd/listen
 #EXTINF:-1,Su Presencia
 http://supresenciaradio.out.airtime.pro:8000/supresenciaradio_a
+#EXTINF:-1,Radio Nacional de Colombia|RTVC
+https://streaming.rtvc.gov.co/Radio_Radionacional/Radionacional.stream/playlist.m3u8
+#EXTINF:-1,Selecta Stereo Colombia
+https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,LA PANTERA MIX
 https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&port=8869&type=s1

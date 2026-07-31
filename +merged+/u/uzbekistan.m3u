@@ -247,3 +247,41 @@ https://worldradio.online/proxy/?q=http://ns10.jethost.uz:8000/yoshlarovoziaac
 https://worldradio.online/proxy/?q=http://213.230.109.7:9000/alo_low
 #EXTINF:-1,Sezam FM - Pop Hits from Uzbekistan
 https://worldradio.online/proxy/?q=http://sezamfm.com:8000/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",UZR4 Do'stlik
+http://eldoradiolive.newmedia.lu:80/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82711/logo_K15R2IJfVJ.png",Qalbim Navosi Radio
+https://live.qalbimnavosi.uz/qalbimnavosi
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82717/logo_SSETmHI4wG.png",Radio Markaz Online
+http://mediamarkaz.com:8000/radiomarkaz
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82712/logo_ATROgomp3n.png",DUSHANBE NAVO Radio
+http://uk20freenew.listen2myradio.com:9428/
+#EXTINF:-1,Yoshlar Ovozi  
+http://ns10.jethost.uz:8000/yoshlarovoziaac
+#EXTINF:-1,alghad FM 
+http://s10.voscast.com:9410/
+#EXTINF:-1,The Holy Quran  by Sheikh Mahmoud Al-Husari 
+https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
+#EXTINF:-1,Islom.uz 
+https://radio.islom.uz/islomuz
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Islom.uz - Uzbekistan - Tashkent
+https://radio.islom.uz/islomuz
+#EXTINF:-1,Pink Unicorn Radio - Uzbekistan - Samarkand
+https://listen6.myradio24.com/unicorn
+#EXTINF:-1,Quran.uz radio - Uzbekistan - Tashkent
+https://radio.islom.uz/quranuz
+#EXTINF:-1,Radio Maxima 105.4 FM - Uzbekistan - Tashkent
+https://classicfm.uz:8444/maxima.ogg
+#EXTINF:-1,Radio Uzbegim Taronasi FM 101.0 - Uzbekistan - Tashkent
+https://fm101.uz:9943/fm101_low.aac
+#EXTINF:-1,See The Sea FM - Uzbekistan - Samarkand
+https://listen5.myradio24.com/seethesea
+#EXTINF:-1,Радио нулевых 2000s - Uzbekistan - Samarkand
+https://stream.zeno.fm/fwstad5837zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oriat-dono-619458-logo.jpg",Radio Oriat Dono
+http://fm.narod.uz:8012/dono
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uz-radio-uzbekfm-logo.jpg",Radio РАДИО "Uzbek.FM"
+http://yayin.turkhosted.com:7034/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uzbekfm-601625-logo.jpg",Radio Uzbek.FM
+http://yayin.turkhosted.com:7034/;

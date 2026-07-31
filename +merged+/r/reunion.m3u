@@ -339,12 +339,6 @@ http://stric6.streamakaci.com/entredeuxfm.mp3
 http://leport974radioweb.ice.infomaniak.ch/le-port-974-radio-web.aac
 #EXTINF:-1,Radio Coloris
 http://www.radioking.fr/play/radio-coloris
-#EXTINF:-1,La Réunion 1ère
-https:/http:/eunion.ice.infomaniak.chhttp:/eunion-128.mp3
-#EXTINF:-1,Radio Reunion Mix
-http:/http:/adio13.pro-fhi.net:9067/;stream.nsv
-#EXTINF:-1,TOP FM (ile de la Réunion)
-https:/http:/adio6.pro-fhi.nethttp:/adio/9070/stream
 #EXTINF:-1,Radio Des Makes
 https://ecmanager2.pro-fhi.nethttp:/adiodesmakes
 #EXTINF:-1,Tzgospel Swahili (Reunion)
@@ -353,3 +347,75 @@ https://stream-149.zeno.fm/uk96v331nfhvv?zs=spLfJEZaQ8i_wM308rosqA
 http://185.52.127.131/fr_re/55731/mp3_128.mp3?adws_out_a2&access_token=96a93e62a823483c839ae68e40951f1a
 #EXTINF:-1,Exo FM - 64 - Reunion - 
 https://exofmreunion.ice.infomaniak.ch/exofmreunion-64.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78110/logo_7ceX618iNx.png",102FM (Réunion) Radio
+https://ecmanager4.pro-fhi.net/102fmoriginale
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78106/logo_A0FkHrwoYd.png",Radio Frysson
+https://ecmanager.pro-fhi.net/radiofrysson2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78102/logo_nlxRNMqXDz.png",Radio Reunion Mix
+http://radio13.pro-fhi.net:9067/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/78112/logo_V0ltHDNbtC.png",Antenna Web Saint-Denis Radio
+https://tinyurl.com/AntennaWebSaint-Denis
+#EXTINF:-1,louange radio  
+https://radio13.pro-fhi.net:19079/
+#EXTINF:-1,Antenne Réunion Radio 
+https://rtlre.ice.infomaniak.ch/rtlre-64.aac
+#EXTINF:-1,Love Hit Reunion  
+https://stream.zeno.fm/wcfjkonehdlvv.mp3
+#EXTINF:-1,Le passage du chat blanc 
+https://play.radioking.io/wa-ho
+#EXTINF:-1,MaronRfm 
+https://listen.radioking.com/radio/331087/stream/379402
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bibass-radio-596137-logo.jpg",Bibass Radio
+http://stream.radiojar.com/29rh2cqkb.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-plus-fm-170618-logo.jpg",Radio Plus FM
+http://91.121.107.206:8500/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/reunion-la-1ere-568046-logo.jpg",Radio Réunion La 1ère
+http://radios.la1ere.fr/reunion
+#EXTINF:-1 tv-logo="",Radio Freedom
+http://91.197.137.147:443/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/louange-reunion-641027-logo.jpg",Radio LOUANGE REUNION
+https://www.radioking.com/play/louange-reunion-2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tonus-reunion-174069-logo.jpg",Radio Tonus Réunion
+http://94.23.24.24:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-star-174720-logo.jpg",Radio Star
+http://str45.streamakaci.com:7170/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pikan-577724-logo.jpg",Radio Pikan
+http://165.169.22.250:8005/Radio-Pikan-TV.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfm-reunion-595164-logo.jpg",Radio RFM Réunion
+http://176.31.250.169:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pitesti-626887-logo.jpg",Radio Pitesti
+http://radiopitesti.ascultatare.ro:9330/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-3-sud-est-626889-logo.jpg",Radio 3 SUD EST
+http://radio3se.ascultatare.ro:9320/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-optimum-fm-974-643871-logo.jpg",RADIO OPTIMUM FM 974
+http://87.117.208.118:30846/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/re-hits-1-reunion-logo.jpg",Radio Hits 1 Réunion
+https://radio4.pro-fhi.net/radio/9013/hits1OM.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/re-radio-reunion-mix-logo.jpg",Radio Reunion Mix
+http://radio13.pro-fhi.net:9067/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/re-frequence-sud-radio-logo.jpg",Fréquence Sud Radio
+http://ecmanager5.pro-fhi.net:2060/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/re-radio-tropical974-logo.jpg",radio tropical974
+https://stream.zeno.fm/roabtiav88nvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/run-city-fm-178733-logo.jpg",Radio Run City FM
+http://listen.radionomy.com/run-city-974
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rjl-radio-597707-logo.jpg",RJL Radio
+http://51.15.166.181:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fun-radio-reunion-162862-logo.jpg",Fun Radio Reunion
+http://funradio.streamakaci.com:80/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vie-reunion-176110-logo.jpg",Radio Vie Reunion
+http://str80.streamakaci.com:7340/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfo-reunion-176937-logo.jpg",Radio RFO Reunion
+http://mp3.live.tv-radio.com/rfo/all/rfo_reunion-128k.mp3
+#EXTINF:-1 tv-logo="",Radio Vie
+http://91.197.138.3:7340
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/antenne-reunion-radio-167800-logo.jpg",Antenne Réunion Radio
+http://antennereunion.streamakaci.com:80/;
+#EXTINF:-1 tv-logo="",Radio Nostalgie
+http://91.197.138.9:7370
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/le-studio-75-183372-logo.jpg",Radio Le Studio 75
+http://88.191.98.39:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/velly-music-161797-logo.jpg",Radio Velly Music
+http://91.121.50.147:8400/;

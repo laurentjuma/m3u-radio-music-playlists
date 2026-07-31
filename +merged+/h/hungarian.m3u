@@ -1705,12 +1705,6 @@ https://stream.rcast.net/5763
 https://stream.rcast.net/15329
 #EXTINF:-1,Mercy - Kabaré Magyar Rádió
 http://stream.mercyradio.eu/kabare.mp3?38138018
-#EXTINF:-1,Jazzy
-https:/http:/adio.musorok.org/listen/jazzy/jazzy.mp3
-#EXTINF:-1,Mercy Magyar Rádió
-http:/http:/adio.pestikabare.hu/
-#EXTINF:-1,Mix FM
-http:/http:/adio.mixfm.hu/
 #EXTINF:-1,Laza Rádió - Mulatós
 https://n09a-eu.rcs.revma.com/wevb267khf9uv?rj-ttl=5&rj-tok=AAABiLQGTTwAelCQcpLWiOTtcQ
 #EXTINF:-1,BDPST ROCK
@@ -1777,8 +1771,6 @@ http://civilradio.hu:8000/listen1.mp3/;
 https://szkrcast.ddns.nethttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,Deejay Rádió
 https://stream.mexradio.hu:8014/deejay
-#EXTINF:-1,EFM Station
-https:/http:/adioe.net:8443/efm_high
 #EXTINF:-1,Regina Rádió Győr
 http://cast1.my-control-panel.com:7490/live
 #EXTINF:-1,Szent Istvan
@@ -1791,14 +1783,10 @@ https://mediagw.e-tiger.net/stream/goldhq
 http://live.taskaradio.com:7070/;
 #EXTINF:-1,Rise FM Deep
 https://stream1.virtualisan.net/prx/8080http:/isefm_deephouse_hq
-#EXTINF:-1,Eper FM
-http:/http:/adio.elte.hu:8000/eper97
 #EXTINF:-1,Radió 24
 http://s01.diazol.hu:10030/live.mp3
 #EXTINF:-1,Mercy - Románo Ungriko Rádiovo (autentikus)
 http://stream.mercyradio.eu/mercyradio.mp3?39856680
-#EXTINF:-1,TelStar
-http:/http:/adio.telstar.hu/
 #EXTINF:-1,Lakihegy
 http://stream.composeit.hu:8300/;
 #EXTINF:-1,Tilos Mese Radio
@@ -1811,8 +1799,6 @@ https://mediagw.e-tiger.net/stream/zc10
 https://ssl.radios.show/8016/stream
 #EXTINF:-1,Mex Rádió KPOP
 https://stream.mexradio.hu:8014/kpop
-#EXTINF:-1,Smile
-http:/http:/adiosmile.hu:8010/stream
 #EXTINF:-1,Szentendre
 http://92.61.114.191:13040/stream?type=http&nocache=323676;&type=mp3
 #EXTINF:-1,Siculus Radio
@@ -1841,10 +1827,6 @@ https://mediagw.e-tiger.net/stream/zc05
 http://instrumental.nosztalgiaradio.eu:8000/instrumental.mp3
 #EXTINF:-1,Rise FM R&#039;n&#039;B
 https://stream1.virtualisan.net/prx/8080http:/isefm_rnb_hq
-#EXTINF:-1,Live Radio - Crazy Klub
-https:/http:/adio.nnkcrazyclub.hu:8002/crazyklub
-#EXTINF:-1,AdventNET Rádió
-http:/http:/adio.adventnet.hu:8000/stream
 #EXTINF:-1,Radio X
 http://streamradiox.hu:8400/live2.mp3
 #EXTINF:-1,Mulatós Rádió Caffé
@@ -1883,8 +1865,6 @@ https://cast1.my-control-panel.com/proxy/egyutt/stream
 http://stream.fesztivalfm.hu/fesztivalfm_320k
 #EXTINF:-1,Cool FM - Rap &amp; Hip Hop
 https://mediagw.e-tiger.net/stream/zc08
-#EXTINF:-1,Gitta Rádió
-https:/http:/adio.bekescomputer.hu:21320/stream
 #EXTINF:-1,Nonstop Radio
 https://stream-149.zeno.fm/d3yzcvuetuhvv?zs=daTafyFrTFKYiM-tieYizw
 #EXTINF:-1,COOL FM - Jazz Music
@@ -1913,12 +1893,8 @@ https://mediagw.e-tiger.net/stream/zc09
 https://mediagw.e-tiger.net/stream/zc17
 #EXTINF:-1,Shine FM Rádió
 http://s01.diazol.hu:10040/stream
-#EXTINF:-1,AnikoFmClub
-https:/http:/adio.bekescomputer.hu/anikoradioja
 #EXTINF:-1,COOL FM - WORLD Music
 https://mediagw.e-tiger.net/stream/zc26
-#EXTINF:-1,Vatican News - Magyar  (Hungarian)
-https:/http:/adio.vaticannews.va/stream-hu
 #EXTINF:-1,Radio Now - Shake Now!
 https://nowradiok.eu:8020/shake
 #EXTINF:-1,BDPST ROCK Rádió (Hi-Fi / Lossless / FLAC)
@@ -2075,3 +2051,537 @@ https://listen.radioking.com/radio/641950/stream/704998
 https://s01.diazol.hu:10052/spweb1.mp3
 #EXTINF:-1,Party Dj Rádió
 https://s03.diazol.hu:7062/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33737.png",City Rádió
+https://fmradiohub.in/radio?url=http://live.city-radio.ro:8800/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33740.png",Fun FM
+https://fmradiohub.in/radio?url=http://online.funfm.ro:8000/funfm.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33761.png",Sláger Rádió
+https://fmradiohub.in/radio?url=http://92.61.114.159:7812/slagerfm128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33770.png",Marosvásárhelyi Rádió
+https://fmradiohub.in/radio?url=http://streaming.radiomures.ro:8312/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33782.png",Erdély FM
+https://fmradiohub.in/radio?url=http://hydra.shoutca.st:8011/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33802.png",Vox Rádió
+https://fmradiohub.in/radio?url=http://stream.voxfm.ro:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33951.png",Agnus Rádió
+https://fmradiohub.in/radio?url=http://radio2.tirek.hu:8000/agnusradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36464.png",Landsberg International
+https://fmradiohub.in/radio?url=http://server4.streamserver24.com:41486/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/38830.png",Fox Radio
+https://fmradiohub.in/radio?url=http://stream.foxradio.rs:8545/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39886.png",Muravidéki Magyar Rádió
+https://fmradiohub.in/radio?url=http://mp3.rtvslo.si/mmr
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39923.png",Sláger FM
+https://slagerfm.netregator.hu:7813/slagerfm128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39924.png",MegaDance Rádió
+https://fmradiohub.in/radio?url=http://megadanceradio.hopto.org:8000/livemega.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39925.png",Mercy Magyar Rádió
+https://fmradiohub.in/radio?url=http://stream.mercyradio.eu/mercyradio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39927.png",Petőfi Rádió
+https://fmradiohub.in/radio?url=http://mr-stream.mediaconnect.hu/4738/mr2.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39928.png",Poptarisznya.hu
+https://fmradiohub.in/radio?url=http://stream1.virtualisan.net:8200/mobil.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39930.png",Klubrádió
+https://fmradiohub.in/radio?url=http://hu-stream02.klubradio.hu:8080/bpstream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39931.png",Kossuth Rádió
+https://fmradiohub.in/radio?url=http://mr-stream.mediaconnect.hu/4736/mr1.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39932.png",Laza Rádió - Live
+https://fmradiohub.in/radio?url=http://stream.lazaradio.com/live.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39936.png",Jazzy
+https://scdn.nrjaudio.fm/fr/30601/mp3_128.mp3?cdn_path=adswizz_lbs7&access_token=0355f0254a524494a42a727774f29fdb
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39937.png",Justmusic.fm
+https://fmradiohub.in/radio?url=http://stream2.dancewave.online:8080/dance.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39938.png",Dance Wave!
+https://fmradiohub.in/radio?url=http://stream3.dancewave.online:8080/dance.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39940.png",Dankó Rádió
+https://fmradiohub.in/radio?url=http://mr-stream.mediaconnect.hu/4748/mr7.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39945.png",Nóta FM
+https://fmradiohub.in/radio?url=http://live.notafm.hu:8000/notafm.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39946.png",Forrás Rádió 
+https://fmradiohub.in/radio?url=http://91.82.85.44:9000/stream/1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39947.png",Sunshine FM
+https://fmradiohub.in/radio?url=http://195.56.193.129:8100/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39948.png",Bartók Rádió
+https://fmradiohub.in/radio?url=http://icast.connectmedia.hu/4741/mr3.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39951.png",Luxfunk
+https://luxfunkbroadcast.com/proxy/luxfunkradio/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39953.png",Tilos Rádió
+https://fmradiohub.in/radio?url=http://stream.tilos.hu:8000/tilos
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39956.png",POWER DANCE FM
+https://fmradiohub.in/radio?url=http://stream1.nexusradio.fm:80/nexusdance.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39961.png",Magyar Katolikus Radio
+https://fmradiohub.in/radio?url=http://katolikusradio.hu:9000/live_hi.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39963.png",Rádió M
+https://fmradiohub.in/radio?url=http://team-data.ba:8030/?type=http&nocache=57#
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39964.png",Parlamenti Rádió
+https://fmradiohub.in/radio?url=http://mr-stream.mediaconnect.hu/4746/mr5.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39966.png",Gong Rádió
+https://radiogong--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radiogong/live/mp3/high?ar-distributor=f0a0&_art=dj0yJmlwPTE4Mi42NS4yMTcuMTA0JmlkPWljc2N4bC1zM3hkZ3p4bWImdD0xNzQ3MzAxMDgyJnM9Nzg2NmYyOWMjYTdiNzk1OWM4MWYwZGI5ZWE4OGQxYzA2YmFkMzU4ZjU
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39973.png",Rádió 7
+https://fmradiohub.in/radio?url=http://netradio.radio7.hu:8300/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39974.png",Hits Rádió
+https://fmradiohub.in/radio?url=http://stream.hitsradio.info:8000/*./mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39975.png",Civil
+https://fmradiohub.in/radio?url=http://civilradio.hu:8000/listen1.mp3/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39977.png",Cegled
+https://fmradiohub.in/radio?url=http://stream.cegledradio.hu:4387/mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39979.png",Rádió Most
+https://fmradiohub.in/radio?url=http://stream.radiomost.hu:8200/live.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39984.png",Szent Korona
+https://szkrcast.ddns.net/radio/8000/radio.mp3#W
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39985.png",Hit Rádió
+https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3?listening-from-radio-garden=1664017334
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39988.png",Duna World Rádió
+https://fmradiohub.in/radio?url=http://mr-stream.mediaconnect.hu/4761/dwr.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39991.png",Radió 24
+https://stream-26.zeno.fm/8wk1s0pt008uv?zs=dRR5cFEHT9yykd0445OyDA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39992.png",Taska
+https://fmradiohub.in/radio?url=http://live.taskaradio.com:7070/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39996.png",KORONAfm100
+https://fmradiohub.in/radio?url=http://82.141.165.6:8000/stream.mp3/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40001.png",Sirius 
+https://fmradiohub.in/radio?url=http://s8.voscast.com:7112/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40007.png",Eper FM
+https://fmradiohub.in/radio?url=http://stream.tilos.hu/tilos_128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40008.png",Nemzetiségi adások
+https://fmradiohub.in/radio?url=http://mr-stream.mediaconnect.hu/4744/mr4.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40009.png",Up&Down You Rock Radio
+https://fmradiohub.in/radio?url=http://listen.radionomy.com/up-down4everrockradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40010.png",SuperDj Rádió
+https://fmradiohub.in/radio?url=http://stream.diazol.hu:35150/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40013.png",Lakihegy
+https://fmradiohub.in/radio?url=http://stream.composeit.hu:8300/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40015.png",Aktiv
+https://fmradiohub.in/radio?url=http://aktivradio.hu:8000/aktiv.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40017.png",FM90 Campus
+https://fmradiohub.in/radio?url=http://stream.fm90.hu:8000/?_=0.6592478044456687
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40025.png",Vértes Center
+https://fmradiohub.in/radio?url=http://streamhost110.gtk.hu:9418/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40026.png",MiRádiónkat
+https://s03.diazol.hu:7082/live.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40027.png",Radio Maria
+https://fmradiohub.in/radio?url=http://mariaradio.hu:8000/mr_ajka
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40032.png",Rádió Groove
+https://fmradiohub.in/radio?url=http://stream.unrealhosting.hu:35110/live.mp3/?listening-from-radio-garden=1663844847
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40033.png",Dunakanyar Rádió
+https://fmradiohub.in/radio?url=http://stream.streaming4u.hu:8000/TrimedioRadio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40035.png",Pannónia Rádió
+https://ip157.ozelip.com/8130/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40040.png",Szünet Rádió
+https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40042.png",I Love Pécs Rádió
+https://fmradiohub.in/radio?url=http://radio.ilovepecs.hu:8200/ilp.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40044.png",Magic Disco Rádió
+https://fmradiohub.in/radio?url=http://live2.magicdiscoradio.com:4420/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40045.png",Mustar FM
+https://fmradiohub.in/radio?url=http://193.138.125.14:8500/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40048.png",Alpha
+https://radioe.net:8443/alpha_high
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40052.png",Sansz
+https://fmradiohub.in/radio?url=http://91.82.85.44:9056/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40054.png",Manna FM
+https://fmradiohub.in/radio?url=http://icast.connectmedia.hu/4780/live.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40055.png",Sztráda Rádió
+https://fmradiohub.in/radio?url=http://stream.diazol.hu:35080/live.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40056.png",Dabas
+https://fmradiohub.in/radio?url=http://stream3.virtualisan.net:7040/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40057.png",Rádió Orient
+https://n11.rcs.revma.com/7hnrkawf4p8uv.mp3?rj-ttl=5&rj-tok=AAABg0DfwZcA0nUkcYlmlbT7dw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40059.png",Hobby Rádió
+https://fmradiohub.in/radio?url=http://www.hobbyradio.hu:8000/hobbyradio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40060.png",Tordas Rádió
+https://fmradiohub.in/radio?url=http://stream.tilos.hu/tordas_radio_online
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40067.png",Csillagpont
+https://fmradiohub.in/radio?url=http://streamer1.borsodweb.hu:48000/csillagpont
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40070.png",Rádió Bézs
+https://fmradiohub.in/radio?url=http://195.210.29.82:8002/bezs
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40072.png",Periszkóp
+https://fmradiohub.in/radio?url=http://sztrim.periszkopradio.hu:8088/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40074.png",Lépés Rádió
+https://fmradiohub.in/radio?url=http://stream.lepesradio.hu:4000/live.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40080.png",Radio Daruvar
+https://fmradiohub.in/radio?url=http://85.17.172.242:8070/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40082.png",Forrásmédia Rádió
+https://fmradiohub.in/radio?url=http://188.165.11.30:7000/live.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40083.png",RoyalMusic Radio
+https://royalfm.stream.laut.fm/royalfm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40086.png",Up&Down 4ever Rock Radio
+https://streamingp.shoutcast.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.9%2chi%3bq%3d0.8%2cpa%3bq%3d0.7
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40091.png",AdventNET Rádió
+https://fmradiohub.in/radio?url=http://radio.adventnet.hu:8000/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40092.png",Up&amp;Down Music Radio
+https://fmradiohub.in/radio?url=http://listen.radionomy.com/up-downmusicradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40098.png",SpaceFM
+https://stream-151.zeno.fm/79hmhafteg0uv?zs=gIAATrQUSMePbrq0nm7DOw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31157128.jpg",Rocker Rádió
+https://fast.citrus3.com:8796/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4315.png",Radio Maria
+https://fmradiohub.in/radio?url=http://heberg.radioludo.com:8003/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/6315.png",Ez az a nap! Rádió
+https://fmradiohub.in/radio?url=http://stream1.virtualisan.net:6270/live.mp3
+#EXTINF:-1,BDPST ROCK RADIO
+https://listen2.argentinetangoradio.com/
+#EXTINF:-1,MR6 Dankó Rádió
+https://www.mariaradio.hu/css/player/MRszignal.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-bridge-fm-hungary-logo.jpg",Radio Bridge fm Hungary
+https://freestream.hu:8340/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-fm90-campus-logo.jpg",Radio FM90 Campus
+https://stream.fm90.hu:8000/stream?icy=http
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-gong-fm-0-1-logo.jpg",Radio Rádió 1 Gong FM
+https://icast.connectmedia.hu/5242/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-kaloz-radio-logo.jpg",Radio Kalóz Rádió
+https://stream.zeno.fm/s9gg29m2g18uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-groove-city-logo.jpg",Radio Rádió Groove City
+https://www.radiogroove.hu/city.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-jazzy-groove-logo.jpg",Radio Jazzy Groove
+https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-kossuth-radio-logo.jpg",Radio Kossuth Rádió
+http://mr-stream.mediaconnect.hu/4734/mr1.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-slager-radio-logo.jpg",Radio Sláger Rádió
+http://93.115.175.206:8000/raspi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maria-171224-logo.jpg",Radio Maria
+https://stream.mariaradio.hu:8000/mr_papa
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cool-fm-162397-logo.jpg",Radio Cool FM
+https://mediagw.viacomkft.hu/stream/coolfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-drava-hullam-logo.jpg",Radio Drava Hullam
+http://hosting2.42netmedia.com:13070/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/power-dance-fm-183253-logo.jpg",Radio POWER DANCE FM
+http://stream1.nexusradio.fm/nexusdance.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-megadance-radio-logo.jpg",Radio MegaDance Rádió
+https://s1.gamershouse.hu:8080/livemega.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hit-radio-162093-logo.jpg",Radio Hit Rádió
+https://streamer.radio.co/s47952d7c4/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-7-169723-logo.jpg",Radio Rádió 7
+https://stormwind.meatkult.com/test.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-logo.jpg",Radio 1
+https://icast.connectmedia.hu/5226/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/koronafm100-569513-logo.jpg",Radio KORONAfm100
+https://stream.koronafm100.hu/mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-kerepes-logo.jpg",Radio Kerepes
+http://109.169.76.104:36854/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-halas-logo.jpg",Radio Halas
+https://halas.str.42net.hu/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-sirius-logo.jpg",Radio Sirius
+https://icast.connectmedia.hu/5035/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-2-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5224/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-2-3-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5211/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-88-161431-logo.jpg",Radio 88
+http://stream.radio88.hu:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-landsberg-international-logo.jpg",Radio Landsberg International
+http://s8.pop-stream.de:8120/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-luxfunkr-blackmix-logo.jpg",Radio Luxfunk® Blackmix
+https://luxfunkbroadcast.com/proxy/luxfunkblackmix/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-all-in-party-logo.jpg",Radio All In Party
+http://s1.mediacp.eu:8030/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-fezen-radio-logo.jpg",Fezen Radio
+https://radioe.net:8443/fezen_bk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-luxfunkr-dance-logo.jpg",Radio Luxfunk® Dance
+https://luxfunkbroadcast.com/proxy/luxfunkdance/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-2-3-4-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5215/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-2-3-4-5-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5212/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-jazzy-logo.jpg",Radio Jazzy
+https://radio.musorok.org/listen/jazzy/jazzy.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-hir-fm-logo.jpg",Radio Hír FM
+https://stream.rcs.revma.com/wevb267khf9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-2-3-4-5-6-7-8-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5221/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-gong-logo.jpg",Radio Rádió 1 Gong
+https://icast.connectmedia.hu/5241/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-dabas-logo.jpg",Radio Dabas
+http://stream3.virtualisan.net:7040/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-m-161616-logo.jpg",Radio Rádió M
+http://hosting2.42netmedia.com:10060/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-szent-korona-logo.jpg",Radio Szent Korona
+https://szkrcast.ddns.net/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-som-logo.jpg",Radio Som
+http://79.172.209.223:8100/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-momo-logo.jpg",Radio Momó
+https://s03.diazol.hu:7092/zene.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-gold-logo.jpg",Radio Gold
+https://stream1.virtualisan.net/prx/6200/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-szentendre-logo.jpg",Radio Szentendre
+http://92.61.114.191:13040/stream?type=httpu0026nocache=323676;u0026type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-88-top-88-175882-logo.jpg",Radio 88 - Top 88
+http://stream3.radio88.hu:8500/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-csillagpont-logo.jpg",Radio Csillagpont
+https://www.csillagpontradio.hu/csillagpontradio-eloadas
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-t-radio-logo.jpg",Radio T-Rádió
+http://adas.tradio.hu:8026/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-88-club-88-logo.jpg",Radio 88 - Club 88
+http://stream2.radio88.hu:8400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-rabakoz-logo.jpg",Radio Rábaköz
+https://radio.molnarkft.hu/rabakozradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mustar-fm-172750-logo.jpg",Radio Mustar FM
+http://193.138.125.14:8500/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-efm-station-logo.jpg",Radio EFM Station
+https://radioe.net:8443/efm_high
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-maxiradio-logo.jpg",Radio MaxiRádió
+https://play.maxiradio.hu/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lepes-radio-176021-logo.jpg",Radio Lépés Rádió
+https://lepesradio.hu/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-pont-logo.jpg",Radio Pont
+http://fixip.actor.hu:7039/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-fred-film-radio-logo.jpg",FRED FILM RADIO
+https://s10.webradio-hosting.com/proxy/fredradiohu/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/city-radio-156790-logo.jpg",Radio City Rádió
+http://live.city-radio.ro:8800/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-all-star-70s-disco-radio-logo.jpg",All-Star 70's Disco Radio
+https://a10.asurahosting.com:7940/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-logo.jpg",Civil Radio Miskolc
+https://www.stream.cirmi.org/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-marosvasarhelyi-radio-logo.jpg",Radio Marosvásárhelyi Rádió
+http://streaming.radiomures.ro:8312/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-jazz-magyar-radio-logo.jpg",Radio Mercy - Jazz Magyar Rádió
+http://stream.mercyradio.eu/jazz.mp3?92868911
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-90-as-evek-magyar-radioja-logo.jpg",Radio Mercy - 90′-as évek Magyar Rádiója
+http://stream.mercyradio.eu/90.mp3?51787129
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-60-70-es-evek-magyar-beat-radioja-logo.jpg",Radio Mercy - 60′-70′-es évek Magyar Beat Rádiója
+http://stream.mercyradio.eu/beat.mp3?44755209
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-pikans-mulatos-magyar-radio-logo.jpg",Radio Mercy - Pikáns mulatós Magyar Rádió
+http://stream.mercyradio.eu/pikansmulatos.mp3?55542641
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-lakodalmas-magyar-radio-logo.jpg",Radio Mercy - Lakodalmas Magyar Rádió
+http://stream.mercyradio.eu/lakodalmas.mp3?46387859
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-napjaink-zenei-magyar-radioja-logo.jpg",Radio Mercy - Napjaink zenei Magyar Rádiója
+http://stream.mercyradio.eu/napjaink.mp3?100811371
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-nota-magyar-radio-logo.jpg",Radio Mercy - Nóta Magyar Rádió
+http://stream.mercyradio.eu/magyarnota.mp3?32587927
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-romano-ungriko-discoso-radiovo-logo.jpg",Radio Mercy -  Románo Ungriko Discoso Rádiovo
+http://stream.mercyradio.eu/roma.mp3?91780194
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-pop-magyar-radio-logo.jpg",Radio Mercy - Pop Magyar Rádió
+http://stream.mercyradio.eu/pop.mp3?79555010
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-rock-magyar-radio-logo.jpg",Radio Mercy - Rock Magyar Rádió
+http://stream.mercyradio.eu/rock.mp3?50176943
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mercy-vers-proza-magyar-radio-logo.jpg",Radio Mercy - Vers, próza Magyar Rádió
+http://stream.mercyradio.eu/versproza.mp3?56247360
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-muravideki-magyar-radio-logo.jpg",Radio Muravidéki Magyar Rádió
+https://mp3.rtvslo.si/mmr
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-soulconnexion-radio-logo.jpg",Soulconnexion Radio
+http://199.180.75.75/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-poptarisznya-oldies-logo.jpg",Radio Poptarisznya Oldies
+http://stream1.virtualisan.net:8200/oldies.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-clasic-logo.jpg",Radio Clasic
+http://37.251.146.169:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-orient-logo.jpg",Radio Rádió Orient
+https://orientpress.hu:8443/orient
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-speed-fm-logo.jpg",Radio Speed FM
+https://a3.asurahosting.com:6430/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-dunakanyar-radio-logo.jpg",Radio Dunakanyar Rádió
+https://streaming4u.synology.me:8443/DunakanyarFM
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mex-radio-rock-logo.jpg",Radio Mex Rádió Rock
+https://stream.mexradio.hu:8016/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mixradio-retro-logo.jpg",MixRadio Retro
+http://45.67.156.157:18004/retro
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rakospalota-635132-logo.jpg",Radio Rakospalota
+http://s2.free-shoutcast.com:18400/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-retro-star-radio-logo.jpg",Retro Star Radio
+https://stream.zeno.fm/zmhshubeka0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-bezs-2-logo.jpg",Radio Rádió Bézs 2
+https://stream.radiobezs.hu:8011/bezs2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-gold-0-logo.jpg",Radio Gold
+https://stream1.virtualisan.net/prx/6200/80.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-dark-wave-logo.jpg",Civil Radio Miskolc - Dark wave
+https://www.stream.cirmi.org/dark
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-indie-logo.jpg",Civil Radio Miskolc - Indie
+https://www.stream.cirmi.org/indie
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-alternativ-80s90s-logo.jpg",Civil Radio Miskolc - Alternativ 80s90s
+https://www.stream.cirmi.org/alter80s90s
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-jazz-logo.jpg",Civil Radio Miskolc - Jazz
+https://www.stream.cirmi.org/jazz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-alternativ-2000s-logo.jpg",Civil Radio Miskolc - Alternativ 2000s
+https://www.stream.cirmi.org/alter2000s
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-ska-logo.jpg",Civil Radio Miskolc - Ska
+https://www.stream.cirmi.org/ska
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-synth-wave-logo.jpg",Civil Radio Miskolc - Synth wave
+https://www.stream.cirmi.org/synth
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-new-wave-logo.jpg",Civil Radio Miskolc - New Wave
+https://www.stream.cirmi.org/newwave
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-punk-logo.jpg",Civil Radio Miskolc - Punk
+https://www.stream.cirmi.org/punk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-classic-goa-trance-logo.jpg",Civil Radio Miskolc - Classic Goa Trance
+https://www.stream.cirmi.org/goa
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-hardcore-logo.jpg",Civil Radio Miskolc - Hardcore
+https://www.stream.cirmi.org/hard
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-civil-radio-miskolc-folklor-logo.jpg",Civil Radio Miskolc - Folklor
+https://www.stream.cirmi.org/folk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-2-3-4-5-6-7-8-9-10-11-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5232/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-2-3-4-5-6-7-8-9-10-11-12-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5228/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-duna-tisza-radio-gold-logo.jpg",Radio Duna-Tisza Rádió Gold
+https://radio.ch3.hu/radio/8040/dtrg.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-techno-style-tech-house-logo.jpg",Radio Techno Style - Tech-house
+http://212.108.220.119:1041/stream3.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-rise-fm-rnb-logo.jpg",Radio Rise FM R'n'B
+https://stream1.virtualisan.net/prx/8080/risefm_rnb_hq
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-techno-style-minimal-logo.jpg",Radio Techno Style - Minimal
+http://212.108.220.119:1040/stream2.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-rise-fm-classic-logo.jpg",Radio Rise FM Classic
+https://stream1.virtualisan.net/prx/8080/risefm_classic_hq
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-techno-style-hard-techno-logo.jpg",Radio Techno Style - Hard-techno
+http://212.108.220.119:1042/stream4.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-rise-fm-deep-logo.jpg",Radio Rise FM Deep
+https://stream1.virtualisan.net/prx/8080/risefm_deephouse_hq
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-regina-radio-gyor-logo.jpg",Radio Regina Rádió Győr
+https://cast1.asurahosting.com/proxy/zoltan1/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-deejay-onair-logo.jpg",Radio Deejay - ONAIR
+http://135.181.157.246:8000/deejay.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-one-magyarorszag-logo.jpg",Radio Rádió ONE Magyarország
+http://stream.radioone.hu:4780/liveone.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-club-dance-radio-minimal-deep-tech-logo.jpg",Club Dance Radio Minimal Deep Tech
+https://s01.diazol.hu:35002/minitech.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-nosztalgia-radio-logo.jpg",Nosztalgia Radio
+https://stream.zeno.fm/1r0mr23b368uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-drive-logo.jpg",Radio Rádió Drive
+http://stream.radiodrive.hu:7150/radiodrive
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-1-154290-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5237/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-2-3-4-5-6-7-8-9-10-11-12-13-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5229/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-1-0-1-2-3-4-5-6-7-8-9-10-11-12-13-14-logo.jpg",Radio Rádió 1
+https://icast.connectmedia.hu/5240/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-christmas-fm-logo.jpg",Radio Christmas FM
+https://stream1.christmasfm.hu/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-club7-fm-logo.jpg",Radio Club7 FM
+https://c28.radioboss.fm:18469/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-happy-station-italo-disco-channel-logo.jpg",Radio Happy Station italo-disco channel
+https://stream.happystation.hu:8052/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-b-logo.jpg",Radio B
+https://stream.radio-b.hu/low
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-egerszeg-radio-logo.jpg",Radio Egerszeg Rádió
+https://egerszeg.str.42net.hu/stream?type=httpu0026nocache=40
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-dance-one-radio-logo.jpg",Dance One Radio
+https://s2.ssl-stream.com/radio/8280/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-makofm-logo.jpg",Radio MakóFM
+https://stream.zeno.fm/za0su7kt2zhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-slam-logo.jpg",Radio SLAM
+https://stream.zeno.fm/dglbc1ohnzmuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-relax-radio-budapest-logo.jpg",Relax Radio Budapest
+https://s5.voscast.com:9615/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-disco-diamond-radio-new-generation-logo.jpg",Disco Diamond Radio - New Generation
+https://ddrspenbild.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-diamond-dance-radio-logo.jpg",Diamond Dance Radio
+http://europa.shoutca.st:8058/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-10-a-valtozatossag-radioja-valtozatos-zenek-logo.jpg",Radio Rádió 10 A Változatosság rádiója/ változatos zenék
+https://eu4.fastcast4u.com/proxy/radiotiz?mp=/1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-n-caffe-logo.jpg",Radio Rádió N Caffé
+https://freestream.hu:8340/radioncaffe
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-music-radio-logo.jpg",Radio Music Rádió
+https://c18.radioboss.fm:8620/autodj
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-daeo-fm-online-logo.jpg",Radio DAEO FM Online
+https://listen.radioking.com/radio/442343/stream/496685
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-global-fm-radio-logo.jpg",Radio GLOBAL FM RÁDIÓ
+http://icast.x-host.hu:7150/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-spirit-fm-logo.jpg",Radio Spirit FM
+https://s02.diazol.hu:10052/spweb1.mp3?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-synthwave-retrowave-radio-logo.jpg",Synthwave Retrowave Radio
+https://ecast.myautodj.com/public1channel
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-just4music-logo.jpg",Radio Just4Music
+https://c38.radioboss.fm/stream/144
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-papageno-radio-logo.jpg",Papageno Radio
+https://onair7.xdevel.com/proxy/xautocloud_o3yj_837?mp=/;stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-all-in-music-radio-logo.jpg",Radio All In Music Rádió
+http://icast.allinmusicradio.hu:8030/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-next-fm-logo.jpg",Radio Next FM
+https://stream.nextfm.hu/radio/8000/nextfmhu.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-x-logo.jpg",Radio X
+https://stream.phost.hu:8002/stream3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-faklya-radio-logo.jpg",Radio Fáklya Rádió
+http://stream.faklyaradio.hu:8080/faklya
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-fm-88-radio-plusz-marcali-logo.jpg",Radio FM 88 Rádió Plusz Marcali
+https://s01.netcast.hu/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-just-fm-logo.jpg",Radio Just FM
+http://161.97.139.223:8000/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-neonfm-logo.jpg",Radio NeonFM
+https://stream.zeno.fm/q52f6x75038uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-miamifm-logo.jpg",Radio MiamiFM
+https://stream.zeno.fm/udvtbum3238uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-youventus-radio-logo.jpg",Radio Youventus Rádió
+https://www.youventusradio.hu/stream_320k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mix-global-radio-logo.jpg",Radio Mix Global Rádió
+http://icast.mixglobalradio.hu:10090/livemix.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-sportradio-logo.jpg",Radio Sportrádió
+https://icast.connectmedia.hu/4657/mr11.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mix-world-radio-logo.jpg",MIX WORLD RADIO
+http://cast3.asurahosting.com:8085/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mulatos-radio-logo.jpg",Radio Mulatós Rádió
+https://stream.zeno.fm/cfretpzistytv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-club-fm-logo.jpg",Radio Club FM
+http://icast.clubfm.hu:8131/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-retro-fm-logo.jpg",Radio Retró FM
+https://stream.zeno.fm/mgyo32yvlyotv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mulatos-radio-caffe-logo.jpg",Radio Mulatós Rádió Caffé
+https://freestream.hu:8340/2023mrc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mega-live-logo.jpg",Radio Mega Live
+https://mega-live.net:2053/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-topfm-nyiregyhaza-logo.jpg",Radio Topfm Nyiregyhaza
+https://s02.diazol.hu:10012/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-shine-fm-radio-logo.jpg",Radio Shine FM Rádió
+https://s01.diazol.hu:10042/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-mixradio-creamix-logo.jpg",MixRadio Creamix
+https://stream.phost.hu:8010/creamix
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-anikofmclub-logo.jpg",Radio AnikoFmClub
+https://radio.bekescomputer.hu/anikoradioja
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-vindornya-fm-logo.jpg",Radio Vindornya FM
+http://stream.vindornyafm.tk:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-galaxis-radio-logo.jpg",Radio Galaxis Rádió
+https://s01.diazol.hu:9132/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-dj-zalan-radio-logo.jpg",DJ Zalan Radio
+https://stream.zeno.fm/lakn67imtwyvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-gitta-radio-logo.jpg",Radio Gitta Rádió
+https://stream1.virtualisan.net/prx/7280/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-oxygen-music-balaton-logo.jpg",Radio Oxygen Music Balaton
+https://oxygenmusic.hu:8443/oxygenmusic_balaton_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-dance-bistro-radio-logo.jpg",Radio Dance Bistro Rádió
+https://s01.diazol.hu:9112/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-top-fm-max-logo.jpg",Radio TOP FM max
+http://live.notafm.hu:8000/max.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-now-dj-now-logo.jpg",Radio Now - DJ Now!
+https://nowradiok.eu/listen/nowdj/djnow
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-kaleid-logo.jpg",Radio Kaleid
+https://cast4.my-control-panel.com/proxy/misli/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-doowop-corner-radio-logo.jpg",Radio DooWop Corner Rádió
+https://stream.laut.fm/doowopcorner
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-pacsirta-logo.jpg",Radio Pacsirta
+http://79.139.60.24:8000/pacsirta
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-szeghalom-0-logo.jpg",Radio Szeghalom
+https://stream.zeno.fm/nghpcevxfwxvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-csukas-meseradio-logo.jpg",Radio Csukás Meserádió
+https://mr-stream.connectmedia.hu/4611/mr10.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-comedy-logo.jpg",Radio Rádió Comedy
+https://a7.asurahosting.com:8430/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-all-star-80s-disco-radio-logo.jpg",All-Star 80's Disco Radio
+https://cast.iplayradio.net/listen/allstardiscoradio2/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-sarret-hangja-logo.jpg",Radio Sárrét Hangja
+https://stream.zeno.fm/scjrletdlj1vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-zenerulett-radio-logo.jpg",Radio Zenerulett Rádió
+http://uk22freenew.listen2myradio.com:23421/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-szobrock-radio-logo.jpg",Radio SzobRock-Rádió
+https://stream.rcast.net/62268
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-densz-caffe-logo.jpg",Radio Rádió Densz Caffé
+https://radio.freestream.hu:8340/rdc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-now-logo.jpg",Radio Now!
+https://nowradiok.eu:8010/now
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-exclusive-logo.jpg",Radio Rádió Exclusive
+https://icast.radioexclusive.hu:8801/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-fm-953-radio-plusz-dombovar-logo.jpg",Radio FM 95.3 Rádió Plusz Dombóvár
+https://s02.netcast.hu/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-zenekoktel-radio-logo.jpg",Radio Zenekóktél Rádió
+https://s02.diazol.hu:10182/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-szakcsi-radio-logo.jpg",Szakcsi Radio
+https://mr-stream.connectmedia.hu/4691/mr9.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-djfirstfm-radio-logo.jpg",Radio DjFirstFm Rádió
+https://s02.diazol.hu:10152/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-zebradio-logo.jpg",Radio Zebrádió
+https://hu-stream01.zebradio.hu:8443/zebradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-nosztalgia-star-logo.jpg",Radio Nosztalgia Star
+http://65.108.98.93:8054/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-radio-101-logo.jpg",Radio Rádió 101
+https://stream.radio101.hu/radio101_192k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-hitradio-h1-logo.jpg",Hitradio H1
+http://stream.hitradioh1.hu:8000/hitradioh1/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hu-zene-radio-logo.jpg",Radio Zene Rádió
+https://stream.zeno.fm/cifruqqntbyvv

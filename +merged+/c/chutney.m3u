@@ -35,3 +35,7 @@ http://stream.zeno.fm/29t4qquzmc9uv
 https://radio.carib101.com/9998/stream/
 #EXTINF:-1,Dhantal radio
 http://www.dhantalradio.ca:8000/stream1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94126/logo_Iq8uZxCRLt.jpg?v=20260529-media-restore",The Caribbean Radio
+https://auds1.intacs.com/thecaribbeanradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-dhantal-logo.jpg",Radio Dhantal
+http://dhantalradio.ca:8000/;;

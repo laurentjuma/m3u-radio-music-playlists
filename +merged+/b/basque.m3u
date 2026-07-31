@@ -59,8 +59,6 @@ http://mp3-eitb.stream.flumotion.com/eitb/radioeuskadi.mp3
 http://188.93.73.98:8076/
 #EXTINF:-1,PLAYFM 94.1FM & DAB+ San Sebastian & Cote Basque
 https://stream.rcast.net/245731
-#EXTINF:-1,BI FM
-http:/http:/adioserver9.profesionalhosting.com:36379/;stream?1456307293874.mp3
 #EXTINF:-1,Euskadi Irratia
 https://multimedia.eitb.eus/live-content/euskadirratia-hls/master.m3u8
 #EXTINF:-1,Xiberoko Botza
@@ -87,3 +85,9 @@ https://node-24.zeno.fm/95rgar08mbruv
 https://185-154-254-5.sslip.io:8082/EsanErran-mp3
 #EXTINF:-1,radio flash back
 https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-gure-irratia-logo.jpg",Radio Gure Irratia
+https://hosting.studioradiomedia.fr:1345/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/es-zintzilik-irratia-logo.jpg",Radio Zintzilik Irratia
+https://aizu.maritxusarea.eus/listen/zintzilik_irratia/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ec-radio-kscad-logo.jpg",Radio Kscad
+https://stream.zeno.fm/rk856kzq598uv

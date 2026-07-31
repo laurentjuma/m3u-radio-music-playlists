@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Zucca Radio
+https://stream.zuccaradio.com/stream
 #EXTINF:-1,Dromos FM
 https://n04a-eu.rcs.revma.com/10q3enqxbfhvv?rj-ttl=5&rj-tok=AAABiLPw-ooASgMhweHrZjVclQ
 #EXTINF:-1,Kiss FM
@@ -31,16 +33,12 @@ https://hotfm.live24.gr/hotfm
 https://netradio.live24.gr/athinaradio
 #EXTINF:-1,Navagia Internet Radio
 https://cloudwebradio.com/9996/stream
-#EXTINF:-1,Athens Jukebox Radio
-http://5.189.177.218:8015/stream/;
 #EXTINF:-1,Lakka Souli Radio
 http://eco.onestreaming.com:8286/;
 #EXTINF:-1,Mana Ellada
 http://cast.radiohost.ovh:9066/;stream.mp3
 #EXTINF:-1,Liquid Web Radio
 http://ice.streamcloud.mediacdn.com/freeradio-1000
-#EXTINF:-1,Anyway Deep Radio
-https://greeksonic.alphaserver.gr/8008/stream
 #EXTINF:-1,Skandalo Radio
 http://i5.streams.ovh:14008/stream/
 #EXTINF:-1,Mancode Radio
@@ -73,12 +71,10 @@ http://eco.onestreaming.com:8316/;
 https://24streams.gr/8057/stream
 #EXTINF:-1,Hristianismos FM
 http://eu1.fastcast4u.com:9326/;stream.nsv
-#EXTINF:-1,Barfly Radio
-http://ec2.yesstreaming.net:3350/stream
 #EXTINF:-1,Studio Palmos
 https://sp2.streams.ovh/8070/stream
-#EXTINF:-1,djlrockradio
-http://whsh4u-panel.com:14155/stream
+#EXTINF:-1,BluesWave Radio
+https://blueswave.radio:8000/blueswave
 #EXTINF:-1,Andromeda FM
 https://stream1.468.gr/8006/stream
 #EXTINF:-1,Amartia FM
@@ -99,12 +95,14 @@ https://thanasis.radioca.st/stream
 https://impradio2.bytemasters.gr/8002/stream?type=http&nocache=1682444636
 #EXTINF:-1,Ikariaki Radiofonia
 http://sc2.streamwithq.com:8042/;?1482594175540_mp3&_=1
-#EXTINF:-1,Νότιο Ημισφαίριο
-http://solid55.streamupsolutions.com:30038/stream
+#EXTINF:-1,JukeBox Live
+https://sonic.streams.ovh:10963/streams
 #EXTINF:-1,Street Radio
 https://streamyourdream.org:8104/stream
 #EXTINF:-1,Pikap Web Radio
 https://pikapradio-tommyf.radioca.st/;
+#EXTINF:-1,Evolution Radio
+https://i3.streams.ovh:12000/live
 #EXTINF:-1,Aigaio Web Radio
 http://europa.shoutca.st:8721/;
 #EXTINF:-1,Radio Cosmos Zante
@@ -115,42 +113,34 @@ http://i2.streams.ovh:7058/stream1
 http://s2.onweb.gr:8622/;
 #EXTINF:-1,RadioSkyfox.eu
 http://i4.streams.ovh:8015/;
-#EXTINF:-1,DreamCity WebRadio
-https://cast.streams.ovh:9362/;
 #EXTINF:-1,Creta Planet
 http://s3.onweb.gr:8522/;
 #EXTINF:-1,Radiophone.gr
 http://s1.onweb.gr:8400/;listen.pls
-#EXTINF:-1,Radio Krites 
+#EXTINF:-1,Radio Krites
 http://s3.onweb.gr:8814/;1
 #EXTINF:-1,Palmos On AIR
 http://s6.onweb.gr:8010/;
-#EXTINF:-1,HMG Hellas Web radio
-https://greeksonic.alphaserver.gr/8014/stream
 #EXTINF:-1,Radio Kyklos
 https://c30.radioboss.fm:18299/stream
 #EXTINF:-1,Radio Egio
 http://eu7.fastcast4u.com:6130/stream/
-#EXTINF:-1,Downtuned Radio
-http://195.242.237.14:8020/stream
 #EXTINF:-1,Coni OnAir
 https://audio-edge-5bkfj.fra.h.radiomast.io/01fc3a97-3029-4f16-aa3e-ef242b042ff5
 #EXTINF:-1,AstraFM
 http://www.gointernet.gr:8030/;stream.mp3/;
-#EXTINF:-1,A66fm
-http://5.189.177.218:7070/stream
 #EXTINF:-1,Tiger GRadio
 https://everestcast.streams.ovh/2390
 #EXTINF:-1,klarinovios
 https://s6.e-resellers.gr/8040/stream
-#EXTINF:-1,Radio Diogenis
-http://i2.streams.ovh:7157/stream
+#EXTINF:-1,Soul Radio
+https://cast4.magicstreams.gr:10053/stream
 #EXTINF:-1,Electricradio
 http://eu4.fastcast4u.com:5068/;stream.nsv
-#EXTINF:-1,Beton7ArtRadio
-https://uk1.streamingpulse.com/ssl/b7artradio
-#EXTINF:-1,Studio Delta
-http://i2.streams.ovh:7106/live
+#EXTINF:-1,European School Radio
+https://icecast.europeanschoolradio.eu/live/esradio.mp3
+#EXTINF:-1,Radio Palko
+https://cast4.magicstreams.gr:10194/stream
 #EXTINF:-1,Djkostis radio
 https://s6.e-resellers.gr/8044/stream
 #EXTINF:-1,Μουσικοθεραπεια Web Radio
@@ -171,18 +161,10 @@ http://netradio.live24.gr/nitro4555
 http://netradio.live24.gr/galaxy9292
 #EXTINF:-1,Παραπολιτικά FM 90.1
 http://netradio.live24.gr/athinaradio
-#EXTINF:-1,Blues radio Athen
-http://live.bluesradio.gr:8352/stream/
 #EXTINF:-1,Arion Laikos
 https://sp.streams.ovh/8026/;stream/1
 #EXTINF:-1,Mousikos 98,6
 https://netradio.live24.gr/mousikos986
-#EXTINF:-1,Athens 106.5 FM
-http://89.163.217.252:9400/;
-#EXTINF:-1,Πειρατικός
-http://89.163.217.252:9800/;
-#EXTINF:-1,Athens Jukebox
-http://5.189.177.218:8015/;
 #EXTINF:-1,Disco Net
 https://stream1.468.gr/8004/stream
 #EXTINF:-1,Minore
@@ -193,8 +175,6 @@ http://eu1.fastcast4u.com:9326/stream
 http://i3.streams.ovh:12110/live
 #EXTINF:-1,Palmos 102.7
 http://s6.onweb.gr:8010/stream?type=http&nocache=55918
-#EXTINF:-1,Silibre
-http://89.163.217.252/8010/stream
 #EXTINF:-1,Μικρασιάτης
 http://stream.radio.co/s584f20f45/listen
 #EXTINF:-1,Radio 5
@@ -207,8 +187,6 @@ http://solid33.streamupsolutions.com:30021/stream?type=http&nocache=96018
 https://movementathens2.out.airtime.pro/movementathens2_a
 #EXTINF:-1,movement.radio 1
 https://movementathens.out.airtime.pro/movementathens_a
-#EXTINF:-1,One
-https://securestreams4.autopo.st:1599/LIVE?type=http&nocache=29
 #EXTINF:-1,Mousikos 98.6
 http://netradio.live24.gr/mousikos986
 #EXTINF:-1,Zografou
@@ -231,14 +209,12 @@ https://politismedia-sec.live24.gr/streameepride
 https://netradio.live24.gr/kiss-web-xmas
 #EXTINF:-1,Lakis 515
 https://sonic.streams.ovh/9970/stream
-#EXTINF:-1,TritoNous
-http://noc.ezhellas.com:30570/tritonous
 #EXTINF:-1,Αρμονία Web Αθήνα
 http://sh.onweb.gr:8844/stream?type=http&nocache=1024
+#EXTINF:-1,EOK Web Radio
+http://netradio.live24.gr/elomkal
 #EXTINF:-1,Toc Radio
 https://ec5.yesstreaming.net:1245/stream
-#EXTINF:-1,Mixalhs FBI
-http://shoutcast.24radio.gr:8018/live
 #EXTINF:-1,La Famiglia
 https://cast.magicstreams.gr:9010/stream?type=http&nocache=1/;
 #EXTINF:-1,Happy 104

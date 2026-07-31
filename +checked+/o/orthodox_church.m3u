@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Radio Kol-Chai Music
+https://live.kcm.fm/livemusic
 #EXTINF:-1,Radio Svetigora
 https://svetigoralive.com/Radio%20Svetigora;
 #EXTINF:-1,Monaxiki Diakonia
@@ -33,8 +35,6 @@ http://s2.onweb.gr:8446/;
 http://eco.onestreaming.com:8474/;
 #EXTINF:-1,Άγιος Οικουμένιος 102
 http://s5.onweb.gr:8508/;
-#EXTINF:-1,Σήμαντρο 93.1
-http://65.108.133.10:8050/;
 #EXTINF:-1,Ι.Μ. Σπάρτης 88.8
 http://s4.onweb.gr:8862/;
 #EXTINF:-1,Ιερά Μητρόπολις Άρτης 106.6
@@ -43,6 +43,8 @@ http://i.streams.ovh:9566/live
 http://sc2.streamwithq.com:8006/;
 #EXTINF:-1,Άγιος Σπυρίδων 91.1
 http://s3.onweb.gr:8462/;
+#EXTINF:-1,קול חי - Kol Chai
+https://live.kcm.fm/live-new
 #EXTINF:-1,Ι. Μητρ. Πατρών 88.4
 http://eco.onestreaming.com:8468/;
 #EXTINF:-1,Ρ/Σ Ιερά Μητρόπολις Σύρου 95.4

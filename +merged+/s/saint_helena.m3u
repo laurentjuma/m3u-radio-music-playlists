@@ -31,5 +31,15 @@ https://mpc.mediacp.eu/stream/nseradio
 https://fhhalle.streamabc.net/fhhal-rtldeutschhouse-mp3-128-5887373
 #EXTINF:-1,Cannacast420  Listen live
 https://streaming.radio.co/s74cd7e2e8/listen
-#EXTINF:-1,Saint FM 106.7 Jamestown
-http:/http:/adio.canstream.co.uk:8013/live.mp3
+#EXTINF:-1,EDM Radio 
+https://laut.fm/edmradio
+#EXTINF:-1,Saint.FM 
+https://orbit.citrus3.com:8306/stream
+#EXTINF:-1,Saint FM 95.4 - Saint Helena - Jamestown
+https://radio.canstream.co.uk:8013/live.mp3
+#EXTINF:-1,SAMS Radio 1 - Saint Helena - Jamestown
+https://s2.radio.co/s418cc827e/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/saint-fm-567534-logo.jpg",Radio Saint FM
+http://195.10.228.6:8013/live96.mp3
+#EXTINF:-1 tv-logo="",Radio Publi
+http://46.8.37.137:7024/;

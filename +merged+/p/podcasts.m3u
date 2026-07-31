@@ -145,8 +145,6 @@ https://24153.live.streamtheworld.com:443/WEMUFM.mp3
 https://24153.live.streamtheworld.com:443/WESMFM.mp3
 #EXTINF:-1,KTOO 104.3 FM
 https://24883.live.streamtheworld.com:443/KTOOFMAAC.aac
-#EXTINF:-1,WESU
-http:/http:/adio.wesleyan.edu:8000/stream
 #EXTINF:-1,WDDE 91.1 FM
 https://26293.live.streamtheworld.com:443/WDDEFM.mp3
 #EXTINF:-1,West Virginia Public Broadcasting - WVWS 89.3 FM
@@ -215,8 +213,6 @@ https://26303.live.streamtheworld.com:443/WCBEFM.mp3
 https://wfyi-iad.streamguys1.com/live
 #EXTINF:-1,WMUK
 https://ice2.wmuk.org:8443/mp31
-#EXTINF:-1,Radio Lisboa
-https:/http:/adiolisboa.ddns.net:8443/live
 #EXTINF:-1,Yellowstone Public Radio
 https://ypr.streamguys1.com/live
 #EXTINF:-1,KDLL 91.9 FM
@@ -229,8 +225,6 @@ https://peace.streamguys1.com:6095/kdlg
 https://servidor21.brlogic.com:7128/live
 #EXTINF:-1,WYPR 88.1 FM
 https://24453.live.streamtheworld.com:443/WYPR_HD1AAC.aac
-#EXTINF:-1,ISN Radio
-https:/http:/adio.isn.fm/isn
 #EXTINF:-1,KAWC 88.9 FM
 https://17843.live.streamtheworld.com:443/KAWCFM_SC
 #EXTINF:-1,Indiana Public Radio
@@ -347,8 +341,6 @@ http://26223.live.streamtheworld.com:80/WXXIFM.mp3
 http://vprbbc.streamguys.net/vprbbc24.mp3
 #EXTINF:-1,WRUR 88.5 &quot;Different Radio&quot; Rochester, NY (MP3)
 http://26293.live.streamtheworld.com:80/WRURFM.mp3
-#EXTINF:-1,Antena 1 (national feed, RTP)
-http:/http:/adiocast.rtp.pt/antena180a.mp3
 #EXTINF:-1,Hawaii Public Radio HPR-1 (KHPR)
 http://khpr-ice.streamguys1.com/khpr2
 #EXTINF:-1,WNED &quot;Classical 94.5&quot; Buffalo, NY
@@ -377,8 +369,6 @@ http://jpr.streamguys.org/jpr-news
 http://24883.live.streamtheworld.com:80/KANWFM_SC
 #EXTINF:-1,KOPB 91.5 Oregon Public Broadcasting - Portland, OR
 http://stream1.opb.orghttp:/adio.mp3
-#EXTINF:-1,RDP África
-http:/http:/adiocast.rtp.pthttp:/dpafrica80a.mp3
 #EXTINF:-1,KEMC 91.7 &quot;Yellowstone Public Radio&quot; Billings, MT (MP3)
 http://ypr-sc.streamguys.net/live
 #EXTINF:-1,WBFO-FM 88.7 Buffalo, NY
@@ -519,10 +509,6 @@ http://54.81.231.255/southerncalipr-kpccfmmp3-imc?session-id=ac5cc9c4f29e5b4baf5
 https://wpr-ice.streamguys1.com/wpr-music-mp3-96
 #EXTINF:-1,KCRW News 24 Channel - Santa Monica, CA
 http://kcrw.streamguys1.com/kcrw_192k_mp3_news_internet_radio
-#EXTINF:-1,Antena 1 Açores (RTP)
-http:/http:/adiocast.rtp.pt/antena1acores80a.mp3
-#EXTINF:-1,Antena 1 Madeira (RTP)
-http:/http:/adiocast.rtp.pt/antena1madeira80a.mp3
 #EXTINF:-1,KRBD 105.3 Ketchikan, AK
 http://war.str3am.com:8080/krbd
 #EXTINF:-1,Prairie Public Radio FM 2 Roots, Rock and Jazz (KCND)
@@ -605,17 +591,57 @@ https://media.wmra.org:8001/wmra
 http://26303.live.streamtheworld.com:80/KUARFM_SC
 #EXTINF:-1,KCHO 91.7 &quot;North State Public Radio&quot; Chico, CA
 http://18823.live.streamtheworld.com:80/KCHOFM_64_SC
-#EXTINF:-1,Dundee Radio Club - 320 - The United Kingdom Of Great Britain And Northern Ireland - community radio - field recordings - music - podcasts - soundscape
-#EXTINF:-1,IMI Radio - 128 - Poland - 128 kbit/s - https - internet radio - mp3 - music - podcasts
-#EXTINF:-1,Rádio Lisboa - 192 - Portugal - community radio - dj - podcasts
-#EXTINF:-1,Urban Space Radio - 128 - Ukraine - 128 kbit/s - https - internet radio - ivano-frankivsk - mp3 - music - podcasts - regional radio
-#EXTINF:-1,WPKN 89.5 Community Radio Station - 64 - The United States Of America - community radio - music podcasts - talk
-#EXTINF:-1,Громадське радіо - 128 - Ukraine - 128 kbit/s - https - mp3 - news - podcasts
-#EXTINF:-1,Країна ФМ - 128 - Ukraine - 128 kbit/s - https - mp3 - music - podcasts
-#EXTINF:-1,Львівська хвиля - 128 - Ukraine - 128 kbit/s - https - lviv - mp3 - music - news - podcasts - regional radio
-#EXTINF:-1,Радіо FM Галичина - 320 - Ukraine - 320 kbit/s - https - lviv - mp3 - music - podcasts - regional radio
-#EXTINF:-1,Радіо Голос Надії - 64 - Ukraine - 64 kbit/s - aac - https - podcasts - religion
-#EXTINF:-1,Радіо Західний полюс - 32 - Ukraine - 32 kbit/s - aac - https - ivano-frankivsk - music - podcasts - regional radio
-#EXTINF:-1,Радіо Ми з України - 128 - Ukraine - 128 kbit/s - https - mp3 - music - podcasts
-#EXTINF:-1,Радіо Ми з України - 128 - Ukraine - music - news - podcasts
-#EXTINF:-1,Радіо Перше - 64 - Ukraine - 64 kbit/s - aac - https - lviv - music - news - podcasts - regional radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-integracion-1041-fm-593415-logo.jpg",Radio Integracion 104.1 FM
+http://198.136.62.200:9320/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sevgice-fm-612628-logo.jpg",Radio Sevgice FM
+http://159.253.44.10:8052/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tfmusic-radio-601432-logo.jpg",TFMUSIC RADIO
+https://c6.radioboss.fm:18141/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fm-stomp-620186-logo.jpg",Radio FM Stomp
+http://v9.fmstomp.com:8100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/voicefm-bukan-sekadar-music-623230-logo.jpg",Radio VoiceFM - Bukan Sekadar Music
+http://Voicefm.info:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sintopia-radio-acn-626447-logo.jpg",Sintopía Radio - ACN
+http://radio05.cehis.net:8011/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/puerto-plata-media-radio-640987-logo.jpg",Puerto Plata Media Radio
+http://cast.zuperdns.net:8200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ambiance-fm-963-644068-logo.jpg",Radio Ambiance Fm 96.3
+http://stream.zeno.fm/asu3xn3bm0quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/979-da-plugg-radio-645362-logo.jpg",97.9 Da Plugg Radio
+http://la-ssd.myautodj.com:8090/stream
+#EXTINF:-1 tv-logo="",Radio Well I Never Podcast
+http://api.spreaker.com/listen/show/2748771/episode/latest/shoutcast.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/antenne-vorarlberg-coffeehits-645606-logo.jpg",Radio Antenne Vorarlberg CoffeeHits
+http://webradio.antennevorarlberg.at:80/coffehits.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rumba-mix-609452-logo.jpg",Radio Rumba Mix
+http://108.61.34.50:7022/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xpression-inter-613193-logo.jpg",Radio Xpression Inter
+http://radioexpress1.serverroom.net:7876/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/x45radio-621785-logo.jpg",X45Radio
+http://perseus.shoutca.st:8984/carnaval
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/elm-radio-623521-logo.jpg",ELM Radio
+http://87.117.247.212:39374/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioderadioscom-634561-logo.jpg",RadiodeRadios.com
+http://cp4.lorini.net:36027/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/febc-chinese-585858-logo.jpg",Radio FEBC Chinese
+https://alpha.podcasttoradio.com/654558
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rfj-156355-logo.jpg",Radio RFJ
+http://rfj.ice.infomaniak.ch/rfj-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/4life-radioororgreek-player-615705-logo.jpg",4Life Radio||Greek Player
+http://live.fourlife.gr:8132/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtn-568634-logo.jpg",Radio RTN
+http://rtn.ice.infomaniak.ch/rtn-high.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/das-neue-radio-seefunk-577888-logo.jpg",Das neue Radio Seefunk
+http://185.10.195.116:80/live64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ibiza-sound-radio-627479-logo.jpg",Ibiza Sound Radio
+http://listen.openstream.co/3138/audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aktiva-radio-oficial-hd-615681-logo.jpg",Aktiva Radio Oficial HD
+http://198.1.72.97:9996/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-anahuac-puebla-online-613516-logo.jpg",Radio Anáhuac Puebla OnLine
+http://107.161.186.154:9302/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wnzn-570161-logo.jpg",Radio WNZN
+http://149.56.195.94:8195/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/901-hopefm-577900-logo.jpg",Radio 90.1 HopeFM
+http://www.hopefm.com/broadband.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/switch-webcast-578485-logo.jpg",Radio Switch Webcast
+http://104.245.32.187/SwcHd

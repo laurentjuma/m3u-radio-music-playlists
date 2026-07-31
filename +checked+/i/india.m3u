@@ -21,48 +21,22 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/playlist.m3u8
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
 #EXTINF:-1,AIR Hyderabad A
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8
-#EXTINF:-1,AIR Kannur FM
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8
 #EXTINF:-1,Air Kochi FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/chunklist.m3u8
 #EXTINF:-1,AIR Kochi FM Rainbow
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8
 #EXTINF:-1,AIR Kozhikode Real FM
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8
-#EXTINF:-1,AIR Lucknow
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio046/chunklist.m3u8
-#EXTINF:-1,AIR Manjeri FM
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8
-#EXTINF:-1,Air murshidabad
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8
 #EXTINF:-1,AIR News 24/7
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00264kbps.m3u8
-#EXTINF:-1,AIR Pune AM
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8
-#EXTINF:-1,AIR Pune FM
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8
 #EXTINF:-1,AIR Raagam
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio139/hlspbaudio139_Auto.m3u8
-#EXTINF:-1,Air Rainbow 100.7 FM in Lucknow
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8
-#EXTINF:-1,AIR Silchar
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/chunklist.m3u8
 #EXTINF:-1,Air Tamil
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/playlist.m3u8
-#EXTINF:-1,Air Telugu
-https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio141/hlspbaudio14164kbps.m3u8
-#EXTINF:-1,AIR Thrissur
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8
-#EXTINF:-1,Air Tirupati
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8
 #EXTINF:-1,AIR VBS Ahmedabad
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/chunklist.m3u8
 #EXTINF:-1,AIR Vividh Bharathi
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
-#EXTINF:-1,Akashwani Jalgaon
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8
-#EXTINF:-1,All India Radio Air Shimla
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/chunklist.m3u8
 #EXTINF:-1,Anirudh Radio
 https://psrlive2.listenon.in/anirud?ah=0e81749e37789e5fb8c290926ce87e3f
 #EXTINF:-1,ap 9 FM
@@ -75,6 +49,10 @@ https://psrlive2.listenon.in/arr?ah=0e81749e37789e5fb8c290926ce87e3f
 https://stream.arulvakku.com/radio/8000/radio.mp3
 #EXTINF:-1,BHOJPURI FM
 http://live.jesuscomingfm.com:8036/
+#EXTINF:-1,Bollyhitsradio
+https://hoth.alonhosting.com:1100/
+#EXTINF:-1,Bollywood
+http://cast2.asurahosting.com:8569/stream
 #EXTINF:-1,Chennai live
 http://c2.radioboss.fm:8332/stream
 #EXTINF:-1,Fm rainbow Coimbatore
@@ -95,16 +73,6 @@ https://rocafmadrid.radioca.st/
 http://tachyon.shoutca.st:8298/
 #EXTINF:-1,Harris Jayaraj Radio
 https://psrlive2.listenon.in/hjr?ah=0e81749e37789e5fb8c290926ce87e3f
-#EXTINF:-1,Hasya Katta Official
-https://stream.zeno.fm/grpa985az98uv.m3u
-#EXTINF:-1,Hits Of Bollywood
-http://stream.zeno.fm/8ty8szwpwfeuv.m3u
-#EXTINF:-1,Hits Of Kishor Kumar
-http://stream.zeno.fm/pg6rqp8ztm0uv.m3u
-#EXTINF:-1,Hits Of Lata Mangeshkar
-http://stream.zeno.fm/g95zm67prfhvv.m3u
-#EXTINF:-1,Hits Of Mohammed Rafi
-http://stream.zeno.fm/0zkr7x8ztm0uv.m3u
 #EXTINF:-1,Ilayaraja Lite Radio
 https://psrlive2.listenon.in/irlite?ah=0e81749e37789e5fb8c290926ce87e3f
 #EXTINF:-1,Ilayaraja Radio
@@ -157,12 +125,8 @@ http://live.jesuscomingfm.com:8224/
 http://live.jesuscomingfm.com:8362/
 #EXTINF:-1,Jesus Coming FM - Tamil
 http://live.jesuscomingfm.com:8230/
-#EXTINF:-1,Kodai FM
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/playlist.m3u8
-#EXTINF:-1,Luminous Radio
-http://192.111.140.6:8546/stream
-#EXTINF:-1,Maayboli Marathi
-http://stream.zeno.fm/48kybvzrwfeuv.m3u
+#EXTINF:-1,Live Kirtan Sri Harmandir Sahib
+https://live.sgpc.net:8443/nocache=889869
 #EXTINF:-1,Malayam Islam ilmusSalaf
 https://equinox.shoutca.st/tunein/darhdth.pls
 #EXTINF:-1,Natrinai FM
@@ -171,6 +135,8 @@ http://centova32.instainternet.com:8340/stream
 http://stream.oak935.org/oak935-128.aac
 #EXTINF:-1,Pollachi Fm
 http://104.200.16.182:8000/stream/1/
+#EXTINF:-1,Prayer Power Radio
+https://radio.streemlion.com:1290/prayerpowerradio/2/winamp.m3u
 #EXTINF:-1,Raagam AIR 24*7
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8
 #EXTINF:-1,Radio Aashiqanaa
@@ -195,26 +161,13 @@ http://stream.radiosai.net:8000/
 http://85.25.185.202:8138/stream
 #EXTINF:-1,Radio SD 90.8 FM
 http://uk2.internet-radio.com:8066/stream?listening-from-radio-garden=1657423901
-#EXTINF:-1,Shalom Radio
-http://stream.radio.co/s1383afdc9/listen
-#EXTINF:-1,Solapur Akashwani
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8
-#EXTINF:-1,Theophony Tamil Christian Radio
-https://usa19.fastcast4u.com:5480//stream
 #EXTINF:-1,TORi Live Radio
 http://173.203.133.187:9700/
 #EXTINF:-1,Yuvan Shankar Raja Radio
 https://psrlive2.listenon.in/ysr?ah=0e81749e37789e5fb8c290926ce87e3f
-#EXTINF:-1,आकाशवाणी पटना
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/chunklist.m3u8
 #EXTINF:-1,印度德里广播电台
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio23132kbps.m3u8
 #EXTINF:-1,Hindi Desi Bollywood Evergreen Hits - Channel 01
-http://cast2.asurahosting.com:8569/stream
-#EXTINF:-1,VIJAYFM
-https://vijayfm-prabak78.radioca.st/stream
-#EXTINF:-1,BHAKTI WORLD GANESHA
-https://radio2bindia.out.airtime.pro/radio2bindia_a?_ga=2.203455766.763289185.1662805693-499518273.1568730566
 #EXTINF:-1,BHAKTI WORLD MANTRA SHAKTI
 https://iskon2b.out.airtime.pro:8000/iskon2b_a
 #EXTINF:-1,BHAKTI WORLD DEVI MAA
@@ -225,6 +178,8 @@ https://dard.out.airtime.pro/dard_a?_ga=2.178816160.548091236.1582029213-1175002
 http://2bhanuman.out.airtime.pro:8000/2bhanuman_a
 #EXTINF:-1,Radio Sai Global Harmony AmeriStream
 http://stream.radiosai.org:8006/
+#EXTINF:-1,Radio Sai Global Harmony AsiaStream
+http://stream.radiosai.org:8002/
 #EXTINF:-1,Radio Sai Global Harmony Bhajan Stream
 http://stream.radiosai.org:8000/
 #EXTINF:-1,Radio Sai Global Harmony Divine Discourse Stream
@@ -233,22 +188,20 @@ http://stream.radiosai.net:8008/
 http://stream.radiosai.org:8020
 #EXTINF:-1,Radio Sai Global Harmony AfriStream
 http://stream.radiosai.org:8004/
-#EXTINF:-1,Zindagi Forever
-http://142.4.215.64:8060/streamstream/1
-#EXTINF:-1,Osho Radio
-http://radioe.dns.osho.com:8348/live
 #EXTINF:-1,A9 RADIO
 http://195.154.217.103:8175/
 #EXTINF:-1,Adirai FM 904
 https://listen.radioking.com/radio/188161/stream/230320
-#EXTINF:-1,BaaniNet Sikh Kirtan Radio
-http://radio.baani.net:8019/stream
+#EXTINF:-1,ATBC Radio
+http://s7.viastreaming.net:7920/
 #EXTINF:-1,Bhakti World  Ganesh
 https://radio2bindia.out.airtime.pro/radio2bindia_a
 #EXTINF:-1,Bollywood Hungama
 https://www.bollywoodhungama.com/wp-content/uploads/2016/10/Nashe-Si-Chadh-Gayi.mp3
 #EXTINF:-1,Craze FM Radio
 https://strm112.1.fm/top40_mobile_mp3
+#EXTINF:-1,CTBC Radio
+http://ctbcfmradio.primcast.com:4086/
 #EXTINF:-1,Easy 96
 https://ice8.securenetsystems.net/EASY96
 #EXTINF:-1,EdmMix  Radio
@@ -265,26 +218,26 @@ https://ice8.securenetsystems.net/SGTRADIO
 http://94.23.23.97:29270/listen.mp3?0.6208716554432034
 #EXTINF:-1,Jesus Coming FM  Hindi
 http://live.jesuscomingfm.com:8132/
-#EXTINF:-1,Luminous Radio  Hindi
-http://192.111.140.6:8601/stream
-#EXTINF:-1,Luminous Radio  Tamil
-http://192.111.140.6:8602/stream
 #EXTINF:-1,Masala 101
 https://stream.radio.co/s9f46a9bb1/listen
 #EXTINF:-1,Nee Swaram
 http://85.25.185.202:8035/stream
 #EXTINF:-1,Punjab Rocks Radio
 http://radio.punjabrocks.com:9988/punjab
+#EXTINF:-1,Radio Beat
+http://strw3.openstream.co/673?aw_0_1st.collectionid%3D3372%26stationId%3D3372%26publisherId%3D697%26k%3D1781210142
+#EXTINF:-1,Radio Daijiworld
+https://26343.live.streamtheworld.com/SAM08AAC013_SC
 #EXTINF:-1,Radio Islam India
 http://radioislamin.out.airtime.pro:8000/radioislamin_a
-#EXTINF:-1,Radio JSR
-http://198.7.59.28:8078/stream
+#EXTINF:-1,Radio Kalighat
+https://strw3.openstream.co/906?aw_0_1st.collectionid%3D3700%26stationId%3D3700%26publisherId%3D930%26k%3D1781210147
 #EXTINF:-1,Sanskar News FM
 https://radio.canstream.co.uk:8024/live.mp3
+#EXTINF:-1,Shaivam Radio
+https://26343.live.streamtheworld.com/SP_R2925215_SC
 #EXTINF:-1,Sikh Kirtan Radio
 http://radio.punjabrocks.com:9958/kirtan
-#EXTINF:-1,Swaminarayan Radio  Kirtan
-http://radio.bhujmandir.org:8000/stream/1/
 #EXTINF:-1,Tamil Kuyil Radio
 http://live.tamilkuyilradio.com:8095/
 #EXTINF:-1,TamilKuyil Radio
@@ -293,24 +246,36 @@ http://live.tamilkuyilradio.com:8095/stream.mp3
 https://eu10.fastcast4u.com/ullasamfm
 #EXTINF:-1,V V Radio
 http://music2.vvradio.co.in:2802/stream2
-#EXTINF:-1,Ephphatha Radio Listen live
-https://ephphatha.radioca.st/server
-#EXTINF:-1,Rádio Massa FM Curitiba Listen live
-https://stm01.virtualcast.com.br:8118/live
-#EXTINF:-1,Positively Sleep Max Richter Listen live
-https://streaming.positivity.radio/pr/maxrichter/icecast.audio
+#EXTINF:-1,hits4life Listen live
+https://hits4life.stream.laut.fm/hits4life?ref=radiode&t302=2026-06-11_20-36-16&uuid=c0cc7e19-f8d0-498c-ad12-6202eef0ffa9
+#EXTINF:-1,PiN FM Listen live
+https://prettyinnoise.stream.laut.fm/prettyinnoise?ref=radiode&t302=2026-06-11_20-36-18&uuid=1f104698-17a5-44c9-8d98-c8273dddaa75
+#EXTINF:-1,Radio go!FM Listen live
+https://radioserver.dk/gofm
+#EXTINF:-1,powerclub Listen live
+https://powerclub.stream.laut.fm/powerclub?ref=radiode&t302=2026-06-11_20-36-19&uuid=273a8870-6587-422f-9276-fddccd868be3
 #EXTINF:-1,Array Radio Listen live
 https://delivery-cdn-cf.adswizz.com/tunein_newEnco/ad_0_844878c3a7ee82f3bc8dfbf6b4a4f65c_862c32a8026fd29ed4a35fc369cf2f23_91.mp3
 #EXTINF:-1,70 80 90 Italia D'autore Listen live
 https://maggie.torontocast.com:2020/stream/708090italiadautore
+#EXTINF:-1,Beatdownx Listen live
+https://beatdownx.stream.laut.fm/beatdownx?t302=2026-06-11_20-36-21&uuid=63a2aabd-2c5a-44b5-be18-9ff1e0e8c94f
+#EXTINF:-1,SWITCHON Listen live
+https://switchon.stream.laut.fm/switchon?ref=radiode&t302=2026-06-11_20-36-21&uuid=f53ed2e6-ddc0-452b-bfe7-ebb787d0d8f8
 #EXTINF:-1,Dolfijn FM Hits Listen live
 https://radiostreamfm.com/radio/8020/dolfijnhits.mp3
+#EXTINF:-1,Gaia FM Listen live
+https://s2.stationplaylist.com:9000/gaiafm.aac
+#EXTINF:-1,Alpenweihnacht Listen live
+https://alpenweihnacht.stream.laut.fm/alpenweihnacht?t302=2026-06-11_20-36-22&uuid=8f324bdc-0adf-4801-9c59-f08e59de34a4
+#EXTINF:-1,indiego Listen live
+https://indiego.stream.laut.fm/indiego?ref=radiode&t302=2026-06-11_20-36-22&uuid=91669c75-1a96-48d8-89b1-6f5f231ce753
 #EXTINF:-1,RMF Cuba Listen live
 https://rs7-krk2-cyfronet.rmfstream.pl/CUBA
 #EXTINF:-1,Radio Fm Music Curacaví Listen live
 https://sonicpanel.cloudstreaming.eu/9980/server
-#EXTINF:-1,Miraath - ميراث الأنبياء Listen live
-https://radio.al7eah.net/8010/server
+#EXTINF:-1,Radio TEDDY - Deutschpop Nonstop Listen live
+https://irmedia.streamabc.net/irm-rtdeutschpopnonstop-mp3-128-8615155?sABC=6n2o1p4n%230%2380rq38oo4qo55s822o06po6n807spros%23enqvbqr_jro&aw_0_1st.playerid=radiode_web&amsparams=playerid:radiode_web;skey:1781210186
 #EXTINF:-1,Vividh Bharti
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
 #EXTINF:-1,City Dance
@@ -323,6 +288,8 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio00364k
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio01064kbps.m3u8
 #EXTINF:-1,NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:-1,City Freedom
+https://prclive4.listenon.in/Freedom
 #EXTINF:-1,SCORCHING ARYes - (EDM SHOW)
 http://feeds.feedburner.com/ScorchingAryes?format=xml
 #EXTINF:-1,TORI TeluguOne Radio
@@ -339,30 +306,36 @@ https://ice6.securenetsystems.net/WSCH?_=1437722927
 http://ice6.securenetsystems.net/WSCH
 #EXTINF:-1,Bhakti World Radio
 http://gurbani.out.airtime.pro:8000/gurbani_a
-#EXTINF:-1,JRM - Markaz Ki Awaz
-http://stream.zeno.fm/z2ryhp76u7zuv.m3u
 #EXTINF:-1,JQLM RADIO
 https://streamer.radio.co/s6894395f3/listen
 #EXTINF:-1,Nesaganam Online Tamil Radio
 http://192.95.39.65:5206/
+#EXTINF:-1,Tamil super
+https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Hot 96.3
 https://cdn-web.tunein.com/assets/media/blank.mp3
+#EXTINF:-1,Radio Beat Malayalam
+https://strw3.openstream.co/668?aw_0_1st.collectionid%3D6761%26stationId%3D6761%26publisherId%3D692%26k%3D1781210207
+#EXTINF:-1,Into The Pit
 #EXTINF:-1,Radio WFYI
 https://wfyi-iad.streamguys1.com/live
 #EXTINF:-1,Suspense Radio USA
 https://ais-sa3.cdnstream1.com/2608_128.mp3
 #EXTINF:-1,Radio Mystery Theater
 https://ais-sa3.cdnstream1.com/2800_128.mp3
-#EXTINF:-1,My Catholic Online Radio
-http://84.16.232.202:8054/stream?type=http&nocache=50
-#EXTINF:-1,Christian Visionary Radio
-http://85.25.185.202:2199/tunein/visionary.pls
+#EXTINF:-1,Blender FM
+#EXTINF:-1,KINCHIT KARAM RADIO
 #EXTINF:-1,Hoosier Heat Radio
 http://www.fleetradionetwork.com:8281/stream
 #EXTINF:-1,Pollachi FM
 http://104.200.16.182:8000
+#EXTINF:-1,Kripalu Bhakti Dhara Radio Live
+https://kbd.out.airtime.pro/kbd_a
+#EXTINF:-1,Nanma Malayalam
 #EXTINF:-1,NDTV India Live
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1,NDTV Profit Live
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
 #EXTINF:-1,Vividh Bharti Online
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
 #EXTINF:-1,Southradios - Yuvan Shankar Raja Radio
@@ -379,34 +352,18 @@ https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioraga
 http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio231_Auto.m3u8
 #EXTINF:-1,All India Radio West Service - AIR Marathi Asmita
 http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio01064kbps.m3u8
-#EXTINF:-1,Radio City - Hindi
-http://69.162.124.24:8888/Hindi
 #EXTINF:-1,Radio Sai - TeluguStream
 http://stream.radiosai.net:8020/
 #EXTINF:-1,All India Radio - AIR Vividh Bharati
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8
-#EXTINF:-1,All India Radio South Service - AIR Kothagudem
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8
-#EXTINF:-1,All India Radio - AIR Assamese
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8
 #EXTINF:-1,All India Radio - AIR Bangla
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/chunklist.m3u8
-#EXTINF:-1,Hindi Desi Bollywood Evergreen Hits - Channel 2
-http://eu1.reliastream.com:7103/stream
-#EXTINF:-1,All India Radio - AIR Anantapur
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio054/chunklist.m3u8
 #EXTINF:-1,All India Radio - AIR Jallandhar
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio138/chunklist.m3u8
-#EXTINF:-1,All India Radio - AIR Kurnool
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio052/chunklist.m3u8
-#EXTINF:-1,All India Radio - AIR Patiala
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8
+#EXTINF:-1,Radio Chann Pardesi - Punjabi Radio
+http://ice.mehramedia.com:8763/live
 #EXTINF:-1,All India Radio - AIR Tirupati I
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8
-#EXTINF:-1,Radio Sada e Hurriyat
-http://eu8.fastcast4u.com:24625/stream
-#EXTINF:-1,All India Radio - AIR Surat
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8
 #EXTINF:-1,Jesus Coming FM - Serbian
 http://live.jesuscomingfm.com:8404/stream
 #EXTINF:-1,Jesus Coming FM - Afrikaans French
@@ -417,8 +374,6 @@ http://live.jesuscomingfm.com:8728/stream
 http://live.jesuscomingfm.com:8078/stream
 #EXTINF:-1,Jesus Coming FM - Slovenian
 http://live.jesuscomingfm.com:8764/stream
-#EXTINF:-1,All India Radio - Simhapuri FM
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio168/chunklist.m3u8
 #EXTINF:-1,AP9FM
 http://stream.ap9fm.in:8000/radio.mp3
 #EXTINF:-1,All India Radio - FM Gold
@@ -447,20 +402,22 @@ http://psrlive3.listenon.in/hjr?station=harrishjeyarajradio
 http://psrlive3.listenon.in/ilayam?station=ilayamaanradio
 #EXTINF:-1,Southradios - Ilayaraja Lite Radio
 http://psrlive3.listenon.in/irlite
+#EXTINF:-1,Southradios - Palaiya Paadal Radio
+http://psrlive1.listenon.in/old?station=palaiyapaadalradio
 #EXTINF:-1,Southradios - SPB Radio
 http://psrlive3.listenon.in/spb
+#EXTINF:-1,Southradios - Tamil Beat Radio
+http://psrlive1.listenon.in/tabeat?station=tamilbeatradio
 #EXTINF:-1,Southradios - Tamil Lite Radio
 http://psrlive3.listenon.in/talite
 #EXTINF:-1,Southradios - Ilayaraja Super Beats
 http://psrlive3.listenon.in/irbeat
 #EXTINF:-1,Southradios - Vidyasagar Radio
 http://psrlive3.listenon.in/vidyasa?station=vidyasagarradio
-#EXTINF:-1,Radio Beat Retro
-http://5.63.151.52:7142/live
-#EXTINF:-1,Radio Beat - Radio Beat Love
-http://live.exertion.in:8020/radio.mp3
-#EXTINF:-1,Radio Beat - Radio Beat Malayalam
-http://live.exertion.in:8050/radio.mp3
+#EXTINF:-1,Southradios - Kadhal Radio
+http://psrlive1.listenon.in/love?station=kadhalradio
+#EXTINF:-1,Mohd Rafi Radio
+http://radio.mohdrafi.com/rafi.mp3
 #EXTINF:-1,Feba Online
 https://listen.radioking.com/radio/557210/stream/618317
 #EXTINF:-1,ShalomBeats Radio - Malayalam
@@ -475,8 +432,6 @@ http://rd.shalombeatsradio.com:8090/stream/
 http://rd.shalombeatsradio.com:8190/stream/
 #EXTINF:-1,ShalomBeats Radio - Hindi
 http://rd.shalombeatsradio.com:7090/stream/
-#EXTINF:-1,Theophony - Tamil Christian Radio
-http://usa19.fastcast4u.com:5480/stream
 #EXTINF:-1,Yoga IP-TV
 http://stream.swamiji.tv/YogaIPTV/ngrp:YogaStream_mobile/playlist.m3u8
 #EXTINF:-1,NDTV 24X7 English
@@ -491,8 +446,8 @@ http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Aut
 http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio006_Auto.m3u8
 #EXTINF:-1,All India Radio - AIR Amruthavarshini
 http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8
-#EXTINF:-1,All India Radio North Service - AIR Shimla
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8
+#EXTINF:-1,SGPC - Live Kirtan
+https://live.sgpc.net:8443/stream/
 #EXTINF:-1,Punjab Rocks Radio - Kirtan Radio
 http://radio.punjabrocks.com:9958/
 #EXTINF:-1,Punjab Rocks Radio - Taal Radio
@@ -501,14 +456,8 @@ http://radio.punjabrocks.com:9998/
 http://radio.punjabrocks.com:9978/
 #EXTINF:-1,Punjab Rocks Radio - Akhand Path Radio
 http://radio.punjabrocks.com:9968/
-#EXTINF:-1,GSC FM - Tamil Christian Radio
-http://84.16.232.202:7479/stream
 #EXTINF:-1,My Hott Radio - Bombay Hott Radio
 https://ec5.yesstreaming.net:2555/stream
-#EXTINF:-1,Radio City - Electronica
-http://69.162.124.24:8888/Electronica
-#EXTINF:-1,Radio City - Metal
-http://69.162.124.24:8888/Metal
 #EXTINF:-1,All India Radio - Telugu
 http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio141/hlspbaudio141_Auto.m3u8
 #EXTINF:-1,All India Radio - AIR Samvadita Mumbai
@@ -517,288 +466,35 @@ http://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Aut
 http://stream.radiosai.net:8002/
 #EXTINF:-1,Radio Sai - Discourse Stream
 http://stream.radiosai.org:8008/
-#EXTINF:-1,All India Radio West Service - AIR Bhopal
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8
 #EXTINF:-1,All India Radio South Service - AIR Madurai
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio126/playlist.m3u8
 #EXTINF:-1,தமிழ் பண்பலை - நியூசிலாந்து
 http://tamilpanpalai.radioca.st:8140/stream/
 #EXTINF:-1,தமிழ் பண்பலை - ஆப்பிரிக்கா
 http://tamilpanpalai.radioca.st:8140/afr
-#EXTINF:-1,All India Radio - AIR Dhule
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio079/chunklist.m3u8
-#EXTINF:-1,All India Radio North Service - AIR Lucknow
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8
-#EXTINF:-1,All India Radio North Service - AIR Rainbow Lucknow
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8
-#EXTINF:-1,All India Radio West Service - AIR Chandrapur
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8
-#EXTINF:-1,All India Radio West Service - AIR Ratnagiri
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio071/playlist.m3u8
 #EXTINF:-1,All India Radio West Service - AIR Nagpur
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/chunklist.m3u8
 #EXTINF:-1,All India Radio - Vividh Bharati Nagpur
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio070/chunklist.m3u8
-#EXTINF:-1,All India Radio - AIR Allahabad
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8
-#EXTINF:-1,All India Radio North Service - AIR Darbhanga
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8
-#EXTINF:-1,All India Radio West Service - AIR Indore
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8
 #EXTINF:-1,All India Radio - Vividh Bharati Malayalam
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8
-#EXTINF:-1,All India Radio - AIR Guwahati
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio237/chunklist.m3u8
-#EXTINF:-1,All India Radio South Service - AIR Kannur
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8
-#EXTINF:-1,All India Radio - AIR Jabalpur
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8
-#EXTINF:-1,All India Radio - AIR Jabalpur FM
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8
-#EXTINF:-1,All India Radio - AIR Keonjhar
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio166/chunklist.m3u8
-#EXTINF:-1,All India Radio South Service - AIR Adilabad
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8
-#EXTINF:-1,All India Radio North Service - AIR Jodhpur
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8
-#EXTINF:-1,All India Radio - Sun City FM
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio089/chunklist.m3u8
-#EXTINF:-1,All India Radio - AIR Godhra
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio114/chunklist.m3u8
 #EXTINF:-1,4Lobos Goa Radio
 http://cassini.shoutca.st:9266/
 #EXTINF:-1,Akhand Path Radio
 http://radio.punjabrocks.com:9968
 #EXTINF:-1,Arulvakku
 http://stream.arulvakku.com/radio/8000/radio.mp3
-#EXTINF:-1,Bollywood 2010's
-http://drive.uber.radio/uber/bollywood2010s/icecast.audio
-#EXTINF:-1,Bollywood Alka Yagnik
-http://drive.uber.radio/uber/bollywoodalkayagnik/icecast.audio
-#EXTINF:-1,Bollywood Amit Trivedi
-http://drive.uber.radio/uber/bollywoodamittrivedi/icecast.audio
-#EXTINF:-1,Bollywood Armaan Malik
-http://drive.uber.radio/uber/bollywoodarmaanmalik/icecast.audio
-#EXTINF:-1,Bollywood Aruit Singh
-http://drive.uber.radio/uber/bollywoodaruitsingh/icecast.audio
-#EXTINF:-1,Bollywood Badshah
-http://drive.uber.radio/uber/bollywoodbadshah/icecast.audio
-#EXTINF:-1,Bollywood Dance
-http://drive.uber.radio/uber/bollywooddance/icecast.audio
-#EXTINF:-1,Bollywood Diwali Party
-http://drive.uber.radio/uber/bollywooddiwali/icecast.audio
-#EXTINF:-1,Bollywood Love
-http://drive.uber.radio/uber/bollywoodlove/icecast.audio
-#EXTINF:-1,Bollywood Mix
-http://drive.uber.radio/uber/bollywoodmix/icecast.audio
-#EXTINF:-1,Bollywood Nehar Kakkar
-http://drive.uber.radio/uber/bollywoodneharkakkar/icecast.audio
-#EXTINF:-1,Bollywood Now
-http://drive.uber.radio/uber/bollywoodnow/icecast.audio
-#EXTINF:-1,Bollywood Pritam
-http://drive.uber.radio/uber/bollywoodpritam/icecast.audio
-#EXTINF:-1,Bollywood Shah Rukh Khan
-http://drive.uber.radio/uber/bollywoodshahrukhkhan/icecast.audio
-#EXTINF:-1,Bollywood Shreya Ghosal
-http://drive.uber.radio/uber/bollywoodshreyaghosal/icecast.audio
-#EXTINF:-1,Bollywood Udit Narayan
-http://drive.uber.radio/uber/bollywooduditnarayan/icecast.audio
-#EXTINF:-1,Bollywood Vishal & Shekhar
-http://drive.uber.radio/uber/bollywoodvishalandshekhar/icecast.audio
-#EXTINF:-1,Bollywood Work Out
-http://drive.uber.radio/uber/bollywoodworkout/icecast.audio
-#EXTINF:-1,Calm
-http://drive.uber.radio/uber/calm/icecast.audio
-#EXTINF:-1,Calm Birdsong
-http://drive.uber.radio/uber/calmbirdsong/icecast.audio
-#EXTINF:-1,Calm Bowls
-http://drive.uber.radio/uber/calmbowls/icecast.audio
-#EXTINF:-1,Calm Chants
-http://drive.uber.radio/uber/calmchants/icecast.audio
-#EXTINF:-1,Calm Classical
-http://drive.uber.radio/uber/calmclassical/icecast.audio
-#EXTINF:-1,Calm Dreamscape
-http://drive.uber.radio/uber/calmdreamscape/icecast.audio
-#EXTINF:-1,Calm Gongs
-http://drive.uber.radio/uber/calmgongs/icecast.audio
-#EXTINF:-1,Calm Harp
-http://drive.uber.radio/uber/calmharp/icecast.audio
-#EXTINF:-1,Calm Kids
-http://drive.uber.radio/uber/calmkids/icecast.audio
-#EXTINF:-1,Calm Massage
-http://drive.uber.radio/uber/calmmassage/icecast.audio
-#EXTINF:-1,Calm Meditation
-http://drive.uber.radio/uber/calmmeditation/icecast.audio
-#EXTINF:-1,Calm Ocean
-http://drive.uber.radio/uber/calmocean/icecast.audio
-#EXTINF:-1,Calm Pan Pipes
-http://drive.uber.radio/uber/calmpanpipes/icecast.audio
-#EXTINF:-1,Calm Piano
-http://drive.uber.radio/uber/calmpiano/icecast.audio
-#EXTINF:-1,Calm Reiki
-http://drive.uber.radio/uber/calmreiki/icecast.audio
-#EXTINF:-1,Calm Relaxation
-http://drive.uber.radio/uber/calmrelaxation/icecast.audio
-#EXTINF:-1,Calm Sleep Baby
-http://drive.uber.radio/uber/calmsleepbaby/icecast.audio
-#EXTINF:-1,Calm Sleep Classical
-http://drive.uber.radio/uber/calmsleepclassical/icecast.audio
-#EXTINF:-1,Calm Sleepy
-http://drive.uber.radio/uber/calmsleepy/icecast.audio
-#EXTINF:-1,Calm Smooth
-http://drive.uber.radio/uber/calmsmooth/icecast.audio
-#EXTINF:-1,Calm Soothing Instrumental
-http://drive.uber.radio/uber/calminstrumental/icecast.audio
-#EXTINF:-1,Calm Soundscapes
-http://drive.uber.radio/uber/calmsoundscapes/icecast.audio
-#EXTINF:-1,Calm Spa
-http://drive.uber.radio/uber/calmspa/icecast.audio
-#EXTINF:-1,Calm Stress Relief
-http://drive.uber.radio/uber/calmstressrelief/icecast.audio
-#EXTINF:-1,Calm Tai Chi
-http://drive.uber.radio/uber/calmtaichi/icecast.audio
-#EXTINF:-1,Calm Zen
-http://drive.uber.radio/uber/calmzen/icecast.audio
-#EXTINF:-1,Easy 00's
-http://streaming.exclusive.radio/uber/easy00/icecast.audio
-#EXTINF:-1,Easy 10's
-http://streaming.exclusive.radio/uber/easy2010/icecast.audio
-#EXTINF:-1,Easy 50's
-http://streaming.exclusive.radio/uber/easy50/icecast.audio
-#EXTINF:-1,Easy 60's
-http://streaming.exclusive.radio/uber/easy60/icecast.audio
-#EXTINF:-1,Easy 70's
-http://streaming.exclusive.radio/uber/easy70/icecast.audio
-#EXTINF:-1,Easy 80's
-http://streaming.exclusive.radio/uber/easy80/icecast.audio
-#EXTINF:-1,Easy 90's
-http://streaming.exclusive.radio/uber/easy90/icecast.audio
-#EXTINF:-1,Easy Andrea Bocelli
-http://streaming.exclusive.radio/uber/easyandreabocelli/icecast.audio
-#EXTINF:-1,Easy Andy Williams
-http://streaming.exclusive.radio/uber/easyandywilliams/icecast.audio
-#EXTINF:-1,Easy Barbra Streisand
-http://streaming.exclusive.radio/uber/easybarbrastreisand/icecast.audio
-#EXTINF:-1,Easy Barry Manilow
-http://streaming.exclusive.radio/uber/easybarrymanilow/icecast.audio
-#EXTINF:-1,Easy Bette Midler
-http://streaming.exclusive.radio/uber/easybettemidler/icecast.audio
-#EXTINF:-1,Easy Bing Crosby
-http://streaming.exclusive.radio/uber/easybingcrosby/icecast.audio
-#EXTINF:-1,Easy Bread
-http://streaming.exclusive.radio/uber/easybread/icecast.audio
-#EXTINF:-1,Easy Carly Simon
-http://streaming.exclusive.radio/uber/easycarlysimon/icecast.audio
-#EXTINF:-1,Easy Carole King
-http://streaming.exclusive.radio/uber/easycaroleking/icecast.audio
-#EXTINF:-1,Easy Carpenters
-http://streaming.exclusive.radio/uber/easycarpenters/icecast.audio
-#EXTINF:-1,Easy Celine Dion
-http://streaming.exclusive.radio/uber/easycelinedion/icecast.audio
-#EXTINF:-1,Easy Classical
-http://streaming.exclusive.radio/uber/easyclassical/icecast.audio
-#EXTINF:-1,Easy Country
-http://streaming.exclusive.radio/uber/easycountry/icecast.audio
-#EXTINF:-1,Easy Crooners
-http://streaming.exclusive.radio/uber/easycrooners/icecast.audio
-#EXTINF:-1,Easy David Soul
-http://streaming.exclusive.radio/uber/easydavidsoul/icecast.audio
-#EXTINF:-1,Easy Dean Martin
-http://streaming.exclusive.radio/uber/easydeanmartin/icecast.audio
-#EXTINF:-1,Easy Dionne Warwick
-http://streaming.exclusive.radio/uber/easydionnewarwick/icecast.audio
-#EXTINF:-1,Easy Dr Hook
-http://streaming.exclusive.radio/uber/easydrhook/icecast.audio
-#EXTINF:-1,Easy Ella Fitzgerald
-http://streaming.exclusive.radio/uber/easyellafitzgerald/icecast.audio
-#EXTINF:-1,Easy Elvis Presley
-http://streaming.exclusive.radio/uber/easyelvispresley/icecast.audio
-#EXTINF:-1,Easy Engelbert Humperdink
-http://streaming.exclusive.radio/uber/easyengelberthumperdinck/icecast.audio
-#EXTINF:-1,Easy Eva Cassidy
-http://streaming.exclusive.radio/uber/easyevacassidy/icecast.audio
-#EXTINF:-1,Easy Folk
-http://streaming.exclusive.radio/uber/easyfolk/icecast.audio
-#EXTINF:-1,Easy Frank Sinatra
-http://streaming.exclusive.radio/uber/easyfranksinatra/icecast.audio
-#EXTINF:-1,Easy Glen Campbell
-http://streaming.exclusive.radio/uber/easyglencampbell/icecast.audio
-#EXTINF:-1,Easy Jack Johnson
-http://streaming.exclusive.radio/uber/easyjackjohnson/icecast.audio
-#EXTINF:-1,Easy James Taylor
-http://streaming.exclusive.radio/uber/easyjamestaylor/icecast.audio
-#EXTINF:-1,Easy Jazz
-http://streaming.exclusive.radio/uber/easyjazz/icecast.audio
-#EXTINF:-1,Easy Jim Reeves
-http://streaming.exclusive.radio/uber/easyjimreeves/icecast.audio
-#EXTINF:-1,Easy John Denver
-http://streaming.exclusive.radio/uber/easyjohndenver/icecast.audio
-#EXTINF:-1,Easy Johnny Mathis
-http://streaming.exclusive.radio/uber/easyjohnnymathis/icecast.audio
-#EXTINF:-1,Easy Josh Groban
-http://streaming.exclusive.radio/uber/easyjoshgroban/icecast.audio
-#EXTINF:-1,Easy Kenny G
-http://streaming.exclusive.radio/uber/easykennyg/icecast.audio
-#EXTINF:-1,Easy Matt Monro
-http://streaming.exclusive.radio/uber/easymattmonro/icecast.audio
-#EXTINF:-1,Easy Michael Bolton
-http://streaming.exclusive.radio/uber/easymichaelbolton/icecast.audio
-#EXTINF:-1,Easy Michael Buble
-http://streaming.exclusive.radio/uber/easymichaelbuble/icecast.audio
-#EXTINF:-1,Easy Mix
-http://streaming.exclusive.radio/uber/easymix/icecast.audio
-#EXTINF:-1,Easy Motown
-http://streaming.exclusive.radio/uber/easymotown/icecast.audio
-#EXTINF:-1,Easy Nat King Cole
-http://streaming.exclusive.radio/uber/easynatkingcole/icecast.audio
-#EXTINF:-1,Easy Neil Diamond
-http://streaming.exclusive.radio/uber/easyneildiamond/icecast.audio
-#EXTINF:-1,Easy Perry Como
-http://streaming.exclusive.radio/uber/easyperrycomo/icecast.audio
-#EXTINF:-1,Easy Reggae
-http://streaming.exclusive.radio/uber/easyreggae/icecast.audio
-#EXTINF:-1,Easy Rock
-http://streaming.exclusive.radio/uber/easyrock/icecast.audio
-#EXTINF:-1,Easy Sade
-http://streaming.exclusive.radio/uber/easysade/icecast.audio
-#EXTINF:-1,Easy Soul
-http://streaming.exclusive.radio/uber/easysoul/icecast.audio
-#EXTINF:-1,Easy Tom Jones
-http://streaming.exclusive.radio/uber/easytomjones/icecast.audio
-#EXTINF:-1,Easy Tony Bennett
-http://streaming.exclusive.radio/uber/easytonybennett/icecast.audio
-#EXTINF:-1,For Kidz - Kidz Bop
-http://drive.uber.radio/uber/forkidzkidzbop/icecast.audio
-#EXTINF:-1,For Kidz Bathtime Fun
-http://drive.uber.radio/uber/forkidzbathtimefun/icecast.audio
-#EXTINF:-1,For Kidz Bedtime Stories
-http://drive.uber.radio/uber/forkidzbedtimestories/icecast.audio
-#EXTINF:-1,For Kidz Calm
-http://drive.uber.radio/uber/forkidzcalm/icecast.audio
-#EXTINF:-1,For Kidz Classical
-http://drive.uber.radio/uber/forkidzclassical/icecast.audio
-#EXTINF:-1,For Kidz Dance Party
-http://drive.uber.radio/uber/forkidzdanceparty/icecast.audio
-#EXTINF:-1,For Kidz Lullabys
-http://drive.uber.radio/uber/forkidzlullabys/icecast.audio
-#EXTINF:-1,For Kidz Movie Soundtracks
-http://drive.uber.radio/uber/forkidzmoviesoundtracks/icecast.audio
-#EXTINF:-1,For Kidz Nursery Rhymes
-http://drive.uber.radio/uber/forkidznurseryrhymes/icecast.audio
-#EXTINF:-1,For Kidz Pinkfong
-http://drive.uber.radio/uber/forkidzpinkfong/icecast.audio
-#EXTINF:-1,For Kidz Pop Hits
-http://drive.uber.radio/uber/forkidzpophits/icecast.audio
-#EXTINF:-1,For Kidz Sleep Kidz
-http://drive.uber.radio/uber/forkidzsleep/icecast.audio
-#EXTINF:-1,For Kidz Toddler Tunes
-http://drive.uber.radio/uber/forkidztoddlertunes/icecast.audio
-#EXTINF:-1,For Kidz Wake & Shake
-http://drive.uber.radio/uber/forkidzwakeandshake/icecast.audio
+#EXTINF:-1,Hindi Desi Bollywood Hits - Channel 1
+#EXTINF:-1,Hindi Desi Bollywood Hits - Channel 2
+http://eu1.reliastream.com:8233/stream
 #EXTINF:-1,IndiFun Radio
 http://indifun.net:7000/
 #EXTINF:-1,Punjab Rocks
 http://radio.punjabrocks.com:9988
+#EXTINF:-1,Radio Bangla Net
+http://18213.live.streamtheworld.com/SP_R3563475_SC
+#EXTINF:-1,RADIO daijiworld
+http://26343.live.streamtheworld.com/SAM08AAC013_SC
 #EXTINF:-1,Radio Ephphatha
 http://ephphatha.radioca.st/stream
 #EXTINF:-1,Shalombeats Radio Malayalam
@@ -813,8 +509,6 @@ http://eu10.fastcast4u.com/ullasamfm
 http://strm112.1.fm/bombaybeats_mobile_mp3
 #EXTINF:-1,106.1 FM HUM FM – K291CE
 http://ice10.securenetsystems.net/HUMFM
-#EXTINF:-1,All India Radio – AIR Assamese
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8
 #EXTINF:-1,All India Radio – AIR Bangla
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8
 #EXTINF:-1,All India Radio – AIR Malayalam
@@ -827,8 +521,8 @@ http://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8
 #EXTINF:-1,All India Radio West Service – AIR Bhuj
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8
-#EXTINF:-1,Baani.Net Sikh Kirtan Radio
-http://radio.baani.net:8019/stream/
+#EXTINF:-1,Calm Radio – India
+http://streams.calmradio.com:5328/stream
 #EXTINF:-1,DC Naat Radio
 http://37.59.40.90:13872/
 #EXTINF:-1,Eagle FM HD
@@ -837,8 +531,6 @@ http://streaming.radio.co/sf833cd785/listen
 http://edge.iono.fm/xice/129_medium.aac
 #EXTINF:-1,Inbam FM Radio
 http://stream.radio.co/sf55ced545/listen
-#EXTINF:-1,iYaliSai Bhakti Radio
-http://curiosity.shoutca.st:9655/stream/
 #EXTINF:-1,Jesus Coming FM – Afrikaans
 http://live.jesuscomingfm.com:8434/stream/
 #EXTINF:-1,Jesus Coming FM – Albanian
@@ -903,20 +595,8 @@ http://live.jesuscomingfm.com:8224/stream/
 http://live.jesuscomingfm.com:8362/stream/
 #EXTINF:-1,Jesus Coming FM – Tamil
 http://live.jesuscomingfm.com:8230/stream/
-#EXTINF:-1,Luminous Radio – English
-http://192.111.140.6:8539/autodj
-#EXTINF:-1,Luminous Radio – Hindi
-http://192.111.140.6:8601/app
-#EXTINF:-1,Luminous Radio – Live
-http://192.111.140.6:8558/stream
-#EXTINF:-1,Luminous Radio – Malayalam
-http://192.111.140.6:8546/app
-#EXTINF:-1,Mehefil Radio
-http://mehefil.no-ip.com:80/mehefil
 #EXTINF:-1,Radio Chutney
 http://streamer.radio.co/sf30c61bda/listen
-#EXTINF:-1,Radio Goongoon
-https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-1,Radio Maria India
 http://dreamsiteradiocp.com:8002/stream/
 #EXTINF:-1,Radio Ujala FM
@@ -929,18 +609,12 @@ http://audio-edge-jfbmv.sin.d.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809
 http://podcast.southradios.com/wp-content/uploads/2020/12/Download-Southradios-2020-December-3-2.mp3
 #EXTINF:-1,Sunrise Radio Gold
 http://streaming.radio.co/s6a51b5927/listen
-#EXTINF:-1,Swaminarayan Radio – Swaminarayan Dhun
-http://radio.bhujmandir.org:8000/stream/6/
-#EXTINF:-1,Swaminarayan Radio – Swaminarayan Katha
-http://radio.bhujmandir.org:8000/stream/9/
-#EXTINF:-1,Swaminarayan Radio – Swaminarayan Kirtan
-http://radio.bhujmandir.org:8000/
+#EXTINF:-1,Traffic Scotland Radio
+https://stream.trafficradioscotland.org.uk/Scotland.mp3
 #EXTINF:-1,அருள்வாக்கு
 https://stream.arulvakku.com/radio/8000/radio.mp3/
 #EXTINF:-1,Radio Sangwari
 https://servidor19.brlogic.com:7002/live
-#EXTINF:-1,Vani Online Radio
-https://spserver.sscast2u.in/8166/stream
 #EXTINF:-1,Bhakti World Ganesha
 https://2bhanuman.out.airtime.pro:8000/2bhanuman_a
 #EXTINF:-1,Bhakti World Mantra Shakti
@@ -953,66 +627,83 @@ https://hot.out.airtime.pro:8000/hot_a
 https://internetradio.gupshupradio.com:8080/?type=mp3
 #EXTINF:-1,Tamil Panpalai India
 https://tamilpanpalai.radioca.st/ind
+#EXTINF:-1,Friends Tamil FM
+https://www.bongonet.net/rhi
+#EXTINF:-1,Robichhaya | BongOnet
+https://www.bongonet.net/robichhaya
+#EXTINF:-1,Go Yesteryears | BongOnet
+https://www.bongonet.net/goyesteryears
+#EXTINF:-1,Folk Nama | BongOnet
+https://www.bongonet.net/folknama
 #EXTINF:-1,AfriStream - Radio Sai Global Harmony
 http://stream.radiosai.net:8004/
 #EXTINF:-1,2B! Radio
 http://iskon2b.out.airtime.pro:8000/iskon2b_b
-#EXTINF:-1,Baani.Net Live Radio
-http://radio.baani.net:8019/
 #EXTINF:-1,Bhai Manpreet Singh Ji Kanpuri
 http://www.treasureoftruth.in/truth-vani.mp3
 #EXTINF:-1,Bhakti World Sai
 https://bolpunjabi-ekamsoftware.radioca.st//stream
+#EXTINF:-1,Goundamani Senthil Radio
+http://psrlive1.listenon.in/gounder?station=goundamanisenthilradio
 #EXTINF:-1,idhayam fm
 http://stream11.shoutcastsolutions.com:8262/stream
 #EXTINF:-1,INBAM FM RADIO
 http://indifun.net:7000/stream.nsv
 #EXTINF:-1,Kakrola online FM
 https://stream1.svrdedicado.org:7181/stream
-#EXTINF:-1,Luminous Radio English
-http://192.111.140.6:8539/stream
 #EXTINF:-1,Radio  city live  brazil
 https://sonicpanel.oficialserver.com/8298/stream
 #EXTINF:-1,Radio Ala 90.8 F.M
 http://178.32.107.151:3711/
-#EXTINF:-1,Radio Ayyappa
-http://s35.myradiostream.com:28232/
 #EXTINF:-1,Radio Despardes
 http://eu8.fastcast4u.com:5292/
 #EXTINF:-1,Radio Islam
 https://radioislamin.out.airtime.pro/radioislamin_a
-#EXTINF:-1,Radio Mattoli 90.4
-https://fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8964&type=s1
 #EXTINF:-1,Rangla punjab radio
 http://playout.rptv.online/ranglapunjab/index.m3u8
-#EXTINF:-1,Suvarthamaanamu Online Radio
-http://radio.bhujmandir.org:8000/stream/3/
+#EXTINF:-1,Tamil Comedy Radio
+http://psrlive3.listenon.in/tacom?station=tamilcomedyradio
 #EXTINF:-1,TeluguStream - Radio Sai Global Harmony
 http://stream.radiosai.org:8020/
 #EXTINF:-1,Travel World Online
 http://radiomaska.out.airtime.pro:8000/radiomaska_a
 #EXTINF:-1,Tiruppur Thedal FM
 http://pollux.shoutca.st:9118/stream_medium
+#EXTINF:-1,Big FM 98
 #EXTINF:-1,Mohammed Rafi Radio
 https://mp3-128.jango.com/music/04/81/26/0481260134.mp3
 #EXTINF:-1,Chennai FM Rainbow
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
 #EXTINF:-1,Yuvanshankar Raja Radio
 https://psrlive3.listenon.in/ysr?station=ysrradio
+#EXTINF:-1,Ilayamaan radio - Tamil Hits Radio
+http://psrlive2.listenon.in/irlite?station=ilayarajalite
+#EXTINF:-1, Puthu Paadal Radio - Tamil New
+http://psrlive3.listenon.in/newh?station=puthupaadalradio
 #EXTINF:-1,Ar Rahman Lite Radio
 https://psrlive3.listenon.in/arrlite?station=arrahmanliteradio
+#EXTINF:-1,Tamil lite radio
+http://psrlive2.listenon.in/tamelody?station=tamilmelodyradio
 #EXTINF:-1,Jesus Coming FM - Arabic
 http://live.jesuscomingfm.com:8218/
+#EXTINF:-1,SPB Radio - Tamil Songs
+http://psrlive2.listenon.in/spb?station=spbradio
+#EXTINF:-1,K. J. Yesudas radio - Tamil Songs
+http://psrlive2.listenon.in/kjy?station=kjyesudas
 #EXTINF:-1,Gurgaon Ki Awaaz Samudayik Radio (Gurgaon)
 https://gurgaonradio.out.airtime.pro/gurgaonradio_a
+#EXTINF:-1,Theophony English Christian Internet Radio
+https://mediatechnica.com:8000/theophony_english.mp3
 #EXTINF:-1,Radiosai Asia
 http://stream.radiosai.net:8002/asiastream
-#EXTINF:-1,RadioJSR
-http://198.7.59.28:8078/play.html?sid=1
+#EXTINF:-1,Harris Jayaraj Radio - Southradios
+http://psrlive1.listenon.in/hjr?station=harrishjeyarajradio
 #EXTINF:-1,Radio Schizoid - Progressive Psytrance
 http://94.23.30.114:8043/rdm
 #EXTINF:-1,Jesus Coming FM - Punjabi
 http://live.jesuscomingfm.com:8212/
+#EXTINF:-1,Radio BongOnet Bangla
+https://www.bongonet.net/bongonet
 #EXTINF:-1,O ZION fm
 https://s2.radio.co/sd4968cb05/listen
 #EXTINF:-1,Golden Vanavil Radio
@@ -1023,16 +714,12 @@ http://rd.shalombeatsradio.com:7090/stream
 http://live.jesuscomingfm.com:8206/
 #EXTINF:-1,Jesus Coming FM - Hausa
 http://live.jesuscomingfm.com:8384/
-#EXTINF:-1,Radio Parmeshar Dwar - DhadrianWale
-http://s3.baani.net:8025/stream
 #EXTINF:-1,Jesus Coming FM - Amharic
 http://live.jesuscomingfm.com:8238/
 #EXTINF:-1,arulvakku
 https://stream.arulvakku.com/radio/8000/radio.mp3?1519501500
 #EXTINF:-1,Ephphatha radio Malayalam
 http://cassini.shoutca.st:8605/stream
-#EXTINF:-1,Radiotaj
-http://142.4.215.64:8060/stream
 #EXTINF:-1,Shalom Beats Radio Telugu
 http://rd.shalombeatsradio.com:9190/stream
 #EXTINF:-1,Shalom Beats Radio Kannada
@@ -1059,32 +746,30 @@ https://radio.digitalmalayali.in/listen/stream/radio.mp3
 https://stream.sssmediacentre.org:8443/asia
 #EXTINF:-1,Radio Sai Bhajans
 https://stream.sssmediacentre.org:8443/bhajan
-#EXTINF:-1,Vanavil FM 
+#EXTINF:-1,Joichen's Radio-Malayalam
+https://15313.live.streamtheworld.com/977_HITS.mp3
+#EXTINF:-1,Vanavil FM
 https://s7.yesstreaming.net:9000/stream/1/
 #EXTINF:-1,Jesus Coming FM – Wu Chinese
 http://live.jesuscomingfm.com:8920/stream/
-#EXTINF:-1,Madhavaram FM (MFM)
-http://servidor21.brlogic.com:7024/live
 #EXTINF:-1,Malayalam Christian Network Radio
 http://s2.radio.co/sf61790a26/listen
 #EXTINF:-1,Nesaganam Tamil Online Radio
 http://192.95.39.65:5206/stream/
+#EXTINF:-1,Radio City – Smaran
+http://26343.live.streamtheworld.com/SAM08AAC013
 #EXTINF:-1,Radio Sindhi – Vishwas
 http://173.212.234.220:8000/radio.mp3
-#EXTINF:-1,Beam FM – India – Bengaluru – IN-KA
-https://ice1.streeemer.com:8030/radio.mp3
+#EXTINF:-1,Kodai City FM – Kodaikānāl – IN-TN
+https://strw3.openstream.co/786?aw_0_1st.collectionid%3D6812%26stationId%3D6812%26publisherId%3D810%26k%3D1781210389
 #EXTINF:-1,Eawaz 770 AM – 770 AM – Hoskote – IN-KA
 http://37.59.41.148:7764/
-#EXTINF:-1,AIR Aurangabad – Pune – IN-MH
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8
-#EXTINF:-1,Josh FM – New Delhi – National Capital Territory of Delhi – IN
-https://stream.zenolive.com/cm1fkgbv1ceuv.m3u
+#EXTINF:-1,DiscoBani Kolkata | Bengali Hits – Ahmedabad – IN-GJ
+https://www.bongonet.net/dbk
 #EXTINF:-1,FM Tragopan Kohima – IN-DL
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8
 #EXTINF:-1,Radio Kashmir – IN
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8
-#EXTINF:-1,Theophony Tamil Isai – IN
-https://usa19.fastcast4u.com/ttcrp443
 #EXTINF:-1,Psalms Radio – Kottayam – IN-KL
 http://s2.citrus3.com:8046/stream
 #EXTINF:-1,Arni City FM – Vellore – IN-TN
@@ -1093,16 +778,16 @@ http://192.95.39.65:5018/
 http://104.7.66.64:8092/?icy=http
 #EXTINF:-1,FM Rainbow Kolkata – 107 FM – Kolkata – IN-WB
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio05832kbps.m3u8
-#EXTINF:-1,Beam FM – Adult Hits India – Kolkata – IN-WB
-https://ice1.streeemer.com:8020/radio.mp3
-#EXTINF:-1,Radio Tirur – Tirūr – IN-KL
-http://158.69.26.76:8002/
 #EXTINF:-1,Shakthi 104.1 Tamil FM – 104.1 FM – IN
 http://live.trusl.com:1160/?
 #EXTINF:-1,ABP News – Mumbai – IN-MH
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1,Malayalam Christian Network Radio – IN
 https://s2.radio.co/sf61790a26/listen
+#EXTINF:-1,Virijallu FM – IN
+https://26343.live.streamtheworld.com/SAM02AAC10_SC
+#EXTINF:-1,Leo’s Casino Radio – Solan – IN-HP
+https://das-edge63-live365-dal03.cdnstream.com/a45657
 #EXTINF:-1,Arulvakku FM – Chennai – IN-TN
 https://stream.arulvakku.com/radio/8000/radio.mp3?1519500152&1536326335065
 #EXTINF:-1,Isaimurasu FM – IN
@@ -1113,18 +798,16 @@ http://ctbcfmradio.primcast.com:4086/stream.mp3
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8
 #EXTINF:-1,AIR Vijayawada – Vijayawada – IN-AP
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8
-#EXTINF:-1,Tamil Catholic FM – IN
-https://stream.zeno.fm/hk3w15m8gwzuv.pls
 #EXTINF:-1,Kathiravan FM – NCR – National Capital Territory of Delhi – IN
 https://kathiravanfm-prabak78.radioca.st/stream
 #EXTINF:-1,Traditores Radio – IN
 http://158.69.227.214:8125/
-#EXTINF:-1,AIR Mysuru – NCR – National Capital Territory of Delhi – IN
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8
 #EXTINF:-1,Radio Goa – Old Goa – IN-GA
 https://radio.faleiro.uk/radio/8000/radio.mp3
 #EXTINF:-1,AIR Bangla – IN-DL
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8
+#EXTINF:-1,Radio Beat Extra – Chennai – IN-TN
+https://strw3.openstream.co/678?aw_0_1st.collectionid%3D4172%26stationId%3D4172%26publisherId%3D702%26k%3D1781210414
 #EXTINF:-1,Radio Anardana Hindi – IN
 http://85.25.185.202:8055/
 #EXTINF:-1,Wisdom Radio – Coimbatore – IN-TN
@@ -1133,62 +816,41 @@ http://165.22.217.209/radio/8000/radio.mp3?1582693283
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
 #EXTINF:-1,﻿﻿﻿AIR Gujarati – IN-DL
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8
-#EXTINF:-1,AIR Shimla – NCR – National Capital Territory of Delhi – IN
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8
-#EXTINF:-1,AIR Ahmednagar – 100.1 FM – Pune – IN-MH
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8
 #EXTINF:-1,Radio Dhwani – Ujjain – IN-MP
 https://cdn-cms.f-static.com/uploads/2568273/normal_5d8ba39d1261c.mp3
-#EXTINF:-1,Madhur Sangeet – Noida – IN-UP
-https://stream.zeno.fm/8kqd6dp18vzuv.m3u
 #EXTINF:-1,Radio Namkin – NCR – National Capital Territory of Delhi – IN
 http://namkeen.riggrodigital.com:8888/stream
 #EXTINF:-1,IBC Tamil – Mumbai – IN-MH
 http://fm.ibctamil.com:6176/stream.mp3
 #EXTINF:-1,CTR24 – IN
 http://198.27.66.225:8498/stream.mp3
-#EXTINF:-1,Zindagi Forever Radio – Mumbai – IN-MH
-http://142.4.215.64:8060/
 #EXTINF:-1,AIR Tiruchirappalli FM 102.1 – 102.1 FM – Chennai – IN-TN
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/playlist.m3u8
-#EXTINF:-1,Radio Ayyappa – IN
-http://s35.myradiostream.com:28232
-#EXTINF:-1,AIR Bhatinda 101.1 – 101.1 FM – NCR – National Capital Territory of Delhi – IN
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8
+#EXTINF:-1,Radio Beat LOVE – Chennai – IN-TN
+https://strw3.openstream.co/1993?aw_0_1st.collectionid%3D5770%26stationId%3D5770%26publisherId%3D2017%26k%3D1781210430
 #EXTINF:-1,Radio 79 Dance – New Delhi – National Capital Territory of Delhi – IN
 http://sh4.audio-stream.com/tunein.php/abhardwa/playlist.pls
+#EXTINF:-1,CrypticU Radio – Kolkata – IN-WB
+http://servidor15.brlogic.com:7046/live?type=.m3u
 #EXTINF:-1,Ullasam FM – IN
 https://eu10.fastcast4u.com:6740/stream
 #EXTINF:-1,Vibesounds Telugu Melodies – IN
 https://azuracast.vibesounds.in:8020/radio.mp3?1611497327
 #EXTINF:-1,Thayagam Tamil Radio – IN
 https://s3.yesstreaming.net:7019/thayagam48K
-#EXTINF:-1,Anandham FM HD – Kodaikānāl – IN-TN
-https://sp.radiotamilonline.com/8010/stream
 #EXTINF:-1,SIRPI FM (சிற்பிவானொலி) – IN-DL
 http://comet.shoutca.st:8018/stream
 #EXTINF:-1,Shripad Radio – IN
 https://shripadradio.radioca.st
-#EXTINF:-1,Vaa Tamizha – IN
-https://s3.free-shoutcast.com/stream/18138/stream.mp3
 #EXTINF:-1,TSR Live – Channel 1 – IN-DL
 http://tsrlive.com/v4/?pl=winamp&c=SwaggerBeat%20Clubhouse%20Radio
 #EXTINF:-1,AIR Punjabi – IN-DL
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8
+#EXTINF:-1,Hindi Desi Bollywood Evergreen Hits – Channel 2 – NCR – National Capital Territory of Delhi – IN
 #EXTINF:-1,Ananthapuri FM – 101.9 FM – Thiruvananthapuram – IN-KL
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8
-#EXTINF:-1,AIR Aadilabad – NCR – National Capital Territory of Delhi – IN
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8
 #EXTINF:-1,ABP Majha – Mumbai – IN-MH
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1,Radio Saptrang – NCR – National Capital Territory of Delhi – IN
-http://visionary.riggrodigital.com:8138/
-#EXTINF:-1,AIR Bhopal – NCR – National Capital Territory of Delhi – IN
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8
-#EXTINF:-1,Latest IR – Tiruchi – IN-TN
-http://s20.myradiostream.com:17266/listen.m4a
-#EXTINF:-1,RETRO Radio Beat – Chennai – IN-TN
-http://5.63.151.52:7142/stream
 #EXTINF:-1,Magizhchi FM – IN
 http://149.56.157.81:20047/stream
 #EXTINF:-1,Gurbani Kirtan – NCR – National Capital Territory of Delhi – IN
@@ -1199,24 +861,18 @@ https://listen.openstream.co/3506/audio
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8
 #EXTINF:-1,Madhur Awaz – IN
 http://janus.shoutca.st:9117
-#EXTINF:-1,Sun city FM Jodhpur – NCR – National Capital Territory of Delhi – IN
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8
-#EXTINF:-1,Bathusha Islamic Radio – IN
-http://eu10.fastcast4u.com:14550/stream
 #EXTINF:-1,FM Rainbow Goa – NCR – National Capital Territory of Delhi – IN
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio048/playlist.m3u8
-#EXTINF:-1,AIR Jodhpur – NCR – National Capital Territory of Delhi – IN
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8
-#EXTINF:-1,New Hits Of Bollywood – NCR – National Capital Territory of Delhi – IN
-https://stream.zeno.fm/rqqps6cbe3quv.m3u
 #EXTINF:-1,Mirchi 90’s Radio – Filmy hits – Mumbai – IN-MH
 https://sp14.instainternet.com/8112/stream
-#EXTINF:-1,Air Rohtak – NCR – National Capital Territory of Delhi – IN
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio188/playlist.m3u8
 #EXTINF:-1,Pollachi FM – Pollachi – IN-TN
 http://104.200.16.182:8000/
+#EXTINF:-1,Amudham FM – Thiruvarur – IN-TN
+https://strw3.openstream.co/729?aw_0_1st.collectionid%3D6789%26stationId%3D6789%26publisherId%3D753%26k%3D1781210449
 #EXTINF:-1,Rangeela Radio – Mumbai – IN-MH
 http://85.25.185.202:8134/stream
+#EXTINF:-1,Kadhal Radio – IN
+https://psrlive2.listenon.in/love?station=kadhalradio
 #EXTINF:-1,AIR KOCHI FM 102.3 – 102.3 FM – Kochi – IN-KL
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8
 #EXTINF:-1,Dada Bhagwan – IN
@@ -1229,32 +885,52 @@ http://stream.radiosai.net:8002
 http://schizoid.in/schizoid-psy.pls
 #EXTINF:-1,Schizoid – Chillout – IN-DL
 http://schizoid.in/schizoid-chill.pls
+#EXTINF:-1,Radio Maria India – Mumbai – IN-MH
+https://cdn.cloudrad.io/radiomariaindia/listen.pls
 #EXTINF:-1,BHAKTI WORLD GURBANI
 http://gurbani.out.airtime.pro:8000/gurbani_b?_ga=2.77423505.548091236.1582029213-1175002648.1580299245
 #EXTINF:-1,Bharat FM 94.9 HD3
 https://s2.radio.co/s44bb88930/listen
 #EXTINF:-1,OYE INDIA
 https://hbhamra4.radioca.st/
+#EXTINF:-1,RJ VOICE ON AIR
+http://s3.free-shoutcast.com:18090/stream.mp3/stream/1
 #EXTINF:-1,Radio4indiacom
 http://myradio4.listen2myradio.com
 #EXTINF:-1,Webradio Dhoom India
 http://myradiostream.com/radiodhoom
+#EXTINF:-1,Radio4uny
+http://www.listen2myradio.com/
 #EXTINF:-1,Funfm
 http://awaz.listen2myradio.com
 #EXTINF:-1,Energizers Kollam
 http://myradiostream.com/energizerskollam
 #EXTINF:-1,Sab Rang Ek Sang Radio
 http://sabrangeksangradio.listen2myradio.com/
+#EXTINF:-1,Risala Radio
+https://www.facebook.com/umrasudma
 #EXTINF:-1,Pcnmaster
 http://myradiostream.com/umrasudma
+#EXTINF:-1,Rj Sehar100
+http://myradiostream.com/2/9414
+#EXTINF:-1,Likexa Fm
+http://www.fm.likexa.com/
 #EXTINF:-1,Radio S
 http://stv.listen2myradio.com
+#EXTINF:-1,Club Mirchi Radio
+https://mirchiplaylive.akamaized.net/hls/live/2036929/MUM/CLUBMI_Auto.m3u8
 #EXTINF:-1,BBC Hindi radio
 https://www.bbc.com/hindi
+#EXTINF:-1,Settai FM radio
+http://psrlive2.listenon.in/vadivu?station=vadivelucomedyradio
 #EXTINF:-1,Mukil FM radio
 https://s2.citrus3.com:8046/stream
+#EXTINF:-1,Radio Daijiworld radio
+https://26343.live.streamtheworld.com/SAM08AAC013_SC?dist=onlineradiobox
 #EXTINF:-1,JehovahRapha FM radio
 https://c22.radioboss.fm/stream/532
+#EXTINF:-1,Divine FM India radio
+https://phoebe.streamerr.co:2020/
 #EXTINF:-1,Radio City Live Brazil radio
 https://sonicpanel.oficialserver.com:7180/
 #EXTINF:-1,Hello Telugu radio
@@ -1267,14 +943,10 @@ http://us9.streamingpulse.com:7058/stream.nsv
 http://173.212.234.220/radio/8000/radio.mp3
 #EXTINF:-1,Wisdom Radio 93.5 FM
 http://165.22.217.209:8000/radio.mp3
-#EXTINF:-1,Radio AIR Bikaner radio
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio053/chunklist.m3u8
-#EXTINF:-1,Radio AIR Churu radio
-http://air.pc.cdn.bitgravity.com/air/live/pbaudio226/chunklist.m3u8
 #EXTINF:-1,SHABDA MATHARAM radio
 http://162.244.80.106:11385/stream
-#EXTINF:-1,Vaa Tamizha
-https://s2.free-shoutcast.com/stream/18104/stream.mp3
+#EXTINF:-1,CrypticU Radio
+https://servidor15-2.brlogic.com:7046/live
 #EXTINF:-1,Radio Maria
 http://dreamsiteradiocp.com:8002/stream/1/
 #EXTINF:-1,Lankasri Radio
@@ -1289,10 +961,14 @@ http://173.203.133.187:9700/stream/1/
 https://streams.radio.co/s790fe269d/listen
 #EXTINF:-1,Radio Sangeet
 https://audio-edge-3mayu.fra.h.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809
+#EXTINF:-1,Radio Beat LOVE
+http://strw3.openstream.co/1993?aw_0_1st.collectionid%3D5770%26stationId%3D5770%26publisherId%3D2017%26k%3D1781210493
 #EXTINF:-1,A9Radio
 https://a9radio1-a9media.radioca.st/stream/1/
 #EXTINF:-1,Dukh Niwaran Sahib
 http://162.244.80.52:5294/stream/1/
+#EXTINF:-1,Tamil Olli
+https://28453.live.streamtheworld.com/OLI968FM_SC
 #EXTINF:-1,Thenral World FM
 http://sc2.ddns.net:9116/stream/1/
 #EXTINF:-1,Radio Sai Global Harmony
@@ -1317,16 +993,73 @@ https://radio.canstream.co.uk:8025/live.mp3
 https://server4.ujala.nl/stream/2/listen.mp3
 #EXTINF:-1,World to world Radio
 https://streaming.radio.co/s4f2cc35de/listen
+#EXTINF:-1,SHER-E-PUNJAB
+https://18393.live.streamtheworld.com/KRPIAM_SC
+#EXTINF:-1,Calm Radio
 #EXTINF:-1,Bombay Beats
 https://strmreg.1.fm/bombaybeats_mobile_mp3
+#EXTINF:-1,Iwi FM
+https://s2.myradiostream.com:29270/stream/1/
 #EXTINF:-1,Geethavani FM
 http://149.56.234.138:8037/stream/1/
+#EXTINF:-1,Schizoid Progressive Psy Radio
+https://stream02.pcradio.biz/schizoid_progpsy-med
+#EXTINF:-1,Radiosai Bhajan
+https://stream02.pcradio.biz/radiosai_bhajan-med
+#EXTINF:-1,Ullasam FM Radio
+https://stream02.pcradio.biz/ullasam_fm-med
+#EXTINF:-1,Hits of Bollywood Radio
+https://stream02.pcradio.biz/hits_ofbolly-med
+#EXTINF:-1,SikhNet Radio
+https://stream02.pcradio.biz/sikh_net-med
+#EXTINF:-1,Mirchi 91.1 (Shillong) Radio
+https://stream02.pcradio.biz/mirchi_911-med
+#EXTINF:-1,A.R. Rahman Radio Tamil (ARR)
+https://stream02.pcradio.biz/arr_radio-med
+#EXTINF:-1,Aural West Radio
+https://stream02.pcradio.biz/aural_west-med
+#EXTINF:-1,Arni City FM Radio
+https://stream02.pcradio.biz/arnicityfm_com-med
+#EXTINF:-1,Schizoid Dub Techno Radio
+https://stream02.pcradio.biz/schizoid_progress-med
+#EXTINF:-1,AIR Vividh Bharati (VBS) Radio
+https://stream02.pcradio.biz/air_vividh_bharati-med
+#EXTINF:-1,Schizoid Chillout - Ambient Radio
+https://stream02.pcradio.biz/schizoid_chill-med
+#EXTINF:-1,New Hits of Bollywood Radio
+https://stream02.pcradio.biz/newhits_ofbolly-med
+#EXTINF:-1,Marina FM Radio
+https://stream02.pcradio.biz/marinafm_tamil-med
+#EXTINF:-1,AIR Gujarati Radio
+https://stream02.pcradio.biz/air_gujarati-med
+#EXTINF:-1,Schizoid Psychedelic Trance Radio
+https://stream02.pcradio.biz/schizoid_psytrance-med
+#EXTINF:-1,AIR FM Gold Mumbai Radio
+https://stream02.pcradio.biz/air_gold_mumbai-med
+#EXTINF:-1,Radio Mirchi 98.3 Delhi
+https://stream02.pcradio.biz/rad_iindmirc-med
+#EXTINF:-1,AIR Odia Radio
+https://stream02.pcradio.biz/air_odia-med
+#EXTINF:-1,ARR Radio
+http://psrlive2.listenon.in/arr3d?station=rahmaniyam3d
+#EXTINF:-1,Ilayamaan radio
+http://psrlive2.listenon.in/irlite?station=ilayarajalite&DIST=tradio&TGT=tradio&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY3NDI2MjE0MSwiaXNzIjoidGlzcnYifQ.DXlltXLOt1WOjN6ySjY
 #EXTINF:-1,Radiosai Ameri
 http://stream.radiosai.net:8006/
 #EXTINF:-1,Radio Maria (India)
 http://dreamsiteradiocp.com:8002/?1501836564814
+#EXTINF:-1,Jesus Coming FM - Englsih
+http://live.jesuscomingfm.com:8202/
+#EXTINF:-1,Radio beat
+https://strw3.openstream.co/673?aw_0_1st.collectionid%3D3372%26stationId%3D3372%26publisherId%3D697%26k%3D1781210549
+#EXTINF:-1,Qaumi Soch
+http://rosetta.shoutca.st:8008/stream
 #EXTINF:-1,CT RADIO
 http://perseus.shoutca.st:8020/stream
+#EXTINF:-1,The Better FM
+https://iceant.eclipse-streaming.co.za:8443/TWR-music.mp3
+#EXTINF:-1,Seven
+https://omny-us.pdn.tritondigital.com/3e8197bc-43df-4bcf-835b-add3005e7857/d8252183-48fb-4e60-90c2-af6c00e39373/3475f1d9-50bc-418d-8068-af9d00954e5e/published-1675328659.mp3?si=f6b85be8-9bfe-5ad1-b44a-c1b1fb7bd157&r=128&o=517590.204&f=61030&cc=YYYYYYYYYY&ct=DOWNLOAD&g=3475f1d9-50bc-418d-8068-af9d00954e5e&h=d8252183-48fb-4e60-90c2-af6c00e39373&q=3e8197bc-43df-4bcf-835b-add3005e7857&u=3e8197bc-43df-4bcf-835b-add3005e7857&te=OMNY&ti=1781210572&e=%7B%22o%22%3A%223e8197bc-43df-4bcf-835b-add3005e7857%22%2C%22p%22%3A%22d8252183-48fb-4e60-90c2-af6c00e39373%22%2C%22q%22%3A%22%3Fsti%3D828823%22%7D&i=ODz83czdwNUrp7xyAxuJ0w&eg=3475f1d9-50bc-418d-8068-af9d00954e5e&ppi=c111bdfc-2847-50df-bc9e-d6d95e8b07ae&epi=0048bca3-be30-597b-a795-023cc8acd3b8&sti=828823&emt=audio&mt=static&edt=mp3&Expires=1781296972&Key-Pair-Id=K1J2BR3INU6RYD&Signature=ooUDlUWN3m5jiztyKS42BzMR0QgT2tbba1aoscC4m3PaOVfmkHreferAR7zX~NvyxphgcAWG7c3eMZ3eRfYmTHwfb8EVkXTfzeh2v5LcxFlG7q5pAp2RKrmUcyRUN8HwgGZw2CdlMPA4fhRovJwXOfRrGX2DwJhaux59~OCMzgcTKyNTzAeDCOXkLkjcxLLD5nxBrJ2JcHaP2ufQg4mrzvdzysqoWR94RH7FAVuuiYk8AR2wX-C-u3r4lZDZzpf-Xk3OS5p7IzMfUz909AEnKLr6qfCls~pHI-nsV9Kz8GvHP0ZpAvHDA1I3cU5~nfBZcnAIYsYoLSEyu30~A8dCOg__
 #EXTINF:-1,Radio Sai FM Telugu
 https://stream.sssmediacentre.org:8443/telugu
 #EXTINF:-1,Jesus Coming FM - Kannada
@@ -1335,14 +1068,10 @@ http://live.jesuscomingfm.com:8192/;
 http://live.jesuscomingfm.com:8602/;
 #EXTINF:-1,Jesus Coming FM - Indonesia
 http://live.jesuscomingfm.com:8346/;
-#EXTINF:-1,AIR Patiala 100.2 FM
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8
 #EXTINF:-1,Luminous Radio - Hindi
 http://live.jesuscomingfm.com:8506/;
 #EXTINF:-1,Hello Radio 90.8
 http://173.203.133.187:9700/;
-#EXTINF:-1,All India Radio AIR Bilaspur
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8
 #EXTINF:-1,AIR Tuticorin
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio025/masterlist.m3u8
 #EXTINF:-1,Vividh Bharati Chennai
@@ -1351,8 +1080,6 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/chunklist.m3u8
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/chunklist.m3u8
 #EXTINF:-1,AIT Tirunelveli FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/chunklist.m3u8
-#EXTINF:-1,AIR KODAI FM
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio051/chunklist.m3u8
 #EXTINF:-1,AIR Trichy FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio040/chunklist.m3u8
 #EXTINF:-1,Ilaiyaraaja Radio
@@ -1371,8 +1098,6 @@ https://psrlive2.listenon.in/tms?station=tmsradio
 https://psrlive3.listenon.in/siva?station=sivajiradio
 #EXTINF:-1,AIR Nagercoil
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio129/chunklist.m3u8
-#EXTINF:-1,AIR bhopal
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/chunklist.m3u8
 #EXTINF:-1,AIR Madurai FM
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio126/chunklist.m3u8
 #EXTINF:-1,All India Radio AIR Punjabi
@@ -1391,19 +1116,511 @@ http://live.jesuscomingfm.com:8418/;stream.mp3
 http://live.jesuscomingfm.com:8174/;
 #EXTINF:-1,Jesus Coming FM - Tagalog
 http://live.jesuscomingfm.com:8294/;
-#EXTINF:-1,2B! Radio Sangam Ganesha - 48 - India - mantra - spiritual
-http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
-#EXTINF:-1,Bhaktiworld Media Ganesha - 48 - India - 
-https://radio2bindia.out.airtime.pro/radio2bindia_a?_ga=2.203455766.763289185.16%2062805693-499518273.1568730566
-#EXTINF:-1,britishindiantamilradio - 128 - India - 
+#EXTINF:-1,Nagaland Christian
+https://strw3.openstream.co/1806?aw_0_1st.collectionid%3D6671%26stationId%3D6671%26publisherId%3D1830%26k%3D1781210585
+#EXTINF:-1,britishindiantamilradio - 128 - India -
 https://hello.citrus3.com:2020/stream/britishindiantamilradio
-#EXTINF:-1,caprice indian folk - 48 - The Russian Federation - 
+#EXTINF:-1,caprice indian folk - 48 - The Russian Federation -
 http://79.111.14.76:8002/indianfolk
-#EXTINF:-1,India TV  - 0 - India - news
-https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/chunklist_0.m3u8
 #EXTINF:-1,Indian link radio - 128 - Australia - music
 https://indianlink1.radioca.st/
-#EXTINF:-1,indianlinkradio - 128 - India - 
+#EXTINF:-1,indianlinkradio - 128 - India -
 https://indianlink1.radioca.st/;
 #EXTINF:-1,Radio Caprice - indian folk - 320 - The Russian Federation - indian music
 http://79.111.14.76:8000/indianfolk
+#EXTINF:-1,E Malayalam Global Radio Station EMG
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/100411.v6.png",Vaa Tamizha
+https://s2.free-shoutcast.com/stream/18054/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/45101.v14.png",Healer Radio
+https://c13.radioboss.fm/stream/552
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128628.v3.png",Antenna Web Andhra Pradesh
+https://italiavera.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/80565.v5.png",Swaminarayan Kirtan Bhakti
+https://radio.nnd.media/listen/swaminarayan_kirtan/Kirtan.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/57218.v5.png",Ephphatha Radio Malayalam
+https://ephphatha.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/4497.v6.png",V V Radio
+http://music1.vvradio.co.in:2802/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/89801.v5.png",Melody Radio, Hyderabad
+https://a1.asurahosting.com:9580/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/95027.v1.png",Radio Taj
+https://azuracast.vibesounds.in:8010/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/4383.v6.png",Radio Afsana
+http://us9.streamingpulse.com:7058/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UN940F.png",Comforter Radio
+https://s4.radio.co/sd9738032b/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D15OTY.png",Gyan Darshan 1
+http://193.0.98.66:8005/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D16SSW.png",Khayal Ghazals Radio
+https://ghazals.behindthegreatmusic.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IBSJ5.png",Radio Beat Extra
+http://strw3.openstream.co/678?aw_0_1st.collectionid%3D4172%26stationId%3D4172%26publisherId%3D702%26k%3D1781210600
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8YVMCC.png",radioBollyFM
+http://stream.radiobollyfm.in:8201/stream/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LYN1YM.png",radioBollyFM
+http://stream.radiobollyfm.in:8201/hd
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SR2UTR.png",RADIO daijiworld
+https://15113.live.streamtheworld.com/SAM08AAC013.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OWM4LG.png",Shaivam.org Shaiva Lahari
+https://26343.live.streamtheworld.com/SP_R2925215_SC?dist=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2J5Y4Q.png",Shaivam.org Thiruneriya Thamizhosai
+https://15113.live.streamtheworld.com/SP_R2923580_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PN4IGK.png",Sumadhur Radio Pune
+https://radio.behindthegreatmusic.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DTXLQZ.png",Theophony Tamil Christian Radio
+https://mediatechnica.com:8002/theophony_tamil.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JQNRDW.png",Tn96fm
+http://hyades.shoutca.st:8072/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103280/logo_CpBQaZQqbU.png",Jayam Fm 7.1 Radio
+https://jayamfm-prabak78.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82557/logo_gDzOqHAd9l.png",Radio Indradhanush
+https://a12.asurahosting.com/listen/radio_indradhanush/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82674/logo_DNkKlWOrud.png",Radio Beat Extra
+https://strw3.openstream.co/678
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82662/logo_afXtaIMQqc.png",Bhaktiworld Media Shiva Radio
+https://hot.out.airtime.pro/hot_a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82585/logo_IhCYFlXP0o.png",Adithya Tamil Fm Radio
+https://adithyatamilfm01.radioca.st/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82295/logo_RBVSxP3Toa.png",Akhand Path Radio
+http://punjabrocks.com:9968/.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82615/logo_qJ6zeLTdjv.png",RadioNev
+https://a7.asurahosting.com:8140/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82605/logo_0GVsoz2Bfa.png",Bhaktiworld Media Hanuman Ji Radio
+https://2bhanuman.out.airtime.pro/2bhanuman_a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82490/logo_xne7Ugpvnl.png",Radio Afsana
+http://us9.streamingpulse.com:7058/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82309/logo_CLhOqpmMSf.png",Sikh Katha Radio
+http://radio.punjabrocks.com:9978/.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82672/logo_QXBg7G3p1W.png",Bhaktiworld Media Krishna Radio
+https://millenniumhits.out.airtime.pro/millenniumhits_a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82663/logo_LnLOJAaSd4.png",Bhaktiworld Media Gurbani Radio
+https://gurbani.out.airtime.pro/gurbani_b
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82673/logo_Q8mfgtNhlS.png",Bhaktiworld Media Shri Ram Radio
+https://dard.out.airtime.pro/dard_a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82603/logo_skNaHIHpPX.png",Theophony English Radio
+https://mediatechnica.com:2020/stream/theophonyenglishaac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82325/logo_XvgSTc8La2.png",Indifun Radio
+http://indifun.net:7000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82596/logo_8zINvpvzgC.png",Bhaktiworld Media Mantra Shakti Radio
+https://djbeat.out.airtime.pro/djbeat_a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82653/logo_aqoIEvLBUH.png",Radio Tirur
+https://sonic01.instainternet.com/8002/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82691/logo_nAKX4Sdr9H.png",BollyHits Radio
+https://az13.yesstreaming.net:8450/bollyhitsradio192kbps
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82619/logo_tkUfZg1Urh.png",Pothigai FM Radio
+http://136.243.44.41:8131/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82518/logo_mzblJ9dv5X.png",TALRadio Telugu
+https://www.talradio.org/telugu
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82593/logo_V2JSnlhXln.png",Bhaktiworld Media Sai Baba Radio
+https://iskon2b.out.airtime.pro/iskon2b_a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82507/logo_gdQCS2Nqus.png",Spooler POD Radio
+https://a2.asurahosting.com:8160/radio.mp3
+https://sonic.onlineaudience.co.uk/8114/stream?listening-from-radio-garden=1657427657
+#EXTINF:-1,Diverse FM
+https://carol.epichosts.co.uk:8570/
+#EXTINF:-1,AIR FM Rainbow Mumbai
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8
+#EXTINF:-1,Aaj Tak News Radio Live
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1,Sooriyan FM
+https://radio.lotustechnologieslk.net:8006/stream.mp3
+#EXTINF:-1,Radio Mirchi USA
+https://streams.radio.co/s8d06d0298/listen
+http://streaming.softnep.net:8143/stream.nsv&type=mp3&volume=60
+#EXTINF:-1,Vividh Bharti Mumbai
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8
+#EXTINF:-1,FM Gold Mumbai
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8
+#EXTINF:-1,AIR Delhi FM Gold
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
+#EXTINF:-1,Tune India Radio
+https://s2.radio.co/se5e166e2f/listen#.mp3
+#EXTINF:-1,Akashvani FM Rainbow Kolkata
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio05864kbps.m3u8
+#EXTINF:-1,London Telugu Radio
+https://c8.radioboss.fm/stream/33
+#EXTINF:-1,AIR Urdu
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio006/hlspbaudio00632kbps.m3u8
+#EXTINF:-1,Fm Rainbow Delhi 32 kbps
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00432kbps.m3u8
+#EXTINF:-1,Tamil Old Hits FM
+https://a9oldhits-a9media.radioca.st/stream
+#EXTINF:-1,Free FM 80´s India
+https://freefm80.radioca.st/
+#EXTINF:-1,Vividh Bharati Vijayawada
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8
+https://18303.live.streamtheworld.com/SP_R3563475_SC
+#EXTINF:-1,Fever 104 FM
+https://radio.canstream.co.uk:8115/live.mp3
+#EXTINF:-1,Radio 90.5 FM
+https://ice42.securenetsystems.net/CR90
+#EXTINF:-1,WION LIVE TV
+https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+#EXTINF:-1,Lyca Gold
+https://listen-lycaradio.sharp-stream.com/1035.mp3
+#EXTINF:-1,Himal Hindi Classic Radio
+https://streaming.webhostnepal.com/8012/stream
+#EXTINF:-1,Radio Krishna
+https://millenniumhits.out.airtime.pro:8000/millenniumhits_a?fbclid=IwAR0qP_F8RgDCq3gX8g7U8Dmm_uZedtPrqxCf8iIDAW5Jcd5ktA0XMs6BJu4
+#EXTINF:-1,Gazal Radio London
+https://streaming.webhostnepal.com/8018/stream
+#EXTINF:-1,Bhajans Radio Guyana
+https://s5.citrus3.com:8148/stream
+#EXTINF:-1,Bolly 102.9 FM
+https://ice6.securenetsystems.net/INTRADIO?type=.mp3
+#EXTINF:-1,London Malayalam Radio
+https://das-edge14-live365-dal02.cdnstream.com/a50671
+#EXTINF:-1,Radio Manpasand
+https://c5.radioboss.fm:18125/stream
+#EXTINF:-1,AIR FM Gold Kolkata
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio05764kbps.m3u8
+#EXTINF:-1,Radio Mirchi Masti
+http://162.244.80.118:9460/stream.mp3
+#EXTINF:-1,Vividh Bharati Bengaluru
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8
+#EXTINF:-1,West Indian Vibes Radio
+https://s6.citrus3.com:8396/stream
+#EXTINF:-1,AIR DELHI FM GOLD
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00532kbps.m3u8
+#EXTINF:-1,Sahara FM Tamil
+https://azuracast.vibesounds.in:8000/radio.mp3
+https://sandeshradio2017.radioca.st/;
+#EXTINF:-1,Sunrise Radio
+https://stream1.themediasite.co.uk/8070/stream
+#EXTINF:-1,instrumental-music-radio
+https://azuracast.vibesounds.in:8030/radio.mp3
+#EXTINF:-1,Himal Radio
+https://streaming.webhostnepal.com/8020/stream
+#EXTINF:-1,All India Radio Neighbourhood Service 1
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio233/hlspbaudio233_Auto.m3u8
+#EXTINF:-1,tuneindiaradio
+https://s2.radio.co/se5e166e2f/listen
+#EXTINF:-1,Bharat FM
+https://s2.radio.co/s44bb88930/listen#.mp3?ver=997168
+#EXTINF:-1,vagai-tamil-fm
+https://vtfm2020-vtfm.radioca.st/stream
+#EXTINF:-1,Bol Punjabi Radio
+https://bolpunjabi-ekamsoftware.radioca.st/stream
+#EXTINF:-1,Radio Olive Retro
+https://29306.live.streamtheworld.com/RADIO_OLIVE_RETRO_S03_SC
+#EXTINF:-1,Akashvani Asmita Vahini FM
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8
+#EXTINF:-1,radiomirchibengaluru
+https://18533.live.streamtheworld.com/RADIO_SUNO_MELODY_S06.mp3
+#EXTINF:-1,Hindvani FM
+https://edge.iono.fm/xice/129_medium.aac
+#EXTINF:-1,Radio Bula Masti
+https://c7.radioboss.fm:18052/stream
+#EXTINF:-1,Shripad Radio
+http://shripadradio.radioca.st:8020/stream
+#EXTINF:-1,Minnal FM
+https://22283.live.streamtheworld.com/MINNAL_FMAAC.aac
+#EXTINF:-1,Ujala Radio
+https://stream.ujala.nl/ujala
+#EXTINF:-1,fmrainbowkannada
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8
+#EXTINF:-1,Radio Dunia Odia
+https://stream.justneed.in:2087/listen/radio_dunia/radio.mp3
+#EXTINF:-1,Lyca Radio 1458 AM
+https://ads-direct.sharp-stream.com/1458.mp3
+#EXTINF:-1,Mohan Radio
+https://psrlive4.listenon.in/mohan?station=mohanradio
+#EXTINF:-1,aakashvani
+https://audio-edge-fvq45.ams.d.radiomast.io/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae?listening-from-radio-garden=1607152226837
+#EXTINF:-1,Spice FM
+https://spice988fm.radioca.st/stream
+#EXTINF:-1,Radio Caravan
+https://stream.voxx.pro/radio/8260/radio.mp3
+#EXTINF:-1,g-tamil-fm
+https://gtr-unicast2u.radioca.st/stream
+#EXTINF:-1,Gurbani Kirtan
+https://gurbanikirtan.radioca.st/start.mp3
+#EXTINF:-1,Radio Parbhani 90.8 fm
+http://85.25.185.202:8074/stream
+#EXTINF:-1,Radio Olive
+https://22193.live.streamtheworld.com/OLIVE1063.mp3
+#EXTINF:-1,Radio Udaan
+https://stream.radioudaan.com/listen/radio_udaan/radio.mp3
+#EXTINF:-1,Vanavilfm - Radio Maestro
+https://s7.yesstreaming.net:8092/stream
+#EXTINF:-1,Radio Suno Tamil
+https://14623.live.streamtheworld.com/RADIO_SUNO_TAMIL_S01.mp3
+https://rangeelaradio.radioca.st/
+#EXTINF:-1,Radio Sangam
+https://streaming.radio.co/s58948a3f0/listen
+#EXTINF:-1,swisstamilradio
+https://usa19.fastcast4u.com/swiss
+#EXTINF:-1,Arni City FM
+http://192.95.39.65:5018/stream
+#EXTINF:-1,Club Asia Radio
+https://s3.citrus3.com:8320/stream
+#EXTINF:-1,itamilmedia
+https://streams.radio.co/s937ac5492/listen
+#EXTINF:-1,Best fm.
+https://radio.mbconline.xyz/hls/bestfm.m3u8
+#EXTINF:-1,Radio Suno Malayalam 91.7
+https://28993.live.streamtheworld.com/SUNO917_SC
+#EXTINF:-1,Sangeet 106.1 FM
+https://audio-edge-qse4n.yyz.g.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809
+#EXTINF:-1,radio90fm
+https://ice42.securenetsystems.net/CR90?type=.mp3
+#EXTINF:-1,Shuddh Desi Radio
+https://streamer.radio.co/se30891e37/listen
+#EXTINF:-1,RED FM Vancouver 89.1 FM / 93.1FM
+https://ice24.securenetsystems.net/CKYE
+#EXTINF:-1,radiotarana
+https://peridot.streamguys1.com:7150/Tarana.aac
+#EXTINF:-1,Radio Suno 91.7 FM
+http://28973.live.streamtheworld.com/SUNO917_SC
+#EXTINF:-1,cinaradio
+https://ice8.securenetsystems.net/CINA
+#EXTINF:-1,RED FM Toronto 88.9 FM
+https://ice9.securenetsystems.net/CIRVFM
+#EXTINF:-1,Abee Radio
+https://abee.radioca.st/stream
+#EXTINF:-1,Radio Olive Kids
+https://14613.live.streamtheworld.com/RADIO_OLIVE_CLUB_S04AAC.aac
+#EXTINF:-1,ebcradio
+https://ice7.securenetsystems.net/WWTR?
+#EXTINF:-1,Taj 92.3 FM
+https://ice66.securenetsystems.net/TAJ
+#EXTINF:-1,tamilkaterumbufm
+https://tamilkaterumbufm-prabak78.radioca.st/stream
+#EXTINF:-1,ibctamil
+https://rbx2.hnux.com/http://10454.cloudrad.io:6176/stream.mp3
+#EXTINF:-1,AIR Nagpur
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8
+#EXTINF:-1,bakthi-malai-radio
+https://bakthiisai-unicast2u.radioca.st/stream
+#EXTINF:-1,sangeetmalaradio
+https://rs.suricloud.com/radio/8030/radio.mp3
+#EXTINF:-1,AIR Bangalore
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8
+#EXTINF:-1,hindiretro
+https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/MRETRO_Auto.m3u8
+#EXTINF:-1,tamilaruvifm
+https://servidor18-4.brlogic.com:7740/live
+#EXTINF:-1,BritAsia Radio Punjabi
+https://s4.radio.co/sfefce156f/listen
+#EXTINF:-1,bbcasiannetwork
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_asian_network.m3u8
+#EXTINF:-1,kummalamradio
+https://kummalam.stream.laut.fm/kummalam
+#EXTINF:-1,AIR FM Rainbow Kochi
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8
+#EXTINF:-1,radiokeralam
+https://ice31.securenetsystems.net/RADIOKERAL
+#EXTINF:-1,bolpunjabi
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/chunklist.m3u8
+#EXTINF:-1,thendralradio
+https://thenralw.radioca.st/LiveStream
+#EXTINF:-1,Bolly vibes radio
+https://bollyvibes.radioca.st/stream
+#EXTINF:-1,Radio Central 24
+https://casper.radioca.st/stream
+#EXTINF:-1,Taal FM
+https://radio.mbconline.xyz/hls/tallfm.m3u8
+#EXTINF:-1,Radio Naya Andaz
+https://radionayaandaz.out.airtime.pro/radionayaandaz_a
+#EXTINF:-1,Fusion Life Radio
+https://c28.radioboss.fm:18046/stream
+#EXTINF:-1,thayagam-tamil-radio
+https://s3.yesstreaming.net:17045/stream
+#EXTINF:-1,radiosunotamil
+http://14613.live.streamtheworld.com/RADIO_SUNO_TAMIL_S01.mp3
+#EXTINF:-1,Radio Dhwani
+https://static.s123-cdn-static-c.com/uploads/2568273/normal_5d8ba39d1261c.mp3
+#EXTINF:-1,AIR Agra
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8
+#EXTINF:-1,eagle-fm-hd
+https://streaming.radio.co/sf833cd785/listen
+#EXTINF:-1,Nila Fm HD  bollywood
+http://comet.shoutca.st:8074/
+#EXTINF:-1,Kodaikanal FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/master.m3u8
+#EXTINF:-1,4 lobos bollywood radio
+https://puma.streemlion.com:4130/stream
+#EXTINF:-1,humsafar
+https://ice2.securenetsystems.net/HUMSAFAR
+#EXTINF:-1,Om Radio Singapore
+https://14093.live.streamtheworld.com/OMRADIO_S01AAC_SC
+#EXTINF:-1,Radio Mata Ji (Durga Laxmi)
+https://ibadat.out.airtime.pro/ibadat_a?fbclid=IwAR2lnBbSVZVTRowXxo0eAfNP98LktcxgsqUaxNrCBmqjgmkGYWoDj11Zy7o
+#EXTINF:-1,chellam-fm
+https://sugu.radioca.st/stream/stream/1
+#EXTINF:-1,lycaradio
+https://edge-ads-05-gos2.sharp-stream.com/1458.mp3?
+https://shripadradio.radioca.st/
+#EXTINF:-1,A9 Radio
+https://a9radio1-a9media.radioca.st/stream
+#EXTINF:-1,Radio Gujarati
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8
+#EXTINF:-1,vividhbharathitamil
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio024/playlist.m3u8
+#EXTINF:-1,radiovaanam
+https://sathees.radioca.st/
+#EXTINF:-1,Air Rajkot
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8
+#EXTINF:-1,4lobos bollywood radio
+http://puma.streemlion.com:4130/stream
+#EXTINF:-1,thavakalai-radio
+https://mars.streamerr.co/8274/stream
+#EXTINF:-1,ttrfm
+https://radio.massstream.net/8010/stream
+#EXTINF:-1,isaiyaruvi-fm
+https://cp1.hostcrate.com/8910/stream
+#EXTINF:-1,easy96fm
+https://ice8.securenetsystems.net/EASY96?type=.mp3
+#EXTINF:-1,pudugai-isai-fm
+https://pudhugaisaifm-prabak78.radioca.st/stream
+#EXTINF:-1,dreamzzpunjabiradio
+https://c7.radioboss.fm/stream/52
+#EXTINF:-1,Dil FM UK
+https://my4.radiolize.com/radio/8110/radio.mp3
+#EXTINF:-1,AIR FM Rainbow Cuttack 🌈
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8
+#EXTINF:-1,thaalamfm
+https://ec4.yesstreaming.net:1990/stream
+#EXTINF:-1,RED FM Calgary 106.7 FM
+https://ice10.securenetsystems.net/CKYR
+#EXTINF:-1,sstamilradio
+https://free.rcast.net/68750
+#EXTINF:-1,Roq Raw Radio
+https://mystation.micast.media/radio/8090/radio.mp3
+#EXTINF:-1,Nammura Baanuli
+http://198.245.61.103:8029/stream
+#EXTINF:-1,sbspopdesi
+http://sbs-ice.streamguys1.com/sbs-popdesi
+#EXTINF:-1,thenaruvi-fm
+https://thenaruvivaanoli.radioca.st/stream
+#EXTINF:-1,Akashvani Kozhikode
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8
+#EXTINF:-1,olifm
+https://22893.live.streamtheworld.com/OLI968FMAAC.aac
+#EXTINF:-1,indi fun radio
+https://indifun.net/stream
+#EXTINF:-1,Kripalu Bhakti Dhara Radio
+https://kbd.out.airtime.pro/kbd_b
+#EXTINF:-1,sirpi-fm
+https://sirpifmhd-unicast2u.radioca.st/stream
+#EXTINF:-1,nanban-fm
+https://nanbanfm-unicast2u.radioca.st/stream
+http://radio.punjabrocks.com:9988/
+#EXTINF:-1,radioazad
+https://edge.mixlr.com/channel/uaphi
+#EXTINF:-1,clubmirchi
+https://mirchiplaylive.akamaized.net/hls/live/2036929-b/MUM/CLUBMI_Auto.m3u8
+#EXTINF:-1,Radio Humsafar 1350 AM
+https://ice66.securenetsystems.net/CIRF
+#EXTINF:-1,Radio Ishara
+https://a8.asurahosting.com:7030/radio.mp3
+#EXTINF:-1,a9radionewhits
+https://a9newhits-a9media.radioca.st/stream
+#EXTINF:-1,njsunriseradio
+https://njsunrise.out.airtime.pro/njsunrise_a
+#EXTINF:-1,Akash Radio leeds
+https://c2.radioboss.fm:8276/stream
+#EXTINF:-1,nakshatraradio
+https://18253.live.streamtheworld.com/NAKSHATRA_S01AAC_SC
+#EXTINF:-1,aasmanradio
+https://aasman_radio.ice.infomaniak.ch/aasmanradio.mp3
+#EXTINF:-1,aaha-radio
+https://s2.radio.co/s3801784f1/listen
+#EXTINF:-1,lankasri-fm
+https://rbx2.hnux.com/http://5984.cloudrad.io:8032/stream.mp3
+#EXTINF:-1,Radio Panchajanya
+https://d3ctxlq1ktw2nl.cloudfront.net/staging/2023-8-27/24e94d7f-07dc-9d45-95d0-ddfbbda2b7ae.mp3
+#EXTINF:-1,megazonesouth
+https://vm65162.streamerr.co/listen/megazone_south/radio.mp3
+#EXTINF:-1,muthamilradio
+https://ec2.yesstreaming.net:2540/stream
+#EXTINF:-1,Xpression Fm bollywood
+https://casper.radioca.st/
+#EXTINF:-1,Bhaktiworld Media Shiva
+http://hot.out.airtime.pro:8000/hot_a?_ga=2.158331450.1016847427.1656651399-%20396439986.1656651399
+#EXTINF:-1,Kaathoram Live
+https://c30.radioboss.fm/stream/560
+#EXTINF:-1,Bhaktiworld Media Devi Maa
+http://ibadat.out.airtime.pro:8000/ibadat_a?_ga=2.112683904.548091236.15820292%2013-1175002648.1580299245
+#EXTINF:-1,Amruthavarshini FM
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8
+#EXTINF:-1,ndtvProfit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
+#EXTINF:-1,roobamfm
+https://s3.radio.co/sadfae7495/listen
+#EXTINF:-1,Live Kirtan Sri Harmander Sahib
+https://live.sgpc.net:8442/
+#EXTINF:-1,Radio Kochi
+https://d3caeelfr0kslf.cloudfront.net/radiokochi.m3u8
+#EXTINF:-1,etrradio
+https://radiofunandmore.spcast.eu/?time=1781210654
+#EXTINF:-1,yugamradio
+https://s6.yesstreaming.net:19012/stream
+#EXTINF:-1,Bhaktiworld Media Shri Ram
+https://dard.out.airtime.pro/dard_a?_ga=2.178816160.548091236.1582029213-%201175002648.1580299245
+#EXTINF:-1,Kancheeravam Radio
+https://radiosavre.com:8020/radio.mp3
+#EXTINF:-1,Fn F Fm
+http://main.weefmgrenada.com:5032/
+#EXTINF:-1,eastcoastradio
+https://ecrfm-prabak78.radioca.st/stream
+#EXTINF:-1,Bhaktiworld Media Ganesha
+https://radio2bindia.out.airtime.pro/radio2bindia_a?_ga=2.203455766.763289185.16%2062805693-499518273.1568730566
+#EXTINF:-1,time-fm
+https://neramfm.com:8000/stream
+#EXTINF:-1,air-tiruchirapalli
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio041/chunklist.m3u8
+#EXTINF:-1,aahafmradio
+http://s2.radio.co/s3801784f1/listen
+#EXTINF:-1,mtrfm
+https://radio.mediacp.eu/stream/mtr-fm/stream
+#EXTINF:-1,fmrainbowpuducherry
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8
+#EXTINF:-1,Sathya Sai Discourse
+https://stream.sssmediacentre.org:8443/discourse
+#EXTINF:-1,fm-gold-chennai
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio021/chunklist.m3u8
+#EXTINF:-1,air-coimbatore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/chunklist.m3u8
+#EXTINF:-1,Radio Khushkhabri
+http://edge-audio-03-gos2.sharp-stream.com/khushkhabri.mp3
+#EXTINF:-1,tirunelvelifmrainbow
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio062/playlist.m3u8
+#EXTINF:-1,Radio Kasoot Live
+https://azuracast.radiokasoot.com/radio/8000/listen
+#EXTINF:-1,Peace Radio
+https://peaceradio.out.airtime.pro/peaceradio_a
+#EXTINF:-1,Bhaktiworld Media Gurbani
+http://gurbani.out.airtime.pro:8000/gurbani_b?_ga=2.77423505.548091236.1582029%20213-1175002648.1580299245
+#EXTINF:-1,Jesus Coming FM – German
+http://live.jesuscomingfm.com:8282/stream/
+#EXTINF:-1,lmrradio
+https://das-edge11-live365-dal03.cdnstream.com/a50671
+#EXTINF:-1,healer-radio
+https://c13.radioboss.fm:8552/healerradio
+#EXTINF:-1,jehovahrapha-fm
+https://c22.radioboss.fm:8532/jehovahrapha
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,RADIO FUERZA 3
+https://vivo.miradio.in:7039/live
+#EXTINF:-1,amenradio
+https://ice7.securenetsystems.net/AMENFM
+#EXTINF:-1,devaprasannam-radio
+https://devaprasannam-a9media.radioca.st/stream
+#EXTINF:-1,AIR Puducherry 1215
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/chunklist.m3u8
+#EXTINF:-1,dvnradio
+https://ice31.securenetsystems.net/DVN
+#EXTINF:-1,REPLAY NEWS - हिन्दी 【हर 5 मिनट पर खबरों वाला रेडियो】
+https://replaynewshi.ice.infomaniak.ch/replaynewshi-128.mp3
+#EXTINF:-1,club fm
+https://strw3.openstream.co/1459?aw_0_1st.collectionid%3D4635%26stationId%3D4635%26publisherId%3D1483%26k%3D1769584850
+#EXTINF:-1,Pew Hits
+http://80.225.211.98:8002/pewhitsdesi
+#EXTINF:-1,JANVANI 90.8 FM
+https://radiosavre.com:8060/radio.mp3
+#EXTINF:-1,azevision Radio
+https://a5.asurahosting.com:8340/radio.mp3
+#EXTINF:-1,JAGAT RADIO
+http://176.9.7.145:8183/jagatradio

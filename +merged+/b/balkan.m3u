@@ -135,3 +135,5 @@ http://streams.bigfm.de/bigfm-balkan-128-aac
 https://radiobalkan.live/radio/live/narodna.mp3
 #EXTINF:-1,Radio Caprice - Balkan - 320 - The Russian Federation - balkan - radcap - radio caprice - radio caprice; radcap
 http://79.120.39.202:8000/balkan
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ro-radio-balkan-romania-logo.jpg",Radio Balkan Romania
+https://live.radiobalkan.ro/8102/stream

@@ -33,3 +33,5 @@ https://stream.zeno.fm/ehmr2unacskvv
 https://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFMAAC.aac?dist=onlineradiobox
 #EXTINF:-1,Radio Caprice - Deathcore - 320 - The Russian Federation - deathcore
 http://79.111.14.76:8000/deathcore
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004236/logo_xshpCVvYtJ.jpg?v=20260529-media-restore",Core Radio
+http://194.58.97.117:8000/coreradio

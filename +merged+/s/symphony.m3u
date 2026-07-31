@@ -433,16 +433,6 @@ https://stream.0nlineradio.com/beethoven?ref=radiobrowser
 https://stream.0nlineradio.com/schubert?ref=radiobrowser
 #EXTINF:-1,0nlineradio BACH
 https://stream.0nlineradio.com/bach?ref=radiobrowser
-#EXTINF:-1,DrGnu - 90th Rock
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobob90srock8400272-mp3-192-6033382?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - Gothic
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobgothic6924976-mp3-192-2500754?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - Metalcore 1
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobmetalcore1855704-mp3-192-1809267?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - Metal 2 Knight
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobdunklepritter8866343-mp3-192-1775553?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - Metallica
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobmetallica3164584-mp3-192-3532789?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
 #EXTINF:-1,DrGnu - 70th Rock
 http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355109
 #EXTINF:-1,DrGnu - 80th Rock II
@@ -469,3 +459,13 @@ http://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio
 https://drive.uber.radio/uber/crchicagosymphonyorchestra/icecast.audio
 #EXTINF:-1,Radio Symphony - 128 - The United States Of America - classical - new york city - rsl - symphony
 https://streaming.radiostreamlive.com/radiosymphony devices
+#EXTINF:-1 tv-logo="",RadioSon.ru - Radio Mozart Classical channel
+http://radioson.ru:8009/Radio-Mozart.RadioSon.ru.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kdfc-575799-logo.jpg",Radio KDFC
+http://19263.live.streamtheworld.com:3690/KDFCFMAAC_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026ua=RadioTimeu0026ttag=RadioTime
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-fm-opera-627712-logo.jpg",Radio Classic FM Opera
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR27AAC.aac?tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6IjIxMDY0IiwiaWF0IjoxNTY4OTg2Nzg2LCJ0ZC1yZWciOmZhbHNlfQ.erxHTf0RDwwK9oyCa8OJMaOYssNPkwRkO_iDZ1-Wmz0
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/clasic-radio-mozart-617140-logo.jpg",Clasic Radio Mozart
+http://www.clasicradio.ro:8300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-unam-am-568922-logo.jpg",Radio UNAM AM
+http://radio.unam.mx:8006/;

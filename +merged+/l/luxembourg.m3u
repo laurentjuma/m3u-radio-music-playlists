@@ -277,8 +277,6 @@ http://listen.radionomy.com/rfmluxembourgagain
 http://213.222.25.84:8326/stream
 #EXTINF:-1,Liquid FM Radio
 https://br-br1-obb.sslcast.addradio.de/br/br1/obb/mp3/128/stream.mp3
-#EXTINF:-1,Radio Larochette
- https://servidor14.brlogic.com:8150/live
 #EXTINF:-1,Radio Luxembourg 208
 https://cdn-embed.tunein.com/resources/media/blank.mp3
 #EXTINF:-1,Radio Rosengarten
@@ -581,8 +579,6 @@ https://11.stmip.net:8404/stream
 http://rcb.zapto.org:8000/mp3
 #EXTINF:-1,Radio R.O.M.
 http://stream.rtlradio.de/rtl-de-ukw/aac-64/RadioDE/
-#EXTINF:-1,Eldoradio Luxemburg
-/urlParser?l=http%3A%2F%2Feldoradiolive.newmedia.lu%2Flisten.pls
 #EXTINF:-1,RTL Luxemburg
 http://81.92.238.32/stream/1/
 #EXTINF:-1,party-beats-radio
@@ -615,8 +611,6 @@ http://stream.studioluxfm.com:8000/stream_mp3_96
 http://master-dizajn.com:9964/
 #EXTINF:-1,Dah Radio
 http://45.43.200.82:16896/
-#EXTINF:-1,Rádio larochete
-				http://stream.zeno.fm/4gcku833wwzuv			
 #EXTINF:-1,Anonymous Luxembourg
 http://tetas123.no-ip.org:8000/stream.ogg
 #EXTINF:-1,Radio Lusitana
@@ -627,16 +621,10 @@ http://stm4.srvstm.com:22546/
 http://stream.airfm24.lu:8000/airfm24.mp3
 #EXTINF:-1,RadioMahala
 http://andromeda.shoutca.st:8204/stream
-#EXTINF:-1,L&#039;Essentiel Radio
-https:/http:/sra.net:8030/alternative.mp3
 #EXTINF:-1,Eldoradio TOP25
 https://eldo-streaming.eldo.luhttp:/adio/eldotop25/playlist.m3u8
-#EXTINF:-1,RetroSonic Hits
-https:/http:/sra.net:8060/hits.mp3
 #EXTINF:-1,RadioPortugalPeloMundo
 http://s2.stmxp.net:7252/;
-#EXTINF:-1,Ràdio Rmg
-https:/http:/adio-rmg-loc.mixlr.com/
 #EXTINF:-1,L essentiel Radio
 http://server4.streamserver24.com:26607/
 #EXTINF:-1,FRL Free Radio Luxembourg
@@ -645,3 +633,193 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio008/chunklist.m3u8
 https://club74.stream.laut.fm/club_74
 #EXTINF:-1,Radio Cor Dos Teus Olhos
 https://panachee.stream.laut.fm/panachee
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/98571.v5.png",Radio Cents 
+http://onairradio.dyndns.org:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8JUT28.png",Bulldogs-Radio
+http://us4.internet-radio.com:8062/stream?icy=http
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Dah Radio
+http://188.40.66.244:7028/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HRIIIL.png",Eldoradio - 80s
+http://81.92.238.36:80/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JQ0LMP.png",Eldoradio 80's
+http://sc-80s.eldoradio.lu:80/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3WIVME.png",Eldoradio 90's
+http://sc-eldo90s.newmedia.lu/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/77IBAN.png",Eldoradio Alternative
+http://sc-eldoalt.newmedia.lu/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/X22XU1.png",Eldoradio - Alternative
+http://81.92.238.34:80/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3999O9.png",Eldoradio - Chill
+http://81.92.238.35:80/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FMN9IE.png",Eldoradio Chill
+http://sc-eldochill.newmedia.lu/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ARGM24.png",Eldoradio Fitness
+http://sc-eldo80s.newmedia.lu/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SQJSKL.png",Eldoradio - Livestream
+http://sc-eldolive.newmedia.lu/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/R8EW7.png",FREE RADIO LUXEMBOURG
+https://www.radioking.com/play/rfm-luxembourg
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/I724IM.png",Joyce
+http://caster05.streampakket.com:8992/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QVVC1I.png",LRB 103.9 FM
+http://zeus.lrb.lu:8000/lrb.live?1578316549139
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6W2SF.png",Radio Aktiv
+https://zeus.lrb.lu:8000/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YZYSPX.png",Radio Jeansgeneration
+https://www.radioking.com/play/radio-jeans
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VRIRKA.png",Radio - Jodlerwirt 1
+https://radio-jodlerwirt.stream.laut.fm/radio-jodlerwirt
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/K398E.png",Radio Rujnica
+http://163.172.213.155:8115/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BTGDR0.png",RGL Radio Gutt Laun
+http://rgl.selfip.net:8000/mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TJUHTH.png",RTL Deutschlands Hit-Radio
+https://rtldtl.hoerradar.de/rtldtl-national-mp3-128?sABC=5rs20207%230%2397nos1ss7r95o61noqs2sn5qsnrn05s7%23GharVA&=&amsparams=playerid:TuneINskey:1592918535
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/K80X9.png",RTL Radio Lëtzebuerg
+http://81.92.238.32:80/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44465/logo_k8kVRgPSCY.png",Radio Lusa
+https://sp0.redeaudio.com/8232/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44435/logo_27aCVU8euH.png",Eldoradio
+https://stream.eldo.lu/data/live/radio/eldo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44463/logo_i4sHSuKv4a.png",Antenna Web Lussemburgo Radio
+https://tinyurl.com/Antenna-Web-Lussemburgo
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44440/logo_hgOtpU9JyV.png",Radio Lux
+https://lux.stream.laut.fm/lux
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44466/logo_lBI3yNUPJt.png",Radio Luxembourg 523
+https://nrf1.newradio.it:10334/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44464/logo_aoqgtizSx4.png",Antenna Web Dudelange Radio
+https://tinyurl.com/Antenna-Web-Dudelange
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44443/logo_Ystr5sqhuh.png",Radio Belle Vallée
+https://stream.rbv.lu/index.html
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44462/logo_6iWBjT6dva.png",Antenna Web Differdange Radio
+https://tinyurl.com/Antenna-Web-Differdange
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44451/logo_LhfuNJpv9k.png",Radio Cents
+http://onairradio.dyndns.org:8000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44439/logo_ZXiRB8P6bd.png",Panachee Radio
+http://stream.laut.fm/panachee
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44434/logo_BnmcMNHB9i.png",Eldoradio Chill
+https://live-edge.rtl.lu/radio/eldochill/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44452/logo_mIqbuc7vtP.png",Eldoradio 90s
+https://live-edge.rtl.lu/radio/eldo90s/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44460/logo_7b0n4MnG8l.png",L&#x27;Essentiel Christmas Radio
+https://radio4.pro-fhi.net/flux-xiricxbc/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44431/logo_v5pNFqpZJ4.png",Eldoradio 80s
+https://live-edge.rtl.lu/radio/eldo80s/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44428/logo_EGFGLthHcc.png",Eldoradio TOP25
+https://live-edge.rtl.lu/radio/eldotop25/playlist.m3u8
+#EXTINF:-1,Generation Dance Radio 
+http://generationdance.lu/radio/8030/hd
+#EXTINF:-1,Eldoradio 
+http://81.92.238.33/
+#EXTINF:-1,RTL Radio Lëtzebuerg 
+https://live-edge.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1,Groovetime 
+http://kotdt.com:8000/groovetime
+#EXTINF:-1,Braintrip Radio 
+https://stream.laut.fm/braintrip-radio
+#EXTINF:-1,Opus 100,7 
+https://100komma7--di--nacs-ice-01--02--cdn.cast.addradio.de/100komma7/opus/mp3/320/stream.mp3
+#EXTINF:-1,Radio Puls Luxembourg 
+https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream
+#EXTINF:-1,ELDORADIO - Alternative Channel 
+http://sc.bce.lu/eldoalt
+#EXTINF:-1,ELDORADIO - Chill Channel 
+http://sc.bce.lu/eldochill
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Bulldogs-Radio - Luxembourg - Luxembourg City
+https://bulldogsradio.radioca.st/stream
+#EXTINF:-1,Espressivo - Luxembourg - Clervaux
+https://espressivo.stream.laut.fm/espressivo?t302=2025-01-07_12-47-15&uuid=6c780465-fe72-4b02-8992-b117d828d16b
+#EXTINF:-1,FCE Continuo - Luxembourg - Luxembourg City
+https://play.radioking.io/fce-continuo
+#EXTINF:-1,Free Radio Luxembourg - Luxembourg - Luxembourg City
+https://play.radioking.io/rfm-luxembourg/137599
+#EXTINF:-1,Generation Dance - Luxembourg - Sanem
+https://generationdance.lu/radio/8030/hd
+#EXTINF:-1,L'essentiel Radio - Luxembourg - Differdange
+https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3
+#EXTINF:-1,Panachee - Luxembourg - Clervaux
+https://panachee.stream.laut.fm/panachee?t302=2025-01-07_12-47-17&uuid=41a20b84-1461-444f-978b-05400e586368
+#EXTINF:-1,Radio 100.7 - Luxembourg - Luxembourg City
+https://100komma7--di--nacs-ice-01--02--cdn.cast.addradio.de/100komma7/live/mp3/128/stream.mp3?_art=dj0yJmlwPTgyLjc3LjIzNy42NSZpZD1pY3NjeGwtbG91bnd0M2xiJnQ9MTczNjM0MDQ0MiZzPTc4NjZmMjljIzc1YmY1YjNlNDE5MjM1NmViMDk4YmQzNzc2NWEzNDVj
+#EXTINF:-1,Radio C Luxembourg - Luxembourg - Kehlen
+https://edge14.streamonkey.net/radioc-live/stream/aacp
+#EXTINF:-1,Radio Diddeleng asbl - Luxembourg - Dudelange
+https://radiodudelange.ice.infomaniak.ch/radiodudelange-128.mp3
+#EXTINF:-1,Radio Gutt Laun - Luxembourg - Schifflange
+https://streams.radio.co/sa631ff66a/listen
+#EXTINF:-1,Radio Jeans Generation - Luxembourg - Steinsel
+https://play.radioking.io/radio-jeans
+#EXTINF:-1,Rádio Larochete - Luxembourg - Larochette
+https://stream.zeno.fm/4gcku833wwzuv
+#EXTINF:-1,Radio Latina FM 101.2 - Luxembourg - Luxembourg City
+https://ice.creacast.com/radio-latina-lu-mp3
+#EXTINF:-1,Radio Puls Luxembourg - Luxembourg - Luxembourg City
+https://cmr-hosting.com/8312/stream
+#EXTINF:-1,RTL Gold - Luxembourg - Luxembourg City
+https://sc.rtl.lu/rtlgold
+#EXTINF:-1,RTL LX - Luxembourg - Luxembourg City
+https://sc.rtl.lu/rtllx
+#EXTINF:-1,RTL Today Radio - Luxembourg - Luxembourg City
+https://sc.rtl.lu/rtltoday
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rom-1065-fm-171459-logo.jpg",Radio ROM 106.5 FM
+http://rs1.radiostreamer.com:8270/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-puls-591215-logo.jpg",Radio Puls
+http://82.145.43.92:8312/stream?sid=1
+#EXTINF:-1 tv-logo="",Dukat Radio
+http://master-dizajn.com:9964/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lusitana-luxemburgo-630633-logo.jpg",Radio Lusitana Luxemburgo
+http://173.208.193.66:9996/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/united-beats-radio-2-175636-logo.jpg",United Beats Radio 2
+http://88.198.68.109:9002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtl-television-571575-logo.jpg",Radio RTL Television
+http://tele.rtl.lu/waatleeft/livestream/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eldoradio-chill-channel-581474-logo.jpg",Eldoradio Chill-Channel
+http://sc-chill.eldoradio.lu:80/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eldoradio-alternative-channel-583964-logo.jpg",Eldoradio Alternative-Channel
+http://eldowebradio1.newmedia.lu/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/remixcolor-605480-logo.jpg",Radio RemixColor
+http://137.74.193.0:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/doce-tentacao-do-desejo-614246-logo.jpg",Radio doce tentacao do desejo
+http://stm4.srvstm.com:22546/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lusa-625189-logo.jpg",Radio Lusa
+http://176.9.88.190:9286/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lusitana-fm-625807-logo.jpg",Radio Lusitana FM
+http://87.117.197.33:19724/;
+#EXTINF:-1 tv-logo="",RadioDahMuni
+http://170.75.144.234:9600/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tugalux-636329-logo.jpg",Radio tugalux
+http://176.9.220.222:9404/;
+#EXTINF:-1 tv-logo="",Dah Radio
+http://45.43.200.82:16896/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lu-eldoradio-25-joer-chartbreaker-logo.jpg",Eldoradio 25 Joer Chartbreaker
+https://live-edge.rtl.lu/radio/eldo25years/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lu-radioportugalpelomundo-logo.jpg",RadioPortugalPeloMundo
+https://streamssl.hospedandosites.com.br/sc_rmp.php/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mcj-162040-logo.jpg",Radio MCJ
+http://207.180.239.211:9300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rujnica-617089-logo.jpg",Radio Rujnica
+http://163.172.213.155:8115/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rbv-luxembourg-601746-logo.jpg",Radio RBV Luxembourg
+http://radio.rbv.lu:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/united-beats-radio-1-174644-logo.jpg",United Beats Radio 1
+http://88.198.68.109:9000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/saphirs-bistro-radio-174227-logo.jpg",Saphirs Bistro Radio
+http://rs43.stream24.org:8200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtl-radio-letzebuerg-177979-logo.jpg",RTL Radio Lëtzebuerg
+http://81.92.238.32/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dnr-179647-logo.jpg",Radio DNR
+http://stream.pt.lu/dnr/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rtl-radio-157019-logo.jpg",RTL Radio
+http://81.92.237.123:8080/
+#EXTINF:-1 tv-logo="",Radio RTL 1440
+http://81.92.237.118/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nya-club-radio-184465-logo.jpg",NYA-Club Radio
+http://208.43.81.168:8797/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classics4life-radio-173731-logo.jpg",Classics4Life Radio
+http://server4.digital-webstream.de:7910/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-1007-185221-logo.jpg",Radio 100,7
+http://streamserver.100komma7.lu:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eldoradio-live-583965-logo.jpg",EldoRadio Live
+http://eldoradiolive.newmedia.lu/;

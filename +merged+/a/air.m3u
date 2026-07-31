@@ -23,8 +23,6 @@ http://s1.cdn1.iranseda.ir:1935/liveedgehttp:/adio-iran/playlist.m3u8
 https://bigrradio.cdnstream1.com/5186_128?listenerid=ea4ef9d7-dc2d-496b-9f18-5bbd5ca7923a&cb=997633.mp3
 #EXTINF:-1,Rádio Pigy Pohádky
 https://ice.actve.net/web-pg-pohadky
-#EXTINF:-1,Русское Радио - Нерпа Юма: Сказки Байкала
-https:/http:/r-nerpa.hostingradio.ru/nerpa96.aacp
 #EXTINF:-1,Radio Air Touch
 https://c8.radioboss.fm:18133http:/adioairtouch
 #EXTINF:-1,Radio Kerry
@@ -35,8 +33,6 @@ http://5.149.158.79:8000/stream2
 https://broadcastify.cdnstream1.com/13556
 #EXTINF:-1,700 ESPN
 https://18243.live.streamtheworld.com:443/KXLXAMAAC.aac
-#EXTINF:-1,Radio Oberlausitz International
-https:/http:/adiooberlausitzinternational.stream.laut.fmhttp:/adiooberlausitzinternational?t302=2023-04-25_19-45-25&uuid=f8f08aa8-a796-45af-973b-8f41f8f49ca6
 #EXTINF:-1,World FM
 http://www.worldfm.co.nz:8882/worldfm.aac
 #EXTINF:-1,Central Illinois Regional Airport Tower - (KBMI) - Live Aviation ATC
@@ -83,8 +79,6 @@ http://ice55.securenetsystems.net/DASH20
 http://live-hls-audio-web-aja.getaj.net/VOICE-AJA/index.m3u8
 #EXTINF:-1,All India Radio AIR Bilaspur
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8
-#EXTINF:-1,RADIO BOB! Wacken Radio
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobwacken2377952-mp3-192-7315957?sABC=644811p9%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444745
 #EXTINF:-1,EPIC CLASSICAL - Classical Fairy Tales
 https://stream.epic-classical.com/classical-fairy-tales
 #EXTINF:-1,Tweede Kamer Live Plenaire zaal
@@ -95,8 +89,6 @@ http://192.111.140.11/proxy/bhr?mp=/stream
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio127/chunklist.m3u8
 #EXTINF:-1,The Strip on Dash
 http://ice55.securenetsystems.net/DASH24
-#EXTINF:-1,RADIO BOB! BOBs Wacken Nonstop (192kbit)
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobwacken2377952-mp3-192-7315957?sABC=64480s49%230%23n1q9s1ns4osoonq326452q0po510q6pp%23fgernzf.enqvbobo.qr&aw_0_1st.playerid=streams.radiobob.de&amsparams=playerid:streams.radiobob.de;skey:1682444105
 #EXTINF:-1,The Hairband Channel
 http://bigrradio.cdnstream1.com/5119_128
 #EXTINF:-1,RADIO KOLOR
@@ -111,24 +103,14 @@ https://icecast.skyrock.net/s/plm_aac_128k?tvr_name=apistreamfm
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8
 #EXTINF:-1,vorleser.net-Radio - Märchenzeit
 https://vorlesernet.streamabc.net/vorl-mrchenzeit-aacplus-64-7895856?sABC=64481112%230%23n1q9s1ns4osoonq326452q0po510q6pp%23enqvb.ibeyrfre.arg&aw_0_1st.playerid=radio.vorleser.net&amsparams=playerid:radio.vorleser.net;skey:1682444562
-#EXTINF:-1,DrGnu - 90th Rock
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobob90srock8400272-mp3-192-6033382?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
 #EXTINF:-1,Monsters of Rock
 http://ice55.securenetsystems.net/DASH14
-#EXTINF:-1,DrGnu - Gothic
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobgothic6924976-mp3-192-2500754?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - Metalcore 1
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobmetalcore1855704-mp3-192-1809267?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
 #EXTINF:-1,ROCK ANTENNE Hair Metal
 https://s2-webradio.rockantenne.de/hair-metal/stream/aacp
-#EXTINF:-1,DrGnu - Metal 2 Knight
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobdunklepritter8866343-mp3-192-1775553?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
 #EXTINF:-1,Stone Radio
 http://eu4.fastcast4u.com:5248/;stream.mp3
 #EXTINF:-1,Plein air
 http://stream-01.pleinair.net:8000/pleinair
-#EXTINF:-1,DrGnu - Metallica
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobmetallica3164584-mp3-192-3532789?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
 #EXTINF:-1,DrGnu - 70th Rock
 http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355109
 #EXTINF:-1,DrGnu - 80th Rock II
@@ -417,3 +399,53 @@ https://pub0102.101.ru:8000/stream/air/aac/64/199
 https://listen6.myradio24.com/fairytale
 #EXTINF:-1,גלצ - 128 - Israel - local music - local news - local radio - politics & current affairs
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio231/hlspbaudio23132kbps.m3u8
+#EXTINF:-1 tv-logo="",Radio Monroe County Fire, Interstate Fire, and Airport CFR
+http://relay.broadcastify.com:80/234933386
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/new-york-center-air-traffic-control-tower-593137-logo.jpg",Radio New York Center Air Traffic Control Tower
+http://relay.radioreference.com:80/336079492
+#EXTINF:-1 tv-logo="",Radio Florence Airport
+http://relay.broadcastify.com:80/69581810
+#EXTINF:-1 tv-logo="",Radio Port Columbus International Airport
+http://relay.broadcastify.com:80/781594741
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kord-chicago-clearance-metering-598130-logo.jpg",Radio KORD Chicago Clearance/Metering
+http://d.liveatc.net/kord9
+#EXTINF:-1 tv-logo="",Radio Juanda International Airport WARR Tower
+http://relay.broadcastify.com:80/627103582
+#EXTINF:-1 tv-logo="",Radio Eagle Neck Airport Unicom
+http://relay.broadcastify.com:80/865019887
+#EXTINF:-1 tv-logo="",Radio Southern Tasmania Fire, Rail and Air
+http://relay.broadcastify.com:80/413051046
+#EXTINF:-1 tv-logo="",Radio Cherry Capital Airport and USCG Air Station
+http://relay.broadcastify.com:80/348486167
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dfw-air-traffic-west-582819-logo.jpg",Radio DFW Air Traffic West
+http://d.liveatc.net/kdfw
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aeroporto-internacional-afonso-pena-sbct-setor-6-1328-627420-logo.jpg",Radio Aeroporto Internacional Afonso Pena SBCT Setor-6 132.8
+http://liveatc.com.br:8000/132.8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aeroporto-internacional-afonso-pena-sbct-setor-5-1265-627418-logo.jpg",Radio Aeroporto Internacional Afonso Pena SBCT Setor-5 126.5
+http://liveatc.com.br:8000/126.5
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aeroporto-internacional-de-joao-pessoa-sbjp-627436-logo.jpg",Radio Aeroporto Internacional de João Pessoa SBJP
+http://ewr2.liveatc.net/sbjp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/greenville-spartanburg-int-airport-gsp-586474-logo.jpg",Radio Greenville - Spartanburg Int. Airport (GSP)
+http://relay.radioreference.com:80/222050841
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dfw-air-traffic-east-569640-logo.jpg",Radio DFW Air Traffic East
+http://d.liveatc.net/kdfw_east
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/grand-forks-atc-569833-logo.jpg",Radio Grand Forks ATC
+http://d.liveatc.net/kgfk.m3u
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/northern-mohave-and-washington-counties-air-traffic-586779-logo.jpg",Radio Northern Mohave and Washington Counties Air Traffic
+http://relay.radioreference.com:80/742341288
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/southern-tasmania-tgrn-fire-air-rail-586457-logo.jpg",Radio Southern Tasmania TGRN, Fire, Air, Rail
+http://relay.radioreference.com:80/567093481
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/camden-county-airports-unicom-586623-logo.jpg",Radio Camden County Airport's UNICOM
+http://relay.broadcastify.com:80/653289562
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aeroporto-de-uberaba-sbur-627361-logo.jpg",Radio Aeroporto de Uberaba SBUR
+http://liveatc.com.br:8000/uberaba
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aeroporto-internacional-do-recife-sbrf-aproximacao-627504-logo.jpg",Radio Aeroporto Internacional do Recife SBRF Aproximação
+http://lhr.liveatc.net/sbrf_12960
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aeroporto-internacional-do-recife-sbrf-torre-627509-logo.jpg",Radio Aeroporto Internacional do Recife SBRF Torre
+http://s1.ord.liveatc.net/sbrf_11835
+#EXTINF:-1 tv-logo="",Radio Chippewa Valley Regional Airport
+http://relay.radioreference.com:80/300675297
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/socal-air-traffic-586698-logo.jpg",Radio SoCal Air Traffic
+http://relay.radioreference.com:80/553132957
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dca-airport-tower-gnd-app-and-dep-586098-logo.jpg",Radio DCA Airport Tower, Gnd, App, and Dep
+http://relay.broadcastify.com:80/406955187

@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1,Yummy1
+https://free.rcast.net/259865
 #EXTINF:-1,Chicago Public Radio - WBEZ 91.5 FM
 https://stream.wbez.org/wbez128.mp3
 #EXTINF:-1,Minnesota Public Radio News
 https://nis.stream.publicradio.org/nis.mp3
+#EXTINF:-1,WBUR
+https://fm909.wbur.org/wbur
 #EXTINF:-1,WHYY FM
 https://whyy.streamguys1.com/whyy-mp3
 #EXTINF:-1,WFUV 90.7 FM
@@ -101,6 +105,8 @@ http://marfapr-ice.streamguys1.com/kxwt
 https://wpln.streamguys1.com/wplnam.mp3
 #EXTINF:-1,Hawaii Public Radio HPR-2 (KIPO)
 http://khpr-ice.streamguys1.com/kipo2
+#EXTINF:-1,WPSU 91.5 Penn State University - State College, PA
+http://wpsu-ice.streamguys1.com/wpsu1
 #EXTINF:-1,WPSU-HD2 &quot;Public Radio Mix&quot; Stream - State College, PA
 http://wpsu-ice.streamguys1.com/wpsu2
 #EXTINF:-1,WVIA 89.9 Scranton, PA
@@ -135,8 +141,6 @@ http://mozart.wkar.msu.edu/wkar-jazz
 https://wets-fm.streamguys1.com/live-3
 #EXTINF:-1,WKAR Classical - East Lansing, MI
 http://mozart.wkar.msu.edu/wkar-classical
-#EXTINF:-1,KSMU-HD2 &quot;Jazzworks&quot; Ozarks Public Radio - Springfield, MO
-http://ksmu.streamguys1.com/ksmu4
 #EXTINF:-1,WUFT News
 https://ais-sa1.streamon.fm/7647_48k.aac/playlist.m3u8?listenerId=d022961cd3f2d326b3099ffd4020559b&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1583551216
 #EXTINF:-1,KCFR 90.1 Colorado Public Radio - News  - Denver, CO  MP3
@@ -167,12 +171,12 @@ https://wpr-ice.streamguys1.com/wpr-music-mp3-96
 http://war.str3am.com:8080/krbd
 #EXTINF:-1,KUAZ 89.1 &quot;Arizona Public Media&quot; Tucson, AZ
 http://streaming.azpm.org/kuaz192.mp3
+#EXTINF:-1,WMRA 90.7 Harrisonburg, VA
+http://audio-edge-qse4n.yyz.g.radiomast.io/0cdf7725-83bf-4967-b6b7-f4e9bfe702ad
 #EXTINF:-1,WDIY 88.1 Allentown, PA
 http://war.str3am.com:7880/wdiy_7880
 #EXTINF:-1,KQED 88.5 San Francisco, CA
 http://streams.kqed.org/kqedradio.m3u
-#EXTINF:-1,WVPS Vermont Public Radio Replay Stream - Burlington, VT
-http://vprmix.streamguys.net/vprmix64.mp3
 #EXTINF:-1,WNYC-FM 93.9 New York Public Radio
 https://fm939.wnyc.org/wnycfm
 #EXTINF:-1,FluxFM - Ferienprogramm
@@ -183,3 +187,5 @@ https://utulsa.streamguys1.com/KWGSHD3-AAC
 http://wlrh.streamguys1.com:80/classical
 #EXTINF:-1,WSIU 91.9 Carbondale, IL
 http://peridot.streamguys.com:5230/wsiu-hd1
+#EXTINF:-1,WMRA - WMRY 103.5 FM
+http://audio-edge-n9hx8.yul.o.radiomast.io/0cdf7725-83bf-4967-b6b7-f4e9bfe702ad

@@ -851,16 +851,12 @@ http://listen.shoutcast.com/radiotiemenisiantou
 http://listen.shoutcast.com/ciavitoradio
 #EXTINF:-1,Beatles Radio
 http://www.beatlesradio.com:8000/steam/2
-#EXTINF:-1,Радио Рекорд - Breaks
-https:/http:/adiorecord.hostingradio.ru/brks96.aacp
 #EXTINF:-1,Sputnik Radio Ru
 http://31.134.186.227:8000http:/adio.mp3
 #EXTINF:-1,DFM The Prodigy
 https://dfm-prodigy.hostingradio.ru/prodigy96.aacp
 #EXTINF:-1,101.ru - Breakbeat
 https://pub0202.101.ru:8443/stream/pro/aac/64/4
-#EXTINF:-1,DFM Breakbeat
-http:/http:/adio.drums.ro:8000/;
 #EXTINF:-1,Rinse FM
 https://streamer-uk.rinse.fm:8443/stream
 #EXTINF:-1,Renegade Radio
@@ -903,8 +899,6 @@ http://misato.ru-hoster.com:8061/badbeatradio
 http://icecast.dropthebass.ru:8000/stream
 #EXTINF:-1,Partyvibe - Dubstep
 https://www.partyvibe.com:8067/;listen.pls?sid=1
-#EXTINF:-1,Egregore Radio
-https:/http:/adio.egrego.rehttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,EMP
 http://emp.cx:8192/
 #EXTINF:-1,NSB
@@ -917,5 +911,129 @@ https://leproradio.com/stream.aac
 https://c30.radioboss.fm:18643/stream
 #EXTINF:-1,Florida Breakbeats – FadeFM Radio
 https://ec2.yesstreaming.net:2375/stream
-#EXTINF:-1,Eruption Radio - 192 - The United Kingdom Of Great Britain And Northern Ireland - breakbeat - drum and bass - happy hardcore - house
-#EXTINF:-1,https://truskoolbreakz.com/now-playing/ - 320 - Canada - bass - breakbeats - breaks - drum'n'bass - electro
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/104876.v14.png",Mundo Break 
+https://streaming01.radiosenlinea.com.ar:10880/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/83604.v20.png",Frien Fm 
+https://stream.zeno.fm/lcoiamxfrdotv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/65636.v22.png",Rádio Club da Massa 
+https://stream2.svrdedicado.org/8300/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/W7KTY8.png",B-Boy Breakdance Freestyle Electronic Radio
+http://195.154.167.62:9900/stream.43gf
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TXL0TQ.png",Freestyle Galaxy N More
+http://s5.myradiostream.com:39344/stream?_=1447980552
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4UVE3Y.png",Graal Radio Space
+https://graalradio.com/playspace
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XOR9A.png",Lil Brown Bag of Rhythms 
+http://108.163.245.230:9227/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EZHFG.png",Party Vibe Radio - Drum'n'Bass | Jungle | Breakbea
+https://www.partyviberadio.com:8069/listen.pls?sid=1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8IP8X6.png",Party Vibe Radio - Dubstep | Breakbeat | Hip Hop
+http://94.130.242.5:8040/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GTDRZX.png",PoingFM - Renegade Radio
+https://mscp3.live-streams.nl:8162/radio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7622AW.png",Promo DJ - TOP 100
+https://radio.promodj.com/top100-192
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CRR44L.png",Reach FM
+http://51.255.69.2:8076/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XAXPHZ.png",Интернет-радио - ATD
+http://listen.radiogora.ru:8000/atd320
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EOL89X.png",Интернет-радио - Et Cetera
+http://listen.radiogora.ru:8000/etc320
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102756/180_LMjkKEytcK.png",Atmospheric Breaks Radio
+https://spn.liveradiofree.com/tmsphrcbrks-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102802/180_UJ3lySr9L9.png",Nightcore Beats Radio
+https://spn.liveradiofree.com/nghtcrbts-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/47853/logo_naSyOeOUCO.png",REWIND RADIO
+https://radio4.pro-fhi.net/live/RewindRadio
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/43714/logo_MUzyolZpPQ.png",Mundo Break Radio
+https://streaming01.radiosenlinea.com.ar:10880/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/53878/logo_Ovflqw0NRr.png",Breaks - Радио Рекорд
+https://radiorecord.hostingradio.ru/brks96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/57471/logo_xS3PxALHQ6.png",Rádio Club da Massa
+https://stream3.svrdedicado.org/8120/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44408/logo_Lnn6GOeaJ4.png",Truckers Rave Radio
+http://live.eugenijus.lt:9000/eugenijus
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38755/logo_lvvn6za6id.png",Drums.ro Radio
+http://radio.drums.ro:8000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102924/logo_DcW185llFx.png",Aplus.FM BEAT Radio
+http://shoutcast.aplus.fm:9000/aplus_beat_128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/49094/logo_96ObduKE79.png",Sluhai Radio
+https://streams.radio.co/s0d4b9dea0/listen
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/76877/logo_KgmaJLpXQ4.png",Radio Ultra Dance
+https://rr5100.globalhost1.com/8376/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53878/logo_t7noEbEpDm.jpg?v=20260529-media-restore",Breaks Record
+https://radiorecord.hostingradio.ru/brks96.aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004740/logo_i09fYA8Kxl.jpg?v=20260529-media-restore",BadBeatRadio
+https://misato.ru-hoster.com:8061/badbeatradio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004237/logo_wIoJswsqWZ.jpg?v=20260529-media-restore",Atm.Fm
+https://5.restream.one/729_1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53933/logo_r6DRX7f1M5.jpg?v=20260529-media-restore",Jungle Record
+https://radiorecord.hostingradio.ru/jungle96.aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53915/logo_In8Vm9ohl2.jpg?v=20260529-media-restore",Darkside Record
+https://radiorecord.hostingradio.ru/darkside96.aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66378/logo_UZHkYla5gp.jpg?v=20260529-media-restore",DFM Breakbeat
+https://hls-01-dfm.hostingradio.ru/breakbeat/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53916/logo_TQsRfHIjsa.jpg?v=20260529-media-restore",Rave FM Record
+https://radiorecord.hostingradio.ru/rave96.aacp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004347/logo_0IFoIWUYqW.jpg?v=20260529-media-restore",Party Vibe DnB - Jungle
+https://www.partyviberadio.com:8061/;listen.pls?sid=1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004428/logo_klzp85RbNu.jpg?v=20260529-media-restore",Old-School Promo DJ
+https://radio.promodj.com/oldschool-192
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103663/logo_lL8BOYmwig.jpg?v=20260529-media-restore",Lady Waks Record
+https://hls-01-radiorecord.hostingradio.ru/record-ladywaks/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005672/logo_w1eUlO2eZf.jpg?v=20260529-media-restore",Dance Station Radio
+https://listen4.myradio24.com/97045
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102756/logo_fQw9aWragc.jpg?v=20260529-media-restore",Atmospheric Breaks
+https://tower.hayva.ru/5jwuo-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007125/logo_8PoDoQUPnL.jpg?v=20260529-media-restore",BreakcoreZip
+https://breakcorezip.ru/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102924/logo_T2lmYoSUCc.jpg?v=20260529-media-restore",Aplus.FM BEAT
+https://shoutcast.aplus.fm/aplus_beat_128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004970/logo_kcuYd0vTM3.jpg?v=20260529-media-restore",Breakcore Radio Caprice
+http://79.111.119.111:8002/breakcore
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38755/logo_QC53egURtO.jpg?v=20260529-media-restore",Drums.ro Radio
+http://radio.drums.ro:8000/;stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44386/logo_ktEY2bVbvG.jpg?v=20260529-media-restore",Leproradio
+https://live.leproradio.com/bender.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000023/logo_l02m66uuqe.jpg?v=20260529-media-restore",Breakbeat Radio Caprice
+http://79.120.39.202:8002/breakbeat
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1003403/logo_OvJpaXAGLt.jpg?v=20260529-media-restore",Радио Breakbeat
+https://pub0202.101.ru:8443/stream/pro/aac/64/4
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29349/logo_QwTKjviC6u.jpg?v=20260529-media-restore",BreakZ.FM RauteMusik
+https://breakz-high.rautemusik.fm
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44408/logo_GCOOxXvH09.jpg?v=20260529-media-restore",Truckers Rave
+http://live.eugenijus.lt:9000/eugenijus
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102802/logo_o6R6nMgGit.jpg?v=20260529-media-restore",Nightcore Beats
+https://tower.hayva.ru/fixy3-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47853/logo_Qcpdf6CYVb.jpg?v=20260529-media-restore",REWIND RADIO
+https://radio4.pro-fhi.net/live/RewindRadio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96919/logo_jpboxcno7B.jpg?v=20260529-media-restore",Club Liquide Radio
+https://cast4.my-control-panel.com/proxy/andrew18/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004346/logo_h2S2w3GTBy.jpg?v=20260529-media-restore",Party Vibe - Rap
+https://www.partyvibe.com:8063/;listen.pls?sid=1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51627/logo_nYdDedRanA.jpg?v=20260529-media-restore",24/7 EDM Radio
+https://ec6.yesstreaming.net:1455/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1001865/logo_QY85OaUQfj.jpg?v=20260529-media-restore",Decibelia FM
+https://streaming.shoutcast.com/decibelia
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/57471/logo_QCZwUsfKCx.jpg?v=20260529-media-restore",Rádio Club da Massa
+https://stream3.svrdedicado.org/8120/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47584/logo_Gc6uaY76Gr.jpg?v=20260529-media-restore",Radio Krimi
+https://radio13.pro-fhi.net/flux-nwsimjda2/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103953/logo_Hu5GLZj985.jpg?v=20260529-media-restore",Scratch Vision Radio
+https://andromeda.housejunkie.ca/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50745/logo_tJnMf98Snc.jpg?v=20260529-media-restore",BillFM
+https://visual.shoutca.st:8122/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/64440/logo_eGaBF6u67p.jpg?v=20260529-media-restore",RadioNos Fitness & Workout Channel
+https://nos.radio.br/stream/13/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43714/logo_ahjLC7Z99g.jpg?v=20260529-media-restore",Mundo Break
+https://streaming01.radiosenlinea.com.ar:10880/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76877/logo_oGQZU7ZBrI.jpg?v=20260529-media-restore",Radio Ultra Dance
+https://rr5100.globalhost1.com/8376/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/drumsro-radio-181066-logo.jpg",Drums.ro Radio
+http://radio.drums.ro:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-club-da-massa-593728-logo.jpg",Radio Rádio Club da Massa
+https://stream.zeno.fm/bjini2ew754uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-emp-radio-logo.jpg",EMP Radio
+http://emp.cx:8192/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-gira-magica-retro-music-logo.jpg",Radio Gira Mágica Retro Music
+http://51.79.51.128:3101/;stream.nsv

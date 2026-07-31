@@ -159,3 +159,11 @@ https://ssl.radyopanel.com:7004/:/stream.mp3
 https://canli.arabeskinmerkezi.com:9180/listen.pls
 #EXTINF:-1,S1lhoutte Arabesk FM - 128 - Türkiye - arabesk
 https://yayin.radyoarabesk.com.tr:8000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/103200/logo_rYBlHHt1ov.png",Genç Türk FM Radio
+https://stream.zeno.fm/0mhfv2bgkf9uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103200/logo_URyyvMeOzm.jpg?v=20260529-media-restore",Genç Türk FM
+https://stream.zeno.fm/0mhfv2bgkf9uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008156/logo_eIe2xOlYum.jpg?v=20260529-media-restore",Arabesque FM
+http://185.4.87.79:8000/stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000012/logo_ZQFr0G9uGU.jpg?v=20260529-media-restore",İstanbul FM Fantezi
+https://yayin.istanbulfm.com.tr/istanbulfm/fantezi/playlist.m3u8

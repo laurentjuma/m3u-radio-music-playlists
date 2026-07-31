@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Psybient Sunset on MixLive.ie
-http://2.58.194.54:8876/stream
 #EXTINF:-1,RockRadio (MRG.fm)
 http://62.149.196.16:8080/stream
 #EXTINF:-1,neurotrancemitter
@@ -11,8 +9,6 @@ http://chillout-area.stream.laut.fm/chillout-area
 http://bluestarradio.stream.laut.fm/bluestarradio
 #EXTINF:-1,lovebasefm
 http://lovebasefm.stream.laut.fm/lovebasefm
-#EXTINF:-1,psychedelic goa trance pro darkspy
-http://psychedelic_goa_trance_pro_darkspy.stream.laut.fm/psychedelic_goa_trance_pro_darkspy
 #EXTINF:-1,zorba
 http://zorba.stream.laut.fm/zorba
 #EXTINF:-1,classic progrock fm
@@ -37,12 +33,8 @@ http://ghostdog.stream.laut.fm/ghostdog
 http://radio-laika.stream.laut.fm/radio-laika
 #EXTINF:-1,oldinn resort
 http://oldinn-resort.stream.laut.fm/oldinn-resort
-#EXTINF:-1,nummer 1 oldies
-http://nummer_1_oldies.stream.laut.fm/nummer_1_oldies
 #EXTINF:-1,freakshow
 http://freakshow.stream.laut.fm/freakshow
-#EXTINF:-1,beatz of electronic
-http://beatz_of_electronic.stream.laut.fm/beatz_of_electronic
 #EXTINF:-1,radio chartsfm
 http://radio-chartsfm.stream.laut.fm/radio-chartsfm
 #EXTINF:-1,musikzirkus
@@ -57,12 +49,8 @@ http://krennerland.stream.laut.fm/krennerland
 http://synthaulos-radio.stream.laut.fm/synthaulos-radio
 #EXTINF:-1,klangrebellion
 http://klangrebellion.stream.laut.fm/klangrebellion
-#EXTINF:-1,eventarena hells gate
-http://eventarena-hells_gate.stream.laut.fm/eventarena-hells_gate
 #EXTINF:-1,club backnang
 http://club-backnang.stream.laut.fm/club-backnang
-#EXTINF:-1,netlabel org
-http://netlabel_org.stream.laut.fm/netlabel_org
 #EXTINF:-1,stone prog
 http://stone-prog.stream.laut.fm/stone-prog
 #EXTINF:-1,massregelvollzugsklinik
@@ -89,8 +77,6 @@ http://freeqradio.stream.laut.fm/freeqradio
 http://jesus-alternative-plattenkiste.stream.laut.fm/jesus-alternative-plattenkiste
 #EXTINF:-1,moshhead gothic
 http://moshhead-gothic.stream.laut.fm/moshhead-gothic
-#EXTINF:-1,shamanic tunes
-http://shamanic_tunes.stream.laut.fm/shamanic_tunes
 #EXTINF:-1,bestof1969
 http://bestof1969.stream.laut.fm/bestof1969
 #EXTINF:-1,globalbeatz
@@ -117,24 +103,32 @@ http://streamer.psyradio.org:8040/listen.mp3
 http://hirschmilch.de:7000/chillout.mp3
 #EXTINF:-1,88 Cores Radio 2
 http://96.230.123.74:80/default.m4a
+#EXTINF:-1,PsyBraziL Entertainment Radio
+http://186.236.237.155:8000/
 #EXTINF:-1,Psyland Radio
 https://sp.streams.ovh/8020/stream
-#EXTINF:-1,Babaganousha Radio
-http://188.68.42.236:8000/psytrance
+#EXTINF:-1,Radio Eigekai
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,Technicolor Web of Sound - 60s Psychedelic Rock
+https://free.rcast.net/261434
+#EXTINF:-1,PARTY VIBE RADIO : PSYCHEDELIC TRANCE + PROGRESSIVE + GOA
+https://free.rcast.net/249701
+#EXTINF:-1,SONGCAST RADIO - Alternative
+https://free.rcast.net/247478
+#EXTINF:-1,Psychedelic Jukebox
+https://stream4.rcast.net/69989
 #EXTINF:-1,DFM Psy Trance
 https://dfm-psytrance.hostingradio.ru/psytrance96.aacp
 #EXTINF:-1,DFM Armin Van Buuren
 https://dfm-avburren.hostingradio.ru/avburren96.aacp
 #EXTINF:-1,RadiOzora - Trance
 https://trance.out.airtime.pro/trance_a
-#EXTINF:-1,1.FM - Ambient Psychill
-https://strmreg.1.fm/ambientpsy_mobile_mp3
-#EXTINF:-1,1.FM - BOM Psytrance Radio
-https://strmreg.1.fm/psytrance_mobile_mp3
 #EXTINF:-1,Psytrancelicious
 https://psytrancelicious.stream.laut.fm/psytrancelicious?t302=2023-04-25_19-30-18&uuid=0e18481b-2411-43c4-81ec-acf5fe996b43
 #EXTINF:-1,Krautrock World
 https://krautrockworld.stream.laut.fm/krautrockworld
+#EXTINF:-1,Joint Radio Beat
+https://betelgeuse.nucast.co.uk/stream/jrn-beat
 #EXTINF:-1,Doubleclap Radio
 https://s3.radio.co/scfd7273b2/listen
 #EXTINF:-1,Viking
@@ -149,30 +143,26 @@ https://goanight.stream.laut.fm/goanight
 https://kukuruz.stream.laut.fm/kukuruz
 #EXTINF:-1,Interferencia
 https://s2.mexside.net/8022/stream
-#EXTINF:-1,Downtuned Radio
-http://195.242.237.14:8020/stream
 #EXTINF:-1,Aircooled
 https://aircooled.stream.laut.fm/aircooled?t302=2023-04-25_19-39-42&uuid=c47350eb-81b6-49f3-92d6-8913c2491d4e
 #EXTINF:-1,HEADY
 https://c22.radioboss.fm:18364/stream
 #EXTINF:-1,Globalstar 3
 http://67.225.254.37:2146/;
-#EXTINF:-1,Globalstar 5
-http://67.225.254.37:3333/;
 #EXTINF:-1,SomaFM Metal Detector (128k AAC)
 https://ice2.somafm.com/metal-128-aac
 #EXTINF:-1,psy
 http://streamer.psyradio.org:8020/;
+#EXTINF:-1,All about that music
+http://88.198.10.229:9500/stream
 #EXTINF:-1,RadiOzora Chill
 http://chill.out.airtime.pro:8000/chill_a
+#EXTINF:-1,Technolovers - PSYTRANCE
+https://0nlineradio.stream13.radiohost.de/technolovers-psytrance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTI2NzM0JmQ9MDE1Nzc5NGY2YmIzNmRlYTQ0NTU
 #EXTINF:-1,psyradio * fm - progressive
 http://streamer.psyradio.org:8010/;listen.mp3
-#EXTINF:-1,Sunshine Live - Psytrance
-http://sunsl.streamabc.net/sunsl-christmas-mp3-192-7547837
 #EXTINF:-1,laut.fm - Shamanic Tunes
 http://shamanictunes.stream.laut.fm/shamanic_tunes?t302=2023-04-25_19-36-37&uuid=b5bb2ae5-85cf-4276-b10c-1e42cbb5878b
-#EXTINF:-1,Radio Babaganousha Psytrance
-http://188.68.42.236:8000/listen.mp3
 #EXTINF:-1,Toksyna FM PsyTrance
 http://s01.toksyna.fm:8030/;
 #EXTINF:-1,Hirschmilch Radio Psytrance
@@ -180,7 +170,7 @@ https://hirschmilch.de:7001/psytrance.mp3
 #EXTINF:-1,Radio Free Americana [64kbps AAC+]
 http://janus.cdnstream.com:5140/live
 #EXTINF:-1,Memory Lane | NTS
-https://stream-mixtape-geo.ntslive.net/mixtape6
+https://audio-edge-vqwx4.yyz.g.radiomast.io/fb8322d8-5791-4170-ace3-a85ffc51eb8b
 #EXTINF:-1,Stone Prog
 http://stone-prog.stream.laut.fm/stone-prog?t302=2023-04-25_19-39-35&uuid=8e0bb55e-f432-466b-906e-6852cd119354
 #EXTINF:-1,MDR Sputnik Insomnia
@@ -203,3 +193,6 @@ https://freakquency.stream.laut.fm/freakquency?pl=pls&t302=2023-05-09_22-09-12&u
 http://streamer.psyradio.org:8030/;listen.mp3
 #EXTINF:-1,Radio progRock
 https://pavo.prostreaming.net:8012/stream
+#EXTINF:-1,Club Backnang
+https://club-backnang.stream.laut.fm/club-backnang?t302=2026-06-08_13-47-18&uuid=43ff40ab-ce88-4cbc-9962-4c8d58f5e77f
+#EXTINF:-1,Psyland Web Radio

@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1,Radio Zaracay
-http://51.15.160.78:8709/stream
-#EXTINF:-1,Antena 3
-https://streamingecuador.net:9368/radioantena3
+#EXTINF:-1,ExaFM Ecuador
+https://27353.live.streamtheworld.com/ECUADOR_SC
 #EXTINF:-1,La Tukka
 http://grupomundodigital.com:8673/stream
 #EXTINF:-1,Radio Quito 760 AM
 https://streamingecuador.net:8332/radioquito
 #EXTINF:-1,Radio Romance
 https://streamingecuador.net:9090/stream
-#EXTINF:-1,Área Deportiva 99.3 FM
-http://radio.uncuartocomunicacion.com:8020/stream
 #EXTINF:-1,Radio Onda Positiva 94.1 FM
 https://streamingecuador.net:8011/radioondapositiva
 #EXTINF:-1,FM Mundo
@@ -19,12 +15,18 @@ https://streamingecuador.net:8066/fmmundo
 https://streamingecuador.net:8287/hcjb
 #EXTINF:-1,Radio América - Guayaquil
 https://streamingecuador.net:9101/stream
+#EXTINF:-1,BBN
+https://audio-edge-w4d68.yul.o.radiomast.io/475ebed1-595e-4717-b888-64fe8fc6b09f
+#EXTINF:-1,Radio El Tiempo
+https://mytuner-radio.com/radio/country/ecuador-stations
 #EXTINF:-1,Creart Radio
 http://stream.zeno.fm/pxeu9r4h8yzuv.m3u
 #EXTINF:-1,Radio Andina FM
 https://grupomundodigital.com:8580/stream
 #EXTINF:-1,RADIO LLUVIA 97.5 FM
 https://radiolluvia.com/HOME/
+#EXTINF:-1,OE Radio
+http://oeradio.org/
 #EXTINF:-1,Radio Inti Pacha
 https://streamingecuador.net:8333/Inti_Pacha
 #EXTINF:-1,Radio Ecualatina  Mix
@@ -33,8 +35,6 @@ https://sonic.globalstreaming.net/8118/stream
 http://streamingecuador.com:8160/Radio_Platinum
 #EXTINF:-1,Radio Fuego 106.5 FM
 https://streamingecuador.net:8005/radiofuego
-#EXTINF:-1,Radio Huancavilca
-https://streamingecuador.net:7078/stream
 #EXTINF:-1,Radio Iluman
 https://streamingecuador.net:9016/radioiluman
 #EXTINF:-1,HCJB 2 FM
@@ -45,8 +45,8 @@ https://server6.hostradios.com/8516/stream
 https://securestream.radioshd.info:7107/stream
 #EXTINF:-1,Radio Buenas Nuevas
 http://ecuamedios.net:8044/stream
-#EXTINF:-1,MIA FM
-http://streaming.hdserver.biz:9438/
+#EXTINF:-1,Radio América Estereo - Tulcán
+https://streamingecuador.net:9104/stream
 #EXTINF:-1,HCJB Kichwa
 https://streamingecuador.net:8299/hcjb
 #EXTINF:-1,Distrito FM
@@ -55,34 +55,28 @@ http://grupomundodigital.com:8577/stream
 http://grupomundodigital.com:9310/stream
 #EXTINF:-1,Radio Viva FM
 https://streamingecuador.net:8132/radioviva
-#EXTINF:-1,Bonita FM
-http://streaming.hdserver.biz:9306/
-#EXTINF:-1,Ecua Stereo Radio TV
-https://sonic.radiostreaminglatino.com:10913/
 #EXTINF:-1,LVC Radio
 http://streaming.hdserver.biz:9368/
-#EXTINF:-1,Radio Indoamerica
-https://securestream.radioshd.info:7050/stream
 #EXTINF:-1,Diario El Tiempo
 http://streaming.hdserver.biz:9472/
 #EXTINF:-1,Radio Estelar 99.3 FM
 http://grupomundodigital.com:8503/estelarhd
-#EXTINF:-1,Radio Marejada 100.9 FM
-http://streaming.hdserver.biz:9330/
 #EXTINF:-1,Aventura FM
 http://streaming.hdserver.biz:9424/
 #EXTINF:-1,Ecuazona DJs Radio
 http://streaming.hdserver.biz:9362/
 #EXTINF:-1,Impacto2 Cuenca Ecuador
 http://grupomundodigital.com:8682/stream
+#EXTINF:-1,Radio Paz Y Bien
+https://s7.myradiostream.com:59906/listen.mp3?nocache=1780938013
 #EXTINF:-1,Infantilizate Radio
 https://cloudstream2034.conectarhosting.com/8264/stream
 #EXTINF:-1,Radio Elite 99.7 FM
 https://streamingecuador.net:8135/radioelite
 #EXTINF:-1,Super Láser 104.9 FM
 http://online.radiodifusion.net:8052/
-#EXTINF:-1,STEREO SAQUISILI
-http://streaming.hdserver.biz:9326/
+#EXTINF:-1,Radio Online QuiMar
+http://mytuner-radio.com/embed/radio-online-quimar-473776
 #EXTINF:-1,Hostlive Radio
 http://sv2.globalhostlive.com:7066/
 #EXTINF:-1,Mega Music
@@ -93,16 +87,12 @@ https://streamingecuador.net:9000/radiogaviota
 http://ecuamedios.net:8177/stream
 #EXTINF:-1,Radio América Estereo - Ibarra
 https://streamingecuador.net:9103/stream
-#EXTINF:-1,Radio Colosal
-http://www.streamingecuador.net:9062/stream
 #EXTINF:-1,ILA FM
 http://167.114.131.90:5442/
 #EXTINF:-1,Radio Mágica 87.7
 http://usa10.fastcast4u.com:1680
 #EXTINF:-1,Radio Café Online
 https://server4.hostradios.com/8632/stream
-#EXTINF:-1,Radio Naval
-http://streamingecuador.net:8029/Radio_Naval
 #EXTINF:-1,KCH FM Radio
 https://streamingecuador.net:7075/stream
 #EXTINF:-1,La Muni 89.9 FM
@@ -119,8 +109,6 @@ http://usamedios.enhd.co:8766/
 https://srv.amenaradio.com.es/listen/amena-radio/stream?n=383eea35c547c9ca13a2
 #EXTINF:-1,Antena Uno 90.5
 https://dattavolt.com/8202/stream?n=6c1d8758c3722332cc9b
-#EXTINF:-1,area deportiva
-https://cast.uncuartocomunicacion.com/listen/areadeportivafm/live?n=de64fc471de91bed742d
 #EXTINF:-1,Contigo Fm
 https://panel.innovatestream.pe:10852/stream?n=0828c69d76cabbef5811
 #EXTINF:-1,Exa FM 92.5 Ecuador
@@ -149,9 +137,7 @@ http://streaming.hdserver.biz:9368/listen.pls?n=8abf37c2dc937a395ae7
 https://streamingecuador.net:8074/lavozdeltomebamba?n=5b223ddc582af193a311
 #EXTINF:-1,Los 40 Ecuador
 https://streamingecuador.com:7051/stream.m3u?n=0d5904aa2ef459aca6fb
-#EXTINF:-1,OE Radio - Ondas de Esperanza
-http://eu1.fastcast4u.com:10936/?n=28200fb6817eb1a3d195
-#EXTINF:-1,PM RADIO Quevedo 
+#EXTINF:-1,PM RADIO Quevedo
 https://as100.globalhost1.com/8010/stream?n=ae46c89a6ff6c0e3776f
 #EXTINF:-1,Radio 11Q 104.9 FM
 https://streamingecuador.net:8012/radio11q.m3u?n=ab3733406740c8abe3f0
@@ -161,15 +147,13 @@ https://cloudstream2032.conectarhosting.com/9376/?n=962a9135d465dd09f96c
 https://streamingecuador.com:7030/stream?1657848016283?n=0fb8cc26eb136bf450dc
 #EXTINF:-1,Radio Andina
 https://grupomundodigital.com:8580/stream?n=c40ca1282834dfb9e960
-#EXTINF:-1,Radio Antena 3 91.7 FM
-https://streamingecuador.net:9368/radioantena3.m3u?n=8f5ff4690bd1ee55311b
 #EXTINF:-1,Radio Aventura 107.1 FM
 http://streaming.hdserver.biz:9424/listen.pls?n=f8d640addabc75026ed5
 #EXTINF:-1,Radio Canela Pichincha
 https://canelaradio.makrodigital.com:9280/stream?n=1579612bf8716faef5d1
 #EXTINF:-1,Radio Complice Fm.
 https://dattavolt.com/8422/stream?n=d7c249b7548c0ab0255e
-#EXTINF:-1,Radio La Kariñosa 
+#EXTINF:-1,Radio La Kariñosa
 https://ecuamedios.net/8889/stream?n=a4a91d771802b7e44c62
 #EXTINF:-1,Radio La Otra - 91.3 FM
 https://laotrafm.makrodigital.com/stream/laotrafmquito?n=089d329cfaa989a728b5
@@ -181,8 +165,6 @@ http://streamingecuador.net:7000/stream?n=27561ecd717298c396bb
 http://dreamsiteradiocp4.com:8010/stream?n=8ba91640e94c0f9d4569
 #EXTINF:-1,Radio Mokawa 93.9 FM
 http://stream.hdserver.biz:9474/listen.pls?n=63c46f9717b203afd797
-#EXTINF:-1,Radio Olímpica 96.3 FM
-http://stream.hdserver.biz:9320/stream?n=1b2e103a633aee5d60ad
 #EXTINF:-1,Radio Pasion
 http://streamingecuador.net:7500/stream?n=af7e1301986ae491ece8
 #EXTINF:-1,Radio Platinum Fm
@@ -199,12 +181,8 @@ http://streamingecuador.com:8002/radiosupersol?n=f4d326a6f6c424fd6077
 https://streamingecuador.com:8002/radiosupersol?n=e36d7b807ceb2f572769
 #EXTINF:-1,Radio Tía
 http://grupomundodigital.com:9170/stream?n=dd28a76076ba1cc9f62e
-#EXTINF:-1,Radio Vigia Fm
-https://streamingecuador.com:9070/radiovigia?n=1ed160c85c22694f2d77
 #EXTINF:-1,Radio Xtrema FM
 https://s1.raudiostream.com:8004/stream?n=6ca3c663a7d7b16dfcb3
-#EXTINF:-1,Retro Music by Pelambre Records
-http://streamingecuador.net:9300/stream?n=d2923fb55ca363a5e06c
 #EXTINF:-1,RNC La Mundialista 103.3 FM AAC
 https://streamingecuador.net:7008/radiornc.m3u?n=b15d7a1e4e3b37fdc651
 #EXTINF:-1,RTP 96.5 FM

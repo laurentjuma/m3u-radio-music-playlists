@@ -55,8 +55,6 @@ http://193.42.152.215:8006
 https://s2.mexside.net:7017/;
 #EXTINF:-1,NRJ Remember That
 https://scdn.nrjaudio.fm/fr/56388/mp3_128.mp3?origine=radiobox&aw_0_1st.station=NRJ-Remember-That&cdn_path=adswizz_lbs8&adws_out_2&access_token=1ef3e5ab9d9441bda456f1fbd04a6f5d
-#EXTINF:-1,Radio Oberlausitz International
-https:/http:/adiooberlausitzinternational.stream.laut.fmhttp:/adiooberlausitzinternational?t302=2023-04-25_19-45-25&uuid=f8f08aa8-a796-45af-973b-8f41f8f49ca6
 #EXTINF:-1,Sons of Liberty
 http://superflow02.gcnlive.com/sonsOfLiberty-hi.mp3
 #EXTINF:-1,MojePolskieRadio - Historia najnowsza - Polska
@@ -89,3 +87,15 @@ http://ice08.fluidstream.net/kk history.aac
 https://blackhistory.stream.publicradio.org/blackhistory.mp3
 #EXTINF:-1,YourClassical Women's History - 128 - The United States Of America - classical - women's history
 https://womenshistory.stream.publicradio.org/womenshistory.mp3
+#EXTINF:-1 tv-logo="",Radio Diaspora
+http://82.145.43.92:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/monte-carlo-gold-collection-592760-logo.jpg",Radio Monte Carlo Gold Collection
+http://icecast.radiomontecarlo.cdnvideo.ru/st08.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/military-world-radio-588897-logo.jpg",Military World Radio
+https://stream.streamaudio.de:8443/military-world-radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dont-know-much-about-history-anniversary-edition-everything-y-593881-logo.jpg",Radio Don't Know Much about History, Anniversary Edition: Everything Y
+http://www.randomhouse.com/audio/features/tune_in/DKMA%20w%20intro.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wqer-chinese-radio-644807-logo.jpg",WQER Chinese radio
+http://livecast2.soundofhope.org:2086/Rockville
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-baiano-594653-logo.jpg",Radio Baiano
+http://centauri.shoutca.st:8786/;

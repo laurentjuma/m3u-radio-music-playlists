@@ -443,8 +443,6 @@ https://stream.exit.si/EXYU
 http://live1.radioantena.si/Antena
 #EXTINF:-1,Classic Rock Radio
 https://stream-155.zeno.fm/gvz5q869n98uv?zs=h2h9NptuTkezy8eRHzuxjg
-#EXTINF:-1,Radio NET FM
-http:/http:/eflector.radionet.si:8000/stream.ogg
 #EXTINF:-1,Radio Capris 90s Dance
 https://stream.exit.si/MEGAMIX
 #EXTINF:-1,Radio Nula 3 Beatz
@@ -487,8 +485,6 @@ https://cast4.my-control-panel.com/proxy/ekogeado/stream
 https://stream-162.zeno.fm/h07g40cx1nhvv?zs=0JpL2H89RFOo_XmpVS6FBA
 #EXTINF:-1,Radio Capris Slovenija
 https://stream.exit.si/SLO
-#EXTINF:-1,Radio Sora 
-http:/http:/adio-sora.si:8000http:/adio-sora.mp3
 #EXTINF:-1,Radio Baksuz
 https://sonic.mediacp.eu/8120/stream
 #EXTINF:-1,Radio FOX Velenje PARTY
@@ -503,8 +499,6 @@ https://stream.exit.si/SPOMINI
 http://tigr.no-ip.org:8000/noradio.mp3
 #EXTINF:-1,Radio Slatki Mali
 https://stream-150.zeno.fm/hs8y7xhucg8uv?zs=GAaBtvF8SD2c3BlYtnBlEQ
-#EXTINF:-1,Vatican News -  Slovenščina  (Slovenian)
-https:/http:/adio.vaticannews.va/stream-sl
 #EXTINF:-1,Radio Salomon Back In Time
 https://live.radio.si/SalomonBIT
 #EXTINF:-1,Hitradio center rock
@@ -515,8 +509,6 @@ http://stream2.radiocenter.si:8064/;type=mp3
 http://stream1.srvnetplus.com:8078/stream2
 #EXTINF:-1,BestFM
 https://live.radio.si/BestFM
-#EXTINF:-1,Radio Net.FN
-http:/http:/eflector.radionet.si:8000http:/adionetlive.ogg
 #EXTINF:-1,Radio HIT 
 http://stream03.exit.si:8000http:/adiohit
 #EXTINF:-1,Radio Facebook
@@ -551,3 +543,65 @@ https://stream.appradiofm.com/stream?url=http://live.radio2.si/Radio2
 https://orf-live.ors-shoutcast.at/slo-q1a
 #EXTINF:-1,BUMRADIO.LIVE
 https://cast4.my-control-panel.com/stream/ekogeado/stream.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-salomon-185174-logo.jpg",Radio Salomon
+http://195.95.158.131/Salomon
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-rtv-slovenija-radio-koper-logo.jpg",RTV Slovenija Radio Koper
+https://cdn-radio.rtvslo.si/hls/live/2035343/rakp/RTV-HLS/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-zeleni-169884-logo.jpg",Radio Zeleni
+https://jurepeterka.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-meteor-si-629515-logo.jpg",Radio METEOR - Si
+https://eu1.fastcast4u.com/proxy/radiometeor1?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mister-deejay-182302-logo.jpg",Radio Mister Deejay
+http://stream.mister-deejay.com:9008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-capris-160272-logo.jpg",Radio Capris
+https://stream.exit.si/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-student-170276-logo.jpg",Radio Študent
+https://kruljo.radiostudent.si:8001/hiq
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-prlek-172746-logo.jpg",Radio Prlek
+http://86.61.68.81:8000/;stream.nsvu0026type=mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-primorski-val-logo.jpg",Radio Primorski val
+http://live.primorskival.si:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-capris-hits-logo.jpg",Radio Capris Hits
+https://stream.exit.si/HITS
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-nula-classic-logo.jpg",Radio Nula Classic
+https://strm.radionula.com/classics
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-si-logo.jpg",Radio Si
+https://mp3.rtvslo.si/rsi
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kranj-568731-logo.jpg",Radio Kranj
+http://live.radio-kranj.si/Kranj?1471195942398.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-aktual-kum-logo.jpg",Radio Aktual Kum
+http://195.95.158.131/AktualK
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-rogla-183835-logo.jpg",Radio Rogla
+http://193.105.67.24:8010/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dur-159264-logo.jpg",Radio Dur
+https://zvok.ragla.si/gr
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-slovenc-logo.jpg",Radio Sloven'c
+https://stream.zeno.fm/9r3n5h2sf5zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-slovenec-logo.jpg",Radio Slovenec
+http://freeuk6.listen2myradio.com:29532/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-zagorje-logo.jpg",Radio Zagorje
+http://178.32.146.184:30046/stream?type=httpu0026nocache=364
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-capris-xmas-logo.jpg",Radio Capris Xmas
+https://stream.exit.si/XMAS
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-capodistria-162310-logo.jpg",Radio Capodistria
+https://mp3.rtvslo.si/capo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-classic-rock-radio-logo.jpg",Classic Rock Radio
+https://stream.zeno.fm/gvz5q869n98uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-002evergreen-radio-slo-logo.jpg",002.Evergreen Radio Slo
+http://s1.voscast.com:11286/;EVERGREENRadioSLO
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-baksuz-logo.jpg",Radio Baksuz
+https://sonic.mediacp.eu/8118/radiobaksuz
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-top-logo.jpg",Radio Top
+https://listen.radioking.com/radio/226327/stream/269866
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-fox-velenje-party-logo.jpg",Radio FOX Velenje PARTY
+https://stream.zeno.fm/02xg2h6u2ehvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-slatki-mali-logo.jpg",Radio Slatki Mali
+https://stream.zeno.fm/hs8y7xhucg8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-fox-velenje-slo-cro-logo.jpg",Radio FOX Velenje SLO CRO
+https://stream.zeno.fm/8g3m791xav8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/si-radio-fox-velenje-logo.jpg",Radio FOX Velenje
+https://stream.zeno.fm/pe5srdqekg0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-bijelo-plavi-radio-logo.jpg",Bijelo Plavi Radio
+http://s8.iqstreaming.com:8028/stream;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sk-radio-music-cz-logo.jpg",Radio Rádio Music CZ
+https://mpc1.mediacp.eu/stream/radiomusiccz2

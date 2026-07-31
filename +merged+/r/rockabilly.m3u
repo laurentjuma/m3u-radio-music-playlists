@@ -607,12 +607,8 @@ http://209.95.50.189:8038/stream/1
 http://89.40.221.213:30130/stream/1
 #EXTINF:-1,Garage71
 http://streaming.live365.com/wittywhitcomb
-#EXTINF:-1,Rockin626com
-	http://5.39.12.185:2199/tunein/stream/1ron626.pls
 #EXTINF:-1,Streamin Billy Radioavenue Com
 http://s4.total-streaming.com:9302/stream/1
-#EXTINF:-1,Chateau Le Muse
-http//:www.moon.wavestreamer.com:2958
 #EXTINF:-1,Boppers And Rockers Classic Jukebox Rock N Roll
 http://199.101.51.168:8032/stream/stream/1
 #EXTINF:-1,Povradio
@@ -685,18 +681,12 @@ https://stream.rcast.net/232181
 http://65.109.81.84:8738/stream
 #EXTINF:-1,Abdullelah radio station""
 http://listen.shoutcast.com/abdullelahradiostation--
-#EXTINF:-1,Iavq Online
-https:/http:/radio.fastserv.com/hifi
-#EXTINF:-1,Rockabilly &amp; DJ Oliver Woltmann
-https:/http:/ockabilly.stream.laut.fmhttp:/ockabilly
 #EXTINF:-1,Outlaw Country Radio
 https://usa17.fastcast4u.com/proxy/kievradio?mp=/1
 #EXTINF:-1,Shawn Nagy&#039;s Super Oldies
 http://mercury.reliastream.com:8077/;stream.nsv
 #EXTINF:-1,SuperStereo 1
 https://stream-150.zeno.fm/3njiv23vomkvv?zs=-QcmP_gHQf-R_r34LlgaSg
-#EXTINF:-1,Radio Teddyboys 1983
-https:/http:/adio-teddyboys-1983.stream.laut.fmhttp:/adio-teddyboys-1983
 #EXTINF:-1,Avatea FM
 https://listen.radioking.comhttp:/adio/569456/stream/629381
 #EXTINF:-1,Big Daddy o Radio
@@ -737,3 +727,81 @@ https://server02.srvsh.com.br:6716/stream
 http://streams.radiobob.de/bob-rockabilly/mp3-192/mediaplayer
 #EXTINF:-1,Rockabilly - Caprice - 320 - The Russian Federation - rockabilly
 http://79.111.14.76:8000/rockabilly
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LEXN.png",Radiobilly
+https://studio28.radiolize.com/radio/8210/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DUQ2B.png",SplinterWood Rock'n'Roll Radio
+http://31.3.245.162:8000/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/90416/logo_TGvJoMcWC0.png",El Rocanrosaurio Radio
+https://rocanrosaurio-mayeutica.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/26534/logo_0RLgofhY1l.png",Radio Diabolus
+https://dunkelhost.com:7800/mobil
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/47042/logo_FcFQwx5haJ.png",Atlantica Oldies Radio
+http://radios.topymedia.com:8052/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/28197/logo_l0ojSwm6gy.png",Radio Bob! BOBs Rockabilly
+https://streams.radiobob.de/bob-rockabilly/mp3-128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/96432/logo_eV3b69j01z.png",Guerrilla Radio
+https://s2.stationplaylist.com:9460/guerrilla
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/91888/logo_eobEBNhYaL.png",Racketeer Radio
+https://stream.zeno.fm/vgj9od962oitv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31821/logo_Y4Dx3Vm41H.png",Hit FM - Power49 Radio
+https://hitfm.ip-streaming.net/power49
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004181/logo_b1uHsAgMm7.jpg?v=20260529-media-restore",Rockabilly Radio
+https://rradio.fastserv.com/hifi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004853/logo_F23QjGySdD.jpg?v=20260529-media-restore",Bar Legend Radio
+https://solid24.streamupsolutions.com/proxy/nilxzqeg?mp=/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004282/logo_mGrr5SFW61.jpg?v=20260529-media-restore",Radio Diabolus
+https://dunkelhost.com:7800/mobil
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005263/logo_CAlIPhu7XP.jpg?v=20260529-media-restore",Psychobilly Radio Caprice
+http://79.111.119.111:8002/psychobilly
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004637/logo_3S2RPEkLXm.jpg?v=20260529-media-restore",Rockabilly Radio BOB!
+https://regiocast.streamabc.net/regc-radiobobrockabilly9140406-mp3-192-8598887
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96385/logo_I1MKW4YKnt.jpg?v=20260529-media-restore",Paradise Road Radio
+https://usa2.fastcast4u.com/proxy/paradiseroad?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28813/logo_INXcBl6YWw.jpg?v=20260529-media-restore",1A 60er
+https://1a-60er.radionetz.de/1a-60er.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/48969/logo_8a6zkhRUWv.jpg?v=20260529-media-restore",Coma.fm
+https://stream.radio.co/s4360dbc20/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/59954/logo_hmX4ZibJcK.jpg?v=20260529-media-restore",RebeldiaFM
+https://sv11.hdradios.net:6806/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31754/logo_tWK6jrcAeR.jpg?v=20260529-media-restore",Rockabilly & DJ Oliver Woltmann
+https://rockabilly.stream.laut.fm/rockabilly
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27769/logo_uf8GRHAatL.jpg?v=20260529-media-restore",Surf Rock Radio
+https://surf.stream.laut.fm/surf
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90416/logo_5AfmgOcOvx.jpg?v=20260529-media-restore",El Rocanrosaurio
+https://rocanrosaurio-mayeutica.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47042/logo_bREbYBwXh7.jpg?v=20260529-media-restore",Atlantica Oldies
+http://radios.topymedia.com:8052/;listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97757/logo_5Lj52JVTOG.jpg?v=20260529-media-restore",Rockin 247 Radio
+https://s4.radio.co/s0f3a44a66/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96432/logo_PfYEAtSeJu.jpg?v=20260529-media-restore",Guerrilla Radio
+https://s2.stationplaylist.com:9460/guerrilla
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88648/logo_9p3HNeSaTN.jpg?v=20260529-media-restore",Weird Sisters Radio
+http://eagle.streemlion.com:4269/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26561/logo_2Rs7octywD.jpg?v=20260529-media-restore",Backbeatradio
+https://stream.laut.fm/backbeatradio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96224/logo_1HNklRcyIq.jpg?v=20260529-media-restore",Too Much Too Soon Radio
+https://streaming.live365.com/a15209
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26983/logo_5FhmF0rS9w.jpg?v=20260529-media-restore",Boom Chicka Boom Radio
+https://boom-chicka-boom-rockabilly.stream.laut.fm/boom-chicka-boom-rockabilly
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90026/logo_0AtcVxK9gj.jpg?v=20260529-media-restore",Radio Max de Lagos
+https://stream.zeno.fm/vn59y7sdfwzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50610/logo_TSuqa62P7t.jpg?v=20260529-media-restore",MKB Independent Radio
+https://servidor40-3.brlogic.com:7218/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28909/logo_8eLzWopN34.jpg?v=20260529-media-restore",Musik4you-Radio
+https://s10.streamingcloud.online/stream/13204
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/27782/logo_q3SW0rIulJ.jpg?v=20260529-media-restore",Raus
+https://raus.stream.laut.fm/raus
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28147/logo_tDKtOvBz2v.jpg?v=20260529-media-restore",Country Road 58
+http://138.201.234.215:10238/listen1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/84913/logo_leyRkHrzvu.jpg?v=20260529-media-restore",Swell FM
+https://ny.mysonicserver.com/8018/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/59543/logo_w9r4sefJxN.jpg?v=20260529-media-restore",Lobo FM
+https://stream.zeno.fm/ubethaq89yzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31821/logo_aZgcOzQ9tc.jpg?v=20260529-media-restore",Hit FM - Power49
+https://hitfm.ip-streaming.net/power49
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-hit-fm-power49-logo.jpg",Radio Hit FM - Power49
+http://stream.hitfm.de:9050/power49aacp
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vg-ol-skool-rockabilly-radio-logo.jpg",Ol' Skool Rockabilly Radio
+http://uk16freenew.listen2myradio.com:4482/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-rocker-das-antigas-rockabilly-brazil-logo.jpg",Radio Rocker das Antigas Rockabilly Brazil
+https://server02.srvsh.com.br:6716/;stream.nsv

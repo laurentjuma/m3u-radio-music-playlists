@@ -37,8 +37,6 @@ https://s1.skyradio.com.mk/hits.mp3
 https://s2.free-shoutcast.com/stream/18058
 #EXTINF:-1,Radio Kanal 77
 https://radiocnd.mms.mk/proxy/web/stream
-#EXTINF:-1,Radio Holidej
-https:\/\/live.mkdstream.com\/listen\/radiohol\/rahol
 #EXTINF:-1,Radio Hit Macedonia
 http://radio.shoutcast.mk/8062/stream
 #EXTINF:-1,Radio Bravo Relaxing
@@ -525,10 +523,6 @@ https://15233.live.streamtheworld.com:443/AMAZING_80S_S01.mp3
 https://14843.live.streamtheworld.com:443/AMAZING_SMOOTH_AND_JAZZ_S01.mp3
 #EXTINF:-1,Amazing Chillout
 https://15233.live.streamtheworld.com:443/AMAZING_CHILLOUT_S01.mp3
-#EXTINF:-1,Radio Vmro
-http:/http:/adio.shoutcast.mk:8024/;stream.nsv
-#EXTINF:-1,Radio TIM Bitola
-http:/http:/adio.shoutcast.mk:8026/;stream.nsv
 #EXTINF:-1,Star Plus
 https://eu10.fastcast4u.com:8900/stream/4/
 #EXTINF:-1,STIL MKD NARODNA
@@ -543,12 +537,6 @@ https://eu10.fastcast4u.com:6110/stream/7/
 https://eu10.fastcast4u.com/peroradio
 #EXTINF:-1,RadioRabrovo
 https://live.mkdstream.com/listenhttp:/abrovohttp:/arab
-#EXTINF:-1,Radio HIT
-https:/http:/adio.shoutcast.mk/8062/stream
-#EXTINF:-1,Gostivarpress.mk Online Radio
-https:/http:/adio.dukahosting.com/8004/stream
-#EXTINF:-1,Super Kanal 90
-http:/http:/adio.shoutcast.mk:8038/stream
 #EXTINF:-1,TE Radio-ISLAMI
 https://stream-057.zeno.fmhttp:/884kyk1ag8uv?zs=jsoNY8sUTUKvzsHmqBcGWA
 #EXTINF:-1,TE Power
@@ -557,20 +545,14 @@ https://stream-153.zeno.fm/7vuwzdprks8uv?zs=9qEwTvP3SaWg6oeffD3W9g
 http://dreamsiteradiocp.com:8118/stream.mp3
 #EXTINF:-1,Extra Radio
 https://eu10.fastcast4u.com/extralive
-#EXTINF:-1,Radio MOST
-https:/http:/adio.dukahosting.com/8024/stream
 #EXTINF:-1,Zlatnik Radio
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=10849&type=s2&mount=1
 #EXTINF:-1,TE Radio TURKE
 https://stream-035.zeno.fm/zbh23ebqrp8uv?zs=pVAvjJ46SZW6SGnzUwakjg
 #EXTINF:-1,Mac Fm Radio Melbourne 88.0 FM &amp; 151.8 FM
 http://s33.myradiostream.com:16972/listen.mp3
-#EXTINF:-1,Радио Балон
-https:/http:/adio.shoutcast.mk:7014/;
 #EXTINF:-1,Радио Забава
 https://stream-163.zeno.fm/z8er3cqglopuv?zs=-pKZTBRuTzmbHICBINgkAQ
-#EXTINF:-1,Just Music Radio
-https:/http:/adiostream.neotel.mk/justmusicradio
 #EXTINF:-1,Lider FM
 https://liderfm.ipradio.mk/;stream.nsv
 #EXTINF:-1,UKLO FM
@@ -583,8 +565,6 @@ https://stream-034.zeno.fm/28sbm03a7f8uv?zs=L2BjYft5SbuarbB2qqmHrw
 https://kissfmradionet.radioca.st/;stream.nsv
 #EXTINF:-1,Star World Retro
 https://eu10.fastcast4u.com:8900/stream/5/
-#EXTINF:-1,Radio KISS FM
-https:/http:/adio.shoutcast.mk:7000/;
 #EXTINF:-1,Macedonia Space Radio
 https://www.radio.shoutcast.mk:8062/stream
 #EXTINF:-1,City Radio 94.7
@@ -691,3 +671,187 @@ https://stream-160.zeno.fm/z8er3cqglopuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 http://213.133.109.18:10004
 #EXTINF:-1,Vox Radio
 https://eu10.fastcast4u.com/voxradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/20904.png",Radio Mundial Am Rj
+https://fmradiohub.in/radio?url=http://stm7.srvstm.com:9836/stream.nsv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33647.png",Sky Radio
+https://fmradiohub.in/radio?url=http://s1.skyradio.com.mk:8002/?1461419091351.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33648.png",Radio Kavadarci
+https://stream-164.zeno.fm/a5ffd4skgg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhNWZmZDRza2dnMHV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5MLUZ0ci1VUzFDUmV6NUdCUzd5ZXciLCJpYXQiOjE3MjcyNDc2NzYsImV4cCI6MTcyNzI0NzczNn0.PiQ1TW-N_ZpUw5edWS6mhlBqTpYYSJVoU40KvGEkvB4
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33649.png",Antenna 5
+https://fmradiohub.in/radio?url=http://antenna5stream.neotel.mk:8000/live128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33654.png",Radio MEFF Prilep Macedonia
+https://s32.myradiostream.com:16040/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33659.png",Radio Holidej
+https://stream-157.zeno.fm/3mdkkf9hgg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzbWRra2Y5aGdnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImdDdGtRUU5fUWotU0IxVXBoX2JOZWciLCJpYXQiOjE3NTEzNjYyMjYsImV4cCI6MTc1MTM2NjI4Nn0.8WjRpmH7d0DZ6Sgqvx8YvCPAZbSKjV_l4EOmvNYIZT8
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33663.png",Radio HIT
+https://fmradiohub.in/radio?url=http://stream03.exit.si:8000/radiohit
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33665.png",Radio 5fm
+https://fmradiohub.in/radio?url=http://ca9.rcast.net:8014/stream.mp3?
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33666.png",Radio Bravo
+https://bravo-bobanex.radioca.st/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/73758523.jpg",Super Radio FM 97.0
+https://stream-33.zeno.fm/16s61zah5ehvv?zs=0LqsmzRwQ5ml0FRqum73_w&listening-from-radio-garden=1664450583
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/73444487.png",Vink Boem Radio
+https://vinkradio.com/stream/vinkboem.php
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16696127.png",vink exyu retro radio
+https://vinkradio.com/stream/exyuretro.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xk-a-radio-atv-logo.jpg",A Radio - ATV
+https://radio.itprishtina.com/aradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-vmro-logo.jpg",Radio Vmro
+https://radiovmro.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-meff-173728-logo.jpg",Radio MEFF
+https://s32.myradiostream.com:16040/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-aleksandar-makedonski-logo.jpg",Radio Aleksandar Makedonski
+https://s2.free-shoutcast.com/stream/18138;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-te-radio-islami-logo.jpg",TE Radio-ISLAMI
+https://stream.zeno.fm/r884kyk1ag8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-moe-radio-skopje-logo.jpg",Moe Radio Skopje
+https://radio.shoutcast.mk:8016/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-fokus-makedonija-logo.jpg",Radio Fokus Makedonija
+https://stream.zeno.fm/rn01x4vssnhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-spark-radio-logo.jpg",Spark Radio
+https://usa10.fastcast4u.com/sparkradio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-classic-logo.jpg",Mini Radio Classic
+https://stream.zeno.fm/rz7hvk1nhy8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-mix-logo.jpg",Mini Radio Mix
+https://stream.zeno.fm/a5r22sr6wg0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-80-hits-logo.jpg",Mini Radio 80 hits
+https://stream.zeno.fm/18g6spdcwreuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-mediterranean-logo.jpg",Mini Radio Mediterranean
+https://stream.zeno.fm/16p8b79ukrhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-te-radio-turke-logo.jpg",TE Radio TURKE
+https://stream.zeno.fm/zbh23ebqrp8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-antenna-web-skopje-logo.jpg",Radio Antenna Web Skopje
+https://tinyurl.com/Antenna-Web-Skopje
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-baby-logo.jpg",Mini Radio Baby
+https://stream.zeno.fm/kgqhdxhxfm8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-pioneer-station-logo.jpg",Radio Pioneer Station
+https://stream.zeno.fm/1k36xm4xpkeuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-jazz-logo.jpg",Mini Radio Jazz
+https://stream.zeno.fm/7ep9e8h15rquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-hits-logo.jpg",Mini Radio Hits
+https://stream.zeno.fm/avguz2a3hrquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-rock-and-roll-logo.jpg",Mini Radio Rock & Roll
+https://stream.zeno.fm/8bg3r5175rquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-folk-logo.jpg",Mini Radio Folk
+https://stream.zeno.fm/tbadf7557reuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-70-hits-logo.jpg",Mini Radio 70 hits
+https://stream.zeno.fm/43p4vuxnbc9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-fitness-logo.jpg",Mini Radio Fitness
+https://stream.zeno.fm/gc04ctnq8k8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-club-logo.jpg",Mini Radio Club
+https://stream.zeno.fm/4mc4272cxf9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-logo.jpg",Mini Radio
+https://stream.zeno.fm/53qk63dhtkeuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-meana-logo.jpg",Mini Radio Meana
+https://stream.zeno.fm/stqprpr0b0quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-cafe-logo.jpg",Mini Radio Cafe
+https://stream.zeno.fm/waf2myapyxquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-ballades-logo.jpg",Mini Radio Ballades
+https://stream.zeno.fm/rkkeuymfxzzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-orthodoh-logo.jpg",Mini Radio Orthodoh
+https://stream.zeno.fm/p1a6cfhx8rquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-90-hits-logo.jpg",Mini Radio 90 hits
+https://stream.zeno.fm/x3xf34hz6rquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio22-logo.jpg",radio22
+https://radio.server14.kariha.net:8008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-biser-radio-orovnik-logo.jpg",Biser Radio Orovnik
+https://biserradioohrid.radioca.st/stream?type=httpu0026amp;nocache=1573
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-stil-mkd-narodna-logo.jpg",Radio STIL MKD NARODNA
+https://stilradio.com/stream/stilmkdnarodna.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kavadarci-647304-logo.jpg",Radio Kavadarci
+https://stream.zeno.fm/a5ffd4skgg0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-tim-bitola-logo.jpg",Radio TIM Bitola
+http://hydra.shoutca.st:8108/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-975-dance-hits-logo.jpg",Radio 97.5 Dance Hits
+https://streaming.live365.com/a50365
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-105-bombarder-161051-logo.jpg",Radio 105 Bombarder
+https://radio105bombarder.com:21010/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/city-radio-179716-logo.jpg",City Radio
+http://176.9.117.123:9998/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fortuna-157501-logo.jpg",Radio Fortuna
+https://radiofortuna.ipradio.mk/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amazing-chillout-598741-logo.jpg",Radio Amazing Chillout
+https://stream.amazingradios.com/chillout
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amazing-80s-598681-logo.jpg",Radio Amazing 80s
+https://stream.amazingradios.com/80s
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-amazing-blues-logo.jpg",Radio Amazing Blues
+https://stream.amazingradios.com/blues
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lav-179377-logo.jpg",Radio Lav
+http://ss1.mk.checast.com:21080/live?1461570084999.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-akord-logo.jpg",Radio Akord
+http://radioakord.dyndns.org:8000/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-capitol-fm-logo.jpg",Radio Capitol FM
+http://89.205.127.244:8002/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kanal-77-641749-logo.jpg",Radio Kanal 77
+https://radiocnd.mms.mk/proxy/offnet/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-ekspres-radio-logo.jpg",Ekspres Radio
+http://ekspresradio.dyndns.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-5-coki-logo.jpg",Radio 5 Coki
+http://213.135.172.118:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-holidej-logo.jpg",Radio Holidej
+https://live.mkdstream.com/listen/radiohol/rahol
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-sportsko-logo.jpg",Radio Sportsko
+https://streaming.zemi.mk:8080/1;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-mof-logo.jpg",Radio MOF
+https://stream.radiojar.com/8e4wzvre1d0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-te-radio-logo.jpg",TE Radio
+https://stream.zeno.fm/28sbm03a7f8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-antoris-radio-logo.jpg",Antoris Radio
+http://82.214.116.181:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-star-radio-world-hits-logo.jpg",Star Radio (World Hits)
+https://radiostar.pro/stream/worldretro.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-monkey-radio-logo.jpg",Monkey radio
+http://78.129.139.48:8831/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-te-power-logo.jpg",Radio TE Power
+https://stream.zeno.fm/7vuwzdprks8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-car-logo.jpg",Mini Radio Car
+https://stream.zeno.fm/yw2nkyn9p98uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-balkan-n1-macedonia-logo.jpg",Radio Balkan N1 Macedonia
+https://eu10.fastcast4u.com:7100/stream/2/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-002evergreen-radio-mak-logo.jpg",002.Evergreen Radio Mak
+http://s1.voscast.com:11286/;EVERGREENRadioMAK
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-balkanski-raj-radio-logo.jpg",Balkanski Raj Radio
+https://freeuk29.listen2myradio.com/live.mp3?typeportmount=s1_39167_stream_79167712;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-bezisten-logo.jpg",Radio Bezisten
+https://s47.myradiostream.com/16658/;?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-fresh-logo.jpg",Radio Fresh
+https://cast.balkanfreshdns.xyz/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-planeta-radio-makedonija-logo.jpg",Planeta Radio Makedonija
+https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17u0026port=10933u0026type=s1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-gostivarpressmk-online-radio-logo.jpg",Gostivarpress.mk Online Radio
+https://radio.dukahosting.com/8004/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-mini-radio-rock-logo.jpg",Mini Radio Rock
+https://stream.zeno.fm/qhfhfrny6rquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-kumanovo-makedonija-logo.jpg",Radio Радио Куманово Македонија
+http://167.86.80.34:8888//live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-joker-live-logo.jpg",Radio Joker Live
+https://audio.asuradns.com/radio/8020/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-mix-logo.jpg",Radio Mix
+https://s11.ssl-stream.com/ssl/radiomix?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-super-kanal-90-logo.jpg",Radio Super Kanal 90
+https://radio.shoutcast.mk:8038/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-kiss-fm-logo.jpg",Radio KISS FM
+https://radio.shoutcast.mk/8014/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-bt-bitolska-muzika-logo.jpg",Radio БT - Битолска  Музика
+http://37.59.41.148:18716/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-bikers-garage-radio-logo.jpg",Bikers Garage Radio
+https://i9.streams.ovh/sc/bikersgarageradio/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-balon-logo.jpg",Radio Радио Балон
+https://radio.shoutcast.mk:7014/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-balkan-music-macedonia-logo.jpg",Radio Balkan Music (Macedonia)
+https://www.radiobalkanmusic.com/rbm/radioMACEDONIA.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-s-plus-mk-logo.jpg",Radio S Plus .mk
+http://109.169.23.124:9580/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-s-mk-logo.jpg",Radio S .mk
+http://109.169.23.17:11081/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-life-radio-logo.jpg",Life Radio
+http://liferadio.ddns.net:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-stil-exyu-retro-logo.jpg",Radio STIL EXYU RETRO
+https://eu4.fastcast4u.com/proxy/stilradiomk?mp=/stream/6/?ver=20741
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-favor-radio-north-macedonia-logo.jpg",Favor Radio (North Macedonia)
+https://a10.asurahosting.com:7660/macedonia.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-srce-makedonija-logo.jpg",Radio Srce Makedonija
+https://radio.radiosrce.info:8000/;?type=httpu0026nocache=1701073993
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-oro-radio-logo.jpg",Oro Radio
+http://freeuk27.listen2myradio.com:28773/;

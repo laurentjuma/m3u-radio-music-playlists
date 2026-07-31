@@ -321,3 +321,67 @@ https://s4.myradiostream.com:12266/stream/1
 https://Stream.zeno.fm/03znzm7157zuv
 #EXTINF:-1,Radio Bimshire
 https://listen.radioking.com/radio/635914/stream/700051
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Faith FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/FAMILYRADIO_WEST_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4HQIUO.png",Hitz FM 103.7
+https://sc1.carihost.com:2000/stream/Magic1037?DIST=Streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0XUK1K.png",One Worldwide Radio
+https://www.radioking.com/play/oneworldwideradio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/181JSJ.png",Radio Agrofest
+https://listen.radioking.com/radio/562442/stream/622121
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86715/logo_HeFSCwtHCx.png",One Worldwide Radio
+https://listen.radioking.com/radio/316403/stream/363812
+#EXTINF:-1,VOB 92.9 FM 
+https://ice66.securenetsystems.net:80/VOB929
+#EXTINF:-1,Slam 101.1 
+http://usa4.fastcast4u.com:5006/stream
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Capital Media HD 99.3 FM - Barbados - Holetown
+https://15113.live.streamtheworld.com:443/SAM08AAC084.mp3
+#EXTINF:-1,CBC Q100.7 FM - Barbados - Bridgetown
+https://ssl.surfmusic.de/s.php?s=http://108.178.16.190:8000/1007fm.mp3
+#EXTINF:-1,Cita FM 90.1 - Barbados - Bridgetown
+https://lyvestream.net/proxy/cita?mp=/stream
+#EXTINF:-1,Hott FM 95.3 - Barbados - Bridgetown
+https://ice64.securenetsystems.net/HOTT953
+#EXTINF:-1,Life 97.5 - Barbados - Bridgetown
+https://ice64.securenetsystems.net/LIFE975
+#EXTINF:-1,Mix 96.9 FM - Barbados - Oistins
+https://a4.asurahosting.com:6900/radio.mp3
+#EXTINF:-1,One Worldwide Radio - Barbados - Saint James
+https://listen.radioking.com/radio/316403/stream/363812
+#EXTINF:-1,Radio Bimshire - Barbados - Bridgetown
+https://listen.radioking.com/radio/635914/stream/698698
+#EXTINF:-1,The Beat 104.1 - Barbados - Bridgetown
+https://ice66.securenetsystems.net/THEBEAT1041
+#EXTINF:-1,UK246.com - Barbados - Bridgetown
+https://streams.radio.co/scff803137/listen
+#EXTINF:-1,Voice of Barbados FM 92.9 - Barbados - Bridgetown
+https://ice66.securenetsystems.net/VOB929
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/one-fm-157855-logo.jpg",Radio The One FM
+http://s7.viastreaming.net:8415/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-c2-project-radio-586035-logo.jpg",The C2 Project Radio
+http://173.192.70.138:8510/;
+#EXTINF:-1 tv-logo="",BLP Radio
+http://edge.mixlr.com/channel/dixwb
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/capital-media-hd-993-640242-logo.jpg",Radio Capital Media HD 99.3
+http://samcloud.spacial.com/api/listen?sid=72458u0026m=sc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/y1033-fm-603518-logo.jpg",Radio Y103.3 FM
+http://usa4.fastcast4u.com:5336/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/slam-1011-156517-logo.jpg",Radio Slam 101.1
+http://usa4.fastcast4u.com:5006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-beat-104-580669-logo.jpg",Radio The Beat 104
+http://icy2.abacast.com/starcom-loveaac-32?source=TuneIn
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cita-radio-592232-logo.jpg",CITA Radio
+http://192.99.8.192:5016/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xclusive-one-drop-625448-logo.jpg",Radio Xclusive One Drop
+http://xclusivemain.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/1fmme-589948-logo.jpg",Radio 1FM.ME
+https://serv.1fm.me/proxy/1fm?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hott-953-fm-578869-logo.jpg",Radio HOTT 95.3 FM
+http://icy2.abacast.com:80/starcom-hottmp3-32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vob-929fm-569657-logo.jpg",Radio VOB 92.9FM
+http://icy2.abacast.com/starcom-vobaac-32?source=TuneIn
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-969-172482-logo.jpg",Radio Mix 96.9
+http://listen.shoutcast.com/MIX969FM-NEW-

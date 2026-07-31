@@ -23,3 +23,9 @@ https://server6.globalhostla.com:8042/stream
 https://streamer.eagrpservices.com/audio/chadafm.mp3
 #EXTINF:-1,Radio Mia 105.7FM radio
 http://streaming3.globalhostla.com:8042/stream.nsv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79902/logo_1qB6uYWaUP.png",Antenna Web El Aaiún Radio
+https://tinyurl.com/AntennaWebEl-Aaiun
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pimienta-638426-logo.jpg",Radio Pimienta
+http://cervera.eldialdigital.com:8064/stream/3/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eh-chada-fm-logo.jpg",Radio Chada FM
+https://edge16.vedge.infomaniak.com/livecast/ik:chadatv/manifest.m3u8

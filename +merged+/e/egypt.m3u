@@ -2169,8 +2169,6 @@ http://78.46.95.251:8028/
 http://136.243.130.139:8013/
 #EXTINF:-1,Mahatet Masr
 https://audio.nrpstream.com/listen/nogoumfmhttp:/adio.mp3
-#EXTINF:-1,القرآن الكريم من القاهرة
-https:/http:/adio.radiosotak.com/sotak_128
 #EXTINF:-1,Radio Tiba
 http://s1.voscast.com:10026/;stream.mp3
 #EXTINF:-1,Nota Arabia Masria
@@ -2273,3 +2271,385 @@ http://nrjstreaming.ahmed-melege.com/nrjegypt
 https://worldradio.online/proxy/?q=http://82.201.132.237:8000/stream.mp3
 #EXTINF:-1,Mega FM 92.7 - ميجا اف ام - Eclectic Mix from Egypt
 https://ssl.surfmusic.de/s.php?s=http://nebula.shoutca.st:8211/mp3?1744234302
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/91571.v12.png",Nota Arabia Masria 
+http://88.150.230.110:32598/live
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127854.v3.png",tabeb radio| راديو طبيب 
+https://stream.zeno.fm/z6exeh5qc0hvv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127677.v1.png",Tzgospel (Egypt) 
+https://stream.zeno.fm/0anvcwr1uchvv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GIIT1Z.png",3esh 7ayatk
+http://www.3esh7ayatk.com:8020/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1F02XB.png",6060fm
+https://streamingv2.shoutcast.com/6060fm?token=6f2e96ba67c36f72115b5c1a64e75ae1%2F102cb60b&1436732095396.mp3?1439718645856.mp3?1443557890537.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/P3XM5Q.png",Al Haya FM
+http://live.alhayafm.com:8000/stream.hgtp
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/T36MQ2.png",Arab Mix FM
+https://stream.zenolive.com/na3vpvn10qruv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0MSP66.png",Arab Mix 320
+https://stream.zeno.fm/8vrkggsb1d0uv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/X6TC80.png",Arab Mix
+https://stream.zeno.fm/efx5psd00qruv.acc
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AQUOJS.png",Copt4G Fm (For Meditation)
+http://www.2mfm.org.au:8000/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QA2674.png",Days Old FM
+https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&port=9682&type=s2&mount=1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",ERTU 1 TV
+http://dbsradio.primcast.com:6930/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RPLSF8.png",Laro7ak
+http://109.74.196.48/proxy/laro7ak?mp=/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2J2YO3.png",Shurooq Islamic Mix 
+https://stream.zeno.fm/ybwb7zq3dkhvv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DTDO2G.png",SRK Online Radio
+https://stream.zeno.fm/p2yy4eenvzzuv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/US6YCH.png",St. Markos Radio
+http://server2.watahosting.com:8004/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/U5MPBP.png", ZAD Islamic Mix
+https://stream.zeno.fm/rkbm7uv6huhvv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D0UVWC.png",Zooom News
+https://radio.skynewsarabia.com/stream/radio/skynewsarabia
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/E3F5KE.png",إذاعة كلمة الله - DWG Radio
+https://server25531.streamplus.de/stream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79526/logo_kYDNkDKrjD.png",Antenna Web Il Cairo Radio
+https://tinyurl.com/AntennaWebIlCairo
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79527/logo_ESoqMqKOd0.png",Hero Radio (Egypt)
+https://a2.asurahosting.com:6790/egypt.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79503/logo_IyXZ7TCDLe.png",Radio Moga
+https://listen.radioking.com/radio/701108/stream/766352
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79522/logo_ySU50YvV95.png",Arab Mix Drama 320 Radio
+https://stream.zeno.fm/gpunhpeftbhtv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79501/logo_DBdXW7xoW4.png",Radio Masrawy - مصراوي
+https://9090streaming.mobtada.com/9090FMEGYPT?type=.mp3%2F%3Bstream.mp3
+#EXTINF:-1,إذاعة القرآن الكريم من القاهرة 
+http://n12.radiojar.com/8s5u5tpdtwzuv?listening-from-radio-garden=1620219571863&rj-tok=AAABeTyl2zYARSWbLVnrEOlqGw&rj-ttl=5
+#EXTINF:-1,Tes3enat FM 
+http://178.33.135.244:20095/?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8
+#EXTINF:-1,القران الكريم من القاهره 
+http://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5&rj-tok=AAABdI5Qnd0AEmvTTG5DVtU31A&autoplay=1%22%20type=%22audio/mpeg
+#EXTINF:-1,القران الكريم من القاهره1 
+http://n0e.radiojar.com/8s5u5tpdtwzuv?rj=&rj-tok=AAABg5BDP0EA2ElNLJYUJTsVcg&rj-ttl=5
+#EXTINF:-1,إذاعة القرآن الكريم  
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1,اذاعة القرآن الكريم 
+http://stream.radiojar.com/0tpy1h0kxtzuv
+#EXTINF:-1,87.8	Mix FM 
+https://stream-29.zeno.fm/na3vpvn10qruv
+#EXTINF:-1,.. مختصر التفسير  
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1,إذاعة طريق السلف
+https://airtime.salafwayfm.ly/
+#EXTINF:-1,.إذاعة ماهر المعيقلي  
+https://backup.qurango.net/radio/maher
+#EXTINF:-1,. القارئ محمد أيوب  
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1,تفسير بن عثيمين 
+https://qurango.net/radio/tafseer
+#EXTINF:-1,. beautiful recitation  
+https://qurango.net/radio/salma
+#EXTINF:-1,Coptic Voice Radio 
+http://stream.clicdomain.com.br:5828/
+#EXTINF:-1,X_X 
+https://stream.zeno.fm/n63xpx3o8imuv
+#EXTINF:-1,Elissa FM 
+https://stream.zeno.fm/v7n499m8ckhvv
+#EXTINF:-1,Misrin Street 
+https://stream.zeno.fm/djqjrjhxsrgtv
+#EXTINF:-1,S_O_L_L_Y 
+https://stream.zeno.fm/juwfhuodjgmuv
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,IVIeshal 
+https://stream.zeno.fm/smdswgy1rbmtv
+#EXTINF:-1,9090 FM - Egypt - Cairo
+https://9090streaming.mobtada.com/9090FMEGYPT
+#EXTINF:-1,90s FM - Egypt - Cairo
+https://eu1.fastcast4u.com/proxy/prontofm?mp=/1
+#EXTINF:-1,Al-Abd Hob al Nabi - Egypt - Manfalut
+https://s1.reliastream.com/proxy/oelgendy?mp=/stream
+#EXTINF:-1,Al-Abd Quran - Egypt - Manfalut
+https://s2.reliastream.com/proxy/alashraf?mp=/stream
+#EXTINF:-1,Aleza3a On Air - Egypt - Cairo
+https://stream.zeno.fm/rce7hoa1c13vv
+#EXTINF:-1,Almalak Radio - Egypt - Alexandria
+https://almalakradio.out.airtime.pro/almalakradio_a
+#EXTINF:-1,Arab Mix FM - Egypt - Cairo
+https://stream.zeno.fm/efx5psd00qruv
+#EXTINF:-1,Bible Society Egypt راديو الكتاب المقدس  - Egypt - Cairo
+https://streamer.radio.co/s8cabad95b/listen
+#EXTINF:-1,Mahatet Masr - Egypt - Cairo
+https://s3.radio.co/s9cb11828c/listen
+#EXTINF:-1,Nagham FM 105.3 - Egypt - Cairo
+https://ahmsamir.radioca.st/stream
+#EXTINF:-1,NRJ Egypt FM 92.1 - Egypt - Cairo
+https://nrjstreaming.ahmed-melege.com/nrjegypt
+#EXTINF:-1,ON Sport FM 93.7 - Egypt - Cairo
+https://carina.streamerr.co:2020/stream/OnSportFM/;
+#EXTINF:-1,Quran FM 98.2 إذاعة القرآن الكريم - Egypt - Cairo
+https://stream.radiojar.com/8s5u5tpdtwzuv
+#EXTINF:-1,Radio 5:14 - Egypt - Suez
+https://stream.radiojar.com/ps7z45v12k8uv
+#EXTINF:-1,Radio Hits FM 88.2 - Egypt - Cairo
+https://radiohits882.radioca.st/;
+#EXTINF:-1,Radio Next راديو نكست - Egypt - Alexandria
+https://stream.zeno.fm/z6duygngt68uv
+#EXTINF:-1,Radio Sotak - Egypt - Cairo
+https://radio.radiosotak.com/sotak_128
+#EXTINF:-1,Sha3by FM 95.0 - Egypt - Cairo
+https://radio95.radioca.st/;
+#EXTINF:-1,St. Mary Church Zeitoun - Egypt - Cairo
+https://cast.az-streamingserver.com/proxy/stmary?mp=/stream
+#EXTINF:-1,هواها بيطري - Egypt - Cairo
+https://s44.myradiostream.com/:9204/listen.mp3?nocache=1753989303
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nogomi-radio-592708-logo.jpg",Nogomi Radio
+https://securestreams2.autopo.st:1152/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/deacons-school-591179-logo.jpg",Radio Deacons School
+http://198.154.254.10:7006/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-m3ak3latool-radio-radyw-maak-ala-twl-logo.jpg",M3ak3latool Radio راديو معاك على طول
+http://www.radioma3ak.com:8000/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-radyw-hyts-logo.jpg",Radio راديو هيتس
+https://radiohits882.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cairobeat-592007-logo.jpg",Radio cairobeat
+http://majestic.wavestreamer.com:9829/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cairomix-593606-logo.jpg",Radio cairomix
+http://sc11.streamingpulse.eu/tunein.php/felgamma/playlist.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-taqwa-radio-quran-karim-593419-logo.jpg",Al Taqwa Radio Quran Karim
+http://5.135.160.122:8208/;
+#EXTINF:-1 tv-logo="",Radio Awlad w Banat
+http://s9.streammonster.com/tunein.php/awlwbnat/playlist.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/al-aashan-baladna-595100-logo.jpg",Radio Al Aashan Baladna
+http://144.76.194.189:8200/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mokattam-1st-radio-187025-logo.jpg",mokattam 1st radio
+http://173.236.28.138:8307/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bnscafe-597419-logo.jpg",Radio Bnscafe
+http://199.195.194.92:8048/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ayamna-598124-logo.jpg",Radio ayamna
+http://egradio.in:8198/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/--598409-logo.jpg",Radio راديو بحري
+http://96.127.172.230:8150/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hob-al-nabi-598462-logo.jpg",Radio HOB AL NABI
+http://50.97.94.44:8098/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/2mdotnet-598999-logo.jpg",Radio 2Mdotnet
+http://50.22.212.194:8234/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gramafoon-jazz-599790-logo.jpg",Radio GramaFoon Jazz
+http://176.9.20.102:5774/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gramafoon-rock-599789-logo.jpg",Radio GramaFoon Rock
+http://176.9.20.102:3776/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-shabab-bgd-162303-logo.jpg",Radio shabab bgd
+http://96.127.172.230:9100/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tiba-radio-603690-logo.jpg",TIBA Radio
+http://s1.voscast.com:10026/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hoqookfm-603904-logo.jpg",Radio hoqookfm
+http://178.63.105.180:8060/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ak-radio-604661-logo.jpg",AK Radio
+http://199.180.75.2:9355/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/arabesk-egypt-162432-logo.jpg",Radio Arabesk Egypt
+http://173.193.219.163:8455
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/a7lmnafm-600933-logo.jpg",Radio A7lmnaFM
+http://a7lmnafm.com:9412/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/--601053-logo.jpg",Radio شريط كاسيت
+http://5.133.182.174:33193/;
+#EXTINF:-1 tv-logo="",Radio ERTU Farsi
+http://egradio.eg/radio.php?PubPnt=Faressyu0026ChnName=10
+#EXTINF:-1 tv-logo="",Radio ERTU R Masr
+http://egradio.eg/radio.php?PubPnt=SootMasru0026ChnName=11
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-eltekia-614201-logo.jpg",Radio ElTekia
+http://173.249.31.198:8000/;.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/country-line-dance-623803-logo.jpg",Radio Country Line Dance
+http://water-dover.ds.sparrowindustries.net:48130/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-cairo-568724-logo.jpg",Radio Cairo
+http://maspero.eg/wps/portal/home/radio/stations/general-program/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/call-for-life-625040-logo.jpg",Radio Call For Life
+http://callforlife.radio.anharnet.org:9000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wiki-radio-604215-logo.jpg",Wiki Radio
+http://wikimasr.com:9998/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/life-club-605339-logo.jpg",Radio Life club
+http://serv02.streamsfortheworld.com:8000/lifeclub_low
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mozikanafm-628276-logo.jpg",Radio MozikanaFM
+http://163.172.168.88:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alradio-629667-logo.jpg",AlRadio
+http://78.46.95.252:8066/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/arab-fm-631102-logo.jpg",Radio Arab FM
+http://www.hostmyradio.com:9300/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/banhacitycom-158073-logo.jpg",Radio BanhaCity.com
+http://streaming204.radionomy.com/banhacity?group=999
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/science-square-radio-633067-logo.jpg",Science Square Radio
+http://s1.voscast.com:10014/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mahalla-city-radio-602131-logo.jpg",Mahalla City Radio
+http://136.243.130.139:8013/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/moustafa-amar-fm-602310-logo.jpg",Radio Moustafa Amar fm
+http://87.117.193.10:8050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nota-masria-638602-logo.jpg",Radio Nota Masria
+http://109.169.23.22:34594/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-faith-radio-587678-logo.jpg",The Faith Radio
+http://s26.streamerportal.com/tunein.php/faithradio/playlist.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-qesara-642474-logo.jpg",Radio Qesara
+http://173.249.31.198:8004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/almasryfm-602471-logo.jpg",Radio AlMasryFM
+http://216.172.111.61:9986/;
+#EXTINF:-1 tv-logo="",Radio ERTU Musiqi
+http://egradio.eg/radio.php?PubPnt=ElBernamegElMouusekeyu0026ChnName=7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/----602607-logo.jpg",Radio راديو مصر علي الهوا
+http://www.egonair.com:8010/;
+#EXTINF:-1 tv-logo="",Rakoty radio
+http://manage.streamcyclone.com/client/getredirectto.php5?q=54
+#EXTINF:-1 tv-logo="",Radio Quran from Cairo
+http://51.255.131.14:9994/;
+#EXTINF:-1 tv-logo="",Radio Hawana Fm
+http://69.175.121.141:8020
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sawt-el-hara-173934-logo.jpg",Radio Sawt El Hara
+http://sawtelhara.podzone.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alhayat-tv-580373-logo.jpg",Radio Alhayat TV
+http://www.hayatv.tv/testimonies/3048.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-misr-582960-logo.jpg",Radio Misr
+http://radiomasr.enc.eg/radio.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hits-584056-logo.jpg",Radio Hits
+http://www.radiohits.co/radiohits-live/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ertu-shabab-wal-riyadiyah-584906-logo.jpg",Radio ERTU Shabab wal Riyadiyah
+http://lr.onlinehorizons.net/shabawreada.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mt2ar-589784-logo.jpg",Radio MT2AR
+http://www.1500gb.com.eg:7045/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/waseet-fm-590090-logo.jpg",Radio Waseet FM
+http://62.135.122.42:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sout-mounir-590548-logo.jpg",Radio Sout Mounir
+http://s5.voscast.com:8018/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/st-mary-el-golf-radio-590692-logo.jpg",St Mary El Golf Radio
+http://96.30.49.168:8016/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/90s-fm-592068-logo.jpg",Radio 90s fm
+http://64.150.176.192:8276/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ma3ak-593709-logo.jpg",Radio Ma3ak
+http://radioma3ak.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bomba-fm-594651-logo.jpg",Radio Bomba Fm
+http://66.55.93.172:7030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/beloghos-594910-logo.jpg",Radio Beloghos
+http://88.99.36.93:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tamer-hosny-fm-595277-logo.jpg",Radio Tamer Hosny FM
+http://s1.freeshoutcast.com:36408/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/redseaonair-595439-logo.jpg",Radio RedSeaOnAir
+http://www.hostmyradio.com:3000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/elmadar-radio-595717-logo.jpg",Elmadar Radio
+http://www.elmadar.org:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mubasher-596046-logo.jpg",Radio Mubasher
+http://78.46.95.251:9028/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shakhbataa-603649-logo.jpg",Radio Shakhbataa
+http://63.141.239.82:9990/;
+#EXTINF:-1 tv-logo="",Radio ERTU English
+http://egradio.eg/radio.php?PubPnt=Englishu0026ChnName=13
+#EXTINF:-1 tv-logo="",Radio ERTU Swahili
+http://egradio.eg/radio.php?PubPnt=ElSawaheelyu0026ChnName=9
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-wave-eg-611495-logo.jpg",Radio Wave EG
+http://philae.shoutca.st:8702/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/godonline-615516-logo.jpg",Radio Godonline
+http://eu7.fastcast4u.com:6230/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/elmondaseen-621517-logo.jpg",Radio Elmondaseen
+http://88.198.87.102:9984/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/st-paul-church-el-obour-622634-logo.jpg",Radio St Paul Church El-Obour
+http://stpaul-church.info:9990/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-antica-fm-623031-logo.jpg",Radio Antica FM
+http://136.243.89.138:9310/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/take-away-radio-623161-logo.jpg",Take Away Radio
+http://usa13.fastcast4u.com:5344/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mazzikawbs-623223-logo.jpg",Radio MazzikaWBS
+http://iptegy.com:8050/;
+#EXTINF:-1 tv-logo="",Radio tamer magazine
+http://50.22.218.197:18779/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/orthodoxy-radio-632916-logo.jpg",Orthodoxy Radio
+http://144.208.66.59:8000/stream48_live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aghanyna-638767-logo.jpg",Radio Aghanyna
+http://www.aghanyna.com:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/metro-masr-639989-logo.jpg",Radio MeTro Masr
+http://109.169.23.22:12717/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mazboot-640301-logo.jpg",Radio Mazboot
+http://newvision.radiocast.in:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/music-room-radio-642477-logo.jpg",Music Room Radio
+http://173.249.31.198:8008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-radio-644899-logo.jpg",The Radio
+http://78.46.95.251:8028/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-radio-moga-logo.jpg",Radio Moga
+http://eu4.fastcast4u.com:5458/;.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/duckburg-radio-595887-logo.jpg",Duckburg Radio
+https://radio.madinatelbatt.com:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/el-gouna-radio-157765-logo.jpg",El Gouna Radio
+http://82.201.132.237:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/goal-fm-581070-logo.jpg",Radio Goal FM
+http://stream.zenolive.com/uwq6pusuvg5tv
+#EXTINF:-1 tv-logo="",radio jahein
+http://184.154.43.106:8044/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/masrawy-cafe-165474-logo.jpg",Radio Masrawy Cafe
+http://masrawycafe.dyndns.org:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rehab-fm-154961-logo.jpg",Radio Rehab FM
+http://209.239.114.182:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zamalek-fm-178464-logo.jpg",Radio Zamalek FM
+http://74.63.249.194:8080/;
+#EXTINF:-1 tv-logo="",Hawana Fm Radio
+http://184.154.221.242:4080
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-e7na-160156-logo.jpg",Radio E7na
+http://199.180.130.156:7055/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tamer-lovers-178771-logo.jpg",Radio Tamer Lovers
+http://www.tamerlovers.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hits-882-radiohitsco-180193-logo.jpg",Radio Hits 88.2 - RadioHits.co
+http://st122.radiohits.co:8000/;
+#EXTINF:-1 tv-logo="",Radio 4.راديو ‏ الحياه اف ام
+http://live.hayafm.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/call-salvation-arabic-radio-156936-logo.jpg",Call to Salvation Arabic  Radio
+http://s8.streammonster.com:8218
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/elsalam-fm-radio-166951-logo.jpg",Elsalam FM Radio
+http://173.193.219.163:8623
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/egypt-air-egonair-166955-logo.jpg",Radio Egypt On Air (EgOnAir)
+http://23.92.219.83:8010/;
+#EXTINF:-1 tv-logo="",Radio Nogomi HQ
+http://ahlasoot.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alhayafmcom-english-180594-logo.jpg",Radio Alhayafm.com English
+http://live2.alhayafm.com:8030/;
+#EXTINF:-1 tv-logo="",Radio Alhayafm.comاسمع الحياه اف ام ‏...‏ وخليك قد الحياه ‏
+http://live.alhayafm.com:8000/;
+#EXTINF:-1 tv-logo="",Radio Nasrcity
+http://streamplus15.leonex.de:18710/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/redseadanceradio-167367-logo.jpg",RedSeaDanceRadio
+http://www.wwsnradio.com:8100
+#EXTINF:-1 tv-logo="",Radio Alhayafm.com Classic
+http://live2.alhayafm.com:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rdyo-lhy-f-m-167552-logo.jpg",Radio راديو الحياة اف ام
+http://96.127.172.230:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/redseadance-radio-181523-logo.jpg",RedSeaDance Radio
+http://wwsnradio.com:8100/;
+#EXTINF:-1 tv-logo="",Radio Alhayafm.com Quraan
+http://live2.alhayafm.com:8005/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/masrawycafecom-radio-channel-160796-logo.jpg",MasrawyCafe.Com Radio Channel
+http://shoutcast.masrawycafe.com:8000/;
+#EXTINF:-1 tv-logo="",Radio Baldnaa
+http://74.63.251.77:8011/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/diab-fm-183120-logo.jpg",Radio Diab FM
+http://s7.voscast.com:7888/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiovisionegypt-169213-logo.jpg",RadioVisionEgypt
+http://85.25.118.13:33930/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sound-sakia-radio-183739-logo.jpg",Sound of Sakia Radio
+http://38.96.148.65:4896/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/layalina-fm-168359-logo.jpg",Radio LAYALINA FM
+http://layalinafmonline.com:8000/;
+#EXTINF:-1 tv-logo="",Radio بلدنا أجتماعى واسلامى
+http://66.187.110.38:3000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/goal-fm-sout-el-kora-157511-logo.jpg",Radio Goal FM - Sout El Kora
+http://ams01.egihosting.com:6520/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eman-voice-islamic-radio-169408-logo.jpg",Eman Voice Islamic Radio ???? ??????? ?????????
+http://www.eman-voice.com:8000/;
+#EXTINF:-1 tv-logo="",radiojahein.net
+http://67.212.165.106:8076/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-el-midan-185370-logo.jpg",Radio El Midan
+http://159.253.143.4:8315/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/faith-radio-161662-logo.jpg",The Faith Radio
+http://173.193.219.163:8673
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/call-salvation-radio-186035-logo.jpg",Call to Salvation Radio
+http://s8.streammonster.com:8218/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alrahma-tv-583317-logo.jpg",Radio Alrahma TV
+http://www.alrahma.tv/Pages/Online/Details.aspx?ID=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mega-fm-927-585773-logo.jpg",Radio Mega FM 92.7
+http://megafm.twesto.com/megafm-live/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/taxi-fm-186330-logo.jpg",Radio Taxi FM
+http://199.102.44.132:8001
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiovisioneg-186359-logo.jpg",RadioVisionEG
+http://sc1.ipip.cz:8034/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/blancofm-587831-logo.jpg",Radio BlancoFM
+http://radio.arabhosters.com:8015/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-al-mokattam-588471-logo.jpg",Radio Al Mokattam
+http://94.23.36.117:5531/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/0radio-haitananet-first-radio-arab-internet-186579-logo.jpg",0.Radio Haitana.Net First Radio Arab in Internet
+http://173.236.26.74:8008/;

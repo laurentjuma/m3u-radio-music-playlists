@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,1.FM - Total Hits En Español Radio - 192 - Switzerland - spanish
-http://strm112.1.fm/spanishtophits_mobile_mp3
 #EXTINF:-1,DCLM Radio - Spanish/Español - 64 - The United States Of America - christian
 https://airtime.dclm.org/radio/8100/spanish
+#EXTINF:-1,Radio Ysapy 90.7 FM - 128 - Paraguay - dance - pop - spanish - top 40
+https://stream.radiomv.com/spanish/stream.mp3
 #EXTINF:-1,RadioMV Spanish - 128 - Spain - christian
-https://ice.radiomv.co:8440/spanish.mp3
+http://dfw1.radiomv.live/spanish.mp3

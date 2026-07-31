@@ -1095,24 +1095,10 @@ http://188.165.28.243:8000/128
 https://stream1.rusradio.lthttp:/rb128.mp3
 #EXTINF:-1,Радио Rock
 https://stream1.relaxfm.lthttp:/elaxfm128.mp3
-#EXTINF:-1,Radijo stotis &quot;RADUGA&quot;
-https:/http:/adio.m-1.fmhttp:/aduga/high
-#EXTINF:-1,Radijo Stotis Kelyje
-http:/http:/adijas.tau.lt:8000/stream
-#EXTINF:-1,Radijo stotis A2
-http:/http:/adio.audiomastering.lt:8000/hq
 #EXTINF:-1,Taurages Radijas
 https://stream01.the-broadcasters.onlinehttp:/adiolenta_mp3
-#EXTINF:-1,Mažeikiai Fm
-https:/http:/s2online.eu:8000/gyvai
-#EXTINF:-1,Aviafan Lounge
-https:/http:/elay.leproradio.com/letach.ogg?9f02439bbf80306a625f798964c44ea2f74e74aa
 #EXTINF:-1,Fred Film Radio
 https://s10.webradio-hosting.com/proxy/fredradiolt/stream/;
-#EXTINF:-1,PMR.lt
-http:/http:/elay.leproradio.com/urban.mp3?f63586e295b774115269175b0dba7add8b769299
-#EXTINF:-1,Criminal Tribe
-https:/http:/elay.leproradio.com/tribe.ogg?1bca2026d2b3f03959ada289dd3e71228b8e477c
 #EXTINF:-1,Draugystės radijas
 http://213.226.189.174:8000http:/adio.mp3
 #EXTINF:-1,Patejago Radijas
@@ -1121,8 +1107,6 @@ https://stream-150.zeno.fm/f6m1zbud5p8uv?zs=cpAKOhScQ4etDOgI_fXwkw
 https://stream1.radiofiesta.lthttp:/fs128.mp3
 #EXTINF:-1,Žiniu Radijas
 http://82.135.234.195:8000/pukas.aac
-#EXTINF:-1,ZipFM
-https:/http:/adio.m-1.fm/m-1dance/aac
 #EXTINF:-1,Relax FM 100 HITU
 https://listen.radioking.comhttp:/adio/483860/stream/561907
 #EXTINF:-1,Relax FM Sentimental
@@ -1213,3 +1197,333 @@ https://lrt-cast.lrt.lt/lrt_opus
 https://lrt-cast.lrt.lt/lrt_klasika
 #EXTINF:-1,Sveikatos Radijas - Talk Radio from Lithuania
 https://worldradio.online/proxy/?q=http://9193.219.87.11:8080/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/03/Truckers-Rave.png",Truckers Rave 
+https://listen5.myradio24.com/eugenijus
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/129447.v1.png",Radio SOL FM, Klaipėda 
+https://radiosolfm.bounceme.net/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/127476.v3.png",Cool Radio, Vilnius 
+https://stream.zeno.fm/x0evctlgztntv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132066.v2.png",drUzi.lt 
+https://radiodruzi.online:8443/druzi.lt
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/30149.v3.png",Baltupiu Radijas 
+http://fm.baltupiumokykla.lt:8888/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/131380.v1.png",Hot Hits Radio 
+https://stream.zeno.fm/i6rawfdpnimtv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/116453.v3.png",Mažeikiai Fm 
+http://91.211.246.42:8000/Mazeikiai
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/116455.v2.png",Kapsai 
+http://91.211.246.42:8000/Kapsai-HD
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1CV5SQ.png",BitRadio
+http://klausyk.bitradio.lt:8030/super
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ERI14.png",European Hit Radio
+http://84.46.162.57:8000/ehr
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QZL50Q.png",FUZZ radijas
+http://fuzz-radijas.lt:8080/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OZT01B.png",Laluna FM 94.9
+http://radio.m-1.fm:80/laluna/high
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RP9YZS.png",Lietus
+http://stream.m-1.fm:80/lietus/mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/L56SMK.png",M-1Dance
+https://stream.m-1.fm/m-1dance/mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QYK3LI.png",M-1 Plius
+https://radio.m-1.fm/m1plius/aacp64
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VZWZ3W.png",M-1
+https://stream.m-1.fm/m1/aacp64
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YF02B6.png",Play Radio Lietuva
+https://ample-06.radiojar.com/d9cm273ystzuv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5HGS3A.png",Radijo stotis M-1 Plius
+http://radio.m-1.fm:80/m1plius/mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZIKQKU.png",Radijo stotis M-1
+http://radio.m-1.fm:80/m1/mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4LTAVE.png",Radio Maria (Lithuania)
+http://82.135.139.29:8001/marijosradijas.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9AY78.png",Truckers Rave
+http://live.eugenijus.lt:9000/eugenijus
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NQ986E.png",XO FM
+https://live.xo.fm/xofm128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/D05XNH.png",Ziniu Radijas
+https://netradio.ziniur.lt/ziniur.mp3?n=334424
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1YQL6N.png",ZIP FM
+http://84.46.205.13/zipfm64.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44407/logo_EpYiJb42h7.png",ZIP FM IŠ KASETĖS Radio
+https://listen.radioking.com/radio/624418/stream/686608
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44413/logo_XkxBP44wJx.png",Tavo Balsas Radio
+https://c18.radioboss.fm:8529/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44412/logo_S6iKGT4lW3.png",Vilnius FM Radio
+https://stream.vilniusfm.lt/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44376/logo_mmDyg405NC.png",Geras FM Radio
+https://stream.goldfm.lt/gerasfm.aac?date=1762616617563
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44409/logo_NBRuvfjI5M.png",Super FM Radio
+http://82.140.131.217:8000/superfm.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44411/logo_INOYle6v13.png",Palanga Street Radio
+https://stream.palanga.live/palanga128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44352/logo_DJgAjccUMa.png",Rock FM Radio
+https://stream1.rockfm.lt/crf128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44392/logo_AJ0kawNgEe.png",100 HITŲ Radio
+https://klausyk.radijas.lt/listen/100hitu/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44355/logo_45cj51IZOi.png",LRT RADIJAS Radio
+https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44351/logo_pN5N9LeO6H.png",Radijo Gold FM Radio
+https://stream.goldfm.lt/goldfm.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44414/logo_DmtVOW5EQi.png",Utenos Radijas 103,9 FM Radio
+https://gyvai.ursrv.eu/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44406/logo_DOKgTyocff.png",drUzi.lt Radio
+https://druzi.fm:8443/96aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44410/logo_17wDnk08fA.png",Radio R Energy
+https://listen.radioking.com/radio/624415/stream/686599
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44363/logo_SWqgQrX5AX.png",Radijo stotis FM99 Radio
+https://securestream.casthost.net:8617/fm99
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44396/logo_GavkMZcDBb.png",RELAX FM Sentimentai Radio
+https://klausyk.radijas.lt/listen/sentimentai/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44390/logo_KODZ2Z3TIv.png",PMR.lt Radio
+https://stream.pmr.lt/pmr.mp3?
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44387/logo_2SIEcB3QyD.png",Radijo Stotis Kelyje Radio
+https://solid55.streamupsolutions.com/proxy/ugeiluxh/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44362/logo_rLcwBuOHXZ.png",European Hit Radio
+https://stream.ehr.lt:8443/ehr.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44371/logo_ZUOzfAr0lW.png",Radio Pūkas 2
+http://212.95.39.164:8074/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/44404/logo_geKfTvs0wv.png",KABRADIO
+http://stream.zeno.fm/29xtapvkzhhvv
+#EXTINF:-1,M-1 Plius 
+http://radio.m-1.fm/m1plius/mp3
+#EXTINF:-1,Радио Лента stream 2 
+https://streaming.broadcastrd.com/audio/radio-lenta.mp3
+#EXTINF:-1,Радио Сигнал 
+https://streaming.broadcastrd.com/audio/radio-singnal.mp3
+#EXTINF:-1,m-1 
+http://radio.m-1.fm/lietus/MP3320
+#EXTINF:-1,Laluna [AAC] 
+http://radio.m-1.fm/laluna/high
+#EXTINF:-1,Play Radio 
+https://n08.radiojar.com/d9cm273ystzuv
+#EXTINF:-1,Pulsas 
+https://pulsas.lt/stream
+#EXTINF:-1,Radio stotis Laluna 
+https://radio.m-1.fm/laluna/mp3
+#EXTINF:-1,Rock Radio 
+http://65.21.202.84:8026/stream
+#EXTINF:-1,Power Hit Radio LT 
+https://ice.leviracloud.eu/phr192-mp3
+#EXTINF:-1,Gold FM 
+http://stream.goldfm.lt/goldfm.aac
+#EXTINF:-1,Sol fm 
+http://radiosolfm.bounceme.net:8002/solfm
+#EXTINF:-1,Radio Fiesta 
+https://stream2.radiofiesta.lt/rfs128.mp3
+#EXTINF:-1,-=PoWeR=- 
+https://cast1.my-control-panel.com/proxy/eventas/stream
+#EXTINF:-1,Cold Tear Radio 
+https://radio.rad10x.com/listen/coldtear/coldtear.mp3
+#EXTINF:-1,Fred Film Radio-24 lietuvių kalba 
+https://s10.webradio-hosting.com/proxy/fredradiolt/stream
+#EXTINF:-1,Radijo Musikii 
+https://stream.radijo-musikii.net/radio/8000/radio.mp3
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,X-RADIO 
+http://185.8.60.5:8000/
+#EXTINF:-1,lsg radijas 
+https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9
+#EXTINF:-1,Fréquence Protestante 
+https://freqpro.streamakaci.com/frequenceprotestante.mp3
+#EXTINF:-1,thisislit 
+https://litradio.org/listen/thisislit/radio.mp3
+#EXTINF:-1,Zip FM is Kasetes  
+https://klausyk.radijas.lt/listen/is-kasetes/live
+#EXTINF:-1,Power LT 
+http://cast1.my-control-panel.com:8527/
+#EXTINF:-1,Geras2 FM 
+https://stream.goldfm.lt/gerasfm.mp3
+#EXTINF:-1,European Hit Radio 
+https://stream.ehr.lt:8443/ehr
+#EXTINF:-1,Pukas Lt 
+http://212.95.45.82:8000/stream
+#EXTINF:-1,Kelyje Kaunas 
+http://212.95.45.82:8014/stream
+#EXTINF:-1,Kelyje Klaipėda  
+http://212.95.45.82:8024/stream
+#EXTINF:-1,Patejago 
+https://stream-46.zeno.fm/f6m1zbud5p8uv
+#EXTINF:-1,KAB Radio 
+https://node-25.zeno.fm/29xtapvkzhhvv
+#EXTINF:-1,DomantasFM 
+https://radio.domkutis.com/listen/domantasfm/radio.mp3
+#EXTINF:-1,Радио Свободынх Народов 
+https://radio.freenations.online/listen/radio_free_nations/radio.mp3?refresh=1768495046250
+#EXTINF:-1,RockFM 
+https://stream3.rc.lt/rockfm.mp3
+#EXTINF:-1,Beveik Radijas - Lithuania - Vilnius
+https://halo.streamerr.co/listen/beveikradijas/radio.mp3
+#EXTINF:-1,European Hit Radio - Lithuania - Vilnius
+https://stream.ehr.lt:8443/ehr
+#EXTINF:-1,Extra FM 105.4 - Lithuania - Kaunas
+https://online.extrafm.lt:8443/extrafm.mp3
+#EXTINF:-1,FM 99.0 - Lithuania - Alytus
+https://az1.sslstreaming.com/listen/alytaus_radijas/radio.mp3
+#EXTINF:-1,Gold FM 102.6 - Lithuania - Vilnius
+https://stream.goldfm.lt/goldfm.mp3
+#EXTINF:-1,Leproradio - Lithuania - Vilnius
+https://relay.leproradio.com/bender.mp3?38b080ebd317ef59a9c9ef804e320f5450fcfdd6
+#EXTINF:-1,Lietus FM - Lithuania - Vilnius
+https://stream.m-1.fm/lietus/aacp64
+#EXTINF:-1,LRT Klasika FM 105.1 - Lithuania - Vilnius
+https://lrt-cast.lrt.lt/lrt_klasika
+#EXTINF:-1,LRT Opus FM 98.3 - Lithuania - Vilnius
+https://lrt-cast.lrt.lt/lrt_opus
+#EXTINF:-1,LRT Radijas FM 89.0 - Lithuania - Vilnius
+https://lrt-cast.lrt.lt/lrt_radijas
+#EXTINF:-1,M-1Dance - Lithuania - Vilnius
+https://stream.m-1.fm/m-1dance/aacp
+#EXTINF:-1,Neringa FM - Lithuania - Nida
+https://cast5.my-control-panel.com/proxy/mbadvent/neringafmnew
+#EXTINF:-1,Palanga Street Radio - Lithuania - Vilnius
+https://stream.palanga.live:8443/palanga128.mp3
+#EXTINF:-1,Play Radio - Lithuania - Vilnius
+https://n05.radiojar.com/d9cm273ystzuv
+#EXTINF:-1,PMR - Lithuania - Vilnius
+https://pmr.lt/streams/pmr-web
+#EXTINF:-1,Power Hit Radio FM 95.9 - Lithuania - Vilnius
+https://stream.rcs.revma.com/f31w7e0fveuvv
+#EXTINF:-1,Power Hit Radio Gold - Lithuania - Vilnius
+https://stream.rcs.revma.com/asdpz3qfbhuvv
+#EXTINF:-1,Pulsas - Lithuania - Panevėžys
+https://audio-edge-5bkfj.fra.h.radiomast.io/56f301cf-9788-4407-a0db-0bfea5d82b01
+#EXTINF:-1,Radijo Musikií - Lithuania - Vilnius
+https://stream.radijo-musikii.net/radio/8000/radio.mp3
+#EXTINF:-1,Radijo stotis Laluna - Lithuania - Klaipėda
+https://radio.m-1.fm/laluna/mp3?.mp3
+#EXTINF:-1,Radijo Stotis Lietus - Lithuania - Vilnius
+https://radio.m-1.fm/lietus/mp3?.mp3
+#EXTINF:-1,Radijo Stotis M-1 - Lithuania - Vilnius
+https://stream.m-1.fm/m1/aacp64
+#EXTINF:-1,Radijo stotis M-1 Plius - Lithuania - Vilnius
+https://radio.m-1.fm/M-1PLIUS?.mp3
+#EXTINF:-1,Radio Fiesta 90.7 FM - Lithuania - Vilnius
+https://stream1.radiofiesta.lt/rfs128.mp3
+#EXTINF:-1,Radio Strotis M-1 - Lithuania - Klaipėda
+https://radio.m-1.fm/m-1dance/aac
+#EXTINF:-1,Radio Vilnius - Lithuania - Vilnius
+https://transliacija.audiomastering.lt/radiovilnius-mp3
+#EXTINF:-1,Radiocentras - Lithuania - Vilnius
+https://stream2.rc.lt/rc128.mp3
+#EXTINF:-1,RADIO•R - Lithuania - Vilnius
+https://stream1.rusradio.lt/rrb128.mp3
+#EXTINF:-1,Relax FM - Lithuania - Vilnius
+https://stream2.relaxfm.lt/relaxfm128.mp3
+#EXTINF:-1,Relax FM - 100 Hitų - Lithuania - Vilnius
+https://play.radioking.io/100-hitu
+#EXTINF:-1,Relax FM - Sentimentai - Lithuania - Vilnius
+https://play.radioking.io/sentimentai
+#EXTINF:-1,Rock FM - Lithuania - Vilnius
+https://stream1.rockfm.lt/crf128.mp3
+#EXTINF:-1,RS2 - Lithuania - Šiauliai
+https://rs2online.eu/;
+#EXTINF:-1,Saules Radijas 102.5 FM - Lithuania - Šiauliai
+https://saule-mp3.vinlita.lt/stream
+#EXTINF:-1,SOL FM 93.3 - Lithuania - Klaipėda
+https://radiosolfm.bounceme.net/stream
+#EXTINF:-1,Start FM 94.2 - Lithuania - Vilnius
+https://eteris.startfm.lt/startfm.mp3
+#EXTINF:-1,Super FM 100.5 - Lithuania - Vilnius
+https://stream.ehr.lt:8443/superfm
+#EXTINF:-1,Upso Radijas - Lithuania - Vilnius
+https://klausyk.upsas.lt/upsas_128
+#EXTINF:-1,Utenos Radijas 103.9 FM - Lithuania - Utena
+https://gyvai.ursrv.eu/stream
+#EXTINF:-1,Vizija - Lithuania - Panevėžys
+https://stream.zeno.fm/h9unubeaqtzuv
+#EXTINF:-1,Žinių Radijas - Lithuania - Vilnius
+https://netradio.ziniur.lt/ziniur.mp3
+#EXTINF:-1,Zip FM - Lithuania - Vilnius
+https://stream1.zipfm.lt/zipfm128.mp3
+#EXTINF:-1,Zip FM Iš Kasetės - Lithuania - Vilnius
+https://play.radioking.io/zip-fm-is-kasetes
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/baltupiu-radijas-166015-logo.jpg",Radio Baltupiu Radijas
+http://fm.baltupiumokykla.lt:8888/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hot-fm-582901-logo.jpg",Radio Hot FM
+https://c14.radioboss.fm:8335/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/easy-fm-619426-logo.jpg",Radio Easy FM
+https://netradio.ziniur.lt/easyfm.mp3?
+#EXTINF:-1 tv-logo="",Radio LRT Lituanica
+http://www.lrt.lt/mediateka/tiesiogiai/ltv-world
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wd40-radio-186919-logo.jpg",WD40 Radio
+http://wd40radio.sytes.net
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/drchill-595823-logo.jpg",Radio DrChill
+http://82.135.154.54:8000/DrChill.eu_server_2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/woop-fm-599840-logo.jpg",Radio Woop-FM
+http://77.241.199.86:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kf-radio-568562-logo.jpg",KF Radio
+http://radio.kf.lt:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fuzz-radijas-613371-logo.jpg",Radio FUZZ radijas
+http://fuzz-radijas.lt:8080/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vur-start-fm-154101-logo.jpg",Radio VUR - Start FM
+http://eteris.startfm.lt/startfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/auksiukesfm-618547-logo.jpg",Radio auksiukesfm
+http://45.125.66.85:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gradijas-625847-logo.jpg",Radio GRadijas
+http://vps.opnation.lt:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/repo-spotas-629084-logo.jpg",Radio REPO SPOTAS
+http://178.32.62.163:8901/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/doctor-deep-radio-602173-logo.jpg",Doctor Deep Radio
+http://79.98.31.25:7788/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/play-radio-602412-logo.jpg",Play Radio
+http://78.157.82.110/stream.mp3
+#EXTINF:-1 tv-logo="",Dj aleline Official Radio
+http://s2.justhost.lt:3002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jazz-radio-gaudeamus-173531-logo.jpg",Jazz Radio Gaudeamus
+http://ktu-r.bt.ktu.lt:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/another-life-radio-174507-logo.jpg",Another Life Radio
+http://radio.alr.lt:8030/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lafesta-live-174630-logo.jpg",Radio Lafesta Live
+http://klausyk.lafesta.lt:8000/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-matrica-175372-logo.jpg",Radio Matrica
+http://stream.static.lt:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/upso-radio-176034-logo.jpg",UPSO Radio
+http://92.61.39.152:8000/;
+#EXTINF:-1 tv-logo="",Radio FixFM
+http://klausyk.fixfm.lt:2009/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/studio-7-177799-logo.jpg",Radio Studio 7
+http://radio1.studio7.lt:8001/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lietus-radio-vilnius-178019-logo.jpg",Lietus Radio Vilnius
+http://stream.m-1.fm/m-1m
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tropical-sound-616044-logo.jpg",Radio Tropical Sound
+http://g1.decahost.com:1330/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bumso-radijas-616318-logo.jpg",Radio Bumso Radijas
+http://91.211.246.189:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/world-music-radio-pmrlt-624773-logo.jpg",World music radio (PMR.lt)
+http://www.fm.samphost.lt:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vit-fm-626508-logo.jpg",Radio VIT FM
+http://s1.justhost.lt:3011/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/-power--630636-logo.jpg",Radio -=PoWeR=-
+http://sc.ipip.cz:8086/;
+#EXTINF:-1 tv-logo="",Radio PublicFm.lt
+http://45.125.66.77:3009/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xxl-fm-639612-logo.jpg",Radio XXL FM
+http://88.119.120.148:8009/;
+#EXTINF:-1 tv-logo="",Radio MFM
+http://s2.justhost.lt:3006/listen.pls
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-cool-radio-logo.jpg",Cool Radio
+https://stream.zeno.fm/zi4k6fxtgnivv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-favor-radio-lithuania-logo.jpg",Favor Radio (Lithuania)
+https://a10.asurahosting.com:7660/lithuania.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-tg-fm-radijas-logo.jpg",Radio TG FM Radijas
+http://radijas.tgfm.lt:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lt-druzilt-logo.jpg",Radio drUzi.lt
+https://radiodruzi.online:8443/48aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/indros-radijas-163034-logo.jpg",Radio Indros Radijas
+http://post.indra.lt:8040/ir
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aukstaitijos-radijas-163167-logo.jpg",Radio Aukstaitijos Radijas
+http://212.52.57.202:22023/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-lafesta-hits-176757-logo.jpg",Radio Lafesta Hits
+http://klausyk.lafesta.lt:8000/hits-mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lafesta-radio-166809-logo.jpg",Lafesta Radio
+http://klausyk.lafesta.lt:8000/lafesta-aac-96
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jaunimo-radijas-167038-logo.jpg",Radio Jaunimo Radijas
+http://srv.hitfm.lt:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/party-radio-166720-logo.jpg",Party Radio
+http://mp3.tr.lt:8010/mp3-64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioltu-180766-logo.jpg",RadioLTU
+http://82.135.231.185:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mazeikiu-aidas-170022-logo.jpg",Radio Mazeikiu aidas
+http://www.mazeikiuaidas.lt:8000/;

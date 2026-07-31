@@ -1,16 +1,20 @@
 #EXTM3U
-#EXTINF:-1,Noshmim Mizrahit
-https://mzr.mediacast.co.il/mzradio
+#EXTINF:-1,Kol California Radio
+https://15113.live.streamtheworld.com/SAM02AAC155.mp3?dist=onlineradiobox
 #EXTINF:-1,Radios 100fm
 https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio
+#EXTINF:-1,Eco 99 FM
+https://eco01.livecdn.biz/ecolive/99fm/icecast.audio
 #EXTINF:-1,Radio Darom 96.0 FM
 https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio
+#EXTINF:-1,Radio Tel Aviv
+https://alma.mediacast.co.il/102fm-tlv/102fm_aac/icecast.audio
 #EXTINF:-1,GALGALATZ - 91.8 FM
 https://glzwizzlv.bynetcdn.com/glglz_mp3
+#EXTINF:-1,Radio-Lev-Hamedina-91-FM
+http://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio
 #EXTINF:-1,Radio Haifa FM 107.5 FM
 http://cp11.livecdn.biz/radiohaifa
-#EXTINF:-1,Nostalgia Radio
-http://194.213.4.197:8000
 #EXTINF:-1,FM 102
 https://radio.streamgates.net/stream/eilat
 #EXTINF:-1,Galgalatz - 91.8 FM
@@ -25,36 +29,40 @@ https://1075.livecdn.biz/radiohaifa
 http://glzwizzlv.bynetcdn.com/glz_mp3
 #EXTINF:-1,Galei Zahal - 102.3 FM
 https://glzwizzlv.bynetcdn.com/glz_mp3
+#EXTINF:-1,Eco99FM
+https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio
 #EXTINF:-1,Toker.FM
 https://broadcast.adpronet.com/radio/6060/radio.mp3
 #EXTINF:-1,PsyStation - ChillOut
-https://fr1-play.adtonos.com/8103/psystation-chillout
+https://listen.adtonos.com/psystation-chillout
 #EXTINF:-1,רדיו בריזר (Radio Brasser)
 http://sweb.co.il:8888
 #EXTINF:-1,Первое радио
 https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio
 #EXTINF:-1,Eco 99 fm
 http://eco01.livecdn.biz/ecolive/99fm/icecast.audio
+#EXTINF:-1,Radio Briza
+https://rs.mizrahit.fm/
 #EXTINF:-1,Ashams Radio Nazareth 98.1 101 FM
 https://cdna.streamgates.net/Ashams/Live/playlist.m3u8
 #EXTINF:-1,Radio 99 - Eco 99 FM 99.0 FM
-https://eco01.livecdn.biz/ecolive/99fm/icecast.audio
 #EXTINF:-1,EOL Radio
 https://eol-live.cdnwiz.com/eol/eolsite/icecast.audio
-#EXTINF:-1,Radio Mevaser Tov
-http://770tv.no-ip.org:7777
 #EXTINF:-1,Radio Breslov Karmiel
 https://securestreams6.autopo.st:2294/mp3
+#EXTINF:-1,Kabbalah TV Hebrew
+https://icecast.kab.tv/heb.mp3
+#EXTINF:-1,Radio Joy
+https://live.kcm.fm/live-new
 #EXTINF:-1,KZ Radio
 http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio
 #EXTINF:-1,Radio Hamesh 995
 http://ads10.livecdn.biz:8000/995fm
 #EXTINF:-1,Radio Kol Yizrael
 https://radio.streamgates.net/stream/yezreel
+#EXTINF:-1,Radio Noshmim Mizrahit
 #EXTINF:-1,Tel Aviv Radio BB Vostok
 https://liveradio.co.il:1100/?type=http&nocache=1641830637
-#EXTINF:-1,Radio Nostalgie Israel
-http://194.213.4.197:8000/
 #EXTINF:-1,Boot Radio Israel
 http://sweb.co.il:8036/
 #EXTINF:-1,Radio Lev Hayam Mediteranean
@@ -99,8 +107,6 @@ http://radio.jointil.net:9992/
 http://gb25.streamgates.net/radios-audio/100Cafe/icecast.audio
 #EXTINF:-1,100 - Gamer
 http://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio
-#EXTINF:-1,רדיו חלומות מזרחי (חולם מזרח)
-http://switch2-streaming-212-83-eu.ilcast.com:8040/
 #EXTINF:-1,Digital - Israeli FM
 http://gb25.streamgates.net/radios-audio/100Israeli/icecast.audio
 #EXTINF:-1,100 - Britpop

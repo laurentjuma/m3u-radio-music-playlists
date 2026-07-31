@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1,EHR Acoustic
-http://stream.europeanhitradio.com:8000/Stream_26.mp3
 #EXTINF:-1,EHR Dance
 http://stream.europeanhitradio.com:8000/Stream_24.mp3
 #EXTINF:-1,EHR Darham
 http://stream.europeanhitradio.com:8000/Stream_23.mp3
-#EXTINF:-1,EHR FM
-http://stream.europeanhitradio.com:8000/ehr.mp3
 #EXTINF:-1,EHR Fresh
 http://stream.europeanhitradio.com:8000/Stream_25.mp3
 #EXTINF:-1,EHR Hiti Rossii

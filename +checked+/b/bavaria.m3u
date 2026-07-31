@@ -1,6 +1,22 @@
 #EXTM3U
+#EXTINF:-1,BR24
+https://f131.rndfnk.com/ard/br/br24/live/mp3/128/stream.mp3?aggregator=hit-tuner-net&cid=01FBPVVJDPGF0BJ5TAJ8Z7JSX9&sid=3EtG1szhjm6DlDtLXQ1qPvMi4nk&token=fMoRRB-1fAtZU0V-cpfN6skFOyTDvkEjaMpw9rCxsMo&tvf=P1OzH9VstxhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,BR24Live
+https://f131.rndfnk.com/ard/br/br24live/live/mp3/128/stream.mp3?aggregator=hit-tuner-net&cid=01FBPVZ1VM1J7A07WRVEEMZVP5&sid=3EtG1wvM0mRQg6IHjI350mrBgmM&token=6fFrXN1YKXjs3XbO1mkiiCNGsYPYfD3v5LFmyCxtj4o&tvf=-umsH9VstxhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,Bayern 1
+https://f121.rndfnk.com/ard/br/br1/obb/mp3/128/stream.mp3?aggregator=hit-tuner-net&cid=01FB9ME7567MEQ5G72EVEEVVCS&sid=3EtG1wk2bkiCNoV8fQCpUJZxIkC&token=tLGkUKyi0WNIavDec5Y16UkawI87XS5HH9M7pACw-aw&tvf=W36XH9VstxhmMTIxLnJuZGZuay5jb20
+#EXTINF:-1,Bayern 3
+https://d131.rndfnk.com/ard/br/br3/live/mp3/128/stream.mp3?aggregator=hit-tuner-net&cid=01FBPVFWX7C216W6WY4M4M7MF7&sid=3EtG1yww1H9A2w5erGkGDwR4Arv&token=lPeQjNwmnEi0yrKKnRZRUbExz623Eh5yc8-eQHCVzWk&tvf=36reH9VstxhkMTMxLnJuZGZuay5jb20
+#EXTINF:-1,BR Schlager
+https://f131.rndfnk.com/ard/br/brschlager/live/mp3/128/stream.mp3?aggregator=hit-tuner-net&cid=01FBPW18Y814PT3GVEXAZVSP1P&sid=3EtG1tJA0yBdnNCftJP5xfay0jc&token=rywqt_3aOociwmG1XHywJyblCUDCJPgDslIjFvNI414&tvf=eZ_DH9VstxhmMTMxLnJuZGZuay5jb20
+#EXTINF:-1,BR Heimat
+https://f141.rndfnk.com/ard/br/brheimat/live/mp3/128/stream.mp3?aggregator=hit-tuner-net&cid=01FBPW5XTRJ0FFP4F76DH8GA5N&sid=3EtG1vVNMRbSJXn3iYLVo3r037z&token=Zmy4tnqCTmb_cKP5VMMJKMIIkE-QciPaAy10MHCvEfo&tvf=w1LuH9VstxhmMTQxLnJuZGZuay5jb20
 #EXTINF:-1,Studentenfunk Regensburg
 http://studentenfunk.out.airtime.pro:8000/studentenfunk_a
+#EXTINF:-1,Antenne Bayern
+https://s4-webradio.antenne.de/antenne
+#EXTINF:-1,Antenne Bayern Oldies but Goldies
+https://s5-webradio.oldie-antenne.de/oldie-antenne
 #EXTINF:-1,Antenne Bayern Chillout
 https://s8-webradio.antenne.de/chillout
 #EXTINF:-1,Rock Antenne Heavy Metal
@@ -9,18 +25,24 @@ https://s2-webradio.rockantenne.de/heavy-metal
 http://95.216.245.239:8000/;
 #EXTINF:-1,Blasmusikradio
 https://blasmusikradio.stream.laut.fm/blasmusikradio
+#EXTINF:-1,Antenne Bayern Classic Rock
+https://s7-webradio.antenne.de/classic-rock-live
 #EXTINF:-1,Antenne Bayern 80er Hits
 https://s1-webradio.antenne.de/80er-kulthits
 #EXTINF:-1,Bayerwaldradio
 https://bayerwald.ip-streaming.net/bayerwaldradio
 #EXTINF:-1,Rock Antenne Soft Rock
 https://s8-webradio.rockantenne.de/soft-rock
+#EXTINF:-1,Absolut Relax
+https://edge67.live-sm.absolutradio.de/absolut-relax
 #EXTINF:-1,VolksmusikRadio
 https://volksmusikradio.stream.laut.fm/volksmusikradio
 #EXTINF:-1,Antenne Bayern Lovesongs
 https://s7-webradio.antenne.de/lovesongs
 #EXTINF:-1,Maretimo House Radio
 https://s35.derstream.net/house.mp3
+#EXTINF:-1,Antenne Bayern Hits für Kids
+https://s4-webradio.webradio.de/hits-fuer-kids
 #EXTINF:-1,Alpenradio Volksmusik
 https://alpenradio-volksmusik.stream.laut.fm/alpenradio-volksmusik
 #EXTINF:-1,Illertal FM -  Kidsclub Illerfrösche
@@ -45,6 +67,8 @@ https://klassikr.streamabc.net/klr-smooth-mp3-192-1096057
 https://bayerwald.ip-streaming.net/allesblasmusik
 #EXTINF:-1,Antenne Bayern 90er Hits
 https://s6-webradio.antenne.de/90er-hits
+#EXTINF:-1,Rock Antenne Alternative
+https://s6-webradio.rockantenne.de/alternative
 #EXTINF:-1,Antenne Bayern Schlagersahne
 https://s6-webradio.antenne.de/das-schlager-karussell
 #EXTINF:-1,AlpenRadio
@@ -53,12 +77,14 @@ https://alpenradio.stream.laut.fm/alpenradio
 https://s1-webradio.antenne.de/weihnachts-hits
 #EXTINF:-1,Antenne Bayern Hitmix
 https://s7-webradio.antenne.de/in-the-mix
-#EXTINF:-1,Soundtracks FM 
+#EXTINF:-1,Soundtracks FM
 https://soundtracksfm.stream.laut.fm/soundtracksfm
 #EXTINF:-1,Maretimo Lounge Radio
 https://s35.derstream.net/lounge.mp3
 #EXTINF:-1,Radio Tango para Bailar
 https://tangoparabailar.stream.laut.fm/tangoparabailar
+#EXTINF:-1,Absolut Oldie Classics
+https://edge64.live-sm.absolutradio.de/absolut-oldieclassics/stream/mp3
 #EXTINF:-1,Antenne Passau Oldies
 https://breitenberg.stream.laut.fm/breitenberg?t302=2023-09-19_12-31-11&uuid=1ac598d3-d80f-4c4e-a4e2-a1e57eaa0599
 #EXTINF:-1,Memory Radio 1
@@ -73,8 +99,6 @@ https://darkzeroradio.stream.laut.fm/darkzeroradio?t302=2023-04-25_19-33-22&uuid
 https://antenne-passau.stream.laut.fm/antenne-passau?t302=2023-04-25_20-18-12&uuid=1f1af065-e0c8-43b4-ad93-cc3cbface1d4
 #EXTINF:-1,Antenne Passau Rap
 https://antenne-passau-rap.stream.laut.fm/antenne-passau-rap?t302=2023-09-19_12-31-46&uuid=1589c9eb-2b52-421e-ae49-d9770ae7c205
-#EXTINF:-1,Rock Chicks Radio
-http://178.33.33.176:8060/;620963618239251stream.nsv
 #EXTINF:-1,Radio Superoldie
 http://medium.radiosuperoldie.com:8877/;
 #EXTINF:-1,80s One
@@ -101,6 +125,8 @@ https://edge62.streamonkey.net/fhn-gong971
 https://bluesitalia.stream.laut.fm/bluesitalia
 #EXTINF:-1,Antenne Bayern Workout Hits
 https://s4-webradio.antenne.de/workout-hits
+#EXTINF:-1,95.5 Charivari - Webradio
+https://edge70.stream.charivari.de/955charivari-webradio
 #EXTINF:-1,Country Station
 https://country-station.stream.laut.fm/country-station
 #EXTINF:-1,Munich&#039;s Hardest Hits
@@ -111,6 +137,8 @@ https://edge12.live-sm.absolutradio.de/absolut-hot
 https://s1-webradio.webradio.de/coversongs
 #EXTINF:-1,Antenne Bayern Fresh
 https://s6-webradio.antenne.de/fresh
+#EXTINF:-1,95.5 Charivari - Party Hitmix
+https://edge11.stream.charivari.de/955charivari-partyhitmix
 #EXTINF:-1,Filmradio
 https://filmradio.stream.laut.fm/filmradio
 #EXTINF:-1,Antenne Bayern Bayern Sound
@@ -125,8 +153,6 @@ https://halloween-hit-radio.stream.laut.fm/halloween-hit-radio
 https://d111.rndfnk.com/ard/br/br24live/live/mp3/128/stream.mp3?cid=01FBPVZ1VM1J7A07WRVEEMZVP5&sid=2Vbuz4HbICZ9Tnw0ZoEsK2YnWQO&token=HB5hfqO1AMJoW6hChemvW18mJ8S4RiwHZln5ZxRZuj4&tvf=HuoZ-eZXhhdkMTExLnJuZGZuay5jb20
 #EXTINF:-1,Antenne Bayern Black Music
 https://s4-webradio.antenne.de/black-beatz
-#EXTINF:-1,Absolut TOP
-https://edge10.live-sm.absolutradio.de/absolut-top
 #EXTINF:-1,Dark Mythos
 https://dark-mythos.stream.laut.fm/dark-mythos
 #EXTINF:-1,Antenne Bayern Happy Hits
@@ -181,8 +207,6 @@ https://s3-webradio.antenne.de/nur-die-musik/stream/mp3
 https://salsamiamor.stream.laut.fm/salsamiamor
 #EXTINF:-1,Schlager Musikanten
 https://schlagermusikanten.stream.laut.fm/schlagermusikanten?t302=2023-04-25_20-19-35&uuid=285eda91-d348-40d9-b3ec-bd56124a2f67
-#EXTINF:-1,BR Puls
-https://d111.rndfnk.com/ard/br/puls/live/mp3/128/stream.mp3?cid=01FBPW7QW008S7WNVD4TMQK419&sid=2VcN8k94bNLKxlx0Dzb5VgBo0ch&token=w-hGiqF735H_E49sgDTzkhYP2p6Jk_1yYGWSc50lOr0&tvf=5TyXOIlkhhdkMTExLnJuZGZuay5jb20
 #EXTINF:-1,Memory Radio 2
 http://www.memoryradio.de:5000/;stream.nsv
 #EXTINF:-1,Swingtime
@@ -237,16 +261,12 @@ https://abglanz-fm.stream.laut.fm/abglanz-fm
 https://illerpowercharity.stream.laut.fm/illerpowercharity
 #EXTINF:-1,Fantasy Radio
 https://fantasyradio.stream.laut.fm/fantasyradio
-#EXTINF:-1,Radio Primaton
-https://edge16.streamonkey.net/schweinfurt-primaton
 #EXTINF:-1,Classic Radio
 https://classic-radio.stream.laut.fm/classic-radio
 #EXTINF:-1,Sunflower Promotion Discofox &amp; Schlager
 https://discofoxundschlager.stream.laut.fm/discofoxundschlager
 #EXTINF:-1,Petticoat
 https://petticoat.stream.laut.fm/petticoat?t302=2023-04-25_20-19-35&uuid=b4ea4d9e-b0aa-45e2-9de5-407109cd6e0f
-#EXTINF:-1,Charivari Regensburg
-https://edge14.streamonkey.net/charivaristream-regensburg/stream/mp3
 #EXTINF:-1,Radio Primavera
 https://edge12.stream.primavera24.de/primavera24-radioprimavera
 #EXTINF:-1,Pirate Gong
@@ -261,6 +281,8 @@ https://oldiewelle-roding.stream.laut.fm/oldiewelle-roding
 https://schlagerrallyefm.stream.laut.fm/schlagerrallyefm
 #EXTINF:-1,95.5 Charivari - Live-Hits
 https://edge12.stream.charivari.de/955charivari-90erhits
+#EXTINF:-1,Radio TOP FM - Region WEST
+https://topfm.stream46.radiohost.de/topfm-live_mp3-192?addradio&ar-distributor=f0e3&_art=dD0xNzgwOTkwNTYzJmQ9YTI3MjI0Y2RmOTE4N2EzZTI4MmE&upd-meta&upd-scheme=https&ref=f0e3&amsparams=f0e3
 #EXTINF:-1,Bavarias Best Ballads
 https://bavarias-best-ballads.stream.laut.fm/bavarias-best-ballads?t302=2023-04-25_19-35-50&uuid=4aa77f53-1e96-4d59-aaf7-e03a7f90fc68
 #EXTINF:-1,Der Barde
@@ -277,6 +299,8 @@ https://bayernradio.stream.laut.fm/bayernradio
 https://edge12.stream.charivari.de/955charivari-lounge
 #EXTINF:-1,Brainradio Klassik
 https://brainradioklassik.stream.laut.fm/brainradioklassik
+#EXTINF:-1,AllgaeuHIT
+http://allgaeu.stream09.radiohost.de/allgaeuhit_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzgwOTkwNTY0JmQ9ZWMzMWViYWM3MTJmMzgzZDZkZDc
 #EXTINF:-1,Telecaster
 https://telecaster.stream.laut.fm/telecaster
 #EXTINF:-1,Cafe Sofa
@@ -290,7 +314,7 @@ https://edge09.streamonkey.net/schweinfurt-radiohashtagplus
 #EXTINF:-1,Radio Monacensis
 https://monacensis.stream.laut.fm/monacensis
 #EXTINF:-1,Bayernwelle
-https://bayernwelle--di--nacs-ais-lgc--01--cdn.cast.addradio.de/bayernwelle/live/mp3/high
+https://bayernwelle.stream21.radiohost.de/bayernwelle-bgl_mp3-192?addradio&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNTY2JmQ9ZjQ4ZGZiYjFhZjY2ZGQ4Y2I3MDQ
 #EXTINF:-1,Blasmusikradio mit Bernd
 https://blasmusikradiomitbernd.stream.laut.fm/blasmusikradio_mit_bernd
 #EXTINF:-1,RBI - Cruisin&#039; Oldies
@@ -345,14 +369,16 @@ https://edge61.streamonkey.net/gongfm-bestof2000/stream/mp3
 https://kaffee.stream.laut.fm/kaffee
 #EXTINF:-1,Wirtshausmusik
 https://wirtshausmusik.stream.laut.fm/wirtshausmusik
+#EXTINF:-1,Megaradio Bayern Augsburg
+http://megaradio.stream31.radiohost.de/megaradiomix-augsburg_mp3-192?ref=port&upd-meta&upd-scheme=http&_art=dD0xNzgwOTkwNTY4JmQ9ZmRkY2ZkYzA2ODdjZjkxMTc4YmY
 #EXTINF:-1,Der Party-Dj
 https://party-dj-radio.stream.laut.fm/party-dj-radio
+#EXTINF:-1,Münchner Kirchenradio
+https://i2.cdn.jetstre.am:8000/sz%3Dnice-broadcast-media-gmbh%3Dsmb-DAB-128-mp3?token=c8e69eaa36966d410f540c6125b6a8e6&time=61e6acef
 #EXTINF:-1,Radio IndieGo
 https://indiego.stream.laut.fm/indiego
 #EXTINF:-1,Saphira Sound Radio
 https://saphira-sound-radio.stream.laut.fm/saphira-sound-radio
-#EXTINF:-1,Crazy-Club-Beats
-https://s5.stream-webradiotechnik.de:10252/;stream.nsv
 #EXTINF:-1,Rock Antenne Biker
 https://s7-webradio.rockantenne.de/biker-rock
 #EXTINF:-1,Amorsaal
@@ -427,12 +453,14 @@ https://s1.genx-stream.de:8152/listen1
 http://streamplus18.leonex.de:18576/;%20type=
 #EXTINF:-1,Fruehling Radio
 https://fruehling.stream.laut.fm/fruehling
-#EXTINF:-1,RiGe Radio - Isarfunk 
+#EXTINF:-1,RiGe Radio - Isarfunk
 https://isarfunk.stream.laut.fm/isarfunk
 #EXTINF:-1,Charivari Classic Rock
 https://edge06.streamonkey.net/charivari-classicrock
 #EXTINF:-1,Rock Antenne Gothic
 https://s4-webradio.rockantenne.de/gothic/stream/mp3
+#EXTINF:-1,440Hz Radio
+https://stream01.radionetzwerk.net/listen/440hzradio/440hz-main.mp3
 #EXTINF:-1,Fränkisch Spoken
 https://fraenkisch-spoken.stream.laut.fm/fraenkisch-spoken
 #EXTINF:-1,Radio Popadelica
@@ -451,8 +479,8 @@ https://apresski-lounge.stream.laut.fm/apresski-lounge
 https://dj-papa-lion.stream.laut.fm/dj-papa-lion
 #EXTINF:-1,Soulschmalz
 https://soulschmalz.stream.laut.fm/soulschmalz
-#EXTINF:-1,Radio Feten World
-https://stream10.g-factory.de:31502/;stream.nsv
+#EXTINF:-1,ICE Radio
+https://irw.tunefm.de:8070/stream
 #EXTINF:-1,DJ Fritz
 https://dj-fritz.stream.laut.fm/dj-fritz?t302=2023-04-25_20-05-32&uuid=dd782de2-378f-4569-8d28-b08cff846bdf
 #EXTINF:-1,Power Station
@@ -479,8 +507,6 @@ https://edge12.streamonkey.net/gong-inthemix
 https://dasliveradio2.stream.laut.fm/dasliveradio2
 #EXTINF:-1,Charivari 98.6 - Chillout
 https://edge13.streamonkey.net/fhn-986charivarichillout
-#EXTINF:-1,charivari Relax
-https://edge14.streamonkey.net/charivaristream-relax/stream/mp3
 #EXTINF:-1,charivari Made in Germany
 https://edge07.streamonkey.net/charivaristream-madeingermany/stream/aacp
 #EXTINF:-1,Neon FM
@@ -493,13 +519,13 @@ https://studentenfunk.out.airtime.pro/studentenfunk_a
 https://soundpool.stream.laut.fm/soundpool?t302=2023-04-25_19-42-17&uuid=005c0cd5-d09b-4c7c-9861-07b2889329c8
 #EXTINF:-1,MTC-FM
 https://mtc-fm.stream.laut.fm/mtc-fm?t302=2023-04-25_19-42-21&uuid=1ea75210-4edd-4aac-9ac7-327bfb5cb220
-#EXTINF:-1,Dorf Radio 
+#EXTINF:-1,Dorf Radio
 https://dorfradio-burghausen.stream.laut.fm/dorfradio-burghausen
 #EXTINF:-1,Heimspiel
 https://heimspiel.stream.laut.fm/heimspiel
 #EXTINF:-1,WOELFFCHEN
 https://woelffchen.stream.laut.fm/woelffchen
-#EXTINF:-1, COUNTRYMUSIC FM 
+#EXTINF:-1, COUNTRYMUSIC FM
 https://countrymusicfm.stream.laut.fm/countrymusicfm?t302=2023-04-25_20-04-55&uuid=f26e8482-7176-4068-98ba-b8d2e40c6b76
 #EXTINF:-1,BattiFM
 https://battifm.stream.laut.fm/battifm
@@ -581,8 +607,6 @@ https://drive-it-radio.stream.laut.fm/drive-it-radio
 https://main.stream.laut.fm/main?t302=2023-04-25_20-12-30&uuid=ef0fc3ae-7be7-408e-9e6a-945f1e14e687
 #EXTINF:-1,Game-FM
 https://game-fm.stream.laut.fm/game-fm
-#EXTINF:-1,Radio BestHits4All
-https://besthits4all.stream.laut.fm/besthits4all
 #EXTINF:-1,Deutschrock-Radio
 http://drr.stream.laut.fm/drr
 #EXTINF:-1,Bernds Schlager Radio
@@ -659,8 +683,6 @@ https://pommesfm.stream.laut.fm/pommesfm
 https://jv-7.stream.laut.fm/jv-7?t302=2023-04-25_20-14-47&uuid=36f4e5f3-1fb5-4772-b08f-ca01f66e8204
 #EXTINF:-1,BeatAM
 https://beatam.stream.laut.fm/beatam?t302=2023-04-25_20-20-40&uuid=1b40ec1b-f2e5-4897-807b-23d7bab8cd5d
-#EXTINF:-1,Engergy-Radio-For-You
-http://c02.lexycast.de:2190/;stream.nsv
 #EXTINF:-1,netzwerkstationen
 https://netzwerkstationen.stream.laut.fm/netzwerkstationen?t302=2023-04-25_20-26-54&uuid=6a0fa5d0-8a6c-4d25-8e49-1b38174f4c34
 #EXTINF:-1,Winnis-Hitradio
@@ -691,7 +713,7 @@ https://edge62.streamonkey.net/fhn-n904beat/stream/mp3
 https://wuerzblog.stream.laut.fm/wuerzblog?t302=2023-04-25_20-01-16&uuid=d3b0e02b-253d-4d31-ac71-5e171ceb38c3
 #EXTINF:-1,goHappy FM
 https://gohappy-fm.stream.laut.fm/gohappy-fm
-#EXTINF:-1, Handicap Radio 
+#EXTINF:-1, Handicap Radio
 https://handicap.stream.laut.fm/handicap?t302=2023-04-25_20-04-55&uuid=50b18706-0f20-4a3b-b610-e51457679789
 #EXTINF:-1,Chiemgau FM
 https://chiemgaufm.stream.laut.fm/chiemgaufm
@@ -715,7 +737,7 @@ https://teenifm.stream.laut.fm/teenifm?t302=2023-04-25_20-07-27&uuid=dd45f30c-71
 https://vbtfm.stream.laut.fm/vbtfm?t302=2023-04-25_20-07-36&uuid=f15e9aab-a2f5-42ed-aad4-a42ceacf900b
 #EXTINF:-1,Web Radio Power
 https://webradio-power.stream.laut.fm/webradio-power
-#EXTINF:-1,Breitengrad38 
+#EXTINF:-1,Breitengrad38
 https://breitengrad38.stream.laut.fm/breitengrad38
 #EXTINF:-1,Lbchoodradio
 https://lbchoodradio.stream.laut.fm/lbchoodradio
@@ -743,7 +765,7 @@ https://minemusic-clubhouse.stream.laut.fm/minemusic-clubhouse
 https://minemusic.stream.laut.fm/minemusic?t302=2023-04-25_19-46-59&uuid=6ebd8a3c-c69a-4831-9cd9-672209d1a2a2
 #EXTINF:-1,Pongis
 https://pongis.stream.laut.fm/pongis
-#EXTINF:-1, Dein Radio HOF 
+#EXTINF:-1, Dein Radio HOF
 https://dein-radio-hof.stream.laut.fm/dein-radio-hof
 #EXTINF:-1,1000FM
 https://1000fm.stream.laut.fm/1000fm
@@ -805,8 +827,8 @@ http://streamplus18.leonex.de:18576/;
 https://jazzloft.stream.laut.fm/jazzloft?t302=2023-05-09_12-16-32&uuid=7e689a6b-be44-4c82-ac8f-de64d18dc88a
 #EXTINF:-1,95.5 Charivari - München
 https://edge63.stream.charivari.de/955charivari-webradio?aggregator=r8082_pls
-#EXTINF:-1,AFN 360 Bavaria
-http://22533.live.streamtheworld.com:80/AFNE_BAV_SC
+#EXTINF:-1,Radio Galaxy Oberfranken
+http://edge71.streamonkey.net/galaxy-oberfranken?aggregator=rds24_webstream_galaxyoberf_de_gof_aac
 #EXTINF:-1,laut.fm Fantasyradio
 http://fantasyradio.stream.laut.fm/fantasyradio?t302=2023-04-25_19-30-05&uuid=111a4760-875d-4e89-9d44-af5c92f76ccb
 #EXTINF:-1,Rock Antenne - Heavy Metal
@@ -823,8 +845,6 @@ http://s5-webradio.antenne.de/90er-hits
 http://s8-webradio.antenne.de/fresh
 #EXTINF:-1,Antenne Bayern - Black Beatz
 http://s2-webradio.antenne.de/black-beatz
-#EXTINF:-1,Bayern 2 Süd
-https://mcdn.hf.br.de/br/hf/b2sued/master.m3u8
 #EXTINF:-1,Antenne Bayern - 80er Kulthits
 http://s7-webradio.antenne.de/80er-kulthits
 #EXTINF:-1,Antenne Bayern - Oldies but Goldies
@@ -867,12 +887,18 @@ https://edge08.stream.charivari.de/955charivari-lounge?ref=charivari.de&aw_0_1st
 http://s8-webradio.rockantenne.de/munich-city-nights
 #EXTINF:-1,Cuterdio 3
 https://s4-webradio.rockantenne.de/alternative/stream/mp3
+#EXTINF:-1,zaitzkofen.live
+http://rs36.stream24.net/herz-jesu.mp3
 #EXTINF:-1,ANTENNE INGOLSTADT
 https://antenne-ingolstadt.stream.laut.fm/antenne-ingolstadt?pl=asx&t302=2023-05-10_18-25-46&uuid=7f138df6-8e63-4215-895a-43a60654f5e0
 #EXTINF:-1,Chiarivari - Party Mix
 https://edge59.stream.charivari.de/955charivari-partyhitmix/stream/mp3?aggregator=RDs24_rs5_stream24
+#EXTINF:-1,Chiarivari - Italo Hits
+http://edge64.stream.charivari.de/955charivari-italohits/stream/mp3?aggregator=RDs24_rs24_stream24
 #EXTINF:-1,ghost town radio
 https://ghosttownradio.out.airtime.pro/ghosttownradio_a
+#EXTINF:-1,Radio 8 - Ansbach DE
+https://live.radio8.de:8003/liver8
 #EXTINF:-1,LL-Music
 https://ll-music.stream.laut.fm/ll-music?t302=2023-04-25_19-35-23&uuid=4fa99b86-67ff-4cc1-b785-9cbea053aedd
 #EXTINF:-1,Antenne Bayern Munich City Nights
@@ -886,7 +912,7 @@ https://funkhaus-ingolstadt.stream24.net/oldie-welle-ingolstadt.mp3
 #EXTINF:-1,Bayern 1 Oberbayern
 https://d111.rndfnk.com/ard/br/br1/obb/mp3/128/stream.mp3?cid=01FB9ME7567MEQ5G72EVEEVVCS&sid=2R9BcngwxT5XcbjTzQHjujsGKXt&token=vTZLXNCkTn24uGpm15tsRsw3aUowcnTe-TibU89-LMU&tvf=wiauAyhFaBdkMTExLnJuZGZuay5jb20
 #EXTINF:-1,Bayernwelle SüdOst
-https://bayernwelle--di--nacs-ais-lgc--09--cdn.cast.addradio.de/bayernwelle/live/mp3/high?ar-distributor=f0b7&_art=dj0yJmlwPTk1LjEwNS45LjEyNCZpZD1pY3NjeGwtb2hieHd0Ym9iJnQ9MTY4MjUzMDYxOCZzPTc4NjZmMjljIzdkZGQ0ODVlNTJmMmUwNGQwYTU1YWI4MWE1NjFmZDM4
+https://bayernwelle.stream18.radiohost.de/bayernwelle-bgl_mp3-192?addradio&ar-distributor=f0b7&_art=dD0xNzgwOTkwNTk3JmQ9NDU0MTU0OTZkNGI4NzU3MTNjOGI&upd-meta&upd-scheme=https&ref=f0b7&amsparams=f0b7
 #EXTINF:-1,The Artist
 https://theartist.stream.laut.fm/theartist?pl=m3u&t302=2023-05-10_13-13-07&uuid=6c54b11e-6278-4242-a749-a9e065ea20ad
 #EXTINF:-1,STAR FM Nürnberg
@@ -906,7 +932,7 @@ http://s6-webradio.rockantenne.de/modern-rock/stream/aacp
 #EXTINF:-1,münchen.tv
 https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1,Hellweg Radio
-https://hellwegradio--di--nacs-ais-lgc--03--cdn.cast.addradio.de/hellwegradio/live/mp3/high?ar-distributor=f0d1&_art=dj0yJmlwPTk1LjEwNS45LjEyNCZpZD1pY3NjeGwtYnFtcmRmYm83JnQ9MTY4MjUzMDc2MSZzPTc4NjZmMjljI2RiODQ3MDBhNTUwMmExNTYwOGQwNWE3ZDUwNzk3ZDM0
+https://hellwegradio.stream48.radiohost.de/hellwegradio-live_mp3-192?addradio&ar-distributor=f0d1&_art=dD0xNzgwOTkwNTk5JmQ9NzYxYjlhODI4ZjQ1NDg4NjA3Yjg&upd-meta&upd-scheme=https&ref=f0d1&amsparams=f0d1
 #EXTINF:-1,Freizeit
 https://freizeit.stream.laut.fm/freizeit?pl=pls&t302=2023-05-09_22-15-30&uuid=11f1da9a-086e-45c6-9a4b-b47953b04584
 #EXTINF:-1,Rockantenne Symphonic-Rock
@@ -915,8 +941,6 @@ http://s1-webradio.rockantenne.de/symphonic-rock/stream/mp3
 https://edge62.streamonkey.net/fantasy-934
 #EXTINF:-1,Hit-RADIOTOM
 https://hitradiotom.stream.laut.fm/hitradiotom?t302=2023-04-25_19-42-36&uuid=a53cee24-f88f-47d7-ac3a-9a05d1d2d26d
-#EXTINF:-1,deinfm
-https://deinfmowl--di--nacs-ais-lgc--06--cdn.cast.addradio.de/deinfmowl/live/mp3/high?_art=dj0yJmlwPTk1LjEwNS45LjEyNCZpZD1pY3NjeGwtYTJ3ZmFzaW1iJnQ9MTY4MjUzMDk4NyZzPTc4NjZmMjljIzg3MzcxZGM4NTliZTRkYmQ5Mjg4MGE2MTM1MTczNDUz
 #EXTINF:-1,Radio Galaxy Ingolstadt
 https://funkhaus-ingolstadt.stream24.net/galaxy-ingolstadt.mp3
 #EXTINF:-1,BR-Klassik mp3 192 kbit
@@ -933,6 +957,70 @@ http://edge63.streamonkey.net/gong-live?aggregator=user
 https://gohappy-fm.stream.laut.fm/gohappy-fm?t302=2023-04-30_16-14-30&uuid=cd31c100-095d-49da-8ee7-8b891cec0c31
 #EXTINF:-1,95.5 Charivari München - Lounge
 http://edge59.stream.charivari.de/955charivari-lounge/stream/mp3?aggregator=RDs24_rs24_stream24
+#EXTINF:-1,PIANO COVERHITS by Epic Piano
+https://0nlineradio.stream42.radiohost.de/piano-piano-coverhits?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNTk5JmQ9ZWM1ZmZmYjk3YjUzMmI4MjI1ZGQ
+#EXTINF:-1,GREAT PIANO CONCERTS by Epic Piano
+https://0nlineradio.stream13.radiohost.de/piano-great-piano-concerts?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNTk5JmQ9MmFiMDBlNWQ1YjZjYzg4YzMyMjY
+#EXTINF:-1,CHOPIN by Epic Piano
+https://0nlineradio.stream42.radiohost.de/piano-chopin?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNTk5JmQ9YzIxNzg4Mjk5YzM3M2UzMTllMjQ
+#EXTINF:-1,GRIEG by Epic Piano
+https://0nlineradio.stream42.radiohost.de/piano-grieg?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNTk5JmQ9YTAyYzA1MDEwZmE2NzU4ODNjZTc
+#EXTINF:-1,TSCHAIKOWSKI by Epic Piano
+https://0nlineradio.stream42.radiohost.de/piano-tschaikowski?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAwJmQ9YWQ3OGU0ODNjODdjNDkwZDQxNGE
+#EXTINF:-1,LISZT by Epic Piano
+https://0nlineradio.stream42.radiohost.de/piano-liszt?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAwJmQ9MzdhM2JhNGQwMmRlOTY2YmVhNjY
+#EXTINF:-1,SOLO PIANO by Epic Piano
+https://0nlineradio.stream42.radiohost.de/piano-solo-piano?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNTk5JmQ9YTQ3M2ZiMmQzZjRkZTkwMDI4N2Y
+#EXTINF:-1,MODERN PIANO by Epic Piano
+https://0nlineradio.stream42.radiohost.de/piano-modern-piano?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAwJmQ9ZGMxZjc4MWM5YWEyZjdlMWIwZTQ
+#EXTINF:-1,CHILLOUT PIANO by Epic Piano
+https://0nlineradio.stream42.radiohost.de/piano-chillout-piano?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAwJmQ9NmU5MjVlOWMzMjNkZjZmM2Y2NTM
+#EXTINF:-1,0nlineradio BACH
+https://0nlineradio.stream42.radiohost.de/0r-bach?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAwJmQ9MGE0NWE1ZThlYmQ2NGFmYjk0Mzc
+#EXTINF:-1,0nlineradio HÄNDEL
+https://0nlineradio.stream42.radiohost.de/0r-haendel?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9ZDNiNzE0MDUxNzIyMDI5Y2ExNTE
+#EXTINF:-1,0nlineradio VIVALDI
+https://0nlineradio.stream42.radiohost.de/0r-vivaldi?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9N2Q4Njc5ZTg3NWUwMzk2M2VmZDE
+#EXTINF:-1,0nlineradio AMERICAN CHRISTMAS
+https://0nlineradio.stream42.radiohost.de/0r-us-christmas?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9NTk0Y2E4MjYyYmE2YzJhYTEzMjU
+#EXTINF:-1,Technolovers HANDSUP
+https://0nlineradio.stream42.radiohost.de/technolovers-handsup?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9MjRlZTlmM2Y1ZjFiMzJkMzQ0ZDg
+#EXTINF:-1,Technolovers HOUSE
+https://0nlineradio.stream42.radiohost.de/technolovers-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9Yzg1NjlkY2JmMTMzNmNkYzk1NmQ
+#EXTINF:-1,Technolovers EDM
+https://0nlineradio.stream42.radiohost.de/technolovers-edm?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9MTY2ZDQzNzRiZGNlNThlYzU1ODQ
+#EXTINF:-1,Technolovers FESTIVAL SOUNDS
+https://0nlineradio.stream42.radiohost.de/technolovers-festivalsounds?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9NmUxNGE1MTE5Mzc5YjBmZDk1ZGI
+#EXTINF:-1,Technolovers LATIN HOUSE
+https://0nlineradio.stream42.radiohost.de/technolovers-latinhouse?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9ZDVlOWU2N2ZkZGI4NDNmYjQzMTA
+#EXTINF:-1,Technolovers MELBOURNE BOUNCE
+https://0nlineradio.stream42.radiohost.de/technolovers-melbourne-bounce?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9OWI3NjY2MjI2MTJkMDM1NDM3ODk
+#EXTINF:-1,Technolovers DEEP HOUSE
+https://0nlineradio.stream42.radiohost.de/technolovers-deep-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAxJmQ9NjVhOWZlMzUwMzRlYjUwM2IyZmY
+#EXTINF:-1,Technolovers HARDSTYLE
+https://0nlineradio.stream42.radiohost.de/technolovers-hardstyle?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9MjRhN2Y0ZDQ0OTljNGNjZWJjNTQ
+#EXTINF:-1,Technolovers DRUM N BASS
+https://0nlineradio.stream42.radiohost.de/technolovers-drummnbass?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9ODU1YWNlNDZiNDU0ZjEzYjQ5MjU
+#EXTINF:-1,Technolovers  ELECTRO
+https://0nlineradio.stream42.radiohost.de/technolovers-electro?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9NzBlMTI2NWVjZDBjNDdjOTI5Yzc
+#EXTINF:-1,Technolovers FUTURE HOUSE
+https://0nlineradio.stream42.radiohost.de/technolovers-future-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9NmZjZjdlZDc5OWRjYzk5ZGFlMDA
+#EXTINF:-1,Technolovers TRAP
+https://0nlineradio.stream42.radiohost.de/technolovers-trap?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9ODU5OTYzNDQ1ZmJjNDdjYzU4NjU
+#EXTINF:-1,Technolovers HARDCORE
+https://0nlineradio.stream42.radiohost.de/technolovers-hardcore?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9ZDMzNTVlMGZiZWVjMjQ4ZjAwODU
+#EXTINF:-1,Technolovers ELECTRO HOUSE
+https://0nlineradio.stream42.radiohost.de/technolovers-electro-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9NDYzYTVlMDdhMTdiZDNiM2VhOGU
+#EXTINF:-1,Technolovers TROPICAL HOUSE
+https://0nlineradio.stream42.radiohost.de/technolovers-tropical-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9M2I5MGY1MjE1MGU4M2Y3MDZjNWY
+#EXTINF:-1,Technolovers DIRTY HOUSE
+https://0nlineradio.stream13.radiohost.de/technolovers-dirty-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9NWRhNzk0Y2QzOTNmYjVjNTU5NDM
+#EXTINF:-1,Technolovers EURODANCE
+https://0nlineradio.stream42.radiohost.de/technolovers-eurodance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAyJmQ9NjM0ZTA2MmIzYzZlYjc3M2M3MGY
+#EXTINF:-1,Technolovers VOCAL TRANCE
+https://0nlineradio.stream42.radiohost.de/technolovers-vocal-trance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAzJmQ9NDFkZjMwMmNmZWMyYWNjYzhkMDg
+#EXTINF:-1,Technolovers TRANCE
+https://0nlineradio.stream42.radiohost.de/technolovers-trance?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzgwOTkwNjAzJmQ9M2E4YWZjZWQ4ZTNlYmFiZDA4MGE
 #EXTINF:-1,Illerkanal
 http://illerkanal.stream.laut.fm/illerkanal?t302=2023-04-25_19-45-36&uuid=6aa3aa1e-bf70-461f-960d-10c30674d0ba
 #EXTINF:-1,LEBENS-RADIO
@@ -948,7 +1036,7 @@ https://80er-abc.stream.laut.fm/80er-abc?t302=2023-09-19_12-39-13&uuid=b353fafe-
 #EXTINF:-1,Radio Gong 97.1
 https://edge16.streamonkey.net/fhn-gong971/stream/mp3
 #EXTINF:-1,Radio Music Road
-http://bayern.streampanel.net:10772/;
+https://gartenheimradio.spcast.eu/?time=1780990305
 #EXTINF:-1,WDR4a
 https://wdrhf.akamaized.net/hls/live/2027995/wdr4/master.m3u8
 #EXTINF:-1,Absolut musicXL

@@ -241,3 +241,47 @@ http://178.88.167.62:8080/AVTORADIO_192
 http://212.112.96.232:8081
 #EXTINF:-1,NasaatFM
 http://ec5.yesstreaming.net:1550/stream
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/130600.v1.png",Суусамыр FM 103.0 
+https://myradio24.org/59537
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128095.v1.png",ToguzToroFM 105.1 
+https://myradio24.org/42010
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Europa Plus Kyrgyzstan FM
+http://broadcast.infomaniak.net:80/radiochablais-high.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Europa Plus
+http://icecast.vgtrk.cdnvideo.ru/rrzonam
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102992/logo_L6u1DuXMpj.png",Санжыра радиосу
+https://russia.radiosolo.ru/radio_ru/sanjyra/icecast.audio
+#EXTINF:-1,ColdStar.Online Radio (Low quality) 
+https://ice.coldstar.online/low.mp3
+#EXTINF:-1,Биринчи Radio 
+https://liveradio.utrk.kg/1radio
+#EXTINF:-1,Сүйүнчү FM (Suiunchu FM) 
+https://cdn.radioplayer.kg:8443/suiunchu64
+#EXTINF:-1,The Holy Quran  by Sheikh Mahmoud Al-Husari 
+https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Aura FM - Kyrgyzstan - Bishkek
+https://cdn.radioplayer.kg:8443/new64
+#EXTINF:-1,Avtoradio Bishkek FM 107.8 - Kyrgyzstan - Bishkek
+https://cast.avtoradio.kg/0/avtoradio
+#EXTINF:-1,Hit FM Kyrgyzstan - Kyrgyzstan - Bishkek
+https://cdn.radioplayer.kg:8443/hitfm64
+#EXTINF:-1,Kyrgyzstan Obondoru - Kyrgyzstan - Bishkek
+https://cdn.radioplayer.kg:8443/obondoru64
+#EXTINF:-1,OK Radio FM 100.5 - Kyrgyzstan - Bishkek
+https://stream.okradio.kg:8005/stream
+#EXTINF:-1,Tumar FM - Kyrgyzstan - Bishkek
+https://radio.tumar.fm:8005/stream
+#EXTINF:-1,Радио Европа Плюс Ош 103.8 - Kyrgyzstan - Osh
+https://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-manas-569354-logo.jpg",Radio Manas
+http://mediamanas.kg/radio/index.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dostuk-radiosi-601871-logo.jpg",Dostuk Radiosi
+http://85.113.29.232:8082/;
+#EXTINF:-1 tv-logo="",Radio Kyrgyz R
+http://www.ktrk.kg/online-audio.php?id=1
+#EXTINF:-1 tv-logo="",Radio Min Kiyal FM
+http://www.ktrk.kg/online-audio.php?id=3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/stan-tv-581368-logo.jpg",Radio Stan TV
+http://engl.stan.tv/online_tv/?ch_id=1

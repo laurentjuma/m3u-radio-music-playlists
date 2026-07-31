@@ -571,22 +571,12 @@ http://ample-10.radiojar.com/ggu0fd6qu2wtv?rj-ttl=5&amprj-tok=AAABcDNXGs0AOKtLf9
 http://50.7.70.58:8668/stream
 #EXTINF:-1,Radio Vital
 https://s2.yesstreaming.net:9097/stream
-#EXTINF:-1,Radio Altiplano
-https:/http:/adio11.mega00.com/8018/stream
-#EXTINF:-1,Radio Public Sante
-https:/http:/adiopublicsante.ice.infomaniak.chhttp:/adiopublicsante-192.mp3
-#EXTINF:-1,La voz del ángel de tu salud
-http:/http:/stream.hostdime.com:8074/index.htm
 #EXTINF:-1,VIP-Radios - Healing Music
 http://178.32.111.41:8039/stream-128kmp3-HealingMusic
-#EXTINF:-1,Radio Altiplano (Tlaxcala) - 96.5 FM - XHTLAX-FM - CORACYT - Tlaxcala, TL
-https:/http:/adio11.mega00.com/8018/;
 #EXTINF:-1,Kiangsu Health Radio
 http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
 #EXTINF:-1,Carolyn Dean Radio
 http://streams.primesite7.com/DrCarolynDean.mp3
-#EXTINF:-1,山西健康之声广播
-http:/http:/adiolive.sxrtv.com/live/jiankang.m3u8
 #EXTINF:-1,Men&#039;s Radio Station
 https://s2.radio.co/s2d05b6ca9/listen
 #EXTINF:-1,Radio Sunce
@@ -703,3 +693,47 @@ https://wres.streamguys1.com/wres
 https://healthcarenowradio.out.airtime.pro/healthcarenowradio a
 #EXTINF:-1,Positively Uplifting 417Hz -om - 0 - The United Arab Emirates - ambient and relaxation music - healing - health - meditation - positive energie
 http://publichealthradio.ice.infomaniak.ch/publichealthradio-192.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-salut-171232-logo.jpg",Radio Salut
+http://strd01.emisorasonline.es:9001/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-terapias-portugues-628440-logo.jpg",Radio Terapias Português
+http://176.31.241.17:8103/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/reachmd-602137-logo.jpg",Radio ReachMD
+http://peridot.streamguys.com:5470/TIRadio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-dr-daliah-show-590017-logo.jpg",Radio The Dr. Daliah Show
+http://74.202.111.236:2518/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wellness-radio-minneapolis-571985-logo.jpg",Wellness Radio Minneapolis
+http://player.listenlive.co/57071
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-health-wyze-report-583280-logo.jpg",Radio The Health Wyze Report
+http://healthwyze.org:7777/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gcn-bright-side-ben-fuchs-591258-logo.jpg",Radio GCN BRIGHT SIDE (BEN FUCHS)
+http://ondemandmedia1.gcnlive.com:2530/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/genius-radio-647119-logo.jpg",Genius Radio
+http://s19.total-streaming.com:8000/GeniusRadio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wuxi-city-life-radio-581879-logo.jpg",Wuxi City Life Radio
+http://115.28.48.27/10.144.46.43/live/2783/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zhenjiang-music-radio-581875-logo.jpg",Zhenjiang Music Radio
+http://qingting.fm/livechat/channels/4605
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jinlin-village-radio-584639-logo.jpg",Jinlin Village Radio
+http://fm976.jlradio.cn/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jilin-health-and-entertainment-radio-584641-logo.jpg",Jilin Health & Entertainment Radio
+http://qingting.fm/livechat/channels/4952
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/heilongjiang-channel-97-584656-logo.jpg",Radio Heilongjiang Channel 97
+http://42.121.31.8/10.160.42.180/live/4972/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/heilongjiang-country-radio-584655-logo.jpg",Heilongjiang Country Radio
+http://112.124.42.102/10.160.42.180/live/4977/24.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/candeo-recovery-radio-604752-logo.jpg",Candeo Recovery Radio
+http://192.184.9.158:8133/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/walk-in-my-shoes-radio-607286-logo.jpg",Walk In My Shoes Radio
+http://149.255.59.3:8037/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/health-professional-radio-brisbane-608703-logo.jpg",Health Professional Radio - Brisbane
+http://209.236.74.101:8008/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ensalada-verde-616845-logo.jpg",Radio Ensalada Verde
+http://streamall.alsolnet.com:443/ensaladaverde
+#EXTINF:-1 tv-logo="",Radio pkps.nl
+http://hagehosting.com:8010/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jiangsu-health-broadcast-177873-logo.jpg",Radio Jiangsu Health Broadcast
+http://www.zueiai.net/radio/js/24.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hunan-greenism-radio-583828-logo.jpg",Hunan Greenism Radio
+http://42.96.172.82/10.129.53.135/live/4982/48.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-salud-la-colmena-588588-logo.jpg",Radio Salud La Colmena
+http://200.58.106.247:8404/;

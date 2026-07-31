@@ -613,8 +613,6 @@ https://carol.epichosts.co.uk:8270/live.mp3
 https://strm.voh.com.vnhttp:/adio/channel1/playlist.m3u8
 #EXTINF:-1,VOH 610 AM
 https://strm.voh.com.vnhttp:/adio/channel2/chunklist_w290535666.m3u8
-#EXTINF:-1,RFI Tiếng Việt
-http:/http:/fivietnamien96k.ice.infomaniak.chhttp:/fivietnamien-96k.mp3
 #EXTINF:-1,VOV 5 World 24/7 English
 https://stream.vovmedia.vn/vov247
 #EXTINF:-1,VOH
@@ -635,3 +633,39 @@ https://node-04.zeno.fm/7m5cd9fad3quv.aac?rj-ttl=5&amprj-tok=AAABbtXubY8Ar1KDA50
 https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
 #EXTINF:-1,VOV1 - 256 - Vietnam - government - news
 https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83686/logo_lRH29Ga9pa.png",Hanoi96 Radio
+http://222.252.21.96:8000/HANOI96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83679/logo_zoYcQQUQRj.png",VOH 610 AM Radio
+https://strm.voh.com.vn/radio/channel2/chunklist_w290535666.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83677/logo_Bg1MndJWux.png",Quran in Vietnamese Radio
+https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3%2F%3Bstream.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83682/logo_BZbr8LlJri.png",VOV 2 Radio
+https://stream.vovmedia.vn/vov2/
+#EXTINF:-1,Saigoner - Radio Cô Đơn - Vietnam - Ho Chi Minh City
+https://stream.zeno.fm/6p12ugpebkhvv
+#EXTINF:-1,Scientific Sound Asia FM - Vietnam - Ho Chi Minh City
+https://carol.epichosts.co.uk:8272/live.mp3/;
+#EXTINF:-1,VOV 3 102.7 FM - Vietnam - Hanoi
+https://stream.vovmedia.vn/vov3
+#EXTINF:-1,VOV Giao Thong 91.00 FM - Vietnam - Hanoi
+https://stream.vovmedia.vn/vovgthn
+#EXTINF:-1,VOV5 FM 105.5 - Vietnam - Hanoi
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-4-logo.jpg",Radio VOV 4
+http://media.kythuatvov.vn:7035/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-3-logo.jpg",Radio VOV 3
+https://stream.vov.vn/cde884a8f0af9e055bc86eaecb9741721688296838/vov3-audio/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-giao-thong-ha-noi-logo.jpg",Radio VOV Giao Thông Hà Nội
+https://stream.vov.vn/d635b3695a4795db2be7c99d7263b2831688297874/giao_thong_ha_noi-audio/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-demsang-170787-logo.jpg",Radio Demsang
+http://highmp3.demsang.com/;
+#EXTINF:-1 tv-logo="",Radio VOV2
+http://m.vov.vn/RadioPlayer.aspx?c=vov2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vov5-569413-logo.jpg",Radio VOV5
+http://m.vov.vn/RadioPlayer.aspx?c=vov5
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vov1-569415-logo.jpg",Radio VOV1
+http://m.vov.vn/RadioPlayer.aspx?c=vov1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/saigon-television-580805-logo.jpg",Radio Saigon Television
+http://www.saigontivi.com/onlinetv.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-6-logo.jpg",Radio VOV 6
+https://stream.vov.vn/2d424a5f73c34f6700f93e2b0858c8281688297471/vov1-audio/playlist.m3u8

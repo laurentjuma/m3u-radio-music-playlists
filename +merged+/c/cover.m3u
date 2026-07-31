@@ -147,3 +147,9 @@ https://somafm.com/covers.pls
 https://stream.unistar.by/unistar covers internal/unistar covers/playlist.m3u8
 #EXTINF:-1,Радио Романтика - 64 - The Russian Federation - chillout - covers - pop - relax
 https://rr-covers.hostingradio.ru/rrcovers96.aacp
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38664/logo_xEIRehSsBM.png",Classic Mix - Radio Dacia
+http://5.2.198.216:8018/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38664/logo_vdlq32t9PU.jpg?v=20260529-media-restore",Classic Mix - Radio Dacia
+http://5.2.198.216:8018/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-musicflix-radio-logo.jpg",MusicFlix Radio
+https://stream.radiojar.com/rcaqcws0fwuvv

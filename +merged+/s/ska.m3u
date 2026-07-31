@@ -1019,8 +1019,6 @@ https://eu4.fastcast4u.com/proxy/nikoud00?mp=/1
 http://51.255.235.165:5528/stream
 #EXTINF:-1,Fresh Rock
 https://stream.freshrock.net/128.mp3
-#EXTINF:-1,Raus
-https:/http:/aus.stream.laut.fmhttp:/aus
 #EXTINF:-1,Punkrockers-radio
 https://stream.punkrockers-radio.de:8443/ogg
 #EXTINF:-1,Alaska Public Media
@@ -1029,14 +1027,10 @@ https://alaskapublic-live.streamguys1.com/aac-web
 https://ice4.somafm.comhttp:/eggae-128-aac
 #EXTINF:-1,Kamikaze Radio
 http://streamplus3.leonex.de:10894/;853482718523985stream.nsv
-#EXTINF:-1,Riotradio
-https:/http:/iotradio.stream.laut.fmhttp:/iotradio
 #EXTINF:-1,WRPS Rockland
 https://www.ophanim.net:8444/s/9690
 #EXTINF:-1,KCAM Radio
 https://audio-edge-3mayu.fra.h.radiomast.io/kcam
-#EXTINF:-1,RauteMusik Caribbean Wave
-https:/http:/autemusik-de-hz-fal-stream11.radiohost.de/caribbean-wave_mp3-192
 #EXTINF:-1,Radio Endstation
 https://funkturm.radio-endstation.dehttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,Black Tapes On Air
@@ -1069,12 +1063,8 @@ http://frogradio.net:8080/stream
 http://ic1.smcdn.pl:8000/2400-1.mp3
 #EXTINF:-1,OpenFM - Top Wszech Czasow - Polska
 http://stream.open.fm/152
-#EXTINF:-1,Radio Bob Ska Stream
-https:/http:/egiocast.streamabc.nethttp:/egc-radiobobska6892150-mp3-192-1651077
 #EXTINF:-1,CBC Radio One Saskatoon
 https://cbcradiolive.akamaized.net/hls/live/2041054/ES_R1SSA/adaptive_192/chunklist_ao.m3u8
-#EXTINF:-1,ESKA Białystok
-https:/http:/adio.stream.smcdn.pl/timeradio-p/2020-1.aac/playlist.m3u8
 #EXTINF:-1,Punkrockers Radio
 http://stream.punkrockers-radio.de:8000/mp3
 #EXTINF:-1,Skatkis Radio
@@ -1201,3 +1191,75 @@ https://eu10.fastcast4u.com/tonicska
 http://revoice.ru:8000/tunguska.mp3
 #EXTINF:-1,WRPS 88.3 FM - 128 - The United States Of America - 80s - alternative - punk - ska
 http://aska.ru-hoster.com:8093/mikuparu
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/25.png",Reggae141
+https://fmradiohub.in/radio?url=http://hestia2.cdnstream.com/1301_128
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1343.png",Bob's SKA Radio
+https://fmradiohub.in/radio?url=http://51.255.235.165:5528/stream/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/1803.png",ISLAND VIBES RADIO
+https://fmradiohub.in/radio?url=http://s8.voscast.com:8982/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4139.png",KSHR DB
+https://streaming.hotmixradio.fr/hotmixradio-lounge-128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15131.png",Joint Radio Reggae
+https://fmradiohub.in/radio?url=http://star.jointil.net/proxy/jrn_reggae?mp=/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16668.png",Alpha Boys Radio
+https://fmradiohub.in/radio?url=http://alphaboys-live.streamguys1.com/alphaboys.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16673.png",Kool 97 FM
+https://edge.mixlr.com/channel/yhlyj
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16675.png",SunCity 
+https://edge.mixlr.com/channel/ibrdq
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/20749.png",Rádio Reggae Brasil - Rio de Janeiro
+https://stream-151.zeno.fm/63qk6h62p6duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2M3FrNmg2MnA2ZHV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhUUkxtWVUzUVE2VDVKcjZiVzZJdHciLCJpYXQiOjE3NDkyOTAzNTUsImV4cCI6MTc0OTI5MDQxNX0.OVNUuttT8D2YpyU6O81q1pP_TQxAHyLSAx2LPEm-Mic
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35907.png",SkaWorld
+https://fmradiohub.in/radio?url=http://skaworld.stream.laut.fm/skaworld
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36064.png",Raus
+https://fmradiohub.in/radio?url=http://raus.stream.laut.fm/raus
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36128.png",Big-Up Radio
+https://fmradiohub.in/radio?url=http://big-up.stream.laut.fm/big-up
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36353.png",Yugotopia Beat Club
+https://fmradiohub.in/radio?url=http://yugotopia-beat-club.stream.laut.fm/yugotopia-beat-club
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36354.png",Radio Emergency
+https://fmradiohub.in/radio?url=http://radio-emergency.de:333/radioemergency.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36549.png",Fortschritt
+https://fmradiohub.in/radio?url=http://fortschritt.stream.laut.fm/fortschritt
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36688.png",Skafari
+https://fmradiohub.in/radio?url=http://skafari.stream.laut.fm/skafari
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36998.png",Bubble Radio
+https://fmradiohub.in/radio?url=http://bubble-radio.stream.laut.fm/bubble-radio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37110.png",Riotradio
+https://fmradiohub.in/radio?url=http://riotradio.stream.laut.fm/riotradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37123.png",Radio Eastend
+https://fmradiohub.in/radio?url=http://eastend.stream.laut.fm/eastend?t302=2020-05-22_11-27-38&uuid=64f7704e-527e-4a91-8f79-d2fcff0b0abf
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37175.png",DET203
+https://fmradiohub.in/radio?url=http://stream.laut.fm:80/det203
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/37199.png",Raintown
+https://fmradiohub.in/radio?url=http://raintown.stream.laut.fm/raintown
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43329.png",Leicester Community Radio
+https://fmradiohub.in/radio?url=http://icecast.maxxwave.co.uk/lcr_aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43442.png",Pigpen Radio
+https://azuracast.spollin.net:8000/radio.mp3?listening-from-radio-garden=1672823810
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10039.png",Rádio Impuls 96.6 FM
+https://fmradiohub.in/radio?url=http://icecast5.play.cz/impuls128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10066.png",Hey Radio
+https://fmradiohub.in/radio?url=http://icecast3.play.cz/hey-radio128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10084.png",Hitrádio Vysočina 94.3 FM
+https://fmradiohub.in/radio?url=http://ice5.abradio.cz/hitvysocina128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10086.png",Rádio Relax 92.3 FM
+https://fmradiohub.in/radio?url=http://mp3stream3.abradio.cz/relax128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10098.png",Fajn radio Fresh
+https://fmradiohub.in/radio?url=http://ice.abradio.cz:8000/fajnfresh128.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10109.png",Český rozhlas Ostrava 107.3 FM
+https://fmradiohub.in/radio?url=http://icecast1.play.cz/croov64.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29439651.jpg",Radio Caprice - Ska
+https://fmradiohub.in/radio?url=http://79.111.119.111:8000/ska
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/96584056.jpg",Radio Caprice - Ska Punk/Core
+https://fmradiohub.in/radio?url=http://79.111.119.111:8000/skapunk
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Z9QBTU.png",Pinguin Ska World
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2292843_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SJIBSW.png",Tonic Ska Radio
+https://eu4.fastcast4u.com/proxy/tonicska?mp=/1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PMK2AW.png",UNS IP Radio
+https://stream.radiojar.com/z2mcx2snz7zuv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9UCB5H.png",X13 Radio - SKA Music
+https://x13radio.com:8002/stream/26/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9Q01SH.png",X13Radio - SKA Music HD
+https://x13.streamguys1.com/x13-skamusic

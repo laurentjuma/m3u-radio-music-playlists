@@ -11,6 +11,8 @@ https://edge.mixlr.com/channel/kijwr
 http://radioshamfm.grtvstream.com:8400/
 #EXTINF:-1,Rotana FM (روتانا إف إم)
 http://curiosity.shoutca.st:6035/
+#EXTINF:-1,Hit Radio (هيت راديو)
+https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3
 #EXTINF:-1,Al Jazeera English (قناة الجزيرة)
 https://live-hls-audio-web-aje.getaj.net/VOICE-AJE/index.m3u8
 #EXTINF:-1,Radio Coran Nablus (إذاعة القرآن الكريم نابلس)
@@ -31,12 +33,8 @@ http://proxima.shoutca.st:8946/stream
 http://vps1.osina.cloud:9318/
 #EXTINF:-1,Ninar FM - نينار اف ام
 http://ninarfm.grtvstream.com:8896/stream.mp3
-#EXTINF:-1,Alnour
-http://audiostreaming.itworkscdn.com:9066/
 #EXTINF:-1,Radio Bahrain (Arabic) 102.3 FM
 http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8
-#EXTINF:-1,Radio IFM
-https://live.ifm.tn/radio/8000/ifmlive
 #EXTINF:-1,۞ إذاعة المديح ۞ | Madeeh Radio
 http://tijaniyyah.asuscomm.com:8000/stream/3/
 #EXTINF:-1,Mazaj FM (مزاج إف إم)
@@ -45,38 +43,36 @@ https://mazajfm.ice.infomaniak.ch/mazajfm-192.mp3
 https://ahmsamir.radioca.st/stream
 #EXTINF:-1,Merge 104.8
 http://uk7.internet-radio.com:8040/stream?icy=http
+#EXTINF:-1,AFN 360 Bahrain
+https://25453.live.streamtheworld.com/AFNE_BHN_SC
+#EXTINF:-1,Mix FM 104.3
+http://c2.radioboss.fm:8184/stream
 #EXTINF:-1,Radio Mars (راديو مرس)
 https://radiomars.ice.infomaniak.ch/radiomars-128.mp3
 #EXTINF:-1,۩ الزاوية التجانية ۩ | Tijaniyyah Corner
 http://tijaniyyah.asuscomm.com:8000/stream/1/
-#EXTINF:-1,۩ السيادة ۩ | Alsiyada
-http://tijaniyyah.asuscomm.com:8000/stream/6/
-#EXTINF:-1,Al Lubnaniya
-http://andromeda.shoutca.st:8192/
 #EXTINF:-1,Radio 4 (89.1)
 https://stream.radio.co/s6004eac2f/listen
-#EXTINF:-1,Rudaw Radio
-http://audiostreaming.itworkscdn.com:9006/
+#EXTINF:-1,Radio Suno 91.7 FM
+https://22343.live.streamtheworld.com/SUNO917_SC
 #EXTINF:-1,Mishary Alafasi (مشاري العفاسي)
 http://live.mp3quran.net:9982/stream.mp3&type=mp3&autostart=true
-#EXTINF:-1,Jow Radio
-https://str0.creacast.com/jowradio
-#EXTINF:-1,Radio One Iraq
-https://s2.radio.co/s03d947c9d/listen
+#EXTINF:-1,ERTU Al Quran Al Kareem (إداعة القرآن الكريم)
+http://66.45.232.131:9994/stream.mp3
 #EXTINF:-1,Sawt El Shaab
 http://vps1.osina.cloud:9320/
-#EXTINF:-1,Exclusively The Beatles
-http://streaming.exclusive.radio/er/beatles/icecast.audio
+#EXTINF:-1,RFI 1 Afrique 107.7 FM
+https://rfiafrique64k.ice.infomaniak.ch/rfiafrique-64.mp3
 #EXTINF:-1,Radio Mariam Iraq
 http://dreamsiteradiocp4.com:8044/stream.mp3
 #EXTINF:-1,M Radio 105.5
 http://usa13.fastcast4u.com:5908/
-#EXTINF:-1,Exclusively Pink Floyd
-http://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
+#EXTINF:-1,Hit Radio 100% MGHARBA (هيت راديو)
+https://mgharba.ice.infomaniak.ch/mgharba-128.mp3
 #EXTINF:-1,Radio Sawa (راديوسوا)
 https://mbnvaudioingest-i.akamaihd.net/hls/live/1004562/MBNV_SAWA_LEVANT/merge.m3u8
-#EXTINF:-1,JRTV Amman FM (Arabic Channel)
-http://195.201.112.14:9020/stream
+#EXTINF:-1,Radio Suno Melody
+https://29306.live.streamtheworld.com/RADIO_SUNO_MELODY_S06_SC
 #EXTINF:-1,Alasemeh Radio - راديو العاصمة
 http://asima.out.airtime.pro:8000/asima_a
 #EXTINF:-1,Radio Aljalia
@@ -85,24 +81,12 @@ https://vivo.miradio.in/8016/stream
 https://streamer.radio.co/sb38bf6e66/listen
 #EXTINF:-1,ARTA FM
 https://edge.mixlr.com/channel/qtgru
+#EXTINF:-1,Skyrock Casablanca
+https://icecast.skyrock.net/s/casa_aac_128k?tvr_name=mytuner&tvr_section1=64aac
 #EXTINF:-1,r4fm
 http://radio.r4fm.ps:8044/stream.mp3
-#EXTINF:-1,Exclusively Bollywood
-http://streaming.exclusive.radio/er/bollywood/icecast.audio
-#EXTINF:-1,Kuwait Radio 9 OFM (هنا الكويت)
-http://svs.itworkscdn.net/kofmlive/kofm/playlist.m3u8
-#EXTINF:-1,Kuwait radio 7 Classical (الغناء العربي القديم )
-http://svs.itworkscdn.net/koldlive/kold/playlist.m3u8
-#EXTINF:-1,Exclusively Queen
-http://streaming.exclusive.radio/er/queen/icecast.audio
-#EXTINF:-1,Radio Alshams - רדיו אלשמס - الشمس
-https://cdna.streamgates.net/Ashams/Live/icecast.audio
-#EXTINF:-1,Exclusively ABBA
-http://streaming.exclusive.radio/er/abba/icecast.audio
-#EXTINF:-1,Abdulbasit Abdulsamad WARSH Radio
-http://live.mp3quran.net:9956/
-#EXTINF:-1,Positively Meditation
-http://streaming.positivity.radio/pr/posimeditation/icecast.audio
+#EXTINF:-1,Al Huda Radio (اذاعة الهدى)
+https://mytuner-radio.com/radio/country/iraq-stations
 #EXTINF:-1,Sawt el mada
 http://audiostreaming.itworkscdn.com:9018/
 #EXTINF:-1,Hits1 Alger
@@ -115,505 +99,120 @@ https://s2.radio.co/s770fa24b6/listen
 http://82.201.132.237:8000/
 #EXTINF:-1,Maher Al-Muaiqly (ماهر المعيقلي)
 http://live.mp3quran.net:9996/stream.mp3
+#EXTINF:-1,Kuwait radio 8 Shaabyia (الشعبية)
+http://svs.itworkscdn.net/ktraditionallive/ktraditional/playlist.m3u8
 #EXTINF:-1,Dengi Kurdsat (ده كاى ميدياي كوردسات)
 http://uk3.internet-radio.com:8011/stream
+#EXTINF:-1,Hit Radio 100% GOLD (هيت راديو)
+https://gold.ice.infomaniak.ch/gold-128.mp3
+#EXTINF:-1,Hit Radio 100% Dancefloor (هيت راديو)
+https://dancefloor.ice.infomaniak.ch/dancefloor-128.mp3
 #EXTINF:-1,Radio Sawte Ouarzazate (راديو سوت ورزازات)
 http://www.quran-radio.org:8002/stream
 #EXTINF:-1,Kuwait Radio 2 (البرنامج الثاني)
 https://svs.itworkscdn.net/kradio2live/kradio2/playlist.m3u8
-#EXTINF:-1,Exclusively 70's
-http://streaming.exclusive.radio/er/70s/icecast.audio
 #EXTINF:-1,Abdulbasit Abdulsamad Urdu
 http://live.mp3quran.net:9752/
-#EXTINF:-1,Exclusively Rolling Stones
-http://streaming.exclusive.radio/er/rollingstones/icecast.audio
+#EXTINF:-1,Haj 3jej Radio Station (الحاج عجاج)
+https://streaming.brol.tech/rtfmlounge
+#EXTINF:-1,RFM Radio Tunisia
 #EXTINF:-1,Abdulrahman AlMajed
 http://live.mp3quran.net:9726/
-#EXTINF:-1,Exclusively 60's
-http://streaming.exclusive.radio/er/60s/icecast.audio
-#EXTINF:-1,Exclusively Sleep-Relax
-http://streaming.exclusive.radio/er/sleep-relax/icecast.audio
-#EXTINF:-1,Exclusively U2
-http://streaming.exclusive.radio/er/u2/icecast.audio
+#EXTINF:-1,radiotunisiamed
+https://azuracast.conceptradio.fr/radio/8000/radio.mp3
+#EXTINF:-1,SBS Arabic24
+https://audiomedia-sbs.akamaized.net/arabic_c1a5dc8e-b02f-4eb5-ba26-3d3877cc2f63.mp3
+#EXTINF:-1,Hit Radio 100% R&B (هيت راديو)
+https://rnb.ice.infomaniak.ch/rnb-128.mp3
+#EXTINF:-1,Sawa Magazine
+https://cf-media.sndcdn.com/wrMHkscnryuf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vd3JNSGtzY25yeXVmKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4MTAxMjYzMX19fV19&Signature=aIt3qAf2p48iaL6zeN-QaHKtnzHynQ6keAOCML9r80M~ZzihDUKevHNUf0kX-WBEok8stCMACv-~k8LWrlFwX7Dtqc7VdhYC5SWdcZ01PmvTOhA~CCRLXQpvTCz4BIskoeQAX6PFOuqNl9BkL3SuchlwOTUksC-j420F3upnShVY~0ztY~G-FMjKiEj2NcdKxpjaj~Ik79uDulzgLtaocKITsN53K1-WXDSQ7M93Idc2Axdc~b6twat8VgjunezseqYuCLiGmNfbU2J9nlXicO0w9Wf2mxU7zQhkDhl3O2B465QS0ncQGIUoSFddy7KPfZ2D2zXEh8yw4Xj~u-4paw__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ
+#EXTINF:-1,AbdulBaset AbdulSamad with Naeem Sultan Pickthall
+http://live.mp3quran.net:9748/
+#EXTINF:-1,Hit Radio 100% BUZZ (هيت راديو)
+https://buzz.ice.infomaniak.ch/buzz-128.mp3
 #EXTINF:-1,Kuwait Radio 4 Easy (ايزي اف ام )
 https://svs.itworkscdn.net/keasylive/keasy/playlist.m3u8
 #EXTINF:-1,Abdulbaset Abdulsamad with Ibrahim Walk Saheeh Intl
 http://live.mp3quran.net:9746/
 #EXTINF:-1,Al Hayat TV
 https://5acf9f9415a10.streamlock.net/live/ngrp:ahme.stream_all/playlist.m3u8
-#EXTINF:-1,Positively Sleepy
-http://streaming.positivity.radio/pr/posisleepy/icecast.audio
 #EXTINF:-1,Babnet Tunisie (باب نت )
 https://radio.babnet.net/?type=http
 #EXTINF:-1,Radio Reve Lebanon
 http://eu9.fastcast4u.com:5072/
-#EXTINF:-1,Exclusively AC/DC
-http://streaming.exclusive.radio/er/acdc/icecast.audio
-#EXTINF:-1,Exclusively Rock
-http://streaming.exclusive.radio/er/rock/icecast.audio
+#EXTINF:-1,راديو فرش Radio Fresh
+https://listen1.mixlr.com/288febe4cd50db5971f1de6d85f22b44
 #EXTINF:-1,Abdulrahman Alsudaes Radio
 http://live.mp3quran.net:9988/
-#EXTINF:-1,Exclusively Frank Sinatra
-http://streaming.exclusive.radio/er/franksinatra/icecast.audio
-#EXTINF:-1,Exclusively Blues
-http://streaming.exclusive.radio/er/blues/icecast.audio
 #EXTINF:-1,Abdullah AlMattrod Radio
 http://live.mp3quran.net:9858/
-#EXTINF:-1,Exclusively Elton John
-http://streaming.exclusive.radio/er/eltonjohn/icecast.audio
-#EXTINF:-1,Zitouna FM (إذاعة الزيتونة للقرآن الكريم)
-https://stream.radiozitouna.tn/radio/8030/radio.mp3
 #EXTINF:-1,Sawt Elrab صوت الرب
 http://66.70.249.70:5828/stream
 #EXTINF:-1,Gold 101.3 FM
 https://stream.radio.co/s00240810b/listen
 #EXTINF:-1,Abdullah AlJohany Radio
 http://live.mp3quran.net:9944/
-#EXTINF:-1,Exclusively The Bee Gees
-http://streaming.exclusive.radio/er/beegees/icecast.audio
 #EXTINF:-1,Abdulbari Mohammad Radio
 http://live.mp3quran.net:9868/
 #EXTINF:-1,Radio Sahar (راديو سهر)
 http://europa.shoutca.st:8834/stream.mp3
-#EXTINF:-1,Abdulmohsin AlHarthy Radio
-http://live.mp3quran.net:9856/
-#EXTINF:-1,Abdulbasit Abdulsamad Italian
-http://live.mp3quran.net:9740/
-#EXTINF:-1,Exclusively Eagles
-http://streaming.exclusive.radio/er/eagles/icecast.audio
 #EXTINF:-1,Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
 http://live.mp3quran.net:9864/
 #EXTINF:-1,Abdullah Basfer Radio
 http://live.mp3quran.net:9954/
-#EXTINF:-1,Exclusively David Bowie
-http://streaming.exclusive.radio/er/davidbowie/icecast.audio
-#EXTINF:-1,Abdullah Khayyat Radio
-http://live.mp3quran.net:9948/
-#EXTINF:-1,Exclusively Chopin
-http://streaming.exclusive.radio/er/chopin/icecast.audio
-#EXTINF:-1,RIM
-https://streaming.rimradio.ma/live
-#EXTINF:-1,Abdulhadi Kanakeri Radio
-http://live.mp3quran.net:9850/
-#EXTINF:-1,Exclusively The Beach Boys
-http://streaming.exclusive.radio/er/beachboys/icecast.audio
 #EXTINF:-1,Abdulmohsin AlObaikan Radio
 http://live.mp3quran.net:9854/
-#EXTINF:-1,Exclusively Mozart
-http://streaming.exclusive.radio/er/mozart/icecast.audio
 #EXTINF:-1,Abdulwadood Haneef Radio
 http://live.mp3quran.net:9848/
 #EXTINF:-1,Abdullah AlKandari Radio
 http://live.mp3quran.net:9860/
 #EXTINF:-1,Al Oula FM
 http://uk6.internet-radio.com:8103/stream
-#EXTINF:-1,Exclusively 50's
-http://streaming.exclusive.radio/er/50s/icecast.audio
-#EXTINF:-1,Abdulrasheed Soufi Rewayat Assosi An Abi Amr Radio
-http://live.mp3quran.net:9866/
-#EXTINF:-1,Exclusively Country
-http://streaming.exclusive.radio/er/country/icecast.audio
-#EXTINF:-1,Exclusively Zen
-http://streaming.exclusive.radio/er/zen/icecast.audio
+#EXTINF:-1,Abdulmohsen AlQasim Radio
+http://live.mp3quran.net:9852/
 #EXTINF:-1,Abdullah Basfer English
 http://live.mp3quran.net:9754/
-#EXTINF:-1,Exclusively Madonna
-http://streaming.exclusive.radio/er/madonna/icecast.audio
 #EXTINF:-1,104.8 Channel 4
 https://streams.radio.co/sce558c2e6/listen
 #EXTINF:-1,Radio Azawan
 https://az-maroc.ice.infomaniak.ch/az-maroc-128.mp3
 #EXTINF:-1,Abdelbari AlToubayti Radio
 http://live.mp3quran.net:9870/
-#EXTINF:-1,Exclusively Vivaldi
-http://streaming.exclusive.radio/er/vivaldi/icecast.audio
-#EXTINF:-1,Exclusively Motown
-http://streaming.exclusive.radio/er/motown/icecast.audio
 #EXTINF:-1,Abdul Aziz AlAhmad Radio
 http://live.mp3quran.net:9862/
-#EXTINF:-1,Exclusively Disco
-http://streaming.exclusive.radio/er/disco/icecast.audio
 #EXTINF:-1,Abdullah Bsfr Albani
 http://live.mp3quran.net:9734/
-#EXTINF:-1,Exclusively One Direction
-http://streaming.exclusive.radio/er/onedirection/icecast.audio
-#EXTINF:-1,Exclusively 90's
-http://streaming.exclusive.radio/er/90s/icecast.audio
-#EXTINF:-1,Exclusively Taylor Swift
-http://streaming.exclusive.radio/er/taylorswift/icecast.audio
 #EXTINF:-1,Abdullah Bsfr Greec Unani
 http://live.mp3quran.net:9732/
-#EXTINF:-1,Exclusively Fleetwood Mac
-http://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio
-#EXTINF:-1,Exclusively Coldplay
-http://streaming.exclusive.radio/er/coldplay/icecast.audio
-#EXTINF:-1,RADIO ΤΙΣWININ Tiddukla
-http://79.98.108.170:8141/
-#EXTINF:-1,Exclusively Eminem
-http://streaming.exclusive.radio/er/eminem/icecast.audio
-#EXTINF:-1,Exclusively Beethoven
-http://streaming.exclusive.radio/er/beethoven/icecast.audio
-#EXTINF:-1,Exclusively Party
-http://streaming.exclusive.radio/er/party/icecast.audio
-#EXTINF:-1,Exclusively George Michael
-http://streaming.exclusive.radio/er/georgemichael/icecast.audio
-#EXTINF:-1,Exclusively JS Bach
-http://streaming.exclusive.radio/er/jsbach/icecast.audio
-#EXTINF:-1,Positively 60's
-http://streaming.positivity.radio/pr/posi60s/icecast.audio
-#EXTINF:-1,Positively Sleep Relax
-https://streaming.positivity.radio/pr/sleeprelax/icecast.audio
-#EXTINF:-1,Exclusively Eric Clapton
-http://streaming.exclusive.radio/er/ericclapton/icecast.audio
-#EXTINF:-1,Positively Calm
-https://streaming.positivity.radio/pr/calm/icecast.audio
-#EXTINF:-1,Exclusively Adele
-http://streaming.exclusive.radio/er/adele/icecast.audio
-#EXTINF:-1,Positively Sleep Baby
-https://streaming.positivity.radio/pr/sleepbaby/icecast.audio
+#EXTINF:-1,Radio Hawana (راديو هوانا)
+#EXTINF:-1,anwarock (أنوروك)
+#EXTINF:-1,Alger One Jazz
+#EXTINF:-1,Radio Itma (راديو اتما)
+#EXTINF:-1,Radio Star (راديو سطار)
+#EXTINF:-1,Banha City Tarab (بنها سىتى طرب)
+#EXTINF:-1,Radio Planet House
 #EXTINF:-1,Pulse 95 Radio
 https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
-#EXTINF:-1,Positively 70's
-http://streaming.positivity.radio/pr/posi70s/icecast.audio
-#EXTINF:-1,Exclusively Simon & Garfunkel
-http://streaming.exclusive.radio/er/simongarfunkle/icecast.audio
-#EXTINF:-1,Exclusively Rihanna
-http://streaming.exclusive.radio/er/rihanna/icecast.audio
-#EXTINF:-1,Positively Easy
-http://streaming.positivity.radio/pr/posieasy/icecast.audio
-#EXTINF:-1,Exclusively Ibiza
-http://streaming.exclusive.radio/er/ibiza/icecast.audio
-#EXTINF:-1,Positively Ocean
-http://streaming.positivity.radio/pr/posiocean/icecast.audio
-#EXTINF:-1,Exclusively Tchaikovsky
-http://streaming.exclusive.radio/er/tchaikovsky/icecast.audio
-#EXTINF:-1,Exclusively Strauss
-http://streaming.exclusive.radio/er/strauss/icecast.audio
+#EXTINF:-1,St.Markos Masr ElGedeeda مارمرقس مصر الجديده
+https://mytuner-radio.com/radio/country/egypt-stations
 #EXTINF:-1,Sharjah Radio
 https://l3.itworkscdn.net/smcradiolive/smcradiolive/icecast.audio
-#EXTINF:-1,Exclusively Lady Gaga
-http://streaming.exclusive.radio/er/ladygaga/icecast.audio
-#EXTINF:-1,Exclusively Maroon 5
-http://streaming.exclusive.radio/er/maroon5/icecast.audio
-#EXTINF:-1,Exclusively Rock N Roll Party
-http://streaming.exclusive.radio/er/rocknrollparty/icecast.audio
-#EXTINF:-1,Positively Classical
-http://streaming.positivity.radio/pr/posiclassical/icecast.audio
-#EXTINF:-1,Exclusively Neil Diamond
-http://streaming.exclusive.radio/er/neildiamond/icecast.audio
-#EXTINF:-1,Exclusively Italy
-http://streaming.exclusive.radio/er/italy/icecast.audio
-#EXTINF:-1,Exclusively Rod Stewart
-http://streaming.exclusive.radio/er/rodstewart/icecast.audio
-#EXTINF:-1,Exclusively Easy
-http://streaming.exclusive.radio/er/easy/icecast.audio
-#EXTINF:-1,Exclusively John Lennon
-http://streaming.exclusive.radio/er/lennon/icecast.audio
-#EXTINF:-1,Exclusively Billie Eilish
-http://streaming.exclusive.radio/er/billyeilish/icecast.audio
-#EXTINF:-1,Exclusively Ministry of Sound
-http://streaming.exclusive.radio/er/ministryofsound/icecast.audio
-#EXTINF:-1,Exclusively Beyonce
-http://streaming.exclusive.radio/er/beyonce/icecast.audio
-#EXTINF:-1,Positively Sleep Max Richter
-https://streaming.positivity.radio/pr/maxrichter/icecast.audio
-#EXTINF:-1,Exclusively K Pop
-http://streaming.exclusive.radio/er/kpop/icecast.audio
-#EXTINF:-1,Exclusively Pink
-http://streaming.exclusive.radio/er/pink/icecast.audio
-#EXTINF:-1,Exclusively Sleep-Kids
-http://streaming.exclusive.radio/er/sleep-kids/icecast.audio
-#EXTINF:-1,Positively Zen
-https://streaming.positivity.radio/pr/zen/icecast.audio
-#EXTINF:-1,Exclusively Glenn Miller
-http://streaming.exclusive.radio/er/glennmiller/icecast.audio
-#EXTINF:-1,Exclusively Justin Bieber
-http://streaming.exclusive.radio/er/justinbieber/icecast.audio
-#EXTINF:-1,Exclusively Bruno Mars
-http://streaming.exclusive.radio/er/brunomars/icecast.audio
-#EXTINF:-1,Positively 80's
-http://streaming.positivity.radio/pr/posi80s/icecast.audio
-#EXTINF:-1,Exclusively Ed Sheeran
-http://streaming.exclusive.radio/er/edsheeran/icecast.audio
-#EXTINF:-1,Exclusively Running
-http://streaming.exclusive.radio/er/running/icecast.audio
-#EXTINF:-1,Exclusively Good Afternoon
-http://streaming.exclusive.radio/er/afternoon/icecast.audio
-#EXTINF:-1,Exclusively Garth Brooks
-http://streaming.exclusive.radio/er/garthbrooks/icecast.audio
-#EXTINF:-1,Exclusively 00's
-http://streaming.exclusive.radio/er/00s/icecast.audio
-#EXTINF:-1,Exclusively Louis Armstrong
-http://streaming.exclusive.radio/er/louisarmstrong/icecast.audio
-#EXTINF:-1,Exclusively Stevie Wonder
-http://streaming.exclusive.radio/er/steviewonder/icecast.audio
-#EXTINF:-1,Exclusively The Weeknd
-http://streaming.exclusive.radio/er/theweeknd/icecast.audio
-#EXTINF:-1,Exclusively Stevie Ray Vaughan
-http://streaming.exclusive.radio/er/stevierayvaughan/icecast.audio
-#EXTINF:-1,Exclusively Drake
-http://streaming.exclusive.radio/er/drake/icecast.audio
-#EXTINF:-1,Positively 50s
-https://streaming.positivity.radio/pr/1950/icecast.audio
-#EXTINF:-1,Exclusively BB King
-http://streaming.exclusive.radio/er/bbking/icecast.audio
-#EXTINF:-1,Positively Tranquil
-http://streaming.positivity.radio/pr/positranquil/icecast.audio
-#EXTINF:-1,Positively 1920s
-https://streaming.positivity.radio/pr/1920/icecast.audio
-#EXTINF:-1,Positively Sleep Tones
-https://streaming.positivity.radio/pr/sleeptones/icecast.audio
-#EXTINF:-1,Exclusively George Strait
-http://streaming.exclusive.radio/er/georgestrait/icecast.audio
-#EXTINF:-1,Positively 40s
-https://streaming.positivity.radio/pr/1940/icecast.audio
-#EXTINF:-1,Exclusively Party Anthems
-http://streaming.exclusive.radio/er/partyanthems/icecast.audio
-#EXTINF:-1,Exclusively Katy Perry
-http://streaming.exclusive.radio/er/katyperry/icecast.audio
-#EXTINF:-1,Exclusively Jennifer Lopez
-http://streaming.exclusive.radio/er/jenniferlopez/icecast.audio
-#EXTINF:-1,Positively Relaxing Workout
-https://streaming.positivity.radio/pr/workoutrelax/icecast.audio
-#EXTINF:-1,Exclusively Motivation
-http://streaming.exclusive.radio/er/motivation/icecast.audio
-#EXTINF:-1,Positively Healing 285Hz
-https://streaming.positivity.radio/pr/healing/icecast.audio
-#EXTINF:-1,Positively Sleep Classical
-https://streaming.positivity.radio/pr/sleepclassical/icecast.audio
-#EXTINF:-1,Exclusively Paul McCartney
-http://streaming.exclusive.radio/er/paulmccartney/icecast.audio
-#EXTINF:-1,Positively Gold
-http://streaming.positivity.radio/pr/posigold/icecast.audio
-#EXTINF:-1,Exclusively Wedding
-http://streaming.exclusive.radio/er/wedding/icecast.audio
-#EXTINF:-1,Exclusively Van Morrison
-http://streaming.exclusive.radio/er/vanmorrison/icecast.audio
-#EXTINF:-1,Exclusively Miles Davis
-http://streaming.exclusive.radio/er/milesdavis/icecast.audio
-#EXTINF:-1,Exclusively Ocean
-http://streaming.exclusive.radio/er/ocean/icecast.audio
-#EXTINF:-1,Positively Bowls
-https://streaming.positivity.radio/pr/bowls/icecast.audio
-#EXTINF:-1,Positively ViBE
-http://streaming.positivity.radio/pr/posivibe/icecast.audio
-#EXTINF:-1,Exclusively J POP
-http://streaming.exclusive.radio/er/jpop/icecast.audio
-#EXTINF:-1,Positively Birdsong
-http://streaming.positivity.radio/pr/posibirdsong/icecast.audio
-#EXTINF:-1,Positively Massage
-https://streaming.positivity.radio/pr/massage/icecast.audio
-#EXTINF:-1,Exclusively Rave
-http://streaming.exclusive.radio/er/rave/icecast.audio
-#EXTINF:-1,Exclusively Britney Spears
-http://streaming.exclusive.radio/er/britney/icecast.audio
-#EXTINF:-1,Exclusively Johnny Cash
-http://streaming.exclusive.radio/er/johnnycash/icecast.audio
-#EXTINF:-1,Positively 30s
-https://streaming.positivity.radio/pr/1930/icecast.audio
-#EXTINF:-1,Exclusively 10's
-http://streaming.exclusive.radio/er/10s/icecast.audio
-#EXTINF:-1,Exclusively Imagine Dragons
-http://streaming.exclusive.radio/er/imaginedragons/icecast.audio
-#EXTINF:-1,Positively 90's
-http://streaming.positivity.radio/pr/posi90s/icecast.audio
-#EXTINF:-1,Positively Rejuvinate 528 Hz
-https://streaming.positivity.radio/pr/rejuvenate/icecast.audio
-#EXTINF:-1,Exclusively Bowls
-http://streaming.exclusive.radio/er/bowls/icecast.audio
-#EXTINF:-1,Exclusively Ella Fitzgerald
-http://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio
-#EXTINF:-1,Exclusively Diana Krall
-http://streaming.exclusive.radio/er/dianakrall/icecast.audio
-#EXTINF:-1,Exclusively Good Morning
-http://streaming.exclusive.radio/er/goodmorning/icecast.audio
-#EXTINF:-1,Exclusively Musique Francaise
-http://streaming.exclusive.radio/er/musiquefrancaise/icecast.audio
-#EXTINF:-1,Positively Gongs
-https://streaming.positivity.radio/pr/gongs/icecast.audio
-#EXTINF:-1,Exclusively Merle Haggard
-http://streaming.exclusive.radio/er/merlehaggard/icecast.audio
-#EXTINF:-1,Exclusively Nicki Minaj
-http://streaming.exclusive.radio/er/nickiminaj/icecast.audio
-#EXTINF:-1,Positively Calming 396 Hz
-https://streaming.positivity.radio/pr/calming/icecast.audio
-#EXTINF:-1,Exclusively Christmas Pop
-http://streaming.exclusive.radio/er/christmaspop/icecast.audio
-#EXTINF:-1,Exclusively Kenny G
-http://streaming.exclusive.radio/er/kennyg/icecast.audio
-#EXTINF:-1,Positively Love
-http://streaming.positivity.radio/pr/posilove/icecast.audio
-#EXTINF:-1,Exclusively Loretta Lynn
-http://streaming.exclusive.radio/er/lorettalynn/icecast.audio
-#EXTINF:-1,Exclusively Josh Groban
-http://streaming.exclusive.radio/er/joshgroban/icecast.audio
-#EXTINF:-1,Exclusively Miley Cyrus
-http://streaming.exclusive.radio/er/mileycyrus/icecast.audio
-#EXTINF:-1,Positively 2010's
-http://streaming.positivity.radio/pr/posi10s/icecast.audio
-#EXTINF:-1,Exclusively Cruisin' 50's
-http://streaming.exclusive.radio/er/cruisin50s/icecast.audio
-#EXTINF:-1,Exclusively Justin Timberlake
-http://streaming.exclusive.radio/er/justintimberlake/icecast.audio
-#EXTINF:-1,Positively Reiki
-https://streaming.positivity.radio/pr/reiki/icecast.audio
-#EXTINF:-1,Positively Sleep Kids
-https://streaming.positivity.radio/pr/sleepkids/icecast.audio
-#EXTINF:-1,Positively Happy
-https://streaming.positivity.radio/pr/happy/icecast.audio
-#EXTINF:-1,Exclusively Sam Smith
-http://streaming.exclusive.radio/er/samsmith/icecast.audio
-#EXTINF:-1,Exclusively Dolly Parton
-http://streaming.exclusive.radio/er/dollyparton/icecast.audio
-#EXTINF:-1,Exclusively Cruisin' 60's
-http://streaming.exclusive.radio/er/cruisin60s/icecast.audio
-#EXTINF:-1,Exclusively Muddy Waters
-http://streaming.exclusive.radio/er/muddywaters/icecast.audio
-#EXTINF:-1,Exclusively Buddy Guy
-http://streaming.exclusive.radio/er/buddyguy/icecast.audio
-#EXTINF:-1,Exclusively Duke Ellington
-http://streaming.exclusive.radio/er/dukeellington/icecast.audio
-#EXTINF:-1,Exclusively Christmas Carols
-http://streaming.exclusive.radio/er/christmascarols/icecast.audio
-#EXTINF:-1,Exclusively Carrie Underwood
-http://streaming.exclusive.radio/er/carrieunderwood/icecast.audio
-#EXTINF:-1,Exclusively Calvin Harris
-http://streaming.exclusive.radio/er/calvinharris/icecast.audio
-#EXTINF:-1,Positively Chants
-https://streaming.positivity.radio/pr/chants/icecast.audio
-#EXTINF:-1,Exclusively Jamie Cullum
-http://streaming.exclusive.radio/er/jamiecullum/icecast.audio
-#EXTINF:-1,Positively Compassion 639 Hz
-https://streaming.positivity.radio/pr/compassion/icecast.audio
-#EXTINF:-1,Exclusively Beach Party
-http://streaming.exclusive.radio/er/beachparty/icecast.audio
-#EXTINF:-1,Exclusively Robert Cray
-http://streaming.exclusive.radio/er/robertcray/icecast.audio
-#EXTINF:-1,Exclusively Dance Chill
-http://streaming.exclusive.radio/er/chilldance/icecast.audio
-#EXTINF:-1,Exclusively George Ezra
-http://streaming.exclusive.radio/er/georgeezra/icecast.audio
-#EXTINF:-1,Positively Energy
-https://streaming.positivity.radio/pr/energy/icecast.audio
-#EXTINF:-1,Exclusively Tai Chi
-http://streaming.exclusive.radio/er/taichi/icecast.audio
-#EXTINF:-1,Exclusively Kendrick Lamar
-http://streaming.exclusive.radio/er/kendricklamar/icecast.audio
-#EXTINF:-1,Posively Motivation
-https://streaming.positivity.radio/pr/motivation/icecast.audio
-#EXTINF:-1,Positively Pan Pipes
-https://streaming.positivity.radio/pr/panpipes/icecast.audio
-#EXTINF:-1,Positively Tai Chi
-https://streaming.positivity.radio/pr/taichi/icecast.audio
-#EXTINF:-1,Positively Cascade
-http://streaming.positivity.radio/pr/posicascade/icecast.audio
-#EXTINF:-1,Positively Uplifting 417Hz
-https://streaming.positivity.radio/pr/uplifting/icecast.audio
-#EXTINF:-1,Positively Successful
-http://streaming.positivity.radio/pr/posisuccessful/icecast.audio
-#EXTINF:-1,Exclusively The Clash
-http://streaming.exclusive.radio/er/theclash/icecast.audio
-#EXTINF:-1,Exclusively Club
-http://streaming.exclusive.radio/er/club/icecast.audio
-#EXTINF:-1,Exclusively Pan Pipes
-http://streaming.exclusive.radio/er/panpipes/icecast.audio
-#EXTINF:-1,Exclusively Reggae Party
-http://streaming.exclusive.radio/er/reggaeparty/icecast.audio
-#EXTINF:-1,Exclusively will.i.am
-http://streaming.exclusive.radio/er/william/icecast.audio
-#EXTINF:-1,Positively Intuition 852 Hz
-https://streaming.positivity.radio/pr/intuition/icecast.audio
-#EXTINF:-1,Positively Enlightening 936 Hz
-https://streaming.positivity.radio/pr/enlightening/icecast.audio
-#EXTINF:-1,Positively Noughties
-http://streaming.positivity.radio/pr/posi00s/icecast.audio
-#EXTINF:-1,Positively Detox 741 Hz
-https://streaming.positivity.radio/pr/detox/icecast.audio
-#EXTINF:-1,Positively Pain Relief 174Hz
-https://streaming.positivity.radio/pr/painrelief/icecast.audio
-#EXTINF:-1,Positively Running
-https://streaming.positivity.radio/pr/running/icecast.audio
-#EXTINF:-1,Exclusively Andrea Bocelli
-http://streaming.exclusive.radio/er/andreabocelli/icecast.audio
-#EXTINF:-1,Exclusively Sade
-http://streaming.exclusive.radio/er/sade/icecast.audio
-#EXTINF:-1,Exclusively Pilates
-http://streaming.exclusive.radio/er/pilates/icecast.audio
-#EXTINF:-1,Exclusively Brazil
-http://streaming.exclusive.radio/er/brazil/icecast.audio
-#EXTINF:-1,Positively Pilates
-https://streaming.positivity.radio/pr/pilates/icecast.audio
-#EXTINF:-1,Positively Vibrant
-https://streaming.positivity.radio/pr/vibrant/icecast.audio
-#EXTINF:-1,Exclusively Mabel
-http://streaming.exclusive.radio/er/mabel/icecast.audio
-#EXTINF:-1,Positively Country
-http://streaming.positivity.radio/pr/country/icecast.audio
-#EXTINF:-1,Exclusively Deutsche Musik
-http://streaming.exclusive.radio/er/deutschemusik/icecast.audio
-#EXTINF:-1,Positively Plants
-http://streaming.positivity.radio/pr/posiplants/icecast.audio
-#EXTINF:-1,Exclusively Succesful
-http://streaming.exclusive.radio/er/succesful/icecast.audio
-#EXTINF:-1,Exclusively Chants
-http://streaming.exclusive.radio/er/chants/icecast.audio
-#EXTINF:-1,Exclusively Olivia Newton John
-http://streaming.exclusive.radio/er/onj/icecast.audio
-#EXTINF:-1,Exclusively Bing Crosby
-http://streaming.exclusive.radio/er/bingcrosby/icecast.audio
-#EXTINF:-1,Exclusively Gongs
-http://streaming.exclusive.radio/er/gongs/icecast.audio
-#EXTINF:-1,Exclusively Good Evening
-http://streaming.exclusive.radio/er/goodevening/icecast.audio
-#EXTINF:-1,Positively Jazz
-http://streaming.positivity.radio/pr/jazz/icecast.audio
-#EXTINF:-1,Exclusively The Temptations
-http://streaming.exclusive.radio/er/thetemptations/icecast.audio
-#EXTINF:-1,Exclusively Alec Benjamin
-http://streaming.exclusive.radio/er/alecbenjamin/icecast.audio
-#EXTINF:-1,Positively Good Morning
-http://streaming.positivity.radio/pr/goodmorning/icecast.audio
-#EXTINF:-1,Positively Rock
-http://streaming.positivity.radio/pr/rock/icecast.audio
-#EXTINF:-1,Exclusively Woody Guthrie
-http://streaming.exclusive.radio/er/woodieguthrie/icecast.audio
-#EXTINF:-1,Exclusively Gretchen Peters
-http://streaming.exclusive.radio/er/gretchenpeters/icecast.audio
-#EXTINF:-1,Exclusively Dr Hook
-http://streaming.exclusive.radio/er/drhook/icecast.audio
-#EXTINF:-1,Exclusively Brantley Gilbert
-http://streaming.exclusive.radio/er/brantleygilbert/icecast.audio
-#EXTINF:-1,Exclusively Aerosmith
-http://streaming.exclusive.radio/er/aerosmith/icecast.audio
-#EXTINF:-1,Exclusively The B-52's
-http://streaming.exclusive.radio/er/theb52s/icecast.audio
-#EXTINF:-1,Positively Good Afternoon
-http://streaming.positivity.radio/pr/goodafternoon/icecast.audio
-#EXTINF:-1,Positively Good Evening
-http://streaming.positivity.radio/pr/goodevening/icecast.audio
-#EXTINF:-1,Exclusively Pete Seeger
-http://streaming.exclusive.radio/er/peteseeger/icecast.audio
-#EXTINF:-1,Exclusively Kelly Clarkson
-http://streaming.exclusive.radio/er/kellyclarkson/icecast.audio
-#EXTINF:-1,Exclusively Dallas Smith
-http://streaming.exclusive.radio/er/dallassmith/icecast.audio
-#EXTINF:-1,Mazaji 94.6 FM
-http://104.248.240.106:8443/
-#EXTINF:-1,Exclusively Cariad Harmon
-http://streaming.exclusive.radio/er/cariadhamon/icecast.audio
-#EXTINF:-1,Exclusively Barack Obama
-http://streaming.exclusive.radio/er/barackobama/icecast.audio
-#EXTINF:-1,Exclusively Kehlani
-http://streaming.exclusive.radio/er/kehlani/icecast.audio
-#EXTINF:-1,   01 SYDNEY FM
+#EXTINF:-1,Fresh Radio Arabic Dance
+#EXTINF:-1,  _01 SYDNEY FM
 https://canli.arabeskinmerkezi.com/9180/stream?n=6d90ff496f8ee482956b
-#EXTINF:-1,   106.1 DAMARIN MERKEZİ FM
+#EXTINF:-1,  _106.1 DAMARIN MERKEZİ FM
 https://canli.arabeskinmerkezi.com/9180/stream?n=b0ad0e383eaca1fa1ae6
-#EXTINF:-1,  101.3 LONDON FM
+#EXTINF:-1,إذاعة ياسر الدوسري
+https://qurango.net/radio/yasser_aldosari?n=04997481708633091c12
+#EXTINF:-1, صوت كل لبنان
+https://audio.osina.cloud:9323/stream?n=f1da9c70c06f6955be42
+#EXTINF:-1,_ 101.3 LONDON FM
 https://canli.arabeskinmerkezi.com/9180/stream?n=10a5b31a7deaa4b297c2
-#EXTINF:-1,  101.5 ARABİC FM
+#EXTINF:-1,_ 101.5 ARABİC FM
 https://canli.arabeskinmerkezi.com/9180/stream?n=9a21fb18c44e601f4be9
-#EXTINF:-1, Dubai Fm
+#EXTINF:-1,__ORIENTAL__ by rautemusik rm.fm
+https://rautemusik.stream43.radiohost.de/oriental?ref=radiobrowser%3Fn%3D49dddd44e3d8789438da&upd-meta&upd-scheme=https&_art=dD0xNzgxMDEyOTAzJmQ9NGI3YjcyNzY3MjQ2NTE1ZTYxMzM
+#EXTINF:-1,_Dubai Fm
 https://canli.arabeskinmerkezi.com/9180/stream?n=914d679c5d3753e56c71
 #EXTINF:-1,91.7FM Al Nour Radio - 91.9 / 92.2    إذاعة النور :: رائدة الصوت والكلمة :: بيروت - لبنان
 http://audiostreaming.itworkscdn.com:9066/?n=cf4c6dc45b78431ac7f8
@@ -621,8 +220,6 @@ http://audiostreaming.itworkscdn.com:9066/?n=cf4c6dc45b78431ac7f8
 https://usa19.fastcast4u.com/adeem?n=b906afe1995e21e19610
 #EXTINF:-1,Afaq FM  راديو آفاق
 http://edge.mixlr.com/channel/rumps?n=e5e8f3ceb4512e30e18f
-#EXTINF:-1,AHLA AL QASEED FM
-https://ahlalqaseedfm-radio.mbc.net/ahlalqaseedfm-radio.m3u8?n=7aaba05c9b130c3ea0d3
 #EXTINF:-1,Al Arabiya FM
 https://fm.alarabiya.net/fm/myStream/playlist.m3u8?n=3513d7f71f595acb5889
 #EXTINF:-1,Al Jazeera Arabic
@@ -653,14 +250,12 @@ http://edge.mixlr.com/channel/qtgru?n=914a948a832700f69821
 http://edge.mixlr.com/channel/qtgru?n=8486daf5e788fd546fe9
 #EXTINF:-1,Asima Online Radio
 http://asima.out.airtime.pro:8000/asima_a?n=d67f890193083343dc7d
-#EXTINF:-1,Aziz Mustaphi 
+#EXTINF:-1,Aziz Mustaphi
 https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3?n=b05b53a25003a6e6c8e9
 #EXTINF:-1,BBC Arabic Radio
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_low/ak/bbc_arabic_radio.m3u8?n=05fc174ba1fbec1db1bd
 #EXTINF:-1,BRN Radio - Arabic Channel
 http://192.241.185.108:8094/stream?n=8161a12c12fd0c1ba47c
-#EXTINF:-1,CINA-FM 102.3 Radio CINA Windsor, ON 
-http://ice7.securenetsystems.net/CINA-FM?n=ad20590d2c97dfb766e7
 #EXTINF:-1,CINA-FM 102.3 Radio CINA Arabic Hits Stream  Windsor, ON
 https://ice9.securenetsystems.net/CINAFM3?n=192b4836139fa7a8b6b7
 #EXTINF:-1,Darusalam Radio
@@ -669,40 +264,34 @@ https://streams.radio.co/s0975ec186/listen?n=f88448cce127bb8f8d6d
 https://l3.itworkscdn.net/itwaudio/9044/stream?n=8b8e4d4d6d3fa9e69fb4
 #EXTINF:-1,Farah FM
 https://radio.farah.fm/?n=c5af1160185b0f8e17b4
-#EXTINF:-1,ghardaia
-https://webradio.tda.dz/Ghardaia_64K.mp3?n=3942d9aecb27df0af9d7
 #EXTINF:-1,Hala FM
 https://listen-halafm.sharp-stream.com/halafmlow.mp3?n=36eb44089d74e284a2a3
+#EXTINF:-1,HitRadio
+http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3?n=342bb9833106292f9e46
 #EXTINF:-1,Huna Aden FM
 https://c30.radioboss.fm:18267/stream?n=671584edf3462f4b529f
 #EXTINF:-1,IANL
 http://live.ianl.org.uk:4016/stream.mp3?n=599fab9d0434f6edbff2
-#EXTINF:-1,Islam Sobhi 
+#EXTINF:-1,Islam Sobhi
 https://server14.mp3quran.net/islam/Rewayat-Hafs-A-n-Assem/026.mp3?n=741ad50377110d753505
-#EXTINF:-1,jil Fm dz
-https://webradio.tda.dz/Jeunesse_64K.mp3?n=8be550892c5169dfe388
-#EXTINF:-1,JOW Radio
-https://str0.creacast.com/jowradio?n=3c0a3cc749d349f5df8a
 #EXTINF:-1,lbi Radio
 http://andromeda.shoutca.st:8192/stream.mp3?n=647d75be94bf31a78ab2
 #EXTINF:-1,Libyana Hits FM
 http://proxima.shoutca.st:8946/stream?n=4ea2961e4ed8636166b8
 #EXTINF:-1,Malayam Islam ilmusSalaf
 https://equinox.shoutca.st/tunein/darhdth.pls?n=04cd460874cad97406ae
-#EXTINF:-1,MBC FM
-https://mbcfm-radio.mbc.net/mbcfm-radio_1.m3u8?n=0334d5b856f80f409445
+#EXTINF:-1,MC doualiya
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3?n=e61c4228c893ac089da3
+#EXTINF:-1,Medi 1
+http://live.medi1.com/medi1/playlist.m3u8
 #EXTINF:-1,Merge
 http://uk7.internet-radio.com:8040/?n=cb26bc44229e8a5d8d7d
 #EXTINF:-1,Mix FM Lebanon
 https://23543.live.streamtheworld.com/MIXFM_LEBANONAAC_SC?n=3473c16bfb3799f276a2
-#EXTINF:-1,MOOD FM
-https://moodfm-radio.mbc.net/moodfm-radio.m3u8?n=37873c71d0fd30791637
 #EXTINF:-1,Mp3Quran Main
 https://qurango.net/radio/mix?n=449d07a0daeda083c708
 #EXTINF:-1,Ninar Radio
 http://ninarfm.grtvstream.com:8896/?n=f1b62b34d9dd23fa7340
-#EXTINF:-1,Nogoum fm
-https://audio.nrpstream.com/listen/nogoumfm/radio.mp3?refresh=1675929443955?n=5fae6f14c8ef65dfd6d0
 #EXTINF:-1,Noor Al-Eman
 http://edge.mixlr.com/channel/boaht?n=d3f3d5b4f33a71b5457d
 #EXTINF:-1,Nour Al Shabab TV
@@ -713,12 +302,6 @@ http://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8?n=9e291246e195c5
 http://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8?n=f28137880ec0f6b62d19
 #EXTINF:-1,Noursat Jordan TV
 http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8?n=76067ce90f34e94ca722
-#EXTINF:-1,Panorama FM
-https://panoramafm-radio.mbc.net/panoramafm-radio.m3u8?n=add2cab5fcc02d85cf90
-#EXTINF:-1,Qatar Radio إذاعة قطر
-https://640b79a5c9ef3.streamlock.net/QRS/myStream/chunklist_w1430080778.m3u8?n=0d5476b60b3e10e9c3ed
-#EXTINF:-1,QURAN KAREEM
-https://quraanfm-radio.mbc.net/quraanfm-radio.m3u8?n=472d2b445cd9960c4171
 #EXTINF:-1,Quran Radio Station-Nablus
 http://www.quran-radio.org:8002/?n=1798b1a6778c51cf5a29
 #EXTINF:-1,Quran Radio راديو القرآن - Abdulbasit Abdulsamad - عبدالباسط عبدالصمد
@@ -733,6 +316,8 @@ https://radio.mp3islam.com/listen/quran_radio/radio.mp3?n=268b275c835c204c24e1
 https://radio.mp3islam.com/listen/maher/radio.mp3?n=122ca82a529630c98206
 #EXTINF:-1,Quran Radio راديو القرآن - Mishary Alafasy - مشاري العفاسي
 https://radio.mp3islam.com/listen/mishary/radio.mp3?n=b907d914418db64ec4b4
+#EXTINF:-1,Quran Radio راديو القرآن - Mohammad Refat محمد رفعت
+https://radio.mp3islam.com/listen/refaat/radio.mp3?n=5c67ade3ca2a7f0d4367
 #EXTINF:-1,Quran Radio راديو القرآن - Saud Al-Shuraim سعود الشريم
 https://radio.mp3islam.com/listen/alshuraim/radio.mp3?n=e70299ee40b1ee1a0eac
 #EXTINF:-1,Quran Radio راديو القرآن - Yasser AlDosari - ياسر الدوسري
@@ -745,6 +330,8 @@ https://svs.itworkscdn.net/asharqradioalive/asharqradioa/playlist.m3u8?n=8472a62
 https://r.fm-radio.net/bndr/?n=706def3c11712ce9eec9
 #EXTINF:-1,Radio Caprice - Arabic Pop
 http://79.120.39.202:8000/arabicpop?n=30566f9f8fa314659028
+#EXTINF:-1,Radio Delta Lebanon
+http://cast3.my-control-panel.com:8501/?n=d94a169003793d09cc95
 #EXTINF:-1,Radio Hits 88.2 Cairo
 https://radiohits882.radioca.st/?n=c1e27e1f24d99152a308
 #EXTINF:-1,Radio Indah Siar Cirebon
@@ -761,8 +348,6 @@ http://dreamsiteradiocp4.com:8014/stream?n=08b242c385d06236909e
 http://live.mp3quran.net:9842/?n=dfeb8a91f151f847f884
 #EXTINF:-1,radyo mezopotamya
 https://anadolu.liderhost.com.tr/9404/stream?n=1f922ad56b3fb7a9d9be
-#EXTINF:-1,Rim Radio
-https://streaming.rimradio.ma/live?n=c80c3da85f2fffd15760
 #EXTINF:-1,Rotana FM
 http://curiosity.shoutca.st:6035/?n=e016832edefcd760b371
 #EXTINF:-1,Sam FM
@@ -771,35 +356,29 @@ http://edge.mixlr.com/channel/kijwr?n=fbe318ef6b0aa728ab7f
 http://vps1.osina.cloud:9320/?n=c3afaeb9eecca6be6302
 #EXTINF:-1,Sawt El Mada
 http://audiostreaming.itworkscdn.com:9018/stream?n=1900b83f5581dd2765c1
-#EXTINF:-1,Sawt Sydney كل الفرق
-https://usa10.fastcast4u.com/nada22?n=5a5b2f99171d9295658c
+#EXTINF:-1,Sky Arabia News TV
+https://stream.skynewsarabia.com/hls/sna_720.m3u8?n=8c4c00da4fbe2f7a30ed
 #EXTINF:-1,SumerFm Iraq
 https://l3.itworkscdn.net/itwaudio/9012/stream?n=fb65dfbe33f670753381
 #EXTINF:-1,Tafsir Quran & Islam Radio Station
 https://radio.quranradiotafsir.com/9992/stream?n=0ff08e952cc33694372e
-#EXTINF:-1,Version FM
-https://versionfm.com:8100/stream?n=3f1c52ca3a7b6fd5771c
 #EXTINF:-1,Voice Of Grace
 https://securestreams5.reliastream.com:1820/?n=8de8b5f0bf7f2608d750
 #EXTINF:-1,Voice of Lebanon Sawtlebnan Radio
 https://l3.itworkscdn.net/itwaudio/9054/stream?n=5f3488d97a7daa78efe7
-#EXTINF:-1,WANASAH
-https://wanasahfm-radio.mbc.net/wanasahfm-radio.m3u8?n=ab40b9633125c51e0ec8
-#EXTINF:-1,Wanasah FM
-https://wanasahfm-radio.mbc.net/wanasahfm-radio_1.m3u8?n=8a291baef7dd61e47851
-#EXTINF:-1,WS3 Radio Tahran Arabic
-https://live.arabicradio.net/hls/arabic_high.m3u8?n=2d94285b767c1a3c28a0
 #EXTINF:-1,Zaman al wasl
 http://zamanalwaslradio.out.airtime.pro:8000/zamanalwaslradio_b?n=3ebb3fb264e4f8cc0e0f
 #EXTINF:-1,اذاعة الحادي والعشرين من سبتمبر
 http://procyon.shoutca.st:8488/index?n=be010525777eff582a81
 #EXTINF:-1,اذاعة الشمس - A-Shams
 https://cdna.streamgates.net/Ashams/Live/icecast.audio?n=659e193fe7f18efc6893
-#EXTINF:-1,تكبيرات العيد
-http://live.mp3quran.net:9728/?n=9649992f04c42ef5ac9c
+#EXTINF:-1,الكويت - البرنامج الثاني
+https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3?n=084dd2bf3e2341d2c0af
 #EXTINF:-1,قرآن، طعم آفتاب زنده
 http://s1.cdn2.iranseda.ir:1935/liveedge/radio-quran/chunklist_w1668184178.m3u8?n=822ebd09598c5b2842f5
+#EXTINF:-1,قرآن كريم للمقرئ المغربي عبد الرحمن بنموسى
+https://ia600104.us.archive.org/29/items/A_B_M_SO_2/A_B_M_SO_2_vbr.m3u
 #EXTINF:-1,قناة الجزيرة
 https://live-hls-web-aja.getaj.net/AJA/06.m3u8?n=6fbd4488b7209aeb5eb5
-#EXTINF:-1,Swaida
-http://swaida.com:9996/listen.pls?sid=1?n=4cdb9bbbda515568286f
+#EXTINF:-1,2TripleO - Sydney - 98.5 FM AAC
+http://23193.live.streamtheworld.com/2OOOAAC.aac?n=387e24c9c95e36b2493b

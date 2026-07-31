@@ -223,8 +223,6 @@ https://stream.relaxfm.ee/spa
 https://edge02.cdn.bitflip.ee:8888/SKYgold?_i=5e295118
 #EXTINF:-1,Võmba FM
 https://c4.radioboss.fm:18123/stream
-#EXTINF:-1,HappyU Radio
-https:/http:/adio.streemlion.com:2525/stream
 #EXTINF:-1,Tartu Family Radio
 http://worker.pereraadio.ee:8000/;
 #EXTINF:-1,Xl Radio - Estonia
@@ -295,3 +293,109 @@ https://maggie.torontocast.com:8110/stream
 https://c32.radioboss.fm:8744/stream
 #EXTINF:-1,ALL THE BEST RADIO
 https://c4.radioboss.fm:8537/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33351.png",Raadio Sky Plus
+https://edge01.cdn.bitflip.ee:8888/SKYPLUS
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33353.png",Raadio Tallinn
+https://fmradiohub.in/radio?url=http://icecast.err.ee/raadiotallinn.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33354.png",Power Hit Radio
+https://n12.rcs.revma.com/f31w7e0fveuvv?rj-ttl=5&rj-tok=AAABiMgJqD8A9YlkA5mBybON6g
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33355.png",Klassika Raadio 
+https://fmradiohub.in/radio?url=http://icecast.err.ee/klassikaraadio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33356.png",NRJ FM Radio
+https://edge04.cdn.bitflip.ee:8888/NRJ?_i=67b721f5
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33360.png",Raadio Elmar 
+https://le06.euddn.net/b41854f247c10cd06ba26863fb1e177b3399f91049f44546cb9c2e3d5cf6298528d4db4a35679663be5ca4eb9cbdd6eb71a8ce194962d7107aa52da48bb85c5eaf40b40a0c4fe781139e1242072e3fc6519b61ed5e46543bfc6358b1921d0369bcdc3e587f8580bfe78603a92aa7f05a928121ce99f76bc5dd5f18815bce2877a2774635dd8ff3d7be56fd816a3417bccef175fb485a9203c6a8ac55e6c80f57/elmar.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33362.png",Raadio HIT FM
+https://fmradiohub.in/radio?url=http://91.232.4.33:7034/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33363.png",ERR Raadio 2
+https://fmradiohub.in/radio?url=http://icecast.err.ee/raadio2.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33364.png",Vikerraadio
+https://fmradiohub.in/radio?url=http://icecast.err.ee/vikerraadio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33366.png",SKY Радио
+https://edge05.cdn.bitflip.ee:8888/SKY?_i=65002dc5
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33367.png",My Hits
+https://le02.euddn.net/972f1aa1d24825089edc38082e4c165ca91217e36cd47986a6882f4662e4036f0d5c12f284d071171b79a34b9595b8332faceca469f04f234ca5c4d62fc1acdd2413254be71c38970e4e6514393f03b1ac78fac453004512e27d6a2761c72c97692f307f2337e921b296d1588f07e0f473ce77d5ef9e79b5e17ea2c035dff908386f9a249dfb50bf539b7ad6fbec6682f0c906af055eaf7c690756858dd2c5c69a99f1359132e1071023c5318e466dc4/myhits.aac
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33369.png",Raadio 7
+https://radio7.streamabc.net/87-radio7dab-mp3-192-2906603?sABC=65r95rs7%230%2301pq480nrropspr13q82943o9q7031p0%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiodeskey:1709793015
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33372.png",HappyU Radio
+https://fmradiohub.in/radio?url=http://listen.radionomy.com/happyu/ Title1=Radio HappyU Length1=-1 File2
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/36154900.png",D-FM
+https://ec1.yesstreaming.net:1725/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/27362031.jpg",The X Files Network
+https://s4.radio.co/sffe6d1f46/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-rock-fm-metal-logo.jpg",Radio Rock FM Metal
+https://stream.skymedia.ee/live/rckmetal
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/raadio-7-569503-logo.jpg",Radio Raadio 7
+https://edge05.cdn.bitflip.ee:8888/R7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-pereraadio-tartu-logo.jpg",Radio Pereraadio Tartu
+http://bee.pereraadio.ee:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-kesk-eesti-tre-logo.jpg",Radio Kesk-eesti Tre
+https://sc2.treraadio.ee/kesk-eesti-tre
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-ring-fm-logo.jpg",Radio Ring FM
+https://sc2.treraadio.ee/ringfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-tre-raadio-parnu-logo.jpg",Radio Tre Raadio Pärnu
+https://sc2.treraadio.ee/parnu-tre
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/micro-effect-radio-577730-logo.jpg",Micro Effect Radio
+http://microeffect.purestream.net:9680/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/finest-fm-600091-logo.jpg",Radio Finest FM
+https://shoutcast.finestfm.fi/stream/1/:80/;stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-sooviraadio-logo.jpg",Radio Sooviraadio
+http://media.uunox.net:8888/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-artekon-raadio-logo.jpg",Radio Artekon Raadio
+https://myradio24.org/5566
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-doubleclap-radio-logo.jpg",Doubleclap Radio
+https://s3.radio.co/scfd7273b2/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-postimees-raadio-logo.jpg",Radio Postimees Raadio
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/postimeesraadio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-r2-pop-logo.jpg",Radio R2 Pop
+http://icecast.err.ee:80/r2popkorge.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-tagatuba-fm-logo.jpg",Radio Tagatuba FM
+https://sp.streams.ovh/8012/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-rahvaraadio-logo.jpg",Radio Rahvaraadio
+http://streamer.tt.ee:8000/rahvaraadio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-pereraadio-kuressaare-logo.jpg",Radio Pereraadio Kuressaare
+http://icecast.pereraadio.ee:8000/Kuressaare
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-tre-raadio-rapla-logo.jpg",Radio TRE Raadio Rapla
+https://sc2.treraadio.ee/raplastuudio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-tre-hits-radio-logo.jpg",Tre Hits Radio
+https://stream1.rcast.net/66038
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-retro-fm-disco-logo.jpg",Radio Retro FM Disco
+https://stream.skymedia.ee/live/retro1.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-urban-logo.jpg",Radio #URBAN
+https://s1.vgs.ink/listen/urban/urban.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-raadio-duo-logo.jpg",Radio Raadio Duo
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/radioduo.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-duo-greatest-christmas-hits-logo.jpg",Radio Duo Greatest Christmas Hits
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/DuoGH.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-duo-gold-logo.jpg",Radio Duo Gold
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-tzgospel-estonia-logo.jpg",Radio Tzgospel Estonia
+https://stream.zeno.fm/xqfdaf7dgfhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-ruutfm-logo.jpg",Radio RuutFM
+https://sc2.treraadio.ee/ruutfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-duo-rock-logo.jpg",Radio Duo Rock
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-druzi-fm-logo.jpg",Radio drUzi FM
+http://radiodruzi.online:8000/96aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-spacefm-logo.jpg",Radio SpaceFM
+https://c34.radioboss.fm:8843/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-duo-country-logo.jpg",Radio Duo Country
+https://le09.euddn.net/779b6538b8ce50b39f6ea129d18355d34629d1b9e06f61d31da9f49ed5abdc33bcdfa894cc52415a8bf7a9b713e073c5c77d77e128a362cebab1b11b6e9455386656818775c4421dcffa88c51041d9ce7b0aed366fd180f72d177816c4d9e9ebc2008ef8438d0f9cca5362dfdca70ec4673f5e16
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-jumor-fm-estonia-logo.jpg",Radio Jumor FM Estonia
+https://a10.asurahosting.com:7640/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-favor-radio-estonia-logo.jpg",Favor Radio (Estonia)
+https://a10.asurahosting.com:7660/estonia.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-ida-radio-logo.jpg",IDA Radio
+https://broadcast.idaidaida.net:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-myhits-dance-logo.jpg",Radio MyHits Dance
+https://router.euddn.net/8103046e16b71d15d692b57c187875c7/md_mhdance.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-retro-love-logo.jpg",Radio Retro Love
+https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-sky-plus-latin-logo.jpg",Radio Sky Plus Latin
+https://stream.skymedia.ee/live/splatin
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-kiss-fm-eurovision-logo.jpg",Radio KISS FM Eurovision
+https://stream.skymedia.ee/live/KissEurovisioon
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-kiss-fm-pride-logo.jpg",Radio KISS FM Pride
+https://stream.skymedia.ee/live/KissPride
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ee-kiss-fm-logo.jpg",Radio Kiss FM
+https://stream.skymedia.ee/live/KISS

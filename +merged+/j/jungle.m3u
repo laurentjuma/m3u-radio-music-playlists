@@ -449,8 +449,6 @@ http://radioreddit.com/listen/electronic/listen.m3u/stream/1
 http://radio.drums.ro:8000
 #EXTINF:-1,Nu Rave Radio
 http://nurave.vmlinuz.co.uk:10000/nurave24.m3u
-#EXTINF:-1,Bassdrive
-File8=http://us-tx1.streams.bassdrive.com:9000
 #EXTINF:-1,Dnb Noize
 http://www.dnbnoize.com:8000/stream/1
 #EXTINF:-1,Beats N Breaks
@@ -611,8 +609,6 @@ https://stream.rcast.net/10491
 https://play-radio0.jump.bg:7203
 #EXTINF:-1,Futuredrumz Jungle Drum &amp; Bass Radio
 https://futuredr.radioca.st/;
-#EXTINF:-1,Радио Рекорд - Jungle
-https:/http:/adiorecord.hostingradio.ru/jungle96.aacp
 #EXTINF:-1,Playback UK
 https://chilledstreaming.com:8650/pb.mp3
 #EXTINF:-1,Flex fm 101.4
@@ -639,8 +635,6 @@ http://51.161.13.49:8061/stream
 https://subtle.out.airtime.pro/subtle_a
 #EXTINF:-1,Jungletrain.net
 http://stream5.jungletrain.net:8000/;
-#EXTINF:-1,komrad
-https:/http:/ad.komrad.livehttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,BPMcast
 http://bpmcast.stream.laut.fm/bpmcast?t302=2023-04-25_19-35-21&uuid=756aab60-fed5-4aad-997f-a9e6ed8e4a1a
 #EXTINF:-1,RudeFM
@@ -651,8 +645,6 @@ https://www.partyviberadio.com:8061/;listen.pls?sid=1
 https://listen.radioking.comhttp:/adio/282820/stream/328621
 #EXTINF:-1,Radiocratie
 https://flux.radiocratie.com/flux
-#EXTINF:-1,Egregore Radio
-https:/http:/adio.egrego.rehttp:/adio/8000http:/adio.mp3
 #EXTINF:-1,Vague Music
 http://47.203.191.233:8000/stream/3/
 #EXTINF:-1,Futuredrumz Jungle Drum & Bass
@@ -699,3 +691,105 @@ https://dj.radyoph.com:8020/jungleradio
 https://chat.jungletrain.net/streamtest/;stream/1
 #EXTINF:-1,XRaydio 2 – Your Vintage Jukebox - 160 - Bulgaria - vintage - oldies - jet set lounge - garage - mod - vintage soul - roughneck country - bubblegum pop - glam rock - funk - soundtracks - library music - rockabilly - crime jazz - jungle exotica
 http://radiorecord.hostingradio.ru/jungle96.aacp
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/128877.v2.png",Nu Skool Junglist FM 
+https://s2.radio.co/s7c9dfb8f7/listen
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/37139.v6.png",Vague Music Radio 
+http://vague.ddns.net:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EKJDNN.png",Alpha Wave Radio
+https://securestreams6.autopo.st:2160/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1NBDIA.png",Hardcore Jungle
+https://a5.my-control-panel.com:8130/hi-mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4N72ZF.png",X13 Radio - Jungle Music
+https://x13radio.com:8002/stream/48/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/85LJFC.png",X13Radio - Jungle Music HD
+https://x13.streamguys1.com/x13-junglemusic
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50055/logo_8ZYTtgm9Db.png",Break Pirates Radio
+http://bpstream.hostco.de:3000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50547/logo_yCcOM8FFKO.png",Fantasy FM Radio
+https://eu4.fastcast4u.com/proxy/fantasyfm?mp=%2F1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38755/logo_lvvn6za6id.png",Drums.ro Radio
+http://radio.drums.ro:8000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50024/logo_WsjSILeYrY.png",Futuredrumz Jungle Drum &amp; Bass Radio
+https://futuredr.radioca.st/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/51348/logo_ZAku1j7idM.png",Old Skool Rave Tapes Radio
+https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/backup
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/49094/logo_96ObduKE79.png",Sluhai Radio
+https://streams.radio.co/s0d4b9dea0/listen
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/99565/logo_MVq6RA0gcy.png",1213 radio
+http://radio.shoutcheap.com:8239/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50822/logo_QqiTbgnlPO.png",Diamond Fm Radio
+https://usa19.fastcast4u.com:1120/1
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/51385/logo_UwGHybxalU.png",Envy FM Radio
+https://envyfm.radioca.st/stream2
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/89015/logo_4tZl28ulw2.png",AllsortsHits Radio
+http://puma.streemlion.com:2220/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50023/logo_pKOmPzAZla.jpg?v=20260529-media-restore",Different Drumz DnB Radio
+https://differentdrumz.radioca.st/stream%20
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92461/logo_mhA3TbzS5o.jpg?v=20260529-media-restore",DRUM AND BASS LOUNGE
+http://198.15.94.34:8012/stream/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88389/logo_uxpQ4TA6sP.jpg?v=20260529-media-restore",Dubplate.fm - Drum 'n Bass
+https://sc2.dubplate.fm/radio/8030/dnb/uhifi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38755/logo_QC53egURtO.jpg?v=20260529-media-restore",Drums.ro Radio
+http://radio.drums.ro:8000/;stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50055/logo_QlFfJXMHrS.jpg?v=20260529-media-restore",Break Pirates
+http://bpstream.hostco.de:3000/;stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51413/logo_n7JTSZkYb6.jpg?v=20260529-media-restore",Pure FM London
+https://phoebe.streamerr.co:1140/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50024/logo_484yenveJS.jpg?v=20260529-media-restore",Futuredrumz Jungle Drum & Bass Radio
+https://futuredr.radioca.st/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96704/logo_HuxI8OnWE7.jpg?v=20260529-media-restore",Drumbase.Space
+https://radio.drumbase.space/radio/8000/mobile.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/99565/logo_pbdLFtx5rs.jpg?v=20260529-media-restore",1213 radio
+http://radio.shoutcheap.com:8239/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50547/logo_FlwrDCBNJP.jpg?v=20260529-media-restore",Fantasy FM
+https://eu4.fastcast4u.com/proxy/fantasyfm?mp=%2F1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51348/logo_MudXIUWHdP.jpg?v=20260529-media-restore",Old Skool Rave Tapes
+https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/backup
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51430/logo_BF52sdZifW.jpg?v=20260529-media-restore",Diffusion Radio UK
+https://solid24.streamupsolutions.com/proxy/dhqxvqqg/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51565/logo_xVQWRQYDGv.jpg?v=20260529-media-restore",Underground Bass
+https://s11.citrus3.com:8804/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50438/logo_IXDRAwigBP.jpg?v=20260529-media-restore",Fuzion Live
+https://fuzionlivetv.com/hls/fuzion.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51350/logo_wZbKZvRur6.jpg?v=20260529-media-restore",infrared.fm
+https://carol.epichosts.co.uk:8232/live.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50025/logo_ZpcNrrKTh2.jpg?v=20260529-media-restore",Renegade Radio
+https://streaming06.liveboxstream.uk/proxy/renegade/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50442/logo_NIB6GzLiH8.jpg?v=20260529-media-restore",Only Old Skool Radio
+https://listentomystream.com:8036/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50855/logo_Uu9IflaY3I.jpg?v=20260529-media-restore",Oldskool UK
+https://usa10.fastcast4u.com:8880/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50698/logo_lUU8NvJHv3.jpg?v=20260529-media-restore",Energy 1058
+https://energy1058.radioca.st/listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49903/logo_PrI8WM6JVa.jpg?v=20260529-media-restore",KOOL FM
+https://admin.stream.rinse.fm/proxy/kool/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50699/logo_wQg8XZEGJS.jpg?v=20260529-media-restore",Eruption Radio UK
+https://securestreams6.autopo.st:2293/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50822/logo_NTXiLJzaak.jpg?v=20260529-media-restore",Diamond Fm
+https://usa19.fastcast4u.com:1120/1
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40287/logo_0sGpXV2ocO.jpg?v=20260529-media-restore",ROUGH Radio
+https://roughradio1.out.airtime.pro/roughradio1_a
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95258/logo_uJRgiPEWKb.jpg?v=20260529-media-restore",Vague Music Radio
+http://vague.ddns.net:8000/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51385/logo_o5Z63xghk1.jpg?v=20260529-media-restore",Envy FM
+https://envyfm.radioca.st/stream2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-drum-and-bass-lounge-logo.jpg",Radio DRUM AND BASS LOUNGE
+http://198.15.94.34:8012/stream/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/drumsro-radio-181066-logo.jpg",Drums.ro Radio
+http://radio.drums.ro:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/futuredrumz-jungle-drum-and-bass-radio-581748-logo.jpg",Futuredrumz Jungle Drum & Bass Radio
+https://futuredr.radioca.st/;?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/different-drumz-dnb-radio-583228-logo.jpg",Different Drumz DnB Radio
+https://differentdrumz.radioca.st/stream%20;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/motiv8-radio-fm-593843-logo.jpg",Motiv8 Radio FM
+http://192.111.140.11:8234/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-break-pirates-logo.jpg",Radio Break Pirates
+http://bpstream.hostco.de:3000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-only-old-skool-radio-logo.jpg",Only Old Skool Radio
+https://listentomystream.com:8036/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-allsortshits-logo.jpg",Radio AllsortsHits
+http://puma.streemlion.com:2220/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-oldskool-uk-logo.jpg",Radio Oldskool UK
+https://usa10.fastcast4u.com:8880/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-diamond-fm-logo.jpg",Radio Diamond Fm
+http://12991.cloudrad.io:9438/;

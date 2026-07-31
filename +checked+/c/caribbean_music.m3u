@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1,Crossroad Family Radio
 https://auds1.intacs.com/crossroadfamily
-#EXTINF:-1,Legacy 90.1  FM
-http://92.27.224.83:8000/;
 #EXTINF:-1,Caribbean Hot FM
 https://audiovs.intacs.com/caribbeanhotfm
 #EXTINF:-1,Wice QFM
 https://sonic01.instainternet.com/8306/stream
+#EXTINF:-1,SLAM 101.1 FM
+http://usa4.fastcast4u.com:5006/;stream.mp3
 #EXTINF:-1,PokoeFM
 https://sonic.magicdragon.nl/8024/stream
 #EXTINF:-1,Supa Jamz Radio
@@ -33,20 +33,20 @@ http://usa7.fastcast4u.com:5929/1/
 https://auds1.intacs.com/caribbeanpowerjamradio
 #EXTINF:-1,Mix 90.1 FM
 https://audio-edge-5bkfj.fra.h.radiomast.io/aa758625-6c37-4a31-8262-b2bf84bbe17f
-#EXTINF:-1,WAVS 1170 AM
-https://us2.streamingpulse.com/ssl/WAVS1
+#EXTINF:-1,NYKFM (New York Kreyol FM)
+https://live.onevoicefm.com:1435/stream
 #EXTINF:-1,WDR COSMO Special
 http://f131.rndfnk.com/ard/wdr/cosmo/special/mp3/128/stream.mp3?cid=01FC1V9F68QXT4S8JJA6F9WE1K&sid=2VbyC9Tm64wi4czi8j7jfytzkX4&token=v8YldFj3gB7dN1HnGRNfgaBAqv_Qxweb9tO4qDJ6bRY&tvf=8hxTyVdZhhdmMTMxLnJuZGZuay5jb20
 #EXTINF:-1,La FM 91
 https://streaming.radiosenlinea.com.ar:10871/;stream.nsv
-#EXTINF:-1,Wee Radio
-https://586a9edea75f1.streamlock.net/weeradioonline/weeradioonline/playlist.m3u8
 #EXTINF:-1,Kompa Lakay Radio
 http://199.115.115.71:8117/stream
 #EXTINF:-1,MERENGUE FIERAMIX
 https://c15.radioboss.fm:18223/stream
 #EXTINF:-1,Local Vibez Radio
 https://c3.radioboss.fm:18306/stream
+#EXTINF:-1,Hindsight Media Radio 103.5 FM
+https://das-edge15-live365-dal02.cdnstream.com/a04749
 #EXTINF:-1,Large Radio
 https://sonic01.instainternet.com/8312/stream/
 #EXTINF:-1,SOLO SALSA
@@ -63,6 +63,10 @@ https://stream.radio.co/s9f46a9bb1/listen?ver=319331
 https://laradiossl.online:10289/;stream.nsv
 #EXTINF:-1,We Hide Out FM
 https://s19.myradiostream.com/:18234/listen.mp3
+#EXTINF:-1,Irie Jam Radio
+https://www.iriejamradio.com/event/listeners-choice-awards/
+#EXTINF:-1,Soufriere Hills Radio
+https://das-edge62-live365-dal03.cdnstream.com/a68427
 #EXTINF:-1,Five3Radio
 https://audiovs.intacs.com/five3radio
 #EXTINF:-1,HI93
@@ -71,6 +75,8 @@ https://pacificmedia.cdnstream1.com/2780_64.aac
 http://chandra.shoutca.st:8629/;
 #EXTINF:-1,Radio City Sound FM
 https://auds1.intacs.com/citysoundfm
+#EXTINF:-1,WTJC-LP
+http://s9.viastreaming.net:7820/;011411476069954stream.nsv
 #EXTINF:-1,Music Media Lounge
 https://streaming.radio.co/s46fe85384/listen
 #EXTINF:-1,OneRadiolink
@@ -101,3 +107,43 @@ http://stream.zemi.mk:8003/1
 http://streamingned.com:7214/
 #EXTINF:-1,Zouk Kompa 24 SEVEN
 http://192.211.51.158:8052/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OL272.png",Abee radio
+https://abee.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SZ0N5C.png",always the best radio online
+https://curastreamz.com/8012/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A7ZMNF.png",Bel Radio Martinique
+https://n02.rcs.revma.com/9b1a2gyspwzuv?rj-ttl=5&rj-tok=AAABc0Ik_AMA0ZyROiyl2gapDw
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OV0YU1.png",Blazin 99.3
+https://streams.radio.co/s5f11a7ef9/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1EPKVD.png",bls  guyane
+https://servidor15.brlogic.com:7292/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LYX2A4.png",Bluefields Radio
+https://streaming.radio.co/s6fd216276/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/836NZ3.png",Busy Radio
+http://aud1.sjamz.com:8292/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MHX312.png",Choco Radio
+https://server2.prowifihost.com:7003/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NR9PWI.png",De Musical Pm Radio
+https://bmore.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7Z3KHR.png",Five3Radio.com
+https://auds1.intacs.com/five3radio
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IUU4GB.png",HMstudio
+http://s47.myradiostream.com:9802/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4UIFUZ.png",Irie Vibes Radio Detroit
+https://das-edge62-live365-dal03.cdnstream.com/a01545
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EULM62.png",Koneksyon 509
+https://usa10.fastcast4u.com:6280/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6B9IR.png",Konpa Mix Radio!
+https://das-edge62-live365-dal03.cdnstream.com/a15951
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1HLM4J.png",KREM Radio
+http://159.65.32.199:8016/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1SA73C.png",Kubuliradio Online
+http://kubuliradio.com:8090/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QRDKMD.png",RADIO ALIZE
+https://radioalize.ice.infomaniak.ch/radioalize-128.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WPMORI.png",Radio Zion
+http://radio.zionsound.fr:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JRG4NT.png",WZPP-LP
+http://audio.sjamz.com:8132/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EUM2BZ.png",ZBVI
+https://streams.radio.co:80/s39d621120/listen

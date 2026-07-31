@@ -2275,8 +2275,6 @@ http://s1.voscast.com:7886/
 https://stream-150.zeno.fm/e7tqcayfsc9uv?zs=Vif9X_97TmasFCwXU-YY7Q
 #EXTINF:-1,twst
 https://nl1.streamhosting.ch/lounge64.aac
-#EXTINF:-1,rememberfm
-http:/http:/ememberfm.emisionlocal.com:9302/LIVE
 #EXTINF:-1,cnn
 https://unlimited2-ar.dps.live/cnn-ar/aac/icecast.audio
 #EXTINF:-1,NDR Info AAC
@@ -2291,14 +2289,10 @@ http://stream-uk1.radioparadise.com/aac-32
 http://s2.radio.co/s22ae5a8a6/listen
 #EXTINF:-1,fer
 https://monteverde.zapto.org:8020/fuego.ogg
-#EXTINF:-1,musoc
-http:/http:/adio.streamings.gr:8162/stream
 #EXTINF:-1,WAYF 88.1 - Way FM Christian Radio West Palm Beach, FL
 http://wayfm.streamguys1.com/wayf.aac
 #EXTINF:-1,WDSW 88.1  - The Trail Roots, Blues &amp; Rock Cleveland, MS
 http://dsuradio.deltastate.edu:8000/stream
-#EXTINF:-1,Soul City FM
-http:/http:/adioradio.ddns.net:8100/soul
 #EXTINF:-1,Radio Hewad 88.0 FM
 http://64.37.60.11:9994/
 #EXTINF:-1,Gorbat Radio
@@ -2317,5 +2311,275 @@ https://fdsfdsfdsf.radio12345.com/intro.mp3
 https://radionowruz.out.airtime.pro/radionowruz_a
 #EXTINF:-1,GtaW Trap Metal
 https://stream.zeno.fm/wrmm99jehtwvv
-#EXTINF:-1,p - 192 - Afghanistan - j
-#EXTINF:-1,Paradise - 32 - Afghanistan - http://stream-uk1.radioparadise.com:80/aac-32
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OZFK0H.png",10Radio
+http://live.canstream.co.uk:8000/10radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4CDZ35.png",AddictedToRadio.com
+http://wms-13.streamsrus.com:9010/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/L7U682.png",AddictedToRadio.com - 70s Pop Hits
+http://wms-13.streamsrus.com:9110/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6X95U8.png",AFN 360 Lajes [NATO countries only]
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_LJS_SC?dist=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OU4GE.png",AM1680 Country Crossroads
+http://hemnos.cdnstream.com/1490_128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TMR0T.png",Athena 9.84 FM
+http://athina984.live24.gr/athina984
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/55G6Q.png",B5 aktuell
+https://br-edge-2008-dus-lg-cdn.cast.addradio.de/br/b5aktuell/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/SUSVYO.png",BBN Radio English
+https://stream2.bbnradio.org:8443/english
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1FZDDS.png",BFBS Afghanistan
+https://tx.sharp-stream.com/icecast.php?i=ssvcbfbs9.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9B20GF.png",BFBS Afghanistan
+https://edge-audio-01-cr.sharp-stream.com:80/ssvcbfbs9.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FH00LQ.png",BFBS Afghanistan
+https://icy-e-04.sharp-stream.com/ssvcbfbs9.mp3?s=1449427357
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/JKGN53.png",BFBS Gurkha
+https://icy-e-04.sharp-stream.com/ssvcbfbs3.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/X8F9EX.png",Big R Radio 80s FM
+http://107.155.111.170:8170/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/P03DXS.png",BRUZZ
+https://ice.cr2.streamzilla.xlcdn.com:8000/sz=fmbrussel=fmb988.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PIACH.png",Fiesta Mexicana
+http://streaming.promomedios.com:8004/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KS50F2.png",Flex Fm
+http://142.4.215.64:8116/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/FLI81Q.png",Folk 3 Radio Beograd
+http://192.99.8.192:3074/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KMWQM.png",FROGGY
+https://playerservices.streamtheworld.com/api/livestream-redirect/KVOXFM_SC
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VUD6V9.png",Galaxy FM 100.2
+https://streamingv2.shoutcast.com/galaxy-fm-1002
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RNLYN8.png",Gelre FM
+http://stream.gelre.fm/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XSPPGR.png",Heart FM
+http://83.246.143.25:8000/HFMHigh
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CSEDG.png",Houston Public Media Classical
+https://stream.houstonpublicmedia.org/classical-mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/E2Y1JG.png",Kringvarp Føroya
+http://netvarp.kringvarp.fo:443/uvhm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EL6V.png",La Nueva FM
+http://procyon.shoutca.st:8807/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V73E9J.png",Lebda FM
+http://94.23.66.114:8082/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1JN7QG.png",Mix 93.8 FM
+https://edge.iono.fm/xice/113_medium.aac?p=embed
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/E2UWPL.png",MR1 - Kossuth Radio
+http://stream002.radio.hu/mr1.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XMA89A.png",Oak 107
+http://icecast.maxxwave.co.uk:8000/fosseloughbrohq
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/O9Z3PD.png",Powerhitz.com - 90's Area
+https://live.powerhitz.com/90sarea?aw_0_req.gdpr=true
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GSIEZU.png",Radio Dei
+https://stream.dei.fi:8443/yleisohjelma
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/AJ1OGZ.png",Radio Energy
+http://149.13.0.80/nrj128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RXAN.png",Radio Galaxia
+https://laradiossl.online:8020/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EW1WVI.png",Radio Killid Ghazni
+https://s1.voscast.com:7886/stream1637508937428/1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/O24KXL.png",Radio Killid Herat
+http://s6.voscast.com:9354/stream.ifnm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Radio Markaze Azerbaijaneh Gharb
+http://sc65.lon.llnw.net:80/stream/bbcwssc_mp1_ws-farsa
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PSRO76.png",Radio Orfey
+https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/P823VM.png",Resavski radio
+http://78.129.199.49:80/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Z9XFSM.png",Rete Sport
+https://retesport.newradio.it/1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LX6L70.png",Retro FM
+http://retroserver.streamr.ru:8043/retro256.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QUMYST.png",Sadaye Zindagi
+http://www.sadayezindagi.com:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GIUJ7X.png",Shine FM
+http://sc.rtndigital.com:10050/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/F9XASX.png",Sing Sing
+http://stream.sing-sing.org:8000/singsing128
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6ODOCB.png",SRC FM
+http://streaming.src.fm:8130/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XZXZR1.png",Streek Radio
+http://livestream.streekradio.com:9046/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/G1QUO4.png",Tetriz Radio
+https://servidor2.serviciostreaming.com:7036/stream/1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NSM3YC.png",URF
+http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrhandw_mf_p
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UKNBQV.png",Viva FM
+http://s3.onweb.gr:8030/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MU4LZW.png",WGBH
+https://streams.audio.wgbh.org:8200/wgbh-aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/RM72XE.png",ZNBC Radio 4
+http://stream.klubradio.hu:8080/bpstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80039/logo_nAI3s5Sv7Q.png",Taleemul Islam Radio
+https://radio.hewadict.com/proxy/tislamradio?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80046/logo_iAQ3AN1wTd.png",Mubariz Radio
+https://stream.zeno.fm/adn5vpbmtc8tv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80041/logo_rzB3qd2Emc.png",Pamir Radio
+https://stream.pamirradio.com/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80045/logo_Pqq9VHZMGD.png",Tzgospel Afghanistan Radio
+https://stream.zeno.fm/6se3sdb7kuhvv
+#EXTINF:-1,RADIO NORA OLDIES 
+https://regiocast.streamabc.net/regc-noraoldie-mp3-192-4426850?sABC=69682so9%231%2305rr3oqro60pr97o7o5n8q8261306o0o%23ubzrcntr&mode=preroll&aw_0_req.gdpr=true&aw_0_1st.kuid=vhyh95oqv&aw_0_1st.ksg=[
+#EXTINF:-1,EXA FM: په انګلیسي او هسپانوي کې پاپ موزیک 
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1,Melody Radio Telugu 
+https://a1.asurahosting.com:9580/radio.mp3
+#EXTINF:-1,RADIO MARIAM ARABIC
+http://dreamsiteradiocp4.com:8046/stream
+#EXTINF:-1,香港电台第一台 
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+#EXTINF:-1,إذاعة القرآن الكريم  
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1,Blues Radio Greece 
+http://cast3.radiohost.ovh:8352/
+#EXTINF:-1,גלגלצ להיטים חמים 
+http://glzwizzlv.bynetcdn.com/glglz_hits_mp3?awCollectionId=misc&awEpisodeId=glglz_hits
+#EXTINF:-1,.Quran 
+https://backup.qurango.net/radio/ahmad_khader_altarabulsi
+#EXTINF:-1,.إذاعة ماهر المعيقلي  
+https://backup.qurango.net/radio/maher
+#EXTINF:-1,Rock&Pop Perú 
+http://stream.zeno.fm/0k6va3rg8rhvv
+#EXTINF:-1,Radio Koszalin 
+http://91.232.4.33:9680/stream
+#EXTINF:-1,esRADIO 
+https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-med.aac?listenerid=0c6b1192515b0c9e2f0697d3ecbf43c6&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.7%3Ahtml5&aw_0_1st.playerid=jPlayer%202.9.2&aw_0_1st.skey=1601646790
+#EXTINF:-1,PIRAT FM 
+https://c22.radioboss.fm:18416/piratfm
+#EXTINF:-1,.القارئ محمد أيوب 
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1,Moon Phase Radio: Ambient 
+https://cp12.serverse.com/proxy/moonphase/stream
+#EXTINF:-1,Радио Дача 
+http://194.58.122.69:8000/vdacha
+#EXTINF:-1,اذاعة القرآن الكريم 
+http://stream.radiojar.com/0tpy1h0kxtzuv
+#EXTINF:-1,Focus 
+http://ice.greekstream.net/focusfm?listenerid=ec33c4dfc99a6f71e6dc23583cbc91f2&awparams=companionAds:true
+#EXTINF:-1,JFSR [320kbps] 
+http://stream.dar.fm/10727
+#EXTINF:-1,GAYFM 
+http://stream.gayfm.de/
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Radio Schizoid 
+http://94.130.113.214:8000/schizoid
+#EXTINF:-1,AsiaFM 
+https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
+#EXTINF:-1,إذاعة طريق السلف
+https://airtime.salafwayfm.ly/
+#EXTINF:-1,Sha3by FM 
+https://radio95.radioca.st/stream/1/
+#EXTINF:-1,hhh 
+https://stream.zeno.fm/60pqgs97f2zuv
+#EXTINF:-1,louange radio 
+https://radio13.pro-fhi.net:19079/
+#EXTINF:-1,sunnah radio  
+http://andromeda.shoutca.st:8189/stream
+#EXTINF:-1,RAD 
+http://213.141.131.10:8002/jazzmetal
+#EXTINF:-1,مختصر التفسير 
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1,Русское радио ВЛ 
+http://194.58.122.69:8000/rrvl
+#EXTINF:-1,BNR Horizont 
+http://stream.bnr.bg:8011/horizont.aac
+#EXTINF:-1,גל עברי 
+http://glzwizzlv.bynetcdn.com/glglz_classicil_mp3?awCollectionId=misc&awEpisodeId=glglz_classicil
+#EXTINF:-1,p 
+https://sonic.onlineaudience.co.uk/8114/stream?listening-from-radio-garden=1657427657
+#EXTINF:-1,Qamişlo 
+http://dengeqamishlo.stream.laut.fm/dengeqamishlo?pl=m3u&t302=2026-01-15_01-18-57&uuid=bdfe18ca-cad4-4ceb-bc20-998c5fb19855
+#EXTINF:-1,Tempo FM 87.9 
+http://usloft6143.startdedicated.com:7322/?=usloft6143.startdedicated.com_7322.aac
+#EXTINF:-1,Dance Wave! 
+https://dancewave.online/dance.aac
+#EXTINF:-1,Vesti FM 
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
+#EXTINF:-1,radiowelle24 
+http://stream.laut.fm/rw24
+#EXTINF:-1,Solar Radio 
+https://msmn2.co/proxy/mp3high11/stream
+#EXTINF:-1,Jus' Blues 
+http://192.99.8.192:3444/
+#EXTINF:-1,SBS 파워 FM 
+https://radio.bsod.kr/stream/?stn=sbs&ch=powerfm
+#EXTINF:-1,Coast FM 
+http://213.175.217.198:8000/tenerife
+#EXTINF:-1,Burj 
+http://82.213.26.67:8000/stfeam
+#EXTINF:-1,Авторадио ВЛ 
+http://vladfm.ru:8000/ara
+#EXTINF:-1,月南之音 
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1,fm 
+http://stm11.streaming.profesional.bo:11300/Fb
+#EXTINF:-1,rrr 
+http://media-ice.radiodns.ru/humour.m3u8
+#EXTINF:-1,sunshine-live fokus 
+http://stream.sunshine-live.de/focus/mp3-128/stream.sunshine-live.de/
+#EXTINF:-1,chalabi 
+https://listen.radioking.com/radio/291025/stream/337294
+#EXTINF:-1,Монте Карло ВЛ 
+http://194.58.122.69:8000/mcvl
+#EXTINF:-1,WJLI (Ken Haron) 
+http://207.162.185.111:8000/kastor
+#EXTINF:-1,Simulator FM 
+https://simulatorfm.stream:8025/320Kbps
+#EXTINF:-1,o 
+https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667?sABC=653op5q6%230%235p58nn084q38sp434n9907261qno32q0%23gharva&aw_0_1st.playerid=tunein&amsparams=playerid:tuneinskey:1698416086
+#EXTINF:-1,cool93 
+https://coolism-web3rd.cdn.byteark.com/stream/1
+#EXTINF:-1,rpw 
+https://radiostream.pl/tuba140-1.mp3
+#EXTINF:-1,name 
+https://myradio24.org/5129
+#EXTINF:-1,Bt 
+https://bigtunesradio.com:8100/trance.mp3
+#EXTINF:-1,Joy 
+https://stream.joyhits.online:8072/joyhits.mp3
+#EXTINF:-1,Романтика 
+http://media-ice.radiodns.ru/romantika.m3u8
+#EXTINF:-1,سلام وطندار Radio Salam Watandar FM 98.9 - Afghanistan - Kabul
+https://s10.myradiostream.com/:12238/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sedaye-zandegi-174049-logo.jpg",Radio Sedaye Zandegi
+http://sadayezindagi.com:8000/;.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/salamwatandar-radio-station-603700-logo.jpg",SalamWatandar Radio Station
+http://s10.myradiostream.com:12238/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-radio-salam-watandar-logo.jpg",Radio Salam Watandar
+https://s10.myradiostream.com/12238/;
+#EXTINF:-1 tv-logo="",Radio RTA
+http://216.224.170.180:9990/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pamir-radio-live-music-station-pamirradioinfo-157958-logo.jpg",Pamir Radio Live Music Station - PamirRadio.info
+http://pr-server1.pamirserver.com:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-radio-killid-0-logo.jpg",Radio Killid
+https://s6.voscast.com:9153/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-spogmai-radio-logo.jpg",Spogmai Radio
+http://ca10.rcast.net:8026/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-radio-ghaznawyan-logo.jpg",Radio Ghaznawyan
+https://uk1.internet-radio.com/proxy/ghaznawyan?mp=/stream;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-tarhan-arabic-logo.jpg",Radio Tarhan Arabic
+https://stream.zeno.fm/w0vev6teuuhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-tarhan-turkish-logo.jpg",Radio Tarhan Turkish
+https://stream.zeno.fm/6q85w8veuuhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-tarhan-farsi-logo.jpg",Radio Tarhan Farsi
+https://stream.zeno.fm/uvgyzwveuuhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-tarhan-hindi-logo.jpg",Radio Tarhan Hindi
+https://stream.zeno.fm/2tb73vegfuhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/af-tarhan-english-logo.jpg",Radio Tarhan English
+https://stream.zeno.fm/3c9trfveuuhvv
+#EXTINF:-1 tv-logo="",Radio Translation of the Quran in Pashto by EDC
+http://quraan.us:9874/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-killid-herat-639844-logo.jpg",Radio Killid Herat
+http://s6.voscast.com:9354/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-killid-kabul-639229-logo.jpg",Radio Killid Kabul
+http://s1.voscast.com:7886/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/afghanistan-24-hours-music-station-bakhtarradiocom-159866-logo.jpg",Afghanistan 24 Hours Music Station - BakhtarRadio.com
+http://br-server1.pamirserver.com:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jafarmusiccom-live-music-radio-station-182430-logo.jpg",JafarMusic.com - Live Music Radio Station
+http://jm-server1.pamirserver.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rana-radio-161105-logo.jpg",Rana Radio
+http://s7.voscast.com:7968
+#EXTINF:-1 tv-logo="",Radio RanaFM
+http://216.221.73.213:8000/;
+#EXTINF:-1 tv-logo="",Radio Listen to Quran Kareem live station - LiveQuran.info
+http://pamirserver.livequran.info:8000

@@ -15,3 +15,7 @@ http://streaming.radio.co/se151f189a/listen
 http://freeuk30.listen2myradio.com:17687/
 #EXTINF:-1,Ritmo Salsa y Sabor
 http://play10.tikast.com:8672/stream/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kerala-malabar-islamic-radio-179554-logo.jpg",Kerala Malabar Islamic Radio
+http://s4.voscast.com:8068/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kerala-malabar-islamic-radio-179592-logo.jpg",Kerala Malabar Islamic Radio
+http://uk3-pn.mixstream.net:8232/;

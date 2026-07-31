@@ -891,10 +891,6 @@ https://jfm1.hostingradio.ru:14536http:/cstream.mp3
 https://icecast-radioclassica.cdnvideo.ru/sberzvuk
 #EXTINF:-1,Радио Классик - Classic Gold
 https://jfm1.hostingradio.ru:14536/gcstream.mp3
-#EXTINF:-1,Радио 7 на семи холмах - Наедине с музыкой
-https:/http:/adio7.hostingradio.ru:8040http:/adio7_alone64.aacp
-#EXTINF:-1,Радио Рекорд - Симфония FM
-https:/http:/adiorecord.hostingradio.ru/symph96.aacp
 #EXTINF:-1,Радио Классик - Essential Classic
 https://jfm1.hostingradio.ru:14536/ecstream.mp3
 #EXTINF:-1,Радио Орфей - Популярная классика
@@ -907,20 +903,14 @@ https://jfm1.hostingradio.ru:14536/cvstream.mp3
 https://channels.fonotron.ru:8000/Chan_74_256.mp3
 #EXTINF:-1,Classic Rock Universal
 https://26373.live.streamtheworld.com:443/XHNZ_COMAAC.aac
-#EXTINF:-1,Радио Classic
-https:/http:/adio-streams.kaztrk.kz/classic/classic/icecast.audio
 #EXTINF:-1,101.ru - Классическая Музыка
 https://pub0101.101.ru/stream/pro/aac/64/98?
 #EXTINF:-1,Радио Орфей - Русская классика
 https://channels.fonotron.ru:8000/Chan_73_256.mp3
-#EXTINF:-1,Royal Radio Instrumental
-https:/http:/oyalradio.space/Instrumental
 #EXTINF:-1,Classic FM radio
 https://bravo.btv.bghttp:/adio/classic-radio-proxy/
 #EXTINF:-1,Радио Орфей - Музыка кино
 https://channels.fonotron.ru:8000/Chan_67_256.mp3
-#EXTINF:-1,R.SA Live
-https:/http:/sa.streamabc.nethttp:/egc-rsasachsenlive9335717-mp3-128-2111550?sABC=65097043%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695117379
 #EXTINF:-1,101.ru - Pop Classical Music
 https://pub0101.101.ru/stream/pro/aac/64/97
 #EXTINF:-1,Радио Орфей - Клавир
@@ -947,8 +937,6 @@ https://channels.fonotron.ru:8000/Chan_76_256.mp3
 https://eu1.stream4cast.com/proxy/vemradio/stream
 #EXTINF:-1,Радио Душевный восторг
 https://listen6.myradio24.com/74127
-#EXTINF:-1,Radio Metal On: The Brutal
-https:/http:/adiometalon.com/listenhttp:/adio_metal_on_the_brutalhttp:/adio.mp3
 #EXTINF:-1,Радио Орфей - Музыка с участием духовых
 https://channels.fonotron.ru:8000/Chan_65_256.mp3
 #EXTINF:-1,MetalRock.FM
@@ -967,16 +955,12 @@ http://185.105.4.53:3000/;stream.mp3
 https://diffusion.lafrap.fr/sun-classique.mp3
 #EXTINF:-1,Радио Орфей - Музыка мюзиклов
 https://channels.fonotron.ru:8000/Chan_66_256.mp3
-#EXTINF:-1,Mariinsky FM
-https:/http:/adio.mariinsky.ru/stream
 #EXTINF:-1,1.FM - Otto&#039;s Opera House Music Radio
 https://strmreg.1.fm/opera_mobile_mp3
 #EXTINF:-1,Radio Maestro
 https://nue01-edge01.itdc.ge/fm-maestro-94.7/tracks-a1/playlist.m3u8
 #EXTINF:-1,Радио Орфей - Классика музыкального кроссовера
 https://channels.fonotron.ru:8000/Chan_6_192.mp3
-#EXTINF:-1,Российский национальный оркестр
-https:/http:/nor.ru/datahttp:/adioRNOhttp:/adio256.mp3
 #EXTINF:-1,Радио Орфей - Классика крупных форм
 https://channels.fonotron.ru:8000/Chan_8_192.mp3
 #EXTINF:-1,Радио Орфей - Хоры из опер
@@ -985,16 +969,12 @@ https://channels.fonotron.ru:8000/Chan_62_256.mp3
 https://ice-1.streamhoster.com/lv_wqed--893
 #EXTINF:-1,Радио Орфей - Русская хоровая
 https://channels.fonotron.ru:8000/Chan_64_256.mp3
-#EXTINF:-1,R.SA - Oldie-club
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenoldies7771147-mp3-128-2949639?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,Радио Орфей - Современная хоровая
 https://channels.fonotron.ru:8000/Chan_61_256.mp3
 #EXTINF:-1,Rock a La 2
 https://streaming.radio.co/s0ebd65fd5/listen
 #EXTINF:-1,More FM - Odrex
 https://cast.more.fm/odrex
-#EXTINF:-1,R.SA - Maxis Maximal
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenmaxis7484300-mp3-128-3629145?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,Радио Орфей - Зарубежная хоровая
 https://channels.fonotron.ru:8000/Chan_60_256.mp3
 #EXTINF:-1,Onda Sevilla Radio
@@ -1005,18 +985,10 @@ https://stream-150.zeno.fm/7hpv1r6171zuv?zs=QCDcv4QST9qnPsd78BnF0g
 https://yacht-radio.lv:8150/stream
 #EXTINF:-1,Radio Nariño
 https://stream-068.zeno.fm/8ewqw7vbd2zuv?zs=eh2ZuarOQMOoTyMfml81Gw
-#EXTINF:-1,R.SA - Das Schnarchnasenradio
-https:/http:/sa.streamabc.nethttp:/egc-rsasachseneinschlaf1882929-mp3-192-1689958?sABC=65097550%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118672
-#EXTINF:-1,R.SA - Rockzirkus
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenrockzirkus8440598-mp3-128-3072380?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,Radio Malvern International
 https://cast2.asurahosting.com/proxyhttp:/adiomalvernint/stream
 #EXTINF:-1,Radio OO
 https://stream-149.zeno.fm/2sfh3sn6gv8uv?zs=ieB5EOBSQHelLErgBHIpaw
-#EXTINF:-1,R.SA - Weihnachtsradio
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenevent017364573-mp3-128-6343895?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
-#EXTINF:-1,R.SA Ostrock
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsenostrock7923745-mp3-192-1162842?sABC=650973n5%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118245
 #EXTINF:-1,RADIO TENDENCIA DIGITAL
 https://stream-153.zeno.fm/bkn38u8v5s8uv?zs=W21kwOeATcq31hXEE-9htw
 #EXTINF:-1,Radio Art -Classical Crossover
@@ -1035,16 +1007,12 @@ https://ssl.hdradios.net:6806/
 https://listen.radioking.comhttp:/adio/151276/stream/191701
 #EXTINF:-1,5GTR
 http://203.45.194.8:88/broadwave.mp3
-#EXTINF:-1,R.SA - Event 101
-https:/http:/egiocast.streamabc.nethttp:/egc-rsasachsen1017642883-aacplus-64-7268914?sABC=65097550%230%234r22236104s8nr3n29rss56oo6qo07n6%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1695118672
 #EXTINF:-1,Equinoxe, la radio découverte
 http://live.equinoxenamur.be:8000/Equinoxe.mp3
 #EXTINF:-1,Loco Radio Live
 https://cast.iplayradio.nethttp:/adio/8018/stream
 #EXTINF:-1,Notimil Sucumbios
 https://stream-068.zeno.fm/7cn7ehw3ud0uv?zs=5qCCRUa0QOm0f7DPIDDbRg
-#EXTINF:-1,Ашҡаҙар
-http:/http:/adio.mediacdn.ru/ashkadar.mp3
 #EXTINF:-1,Operator
 http://streamnerd.nl:8000/operator
 #EXTINF:-1,吉林东北戏曲频道
@@ -1053,8 +1021,6 @@ http://stream1.jlntv.cn/dbxq/playlist.m3u8
 https://bp-caster.bestv.com.cn/250/1/video.m3u8
 #EXTINF:-1,梨树北方音乐之声
 https://lhttp.qtfm.cn/live/15318202/64k.mp3
-#EXTINF:-1,93,6 JAM FM DJ Cooper
-http:/http:/tlberlin.streamabc.nethttp:/tlb-jamfmcooper-mp3-192-9354876?sABC=64480s07%230%23n1q9s1ns4osoonq326452q0po510q6pp%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1682444039
 #EXTINF:-1,WQXR New York Public Radio &quot;Operavore&quot; Stream
 http://opera-stream.wqxr.org/operavore-tunein
 #EXTINF:-1,Radio Art - Today’s Sopranos
@@ -1087,30 +1053,12 @@ https://live.radiospinner.com/bstpr-96
 http://22663.live.streamtheworld.com:80/SRGSTR27.mp3
 #EXTINF:-1,嵊州综合广播
 https://lhttp.qtfm.cn/live/20500010/64k.mp3
-#EXTINF:-1,Roger Radio
-https:/http:/ogerradio.theholyroger.com/live
 #EXTINF:-1,NPO Radio 4 - Concerten
 http://icecast.omroep.nlhttp:/adio4-eigentijds-mp3
-#EXTINF:-1,DrGnu - Classic Rock
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobclassicrock1594088-mp3-192-3516780?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - Rock Hits
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobrockhits4737502-mp3-192-8003058?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - 90th Rock
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobob90srock8400272-mp3-192-6033382?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
 #EXTINF:-1,河南网络戏曲广播
 http://lhttp.qingting.fm/live/15318393/64k.mp3
 #EXTINF:-1,Radio Lunáticos
 https://stream-150.zeno.fm/fadb6cn7blqtv?zs=qtGDrU8XQf2VK184hR8LKA
-#EXTINF:-1,Shensi Opera Radio
-http:/http:/adio.sxtvs.comhttp:/adio/opera.mp3
-#EXTINF:-1,DrGnu - Gothic
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobgothic6924976-mp3-192-2500754?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - Metalcore 1
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobmetalcore1855704-mp3-192-1809267?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - Metal 2 Knight
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobdunklepritter8866343-mp3-192-1775553?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
-#EXTINF:-1,DrGnu - Metallica
-http:/http:/egiocast.streamabc.nethttp:/egc-radiobobmetallica3164584-mp3-192-3532789?sABC=644811qp%230%23n1q9s1ns4osoonq326452q0po510q6pp%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1682444764
 #EXTINF:-1,DrGnu - 70th Rock
 http://fluxfm.streamabc.net/flx-70er-mp3-320-4383769?sABC=6202qr25%230%237osorqnn86p8nnp979o1124290qqo247%23fgernzf.syhksz.qr&amsparams=playerid:streams.fluxfm.de;skey:1644355109
 #EXTINF:-1,DrGnu - 80th Rock II
@@ -1193,3 +1141,237 @@ https://origin.streamnerd.nl/operator/operator/icecast.audio
 http://79.120.39.202:8000/opera
 #EXTINF:-1,WNYC Operavore - 47 - The United States Of America - operavore
 http://opera-stream.wqxr.org/operavore.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9PMIIN.png",Charlottesville Classical
+http://streams.wtju.net:8000/wtju-classical.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/53XJO2.png",ITU Radio Classical
+http://160.75.86.29:8088/stream/5/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YQ5RQ5.png",Metropolitan Opera Radio
+https://klassikr.streamabc.net/klr-opera-mp3-192-1730403
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VUJ23N.png",Radio-D - Operetta
+http://radio-d.hu:8000/operett
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CKNOPW.png",Radio Hop frog
+https://radiohopfrog.it/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38398/logo_5MYJ27wsKe.png",Radio Clasic Opera
+https://radioclasic.ro:8686/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/102836/180_G4DV5cZOmx.png",Best of Opera Radio
+https://spn.liveradiofree.com/bstpr-96
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/31062/logo_0vtNrgd9uN.png",Klassik Radio - Opera
+https://klassikr.streamabc.net/klassikr-opera-aac-128-3470802
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/80714/logo_OoZOpwb3bp.png",ABC - Classical Radio
+https://stream.zeno.fm/xx6ci93aeiztv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52269/logo_Q1dSK7APId.png",Radio Art - Opera
+https://air.radioart.com/fOpera.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52334/logo_lPrxKvLGXc.png",Akous - My Classic Radio
+https://ice2.onestreaming.com/akousmyclassic
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46815/logo_0SB7FOv4m0.png",Classik Radio
+https://stream3.vestaradio.com/ClassikRadio?nocache=42118
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/45159/logo_0sr8xdg8Qt.png",Radio Svizzera Classica IT
+https://stream.srg-ssr.ch/m/rsc_it/mp3_128
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/50576/logo_OOEomE3ChJ.png",Linn Classical Radio
+http://radio.linn.co.uk:8004/autodj
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/36555/logo_2vjx0W7RIv.png",Radio Dimash pl
+https://samcloud.spacial.com/api/listen?sid=125052&amprid=262397&ampf=mp3%2Cany&ampbr=128000%2Cany&ampm=sc
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/92008/logo_sq2K4sYUC8.png",Classical WETA VivaLaVoce Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/55135/logo_6CLttDFGKe.png",Radio Clásica
+https://radioclasica.radioca.st/stream2_autodj
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/46353/logo_GIahDMZM8X.png",France Musique Opéra Radio
+https://stream.radiofrance.fr/francemusiqueopera/francemusiqueopera_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/52757/logo_EBV7buWJap.png",Radio Art - Classical
+https://air.radioart.com/fClassical.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/73559/logo_FRDZ2kU7RQ.png",Clásica 88.5 Radio
+https://s6.myradiostream.com:49926/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/40557/logo_lmzJHwhW74.png",Rete Toscana Classica Radio
+https://nr12.newradio.it:8744/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/42684/logo_aAJmuFQEDY.png",RNE Radio Clásica
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006883/logo_pcj2t23moA.jpg?v=20260529-media-restore",Алексей Рыбников
+https://stream.pcradio.app/alexey_rybnikov-hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004089/logo_gpgN5qOKNu.jpg?v=20260529-media-restore",1.FM - Otto's Opera House Music
+https://strm112.1.fm/opera_mobile_mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006488/logo_0cKFvItGso.jpg?v=20260529-media-restore",Opera Radio
+https://stream.pcradio.app/Opera_radio-hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006656/logo_2t9xXDENA8.jpg?v=20260529-media-restore",Анна Герман
+https://stream.pcradio.app/Anna_German-hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38398/logo_X3QqthRi9R.jpg?v=20260529-media-restore",Radio Clasic Opera
+https://radioclasic.ro:8686/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31062/logo_rohiL5eSnF.jpg?v=20260529-media-restore",Opera Klassik Radio
+https://klassikr.streamabc.net/klassikr-opera-aac-128-3470802
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006685/logo_Wa7gaPnQfd.jpg?v=20260529-media-restore",Николай Басков
+https://stream.pcradio.app/Nikolaj_Baskov-hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006905/logo_V3WX5ESYy3.jpg?v=20260529-media-restore",Luciano Pavarotti
+https://stream.pcradio.app/pavarotti-hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42160/logo_Z4AnzoZ0Ak.jpg?v=20260529-media-restore",Adagio Radio
+https://stream.tunerplay.com/listen/adagioradio/adagioradio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41598/logo_49aLQPoArv.jpg?v=20260529-media-restore",Classic Praha
+https://icecast8.play.cz/classic128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/645/logo_2GILZtc8Ca.jpg?v=20260529-media-restore",Хоры из опер - Радио Орфей
+https://channels.fonotron.ru:8000/Chan_62_256.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29735/logo_U1VMaUkre9.jpg?v=20260529-media-restore",Klassik Radio - Chor
+https://klassikr.streamabc.net/klassikr-chor-aac-128-9512571
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006614/logo_c6C2wEu4nL.jpg?v=20260529-media-restore",Emma Shapplin
+https://stream.pcradio.app/Emma_Shapplin-hi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004297/logo_kZ0iFmS1sc.jpg?v=20260529-media-restore",Omdaru Visual Neoclassical
+https://stream-149.zeno.fm/tfqyy4bewz3uv?zs=4joFV6eWSwSs_QqUeWFDUw
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102836/logo_ANtGFEIj17.png?v=20260529-media-restore",Best Opera FM
+https://tower.hayva.ru/ee5nf-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47480/logo_eVP9UBnNyH.jpg?v=20260529-media-restore",Allzic Radio Classic Piano
+https://allzic47.ice.infomaniak.ch/allzic47.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96323/logo_oezRaBRZv8.jpg?v=20260529-media-restore",Opera Radio (MRG.fm)
+https://str3.openstream.co/1840
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53082/logo_bQgIRGMLDP.jpg?v=20260529-media-restore",Classicnl - Opera
+https://stream.classic.nl/classicnl-opera.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52269/logo_Ux0MApyGBy.jpg?v=20260529-media-restore",Radio Art - Opera
+https://air.radioart.com/fOpera.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47385/logo_Ff5IMiRLMZ.jpg?v=20260529-media-restore",Allzic Radio Classic Violon
+https://allzic48.ice.infomaniak.ch/allzic48.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52123/logo_jAoaC38SaR.jpg?v=20260529-media-restore",Radio Art - Romantic Period
+https://live.radioart.com/fRomantic_period.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52835/logo_Kfz5Ku5NQQ.jpg?v=20260529-media-restore",Concertzender - Utrecht Muziekstad
+https://streams.greenhost.nl:8006/vredenburg
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80874/logo_NJOtNtvwbR.jpg?v=20260529-media-restore",Henan Opera Radio
+https://media2.hndt.com/data_02/1/2/2026/01/05/d7dbac25ee8a7c02af2073e4ec8e30e9.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80905/logo_c8Rxgymd2o.jpg?v=20260529-media-restore",Shanghai Theatre Arts
+https://lhttp.qingting.fm/live/269/64k.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52334/logo_seBhROfPvN.jpg?v=20260529-media-restore",Akous - My Classic
+https://ice2.onestreaming.com/akousmyclassic
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55135/logo_V8WYpFTj0l.jpg?v=20260529-media-restore",Radio Clásica
+https://radioclasica.radioca.st/stream2_autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97985/logo_ljJCEPY9NP.jpg?v=20260529-media-restore",Boston Modern Orchestra Project (BMOP) Radio
+https://streaming.live365.com/a39578
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46815/logo_EWRv53iAJ4.jpg?v=20260529-media-restore",Classik Radio
+https://stream3.vestaradio.com/ClassikRadio?nocache=42118
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41420/logo_9ELFGa0H6c.jpg?v=20260529-media-restore",RTVS R Pyramída
+https://icecast.stv.livebox.sk/klasika_128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35405/logo_2ee6GpSDCF.jpg?v=20260529-media-restore",Dankó Rádió
+https://mr-stream.connectmedia.hu/4748/mr7.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88402/logo_O7O329dREG.jpg?v=20260529-media-restore",Classic
+https://goldenwest.leanstream.co/goldenwest/CKCLFM.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43624/logo_H9g4LB76id.jpg?v=20260529-media-restore",Splash Classical
+https://ais-sa2.cdnstream1.com/2208_128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50576/logo_IOafbZl3w3.jpg?v=20260529-media-restore",Linn Classical
+http://radio.linn.co.uk:8004/autodj
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80714/logo_4Yj01NsWdF.jpg?v=20260529-media-restore",ABC - Classical
+https://stream.zeno.fm/xx6ci93aeiztv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41584/logo_tmlKavirE4.jpg?v=20260529-media-restore",Český rozhlas Vltava
+https://rozhlas.stream/vltava_aac_128.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37921/logo_xhNnTqxmKv.jpg?v=20260529-media-restore",Antena 2 Opera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38759/logo_FlJKE90gLi.jpg?v=20260529-media-restore",Radio România Muzical
+http://stream2.srr.ro:8022/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42684/logo_9adyEVqTnN.jpg?v=20260529-media-restore",RNE Radio Clásica
+https://rtvelivestream.rtve.es/rtvesec/rne/rne_r2_main.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/48859/logo_UZheyyeseF.jpg?v=20260529-media-restore",Classicland
+https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/78731/logo_Uikupnc1Ne.jpg?v=20260529-media-restore",Radio X5 Stereo
+https://c32.radioboss.fm:18317/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52757/logo_XhvvJeGW4P.jpg?v=20260529-media-restore",Radio Art - Classical
+https://air.radioart.com/fClassical.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000334/logo_UcIUJe3s09.jpg?v=20260529-media-restore",La Propia Valencia
+https://ofivlc.com.es/listen/propia/lapropiaapp
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88235/logo_zqvRrK98P2.jpg?v=20260529-media-restore",Radio Classique
+https://listen.radioking.com/radio/228241/stream/271810
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/91593/logo_LC3LYZhA4M.jpg?v=20260529-media-restore",Radio Musical Nacional
+https://icecast.teveo.cu/Nbtz7HT3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/73559/logo_FERqREJio6.jpg?v=20260529-media-restore",Clásica 88.5
+https://s6.myradiostream.com:49926/listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45159/logo_Z3bNPGroQF.jpg?v=20260529-media-restore",Radio Svizzera Classica IT
+https://stream.srg-ssr.ch/m/rsc_it/mp3_128
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88473/logo_s2vj3ReQco.jpg?v=20260529-media-restore",Classical FM
+https://live.amperwave.net/direct/mzmedia-cfmzfmmp3-ibc2
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52799/logo_SyX1gGRRUw.jpg?v=20260529-media-restore",Concertzender - Klassieke Muziek
+https://streams.greenhost.nl:8006/klassiek
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/93475/logo_JAAFW10GQW.jpg?v=20260529-media-restore",Classical 95.9 FM - WCRI
+https://wcri.streamguys1.com/live-mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/62193/logo_uoMyGFyvqT.jpg?v=20260529-media-restore",Web Rádio Espiritualista Records Da Música
+https://stream.zeno.fm/jvppkv1ecelvv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000804/logo_TkRwbq8gn4.jpg?v=20260529-media-restore",esRadio Castilla y Leon
+https://libertaddigital-radio-live4.flumotion.com/libertaddigital/ld-live4-low.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000570/logo_rzaC9QKHVO.jpg?v=20260529-media-restore",Es Radio Sevilla
+https://libertaddigital-radio-live3.flumotion.com/libertaddigital/ld-live3-low.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46631/logo_DLX9iv2NaN.jpg?v=20260529-media-restore",Allzic Radio Classic
+https://allzic06.ice.infomaniak.ch/allzic06.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000344/logo_q7CATqrjGE.jpg?v=20260529-media-restore",Vilassar Ràdio
+https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36555/logo_Xlzkv1zFfM.jpg?v=20260529-media-restore",Radio Dimash pl
+https://samcloud.spacial.com/api/listen?sid=125052&rid=262397&f=mp3%2Cany&br=128000%2Cany&m=sc
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38801/logo_IKr0i1pLf9.jpg?v=20260529-media-restore",Radio Domeldo Live
+http://185.105.4.53:3000/;stream.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96992/logo_kCha39oy4u.jpg?v=20260529-media-restore",89.5 KNCJ
+https://kncjstream.com:8443/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000424/logo_2dqVQUkLcN.jpg?v=20260529-media-restore",Canarias Music Radio
+https://radiostreaming.pro/8108/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40557/logo_3laLFLHyOm.jpg?v=20260529-media-restore",Rete Toscana Classica
+https://nr12.newradio.it:8744/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1001891/logo_iWolQq1isj.jpg?v=20260529-media-restore",Radio Television Estepona
+https://streaming2.elitecomunicacion.es:8602/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41576/logo_4sYdBe1km0.jpg?v=20260529-media-restore",Radio Praha International
+https://rozhlas.stream/radio_prague_int_high.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96580/logo_YysM6mY9CE.jpg?v=20260529-media-restore",KHOI Community Radio
+https://stream.pacificaservice.org:9000/khoi
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46079/logo_CPcffu3yHg.jpg?v=20260529-media-restore",La Grande Musique
+https://stream.rcs.revma.com/186wgykpq42vv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37354/logo_ypajXNPz8h.jpg?v=20260529-media-restore",RTBF - Musiq3
+https://radios.rtbf.be/musiq3-128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92008/logo_FFgW8pFP7k.jpg?v=20260529-media-restore",Classical WETA VivaLaVoce
+https://playerservices.streamtheworld.com/api/livestream-redirect/WETAVLV.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94860/logo_M6lb4dGxpD.jpg?v=20260529-media-restore",WQXR - Operavore
+https://opera-stream.wqxr.org/operavore-web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46353/logo_fRqi5R7frH.jpg?v=20260529-media-restore",France Musique Opéra
+https://stream.radiofrance.fr/francemusiqueopera/francemusiqueopera_hifi.m3u8?id=radiofrance
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98872/logo_4r6pleJ8zG.jpg?v=20260529-media-restore",WQXR New Sounds Radio
+https://q2stream.wqxr.org/q2-web
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37101/logo_MQTgHREWpS.jpg?v=20260529-media-restore",RTBF - Musiq3 Romantique
+https://radios.rtbf.be/wr-m3-romantique-128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88644/logo_clTAeccdqN.jpg?v=20260529-media-restore",Yimago Classical (Classic Composers Radio)
+https://yimago.torontocast.stream/classical
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28592/logo_sPJArmkMnC.jpg?v=20260529-media-restore",RTR1 - Die Powerstation Klassikwelt
+https://rtr1klassikwelt.stream.laut.fm/rtr1_klassikwelt
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000850/logo_XQn05P0UzR.jpg?v=20260529-media-restore",EsRadio Galicia
+https://libertaddigital-radio-live2.flumotion.com/libertaddigital/ld-live2-low.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1001005/logo_KTBdjI7p5x.jpg?v=20260529-media-restore",Exito Radio
+http://5.135.183.124:9252/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000282/logo_P9wRIe3ekL.jpg?v=20260529-media-restore",Calafell Radio 107.9
+https://streaming.enacast.com/calafellradio128.mp3?_=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/france-musique-classique-easy-633723-logo.jpg",Radio France Musique Classique Easy
+http://direct.francemusique.fr/live/francemusiqueeasyclassique-hifi.mp3?ID=76zqey582k
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hk-dbc數碼7台戲曲台-logo.jpg",Radio DBC數碼7台戲曲台
+http://rtspoversea.dbc.hk/dbc_mp3_ch7?215651.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-calm-radio-oratorios-logo.jpg",Calm Radio Oratorios
+https://calmradio.com/channel-guide/classical-music
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-romania-muzical-180160-logo.jpg",Radio România Muzical
+http://stream2.srr.ro:8022/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/omdaru-radio-585497-logo.jpg",Omdaru radio
+http://s02.radio-tochka.com:5440/radio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ndr-kultur-belcanto-158639-logo.jpg",Radio NDR Kultur Belcanto
+http://ndr-loop-2.cast.addradio.de/ndr/loop/2/mp3/128/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-aventura-177682-logo.jpg",Radio Aventura
+http://streaming.enantena.com:8000/radioaventurasiglo21.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/opera-radio-budapest-629435-logo.jpg",Opera Radio Budapest
+https://oxygenmusic.hu:8443/oxygenclassicrock_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/clasica-88-5-581793-logo.jpg",Radio Clásica 88.5
+https://s47.myradiostream.com/:16492/listen.mp3?nocache=1698245490
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-la-terrasse-alto-logo.jpg",Radio LA TERRASSE - ALTO
+http://149.56.234.138:9054/:
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-akous-my-classic-logo.jpg",Radio Akous - My Classic
+http://ice2.onestreaming.com/akousmyclassic
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-radio-art-classical-logo.jpg",Radio Art - Classical
+http://air.radioart.com/fClassical.mp3?dlid=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-clasicos-radio-web-logo.jpg",Clásicos radio web
+https://securestream.conectarhosting.com:8151/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gr-radio-art-opera-logo.jpg",Radio Art - Opera
+http://air.radioart.com/fOpera.mp3?dlid=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/adagioradio-187613-logo.jpg",AdagioRadio
+http://stream.zenolive.com/ec09g6q90feuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-caprice-opera-590967-logo.jpg",Radio Caprice Opera
+http://79.120.39.202:9057/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/operavore-586034-logo.jpg",Radio Operavore
+http://opera-stream.wqxr.org/operavore-tunein.aac?source=TuneIn
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/arpeggioradio-639242-logo.jpg",ArpeggioRadio
+http://nl1.streamingpulse.com:7113/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miled-music-opera-598336-logo.jpg",Radio Miled Music Opera
+http://192.99.34.205:8203/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-opera-house-589561-logo.jpg",Radio The Opera House
+http://c5.radioboss.fm:8045/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/itu-radio-classical-589056-logo.jpg",ITU Radio Classical
+http://160.75.86.29:8088/stream/6/

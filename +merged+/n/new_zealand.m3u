@@ -1933,8 +1933,6 @@ http://65.49.39.138:8002/stream/1
 http://sc1.magnatune.com:8006/stream/1
 #EXTINF:-1,Maxxima New Electronic Music Radio Available Also On Aac
 http://lemixx.mine.nu:8000/stream/1
-#EXTINF:-1,Clubbersradio Com Australia S 1 For New And Classic Dance
-File4=http://usa2-vn.mixstream.net/audio/?8636
 #EXTINF:-1,New Music All Irish Radio
 http://67.213.213.143:8072/stream/1
 #EXTINF:-1,New Age And Celtic Classics
@@ -1957,8 +1955,6 @@ http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=KSVP
 http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=KTZA
 #EXTINF:-1,La Gran D 106 1 Kpze Fm Carlsbad New Mexico
 http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=KPZE
-#EXTINF:-1,Happyday Newage Radio EZ
-File4=http://222.122.131.69:8000
 #EXTINF:-1,Nrt Radio One The New Sound Of Christian Music
 http://174.37.16.73:5102/Live/stream/1
 #EXTINF:-1,Intervision Radio The New Vision Of Internet Radio
@@ -3687,16 +3683,8 @@ http://myradiostream.com/NZ2
 http://38.89.136.63:8018/
 #EXTINF:-1,Magic
 https://livestream.mediaworks.nzhttp:/adio_origin/magic_128kbps/playlist.m3u8
-#EXTINF:-1,RNZ - National
-https:/http:/adionz.streamguys1.com/national/national/playlist.m3u8
 #EXTINF:-1,Radio ZM
 https://livestream.mediaworks.nzhttp:/adio_origin/Radio_Dunedin/playlist.m3u8
-#EXTINF:-1,Star FM
-https:/http:/hema-radio.streamguys1.comhttp:/hema-star.mp3
-#EXTINF:-1,RNZ - Concert
-https:/http:/adionz.streamguys1.com/concert/concert/playlist.m3u8
-#EXTINF:-1,RNZ - International
-http:/http:/adionz-ice.streamguys.com/international.mp3
 #EXTINF:-1,ROVA - Country Chill
 https://14073.live.streamtheworld.com:443/ROVA_COUNTRYCHILL_S01.aac
 #EXTINF:-1,ROVA - Chill Hop
@@ -3709,12 +3697,8 @@ http://49.50.246.42:8020/;
 https://18323.live.streamtheworld.com:443/THESOUND_DC_S01.aac
 #EXTINF:-1,The Rock 90s
 https://22963.live.streamtheworld.com:443/ROCK_90S_S01.aac
-#EXTINF:-1,Radio Apna 990 AM
-https:/http:/adio.e-cast.co.nz/1xxone/stream.m3u8
 #EXTINF:-1,Beach Hop Magic
 https://22973.live.streamtheworld.com:443/MAGIC_BEACHHOP_S01.aac
-#EXTINF:-1,Nui FM
-https:/http:/adio.e-cast.co.nz/bayrock/stream.m3u8
 #EXTINF:-1,Mai FM Top 200 of the 2000&#039;s
 https://14073.live.streamtheworld.com:443/MAI_2000S_S01.aac
 #EXTINF:-1,AWA FM
@@ -3739,10 +3723,6 @@ https://23043.live.streamtheworld.com:443/MAIJORDANLEE_S01.aac
 https://23263.live.streamtheworld.com:443/EDGE40_S01.aac
 #EXTINF:-1,Mai FM DJ 09
 https://14073.live.streamtheworld.com:443/MAIDJ09_S01.aac
-#EXTINF:-1,936新闻台
-http:/http:/adio.936.nz:8000/am936
-#EXTINF:-1,Love FM 交通音乐广播
-http:/http:/adio.936.nz:8000/fm994
 #EXTINF:-1,Radio Latin Play (Nueva Zelanda)
 https://stream-107.zeno.fm/08u6gygd5zhvv?zs=x2T0IpdwQPuDU8BT95SPXQ
 #EXTINF:-1,Tiki FM
@@ -3759,8 +3739,6 @@ http://www.mcbroadcasting.co.nz:8000/soulfm.mp3
 http://123.255.61.226:8020/;?type=http&nocache=76646
 #EXTINF:-1,Nelson Community Radio Station 88.1 FM - New Zealand
 https://crnz.net:8000/;?type=http&nocache=6
-#EXTINF:-1,Radio Samoa 1593am
-http:/http:/adiosamoa.stream.broadcast.co.nz:8001http:/samoa48k
 #EXTINF:-1,Heads 106.4 FM - Mangawhai Heads
 http://ais-nzme.streamguys1.com/nz_106/playlist.m3u8
 #EXTINF:-1,iHeart Australia - The Lounge - The Lounge -Laid back in NZ
@@ -3937,12 +3915,1649 @@ https://live.soundsvagrant.com/listen/sounds_vagrant/high.mp3
 https://tinyurl.com/Antenna-web-Isole-Chatham
 #EXTINF:-1,Whitestone City Music 107.6
 http://103.233.22.115:9010/stream.mp3
-#EXTINF:-1,Heads FM Mangawhai 106.4 - 128 - New Zealand - community - rock
-#EXTINF:-1,https://badradio.nz/ - 24/7 PHONK - 320 - New Zealand - 
-#EXTINF:-1,https://www.newstalkzb.co.nz/ - 64 - New Zealand - 
 #EXTINF:-1,Radio Hauraki - Rock Vibes from New Zealand
 https://21413.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8
 #EXTINF:-1,Coast FM - Pop Hits from New Zealand
 https://21413.live.streamtheworld.com/NZME_17AAC/HLS/playlist.m3u8
 #EXTINF:-1,Newstalk ZB - Talk Radio from New Zealand
 https://23093.live.streamtheworld.com/NZME_01AAC/HLS/playlist.m3u8
+#EXTINF:-1,KIX FM Wellington
+https://icecast.mediaworks.nz/maifm_128kbps
+#EXTINF:-1,SanzLive Radio
+https://s1.myradiostream.com/:14268/stream/1/
+#EXTINF:-1,More FM Nelson 92.8 FM
+https://icecast.mediaworks.nz/breeze_tauranga_128kbps
+#EXTINF:-1,The Hits 97.7 Christchurch
+https://rdu985fm-gecko.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/122865.v4.png",Dub FM 
+https://stream.zeno.fm/ac0spkfrx6buv
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/132077.v3.png",Hot Tomato 
+https://streams.radiomast.io/eb766e0e-d9d1-4489-b892-a95e0685fd8a
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/98815.v5.png",The Edge 40 
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGE40_S01.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/98811.v3.png",Mai Hot 1200 on Shuffle 
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIHOT900_S01.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/29391.v5.png",Te Upoko o te Ika Radio 
+https://listen.iwi.radio:8000/TeUpoko
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/98798.v4.png",White Ferns Radio 
+https://playerservices.streamtheworld.com/api/livestream-redirect/WHITEFERNS_S01.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/98799.v4.png",Black Caps Radio 
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLACKCAPS_S01.aac
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/1176.v4.png",The Flea FM 
+https://s40.myradiostream.com:17794/
+#EXTINF:-1 tvg-logo="https://radiostationslive.com/uploads/2024/01/1159.v8.png",Humm FM 
+https://digitalstreams3.mediaworks.nz/humm-AKL-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Y0S2L8.png",1074BFM
+http://s28.myradiostream.com:21652/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1F1H4B.png",107.5 andHow.FM
+http://us4.internet-radio.com:8344/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/VE2RZ3.png",4PMG Radio
+https://www.radioking.com/play/4pmg-radio/328063
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1SCO7.png",95bFM
+https://streams.95bfm.com/stream95
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/XDIREK.png",95bFM
+https://streams.95bfm.com/stream32
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TFZRKZ.png",Apna 990 AM
+https://s37.myradiostream.com/12108/?type=http&nocache=1592600441?0.08669661913171622
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HQ6LI.png",Beach 106.3 FM
+http://www.mcbroadcasting.co.nz:8000/beach.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/KYA9X.png",Beep FM
+https://listen.beepfm.com/listen/beep_fm/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Q6DFEP.png",Beep FM
+https://listen.beepfm.com/radio/8000/stream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/PF9EXB.png",Big Rig Country Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/BIG_RIG_S01.mp3?dist=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WC1UHS.png",Budgie Collective
+http://knhc-ice.streamguys1.com/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/Q9SEN5.png",Calvary Chapel Radio
+http://184.154.90.186:8225/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/GBQS5.png",Classic Hits Bay of Plenty
+https://media-ice.musicradio.com/HeartWestWalesMP3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/J8IB5M.png",Cliff Richard Radio NZ
+https://s9.voscast.com:8033/stream.ogg
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/LGQCC4.png",Coromandel's CFM
+http://49.50.253.57:8880/aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0G6X7.png",CoverFM
+http://198.27.83.198:5390/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/P7QJQB.png",Dave FM
+http://91.121.1.157:4618/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YLZA15.png",Golden Praise
+http://wanderingsheep.tv:8044/goldenpraise
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4K9O9U.png",HIBS Student radio (LIVE)
+https://radio.hibs.school.nz:8000/LIVEstream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OWI5YI.png",Hills Radio
+http://live-icy.gss.dr.dk:8000/A/A12H.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/UWDTU2.png",International Friends Network
+https://s3.voscast.com:11213/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MIYW29.png",KFM 106.9
+http://s2.voscast.com:11614/stream1603993957305/1
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/0WWFK1.png",Kix FM
+http://stream.amsmusic.co.nz:8178/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",KIX FM
+https://stream.kixfm.co.nz:8178/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4ZULCA.png",M.A.D.106.8 FM
+http://falcon.shoutca.st:8325/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/MTBI8H.png",Matariki FM
+http://amber.streamguys.com:4070/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6WSQTT.png",Melo FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/MELO_S01.mp3?dist=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TRUDAT.png",Mouthfull Radio
+https://streams.radio.co/s3bdb7a2fb/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/R2MYIH.png",Niu FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2T9M1W.png",NOW Radio
+https://broadcast.nowradio.co.nz/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5V573W.png",NZRRS
+http://radio.arqiva.tv/rnib-connect.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/7KRLY1.png",Port Fm
+http://mp3.topfm.c.nmdn.net/ps-topfm/livestream.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/DWTUU7.png",Pulzar 105.7 FM
+http://198.105.216.204:8088/pulzarfm/stream/1%20
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9IOVCZ.png",RadiJohan
+https://s34.myradiostream.com:13740/listen.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZKQELK.png",Radio Active
+http://stream.radioactive.fm
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Radio Adhurs
+http://online-hitfm.tavrmedia.ua/HitFM
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1JZPDH.png",Radio A Marlborough
+https://www.radioking.com/play/radio-a-marlborough
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/2HNPK9.png",Radio A Nelson
+https://www.radioking.com/play/tbs
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NAXCLN.png",Radio Robotic
+https://stream.zeno.fm/yym68dy2vwzuv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/EEYZF5.png",Radio Tonga
+http://tbcletio.serverroom.us:8142/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/9IL56V.png",Radio X
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",RadioX
+https://listen.spacial.com/api/listen/?sid=13934&method=sc&rid=931830
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1Y367M.png",Raglan Radio
+http://58.28.153.160/broadwave.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/CN8L9Y.png",SANZLive Radio
+https://s3.radio.co:80/s47a56becc/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/O8U1WF.png",SAWANA
+https://www.radioking.com/play/sawana
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/3Y8URF.png",Silhouette
+https://str2b.openstream.co/1035
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/IJ9DP.png",Sleep Radio
+https://centova.radioservers.biz/proxy/sleeprad/?mp=/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/474PUR.png", The Blend Hawke's Bay
+http://172.105.186.113:8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/NV6P3Q.png",The Breeze Marlborough
+http://perseus.shoutca.st:9380/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/BNXXOR.png",The Casual
+https://playerservices.streamtheworld.com/api/livestream-redirect/THE_CASUAL_S01.mp3?dist=streamitter
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/87S3WM.png",The Generator
+http://s1.myradiostream.com:14268/stream.kjdo
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/8EOP0A.png",The Generator
+http://176.31.98.109:14268/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/QQNKWI.png",The Hawk 89.5 FM
+http://s45.myradiostream.com:19816/listen.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HPX4KJ.png",The Heat 99.1 FM
+https://apple2.irirangi.net:8000/The_Heat.aac
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YHMT8.png",Trans-Tasman FM
+https://stream.zeno.fm/6ewz192nc0hvv
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/G4P9P.png",Trucking Radio 24/7
+https://truckingradio247.radioca.st/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/V0QK3F.png",Truth Jams Radio
+https://stream.radio.co/s7586c24e1/listen
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/1X2WFP.png",ZFM Non-Stop
+http://188.165.232.7:8545/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85534/logo_9BbpjmTf3u.png",ROVA - Chill Hop Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85353/logo_mzeipooMVN.png",The Breeze Totally 80s Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZE80S_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85330/logo_6g6b0Bakh6.png",Mai FM Jordan Lee Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIJORDANLEE_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85550/logo_suKmhec8xO.png",The Breeze Relax Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZE_RELAX_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85544/logo_UGz2KBnb0Z.png",Mai FM Backyard Beats Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIBB_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85399/logo_z8Xk90Vqzx.png",Mai Throwbacks Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAILTHROWBACKS_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85545/logo_FfeBOTzvz2.png",More FM Wanganui Radio
+https://digitalstreams3.mediaworks.nz/more-WAG-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85440/logo_yMq4QNRF7j.png",Keep Laughing Forever Radio
+http://carol.epichosts.co.uk:8610/autodj.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85446/logo_0U991PlMLq.png",Sounds Vagrant Radio
+https://admin.soundsvagrant.live/listen/sounds_vagrant/high.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85530/logo_29891K3P80.png",Mai Backyard Beats Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIDJ09_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85438/logo_MChXASjghG.png",The Rock Duck Yeah! Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/DUCKYEAH_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85331/logo_K9P8m3lQJw.png",The Sound Deep Cuts Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/THESOUND_DC_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85431/logo_CGYRRjcUXm.png",ROVA - One Direction Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ONEDIRECTION_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85452/logo_N53NQvs1H7.png",Station Playlist Radio
+https://s2.stationplaylist.com:9000/spl128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85390/logo_g502JYWLJ6.png",ROVA - Jonas Brothers Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/JONASBROTHERS_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85551/logo_6DGGC2shzr.png",George FM Chillsville Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHILLSVILLE_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85335/logo_JxozmII5DH.png",The Sound Acoustic Sunrise Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACOUSTICSUNRISE_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85370/logo_9SNB3ZR2ra.png",ROVA - Big Country Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BIGCOUNTRY_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85325/logo_t3PWTjamAp.png",Mai FM Radio
+https://digitalstreams-edge-lb.mediaworks.nz/mai_net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85398/logo_9AOU9bWDmd.png",ROVA - Selena Gomez Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SELENAGOMEZ_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85500/logo_LSzCvOLbCW.png",Dave FM Radio
+https://s13.myradiostream.com:4618/listen.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85542/logo_xZT02b58ri.png",Mai FM Top 200 of the 2000&#x27;s Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAI_2000S_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85436/logo_x1rqpRcQli.png",The Rock Ozzy Mixtape Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEVINHART_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85409/logo_DXd35Ckaku.png",George FM&#x27;s Latest Bangers Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFRESHHITS_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85393/logo_DJTEnGyjdL.png",ROVA - Justin Bieber Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUSTINBIEBER_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85424/logo_0PfIejbZHq.png",ROVA - Justin Timberlake Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUSTINTIMBERLAKE_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85360/logo_NLDttwh2RA.png",The Breeze FM Radio
+https://digitalstreams3.mediaworks.nz/breeze-HST-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85445/logo_yfQPE5PdmU.png",Hot Tomato NZ Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85392/logo_UURp9ndFJE.png",More FM Workout Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MOREWORKOUT_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85397/logo_hVqiPhLhKq.png",ROVA - Eminem Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_1_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85362/logo_kBz0VTLR8s.png",More FM High School Hits Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MOREFM_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85524/logo_r3ZdCrhMz8.png",George FM DnB Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85351/logo_vMCYCA6csP.png",The Breeze FM Manawatu Radio
+https://digitalstreams3.mediaworks.nz/breeze-PMR-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85439/logo_1anFQWDd6R.png",Mai Waiata Reo Maori Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/HOT1000_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85324/logo_1nBhSWvBtZ.png",Newstalk ZB Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC_SC
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85334/logo_0IDyIKOthA.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more-COT-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85413/logo_e9vJPdUFdi.png",Magic Classic Country Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAGICCOUNTRY_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85435/logo_c2C5nmOjZL.png",ROVA - The Chris Brown Mixtape Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHRISBROWN_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85402/logo_VzOxAYBidu.png",The Edge Fresh Hits Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEFRESHHITS_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85298/logo_pIXRbMSRsj.png",The Edge Radio
+https://digitalstreams-edge-lb.mediaworks.nz/edge_net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85407/logo_aJjWGdu4LM.png",The Breeze Workout Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZEWORKOUT_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85430/logo_A915P2xHrS.png",Channel X Radio
+https://digitalstreams-edge-lb.mediaworks.nz/chx_net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85484/logo_IzgvcU9dAA.png",Radio Waatea
+https://icast1.streamcom.net/Waatea
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85548/logo_JBYLsPK0AQ.png",The Edge Mix Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEMIX_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85529/logo_XbRB0FgrXN.png",Beach Hop Magic Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAGIC_BEACHHOP_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85410/logo_IQK3euzHfc.png",ROVA - Taylor Swift Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/CANCERSOCIETY_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85388/logo_7zuFF5p2dG.png",The Sound Going Underground Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_SPARE_3_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85449/logo_N0dpkZirUU.png",Mouthfull Radio
+https://mouthfull-radio.radiocult.fm/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85290/logo_ZswUD9iq2x.png",Newstalk ZB Radio
+https://21363.live.streamtheworld.com/NZME_41AAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85465/logo_jjQ9Q8G0eD.png",TumekeFM Radio
+https://ais-nzme.streamguys1.com/nz_139_aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85361/logo_pQOLv70kRb.png",Brian FM Ashburton Radio
+https://ais-sa1.streamon.fm/7653_128k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85537/logo_BmXztJspjR.png",The Rock 2000 Replay Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK1500_REPLAY_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85522/logo_D6Wdh98j9K.png",The Breeze FM Radio
+https://digitalstreams3.mediaworks.nz/breeze-TIU-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85309/logo_qOHpptIAnD.png",George FM Radio
+https://digitalstreams-edge-lb.mediaworks.nz/george_net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85401/logo_NFnWgovmDa.png",ROVA -Netsky Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NETSKY_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85404/logo_LYpKU48rPI.png",ROVA - Morgan Wallen Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MORGANWALLEN_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85447/logo_GjCu0rBNcb.png",Funky Town Radio
+https://splogonz11.out.airtime.pro/splogonz11_a
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85432/logo_BmafvJsqc9.png",ROVA - Rihanna Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIHANNA_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85389/logo_Qst22OZi3H.png",More FM&#x27;s Nothing But 90&#x27;s Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOTHINGBUT90_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85328/logo_sAHRnHdkRt.png",The Rock Radio
+https://digitalstreams-edge-lb.mediaworks.nz/rock_net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85472/logo_h6SCmOX2PD.png",The Hits Radio
+https://ais-nzme.streamguys1.com/nz_006/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85336/logo_cXhC0VjWFF.png",The Breeze FM Radio
+https://digitalstreams3.mediaworks.nz/breeze-AKL-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85300/logo_CMzf74NBVO.png",The Sound Radio
+https://digitalstreams-edge-lb.mediaworks.nz/sound_net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85346/logo_EWvv9uNLzC.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more-TGA-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85441/logo_d4EECaEULQ.png",Voxlee Radio
+https://stream.voxlee.co.nz:8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85423/logo_Mq06D43UZi.png",George Workout Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEWORKOUT_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85468/logo_EmjgP2e852.png",The Hits Radio
+https://ais-nzme.streamguys1.com/nz_014/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85425/logo_ctZOP3jJR1.png",Mai Maori Mixtape Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/RHYTHMALPS_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85333/logo_FBbPHifNKc.png",The Sound Radio
+https://digitalstreams.mediaworks.nz/sound_net_icy
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85528/logo_7kPZsYkmkL.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more-PMR-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85483/logo_M4udYbbJHL.png",The Hits Radio
+https://ais-nzme.streamguys1.com/nz_020/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85462/logo_utPrsJUWgQ.png",The Hits Radio
+https://21413.live.streamtheworld.com/NZME_32AAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85422/logo_gpRvHx6zhC.png",Mai Irie Anthems Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/IRIEANTHEMS_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85339/logo_7ssjIaQb9i.png",The Breeze FM Radio
+https://digitalstreams3.mediaworks.nz/breeze-CHC-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85414/logo_nGf196P4yf.png",ROVA - Abba Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZELONGSONGS_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85543/logo_7GleIp7n1Z.png",The Breeze FM Radio
+https://digitalstreams3.mediaworks.nz/breeze-NSN-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85403/logo_of7gtlZGh5.png",ROVA - Sam Smith Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAMSMITH_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85342/logo_bCE0v5YM78.png",The Breeze FM Taupo Radio
+https://digitalstreams-edge-lb.mediaworks.nz/breeze_net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85533/logo_rWT7xvC3rl.png",Brian FM Nelson Radio
+https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85519/logo_FHgrVhXRWA.png",Brian FM Timaru Radio
+https://ais-sa1.streamon.fm/7656_128k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85434/logo_3l2aFVN5XA.png",More FM High School Hit Countdown Replay 2023 Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/HSHCOUNT_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85367/logo_dttoDEfh4U.png",The Hits Radio
+https://ais-nzme.streamguys1.com/nz_021/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85329/logo_hBfHEMj6Px.png",Brian FM Marlborough Radio
+https://ais-sa1.streamon.fm/7103_128k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85547/logo_QsfKoPXmIr.png",ROVA - Country Chill Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_COUNTRYCHILL_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85394/logo_feGVHoCfAq.png",The Breeze Today&#x27;s Country Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/TODAYSCOUNTRY1_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85379/logo_gfeAKe0ZqZ.png",The Platform Radio
+https://tpe-hls-chc-1.resonate.net.nz/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85316/logo_kBatdVzaMy.png",Newstalk ZB Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85536/logo_nIahUu3ZIb.png",More FM Taranaki Radio
+https://digitalstreams3.mediaworks.nz/more-NPL-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85531/logo_EtpsuD1Xx0.png",More FM Taupo Radio
+https://digitalstreams3.mediaworks.nz/more-TPO-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85453/logo_0YM8DySac0.png",TBC Radio
+https://stream.tbc.radio:8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85365/logo_5Te5S3yi0v.png",The Breeze FM Radio
+https://digitalstreams3.mediaworks.nz/breeze-HAM-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85480/logo_76nNljbBs1.png",The Hits Radio
+https://ais-nzme.streamguys1.com/nz_025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85469/logo_yvftHKJje4.png",The Hits Radio
+https://ais-nzme.streamguys1.com/nz_024/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85428/logo_sMqGIAw0bm.png",The Edge Workout Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEWORKOUT_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85520/logo_7iCGnzMQTe.png",George FM Club Classics Respin Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFM_CC_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85482/logo_0uskMYDn0h.png",The Hits Radio
+https://ais-nzme.streamguys1.com/nz_022/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85396/logo_en83wUPTAD.png",The Edge Pre&#x27;s Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEPRES_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85487/logo_EDAdK5febb.png",Te Upoko o te Ika Radio
+https://wowza.iwi.radio/icecast-to-hls/ngrp:TeUpokoFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85451/logo_OqrTQt6B4o.png",Brian FM Otago Radio
+https://ais-sa1.streamon.fm/7928_128k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85318/logo_AUviga48rL.png",Flava Radio
+https://21423.live.streamtheworld.com/NZME_08AAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85417/logo_ZmJVoSbRz0.png",Brian FM Taranaki Radio
+https://ais-sa1.streamon.fm/7759_128k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85391/logo_8NuQucHOTl.png",ROVA - Six60 Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_4_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85345/logo_LKAN5noH6D.png",Brian FM Wanaka Radio
+https://ais-sa1.streamon.fm/7657_128k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85320/logo_KsddhfQ4HG.png",The Cheese Radio
+https://station.thecheese.co.nz/listen/the_cheese/aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85488/logo_3a5DQciV6y.png",Sun FM Radio
+https://ais-nzme.streamguys1.com/nz_134_aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85523/logo_RvEcoz7S5k.png",The Breeze FM Radio
+https://digitalstreams3.mediaworks.nz/breeze-DUN-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85326/logo_vhsgDc3E0n.png",The Breeze FM Radio
+https://digitalstreams3.mediaworks.nz/breeze-TGA-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85357/logo_xfnuWSv4IC.png",More FM Rodney Radio
+https://digitalstreams3.mediaworks.nz/more-ORW-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85352/logo_t2icBAcacJ.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more-QTN-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85535/logo_AP81DwG8hS.png",More FM Northland Radio
+https://digitalstreams3.mediaworks.nz/more-WHG-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85415/logo_EvTbO9ckRi.png",Mai Workout Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIWORKOUT_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85349/logo_1N4yfyXB2E.png",More FM Rotorua Radio
+https://digitalstreams3.mediaworks.nz/more-ROT-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85338/logo_XQLerWU4Tz.png",The Breeze FM Kapiti Radio
+https://digitalstreams3.mediaworks.nz/breeze-KAP-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85356/logo_D3vZORgCCK.png",More FM Clutha Radio
+https://digitalstreams3.mediaworks.nz/more-BAL-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85475/logo_TXI6jcaXbK.png",The Hits Radio
+https://ais-nzme.streamguys1.com/nz_027/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85450/logo_xBSk2T1unb.png",Haderekh Radio
+https://stream.haderekradio.com/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85359/logo_7oK4UL6Ji1.png",More FM Coromandel Radio
+https://digitalstreams3.mediaworks.nz/more-THA-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85347/logo_LxBBLgY1IC.png",More FM Southland Radio
+https://digitalstreams3.mediaworks.nz/more-IVC-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85419/logo_vtgnss9MOS.png",Brian FM Southland Radio
+https://ais-sa1.streamon.fm/7756_128k.aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85355/logo_BGtcReOjiy.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more974-DUN-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85319/logo_Pou8C0Ehhe.png",Radio Dunedin
+https://digitalstreams3.mediaworks.nz/radio-DUN-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85459/logo_3VubVr4nfR.png",95b FM Radio
+https://ssl.geckohost.nz/proxy/caitlinssl?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85332/logo_H8DhrLnjtb.png",More FM Wairarapa Radio
+https://digitalstreams3.mediaworks.nz/more-MST-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85532/logo_HdYg0oqFEX.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more-NSN-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85458/logo_tRm6LmGIdR.png",Static FM Radio
+https://www.static.co.nz/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85350/logo_V8b54K2FYk.png",The Rock Radio
+https://digitalstreams3.mediaworks.nz/rock-CHC-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85291/logo_MRJedKJzWg.png",Radio One
+https://play.r1.co.nz/live
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85512/logo_kwHzsUNDCW.png",Kaos FM NZ Radio
+https://s17.ssl-stream.com/proxy/soak78?mp=%2F%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85473/logo_Zj4WQ6JNKT.png",The Hits Radio
+https://ais-nzme.streamguys1.com/nz_017/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85363/logo_3UfH7GMTQM.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more-CHC-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85344/logo_Recjs2pviG.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more-HST-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85421/logo_iK4Zqp6QaA.png",Mai Heatseekers Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIFRESHHITS_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85408/logo_3u3YIiFCpD.png",ROCK - Legends of Rock Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/LEGENDSROCK_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85549/logo_fYMXZl8Ha4.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more-GIS-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85354/logo_2RHXfA1bEB.png",More FM Marlborough Radio
+https://digitalstreams4.mediaworks.nz/more-BLM-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85539/logo_o6aNmSmtjK.png",More FM Wellington Radio
+https://digitalstreams3.mediaworks.nz/more-WTN-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85521/logo_awm5WwSQwq.png",More FM South Canterbury Radio
+https://digitalstreams3.mediaworks.nz/more-TIU-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85540/logo_OyMS606NWV.png",The Rock 90s Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_90S_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85411/logo_OSIH6OBa5p.png",Magic Elvis &amp; Friends Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ELVISFRIENDS_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85437/logo_k2ydyS2Dfe.png",ROVA - Disney Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_2_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85527/logo_e5gYKnpez4.png",More FM Waikato Radio
+https://digitalstreams3.mediaworks.nz/more-HAM-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85443/logo_NSOcIp3pHl.png",Akaroa World Radio
+https://a8.asurahosting.com:6740/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85418/logo_FQ8RgbxSSn.png",ROVA - Lizzo Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/LIZZO_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85400/logo_kx8wyooyXf.png",ROVA - Pink Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/PINKMIXTAPE_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85412/logo_WiF2uhdgwm.png",The Edge Rewind Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEREWIND_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85420/logo_FMeQZKgKae.png",ROVA - Niall Horan Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_3_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85383/logo_ps5rdby1vy.png",Tzgospel Radio (new Zealand)
+http://stream.zeno.fm/74aab55mffhvv
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85364/logo_4T65bdZSNW.png",More FM Radio
+https://digitalstreams3.mediaworks.nz/more-KAP-high/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85416/logo_QGHZ8kjtlB.png",Mai Kendrick Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KENDRICKLAMAR_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85426/logo_gDAeG3X2xl.png",The Rock Workout Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/THEPUMP_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85433/logo_pQ7v9dVSTL.png",More FM Nothing But Love Songs Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOTHINGBUTLOVE_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85429/logo_cJL85VpCMu.png",The Rock Kiwi Rock Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/KIWIROCK_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85406/logo_b6bdlaAY1V.png",ROVA - The Blink 182 Mixtape Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLINK182_S01AAC.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85405/logo_VSvhTXQtRl.png",The Rock Foo&#x27;s &amp; Friends Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/PUNKROCK_S01.aac
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/85395/logo_R81iJpm8AK.png",The Rock Vanilla Rock Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/VANILLAROCK_S01AAC.aac
+#EXTINF:-1,Newstalk ZB Wellington 
+http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.m3u8
+#EXTINF:-1,Sleep Radio 
+http://65.109.81.84:9851/stream
+#EXTINF:-1,Coast 
+http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8
+#EXTINF:-1,Newstalk ZB Christchurch 
+http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.m3u8
+#EXTINF:-1,The Rock 
+https://digitalstreams.mediaworks.nz/rock_net/playlist.m3u8
+#EXTINF:-1,The Sound 
+https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8
+#EXTINF:-1,新西兰中文广播电台 FM90.6 Radio Chinese 
+https://s26.myradiostream.com:20274/listen.mp3
+#EXTINF:-1,JAZZGROOVE.org - Smooth Jazz (64k) 
+http://streams.radiomast.io/4fdf004c-c2f3-49c1-bdb1-22e208d48780
+#EXTINF:-1,RNZ National AAC (128kbps) 
+http://radionz-ice.streamguys.com/National_aac128
+#EXTINF:-1,Newstalk ZB 
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ
+#EXTINF:-1,The Generator 
+https://s1.myradiostream.com/:14268/?type=http&nocache=1608640718?0.7458407789862892
+#EXTINF:-1,Te Reo Irirangi O Ngāti Kahungunu 
+https://wowza.iwi.radio/icecast-to-hls/ngrp:Kahungunu.stream/playlist.m3u8
+#EXTINF:-1,The Hits 
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6204&terminalId=162&territory=NZ
+#EXTINF:-1,Magic 
+https://digitalstreams.mediaworks.nz/mmusic_net/playlist.m3u8
+#EXTINF:-1,The Edge 
+https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8
+#EXTINF:-1,Sub FM 
+https://fmsub.radioca.st/stream?type=http&nocache=140
+#EXTINF:-1,The Breeze 93.4 
+https://mediaworks.streamguys1.com/breeze-akl-high_icy
+#EXTINF:-1,Niu FM - AAC 
+https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC
+#EXTINF:-1,95bFM - FLAC 
+https://streams.95bfm.com/stream112
+#EXTINF:-1,https://www.newstalkzb.co.nz/ 
+http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_11AAC.m3u8
+#EXTINF:-1,George FM 
+https://digitalstreams.mediaworks.nz/george_net/playlist.m3u8
+#EXTINF:-1,One Christian Radio 
+https://radio.wanderingsheep.net:33001/onechristianradio
+#EXTINF:-1,Sanctuary - MP3 
+https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3
+#EXTINF:-1,Magic FM 
+https://mediaworks.streamguys1.com/magic_net_icy
+#EXTINF:-1,Radio Sangeet Masti 
+https://servidor19-4.brlogic.com:7304/live?source=website
+#EXTINF:-1,Humm Radio 
+https://mediaworks.streamguys1.com/humm_net_icy
+#EXTINF:-1,Vinyl Radio NZ 
+https://s40.myradiostream.com:17794/listen.aac?
+#EXTINF:-1,West FM Swing Radio 
+http://westfm.freeddns.org:8000/westfm
+#EXTINF:-1,Mushroom Escape 
+https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632
+#EXTINF:-1,Coast FM 
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6193&terminalId=162&territory=NZ
+#EXTINF:-1,Radio Bolly Bop 
+http://s3.radio.co/s2f19d44d0/listen
+#EXTINF:-1,Mai FM 
+https://ais-sa1.streamon.fm/7102_128k.aac
+#EXTINF:-1,Paekakariki 
+http://icecast.groundtruth.co.nz:8000/paekakfm.mp3
+#EXTINF:-1,ZM Wellington (new) 
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8
+#EXTINF:-1,Brian FM 91.2 Wanganui NZ 
+https://ais-sa1.streamon.fm/7100_128k.aac
+#EXTINF:-1,Smooth 105.6FM 
+https://servidor26.brlogic.com:7110/live
+#EXTINF:-1,The Cheese 
+https://station.thecheese.co.nz/listen/the_cheese/128.mp3
+#EXTINF:-1,Gone Country 
+https://usa10.fastcast4u.com:6010/?type=http&nocache=1676417570
+#EXTINF:-1,iHeartCountry New Zealand 
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_09AAC.m3u8
+#EXTINF:-1,Akaroa World Radio 
+https://n07.radiojar.com/k0t12bsns1duv?rj-ttl=5&rj-tok=AAABf7nGP10A7NK4A0_6v63i4w
+#EXTINF:-1,ROVA CHILL HOP  
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac?dist=?n=de33099414fdd83859df
+#EXTINF:-1,More FM - Nelson 
+https://mediaworks.streamguys1.com/more-nsn-high_icy
+#EXTINF:-1,Channel X 
+https://mediaworks.streamguys1.com/chx_net_icy
+#EXTINF:-1,Bay FM 100.7 
+https://s38.myradiostream.com:8876/?listening-from-radio-garden=1686796930
+#EXTINF:-1,91.2 Oamaru FM 
+https://usa1-vn.mixstream.net/8096/listen.mp3
+#EXTINF:-1,Planet FM 104.6 - AAC 
+https://live.accessmedia.nz/PlanetFM.stream_aac/playlist.m3u8
+#EXTINF:-1,West Coast Radio 
+http://stream2.nrgkits.co.nz:5000/wcrfm
+#EXTINF:-1,Sanctuary - AAC 
+https://rhema-radio.streamguys1.com/rhema-sanctuary.aac
+#EXTINF:-1,RadiJohan 
+http://69.30.214.54:13740/?type=http&nocache=1708209708?0.5747864581171453
+#EXTINF:-1,RDU 98.5FM 
+http://rdu985fm-gecko.radioca.st:8247/stream
+#EXTINF:-1,Radio Bay FM 100.7 
+https://s38.myradiostream.com:8876/?listening-from-radio-garden=1686969300
+#EXTINF:-1,Raglan Community Radio 
+https://s36.myradiostream.com/20712/?type=http&nocache=1738237589?0.8271986316497546
+#EXTINF:-1,Gold Sport AM 
+http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_06AAC.m3u8
+#EXTINF:-1,Te Hiku Radio 
+http://libreice.tehiku.radio:8000/tehikufm_ogg
+#EXTINF:-1,jakemusic 
+https://camera.jakebriggs.com/jakemusic
+#EXTINF:-1,Maunganui FM 
+https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3
+#EXTINF:-1,. Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Southern Cross Country 
+https://sxcountry.radioca.st/stream
+#EXTINF:-1,Arrow FM 
+https://live.accessmedia.nz/ArrowFM.stream/playlist.m3u8
+#EXTINF:-1,East FM 
+https://listen.eastfm.nz/stream-aac-64
+#EXTINF:-1,SayHiFM 
+https://play.radioking.io/sayhifm
+#EXTINF:-1,Raglan Communtiy Radio 
+https://s36.myradiostream.com/20712/?type=http&nocache=1738237956
+#EXTINF:-1,Amped AI 
+https://amped-ai1.azuracast.tgnz.net/listen/amped_ai/radio.mp3
+#EXTINF:-1,Anthemz 
+https://mediaworks.streamguys1.com/anthemz-chc-high_icy
+#EXTINF:-1,TYFM 
+https://radio.parkplacesounds.co.nz/listen/tyfm/apps/mtr
+#EXTINF:-1,Beagle 88.1 
+https://stream.beagleradio.co.nz/stream
+#EXTINF:-1,The Cheese FLAC 
+https://station.thecheese.co.nz/listen/the_cheese/flac
+#EXTINF:-1,OAR FM - Otago Access Radio 
+https://live.accessmedia.nz/Otago.stream_aac/chunklist_w1332745084.m3u8
+#EXTINF:-1,Bandwagon Radio 
+https://streaming.radio.co/scfae3b30e/listen
+#EXTINF:-1,Radio A 
+https://play.radioking.io/radio-a-music
+#EXTINF:-1,100.3FM South Canterbury - New Zealand - Timaru
+https://uk4-vn.mixstream.net/:8066/;
+#EXTINF:-1,2XS FM 106.7 - New Zealand - Palmerston North
+https://securestreams6.autopo.st:2465/listen.mp3/;
+#EXTINF:-1,8K.NZ - New Zealand - Christchurch
+https://radio8k.out.airtime.pro/radio8k_a
+#EXTINF:-1,95bFM - New Zealand - Auckland
+https://streams.95bfm.com/stream128
+#EXTINF:-1,Akaroa Radio - New Zealand - Akaroa
+https://stream.radiojar.com/k0t12bsns1duv
+#EXTINF:-1,Atiawa Toa FM - New Zealand - Lower Hutt
+https://ais-nzme.streamguys1.com/nz_144_aac
+#EXTINF:-1,Badradio - New Zealand - Auckland
+https://s2.radio.co/s2b2b68744/listen
+#EXTINF:-1,Base FM 107.3FM - New Zealand - Auckland
+https://stream.basefm.co.nz/Base320MP3
+#EXTINF:-1,Beach FM 106.3 - New Zealand - Paraparaumu
+https://s8.myradiostream.com:58408/listen.mp3?nocache=1736258338
+#EXTINF:-1,Beagle 88.1 - New Zealand - Whangarei
+https://bcast.dical.org/stream
+#EXTINF:-1,Beep FM - Club - New Zealand - Christchurch
+https://streams.radio.co/sd1bcd1376/listen
+#EXTINF:-1,Brian FM Alexandra & Cromwell 105.5 FM - New Zealand - Alexandra
+https://ais-sa1.streamon.fm/7655_128k.aac
+#EXTINF:-1,Brian FM Ashburton 99.7 FM - New Zealand - Ashburton
+https://ais-sa1.streamon.fm/7653_128k.aac
+#EXTINF:-1,Brian FM Christchurch - New Zealand - Christchurch
+https://ais-sa1.streamon.fm/7409_128k.aac
+#EXTINF:-1,Brian FM Marlborough - New Zealand - Blenheim
+https://ais-sa1.streamon.fm/7103_128k.aac
+#EXTINF:-1,Brian FM Nelson - New Zealand - Nelson
+https://ais-sa1.streamon.fm/7358_128k.aac
+#EXTINF:-1,Brian FM Oamaru 88.8 FM - New Zealand - Oamaru
+https://ais-sa1.streamon.fm/7654_128k.aac
+#EXTINF:-1,Brian FM Timaru - New Zealand - Timaru
+https://ais-sa1.streamon.fm/7656_128k.aac
+#EXTINF:-1,Brian FM Wanaka - New Zealand - Wanaka
+https://ais-sa1.streamon.fm/7657_128k.aac
+#EXTINF:-1,Brian FM Whanganui - New Zealand - Whanganui
+https://ais-sa1.streamon.fm/7100_128k.aac
+#EXTINF:-1,CFM Coromandel 95.1 - New Zealand - Whitianga
+https://stream.cfm.co.nz/normal
+#EXTINF:-1,Cruize FM 105.2 - New Zealand - New Plymouth
+https://cruizefm.out.airtime.pro/cruizefm_a
+#EXTINF:-1,Dave FM - New Zealand - Christchurch
+https://s13.myradiostream.com:4618/;
+#EXTINF:-1,Drop FM 87.7 - New Zealand - Queenstown
+https://s2.radio.co/s7649837db/listen
+#EXTINF:-1,East FM - New Zealand - Auckland
+https://listen.eastfm.nz/stream.mp3
+#EXTINF:-1,Gaia FM 87.8 - New Zealand - Tauranga
+https://s2.stationplaylist.com:9000/gaiafm.aac
+#EXTINF:-1,Hutt City FM 106.7 - New Zealand - Lower Hutt
+https://station.thecheese.co.nz/listen/hutt_city_fm/aac
+#EXTINF:-1,Hutt Radio 88.3 FM - New Zealand - Lower Hutt
+https://stream.zeno.fm/argf5n7rbrruv
+#EXTINF:-1,Island Base FM - New Zealand - Auckland
+https://streams.islandbasefm.com:8443/stream
+#EXTINF:-1,KiwiFolk Radio - New Zealand - Dunedin
+https://streamer.radio.co/sde527a41e/listen
+#EXTINF:-1,KIX FM - New Zealand - Wellington
+https://stream.kixfm.co.nz/listen/kixfm/stream
+#EXTINF:-1,Lake FM Taupo 89.6 - New Zealand - Taupo
+https://lakefm-gecko.radioca.st/stream
+#EXTINF:-1,Life FM 99.8 - New Zealand - Auckland
+https://rhema-radio.streamguys1.com/rhema-lifefm.mp3
+#EXTINF:-1,MAD FM Worldwide - New Zealand - Auckland
+https://madfm-gecko.radioca.st/stream
+#EXTINF:-1,Mix FM 87.9 - New Zealand - Wellington
+https://stream.mixfm.nz/
+#EXTINF:-1,Mouthfull Radio - New Zealand - Wellington
+https://mouthfull-radio.radiocult.fm/stream
+#EXTINF:-1,New Zealand Country Music Radio - New Zealand - Feilding
+https://usa10.fastcast4u.com:6010/;
+#EXTINF:-1,New Zealand Net Radio - New Zealand - Whangarei
+https://radio.nznetradio.net.nz/stream3
+#EXTINF:-1,New Zealand's Rhema - New Zealand - Auckland
+https://rhema-radio.streamguys1.com/rhema.mp3
+#EXTINF:-1,Niu FM - New Zealand - Auckland
+https://18513.live.streamtheworld.com:443/NIUFM.mp3
+#EXTINF:-1,One Double X - FM 90.5 - New Zealand - Whakatane
+https://ais-nzme.streamguys1.com/nz_101_aac
+#EXTINF:-1,Planet Sauce Radio - New Zealand - Auckland
+https://s3.radio.co/s69edb566a/listen
+#EXTINF:-1,Positively Morrinsville 87.7 FM - New Zealand - Morrinsville
+https://c16.radioboss.fm:18262/stream
+#EXTINF:-1,Power Hit FM 87.8 - New Zealand - Christchurch
+https://pstnet1.shoutcastnet.com:16104/stream
+#EXTINF:-1,RadiJohan - New Zealand - Rotorua
+https://s34.myradiostream.com:13740/listen.mp3
+#EXTINF:-1,Radio 531pi - New Zealand - Auckland
+https://18733.live.streamtheworld.com:443/531PI.mp3
+#EXTINF:-1,Radio Bay FM 100.7 - New Zealand - Hastings
+https://s38.myradiostream.com:8876/;;
+#EXTINF:-1,Radio Central FM 91.9 - New Zealand - Alexandra
+https://stream.radioapp.co.nz/radiocentral
+#EXTINF:-1,Radio Control 99.4 fm - New Zealand - Palmerston North
+https://michae14-gecko.radioca.st/stream
+#EXTINF:-1,Radio Hydra 106.8 FM - New Zealand - Piha
+https://streaming.radio.co/sed9109681/listen
+#EXTINF:-1,Radio Los Galanes - New Zealand - Nelson
+https://c13.radioboss.fm:18096/stream
+#EXTINF:-1,Radio One 91 FM - New Zealand - Dunedin
+https://play.r1.co.nz/live
+#EXTINF:-1,Radio Robotic - New Zealand - Hamilton
+https://stream.zeno.fm/7zv3u6p951zuv
+#EXTINF:-1,Radio Rock FM 107.0 - New Zealand - Reefton
+https://www.radiorockfm.co.nz/listenlive
+#EXTINF:-1,Radio Samoa AM 1593 - New Zealand - Auckland
+https://radiosamoa.stream.broadcast.co.nz:8000/rsamoa8k
+#EXTINF:-1,Radio Te Aroha 88FM - New Zealand - Te Aroha
+https://c2.radioboss.fm:18440/stream
+#EXTINF:-1,Radio Virsa NZ 107 FM - New Zealand - Auckland
+https://s7.voscast.com:8773/stream?type=.mp3/;
+#EXTINF:-1,Radio X - New Zealand - Hamilton
+https://26343.live.streamtheworld.com:443/SAM02AAC65.mp3
+#EXTINF:-1,RadioActive.FM | 88.6FM - New Zealand - Wellington
+https://radio123-gecko.radioca.st/stream
+#EXTINF:-1,RAG-FM 107.7 - New Zealand - Raglan
+https://cast6.asurahosting.com/proxy/ragfmcom/stream
+#EXTINF:-1,RDU 98.5FM - New Zealand - Christchurch
+https://rdu985fm-gecko.radioca.st/stream
+#EXTINF:-1,Real 104FM - New Zealand - Oamaru
+https://real104fm.radioca.st/;
+#EXTINF:-1,Reel World Radio - New Zealand - Whanganui
+https://ais-sa1.streamon.fm/7102_128k.aac
+#EXTINF:-1,RNZ Concert FM 89.7 - New Zealand - Wellington
+https://stream-ice.radionz.co.nz/concert.mp3
+#EXTINF:-1,Roy FM 104.2 - New Zealand - Wanaka
+https://ais-nzme.streamguys1.com/nz_121_aac
+#EXTINF:-1,SANZLive - New Zealand - Auckland
+https://s3.radio.co/s47a56becc/listen
+#EXTINF:-1,Ski FM - New Zealand - Taupo
+https://s2.radio.co/s6436891bc/listen
+#EXTINF:-1,Sleep Radio - New Zealand - Te Aroha
+https://cast4.my-control-panel.com/proxy/sleeprad/stream
+#EXTINF:-1,Smooth FM - New Zealand - Waipu
+https://servidor26.brlogic.com:7110/live
+#EXTINF:-1,Southern Cross Country - New Zealand - Auckland
+https://sxcountry.radioca.st/;
+#EXTINF:-1,Star AM 882 - New Zealand - Auckland
+https://rhema-radio.streamguys1.com/rhema-star.mp3
+#EXTINF:-1,STATiC 88.1FM - New Zealand - Auckland
+https://www.static.co.nz/stream
+#EXTINF:-1,Switch FM 87.9 - New Zealand - Gisborne
+https://s8.myradiostream.com/:56886/listen.m4a/;
+#EXTINF:-1,Tama-Ohi FM 87.7 - New Zealand - Auckland
+https://stream.zeno.fm/y4xnq17q068uv
+#EXTINF:-1,The Cheese 87.7 FM - New Zealand - Lower Hutt
+https://station.thecheese.co.nz/listen/the_cheese/aac
+#EXTINF:-1,The Chill - New Zealand - Taupo
+https://media-sov.musicradio.com/Chill
+#EXTINF:-1,The Generator - New Zealand - Whangarei
+https://s1.myradiostream.com/:14268/listen.mp3/;
+#EXTINF:-1,The Hawk 89.5FM - New Zealand - Omakau
+https://cast5.asurahosting.com/proxy/thehawkf/stream
+#EXTINF:-1,The Pits FM 107.7 - New Zealand - Invercargill
+https://s1.voscast.com:11221/stream
+#EXTINF:-1,The Rhythm 89FM - New Zealand - Waihi Beach
+https://stream.zeno.fm/7v9aaqeqhs8uv
+#EXTINF:-1,The Station 105.4FM - New Zealand - Tauranga
+https://ais-nzme.streamguys1.com/nz_125_aac
+#EXTINF:-1,The Wireless 90.4FM - New Zealand - Mangawhai
+https://thewireless.radioca.st/stream
+#EXTINF:-1,Timeless Taupo 106.4 - New Zealand - Taupo
+https://timeless-gecko.radioca.st/stream
+#EXTINF:-1,Tiri 2 - New Zealand - Waiuku
+https://servidor34.brlogic.com:7138/live
+#EXTINF:-1,Tractor FM 88.2 - New Zealand - Raglan
+https://admin.soundsvagrant.live/listen/tractor_fm/high.mp3
+#EXTINF:-1,Trunk 88FM - New Zealand - Taumarunui
+https://a8.asurahosting.com:7760/radio.mp3
+#EXTINF:-1,Waiheke Radio - New Zealand - Waiheke Island
+https://s27.myradiostream.com:17343/stream
+#EXTINF:-1,World FM - New Zealand - Marahau
+https://www.worldfm.co.nz:8884/worldfm.aac
+#EXTINF:-1,XS80's FM 107.3 - New Zealand - Christchurch
+https://s1.myradiostream.com/:12508/listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102778/logo_uaTWaffwV2.jpg?v=20260529-media-restore",Enigmatic Bar
+https://tower.hayva.ru/3vbnw-96
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004867/logo_fWuZUugCj5.jpg?v=20260529-media-restore",RNZ - National
+https://stream-ice.radionz.co.nz/national.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85524/logo_HtipYgl1oI.jpg?v=20260529-media-restore",George FM DnB
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85423/logo_iGWRYUTl1K.jpg?v=20260529-media-restore",George Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEWORKOUT_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85408/logo_tGX4DtLyMh.jpg?v=20260529-media-restore",ROCK - Legends of Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/LEGENDSROCK_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85397/logo_EdaccFRGTC.jpg?v=20260529-media-restore",ROVA - Eminem
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_1_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85550/logo_bspzNR2sXU.jpg?v=20260529-media-restore",The Breeze Relax
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZE_RELAX_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85447/logo_QmNM0NVBP3.jpg?v=20260529-media-restore",Funky Town Radio
+https://mira.streamerr.co/listen/funkytownradio/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85464/logo_e5ACK6Gm6q.jpg?v=20260529-media-restore",Bollybop
+https://s3.radio.co/s2f19d44d0/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85337/logo_Gm61Px3s3b.jpg?v=20260529-media-restore",ROVA - Acoustic Chill
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_ACOUSTICCHILL_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85403/logo_FGyMfVWSOw.jpg?v=20260529-media-restore",ROVA - Sam Smith
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAMSMITH_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85491/logo_uKHH4SRYR7.jpg?v=20260529-media-restore",Radio Tarana
+https://peridot.streamguys1.com:7150/Tarana.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85534/logo_SZu698tNT7.jpg?v=20260529-media-restore",ROVA - Chill Hop
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85378/logo_9oWRulP8QG.jpg?v=20260529-media-restore",Jazz Cafe
+https://radio.wanderingsheep.net:8000/jazzcafe
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85551/logo_y8IAWDKAmZ.jpg?v=20260529-media-restore",George FM Chillsville
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHILLSVILLE_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85339/logo_Pw0guPPTgV.jpg?v=20260529-media-restore",The Breeze FM Christchurch
+https://mediaworks.streamguys1.com/breeze-chc-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85512/logo_hdhAlYqjt4.jpg?v=20260529-media-restore",Kaos FM NZ
+https://s17.ssl-stream.com/proxy/soak78?mp=%2F%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85494/logo_XJpKKBXeBE.jpg?v=20260529-media-restore",Retro Hit Radio
+https://riphel02.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85460/logo_r2DWXTMnqt.jpg?v=20260529-media-restore",East FM
+https://listen.eastfm.nz/stream.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85340/logo_KjCDcbMPey.jpg?v=20260529-media-restore",Black Caps Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLACKCAPS_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85540/logo_dj3UnViSRR.jpg?v=20260529-media-restore",The Rock 90s
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_90S_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85400/logo_rti9OhotMU.jpg?v=20260529-media-restore",ROVA - Pink
+https://playerservices.streamtheworld.com/api/livestream-redirect/PINKMIXTAPE_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85384/logo_eEub2r1rX4.jpg?v=20260529-media-restore",Viperfm
+https://viperfm-gecko.radioca.st/viperfmlive
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85348/logo_6sJHhD7x5X.jpg?v=20260529-media-restore",Brian FM Oamaru
+https://ais-sa1.streamon.fm/7654_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85413/logo_eHlX9fV9D3.jpg?v=20260529-media-restore",Magic Classic Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAGICCOUNTRY_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85391/logo_rqvbvLJkbr.jpg?v=20260529-media-restore",ROVA - Six60
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_4_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85414/logo_Owqk5IGJVp.jpg?v=20260529-media-restore",ROVA - Abba
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZELONGSONGS_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85372/logo_aHLFtbtUit.jpg?v=20260529-media-restore",New Zealand Chinese Radio
+https://s26.myradiostream.com/:20274/listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85424/logo_YYOlwrdeTv.jpg?v=20260529-media-restore",ROVA - Justin Timberlake
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUSTINTIMBERLAKE_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85542/logo_tqo6FXwOmM.jpg?v=20260529-media-restore",Mai FM Top 200 of the 2000's
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAI_2000S_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85309/logo_dOGke84U8r.jpg?v=20260529-media-restore",George FM
+https://digitalstreams.mediaworks.nz/george_net_icy
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85346/logo_xFV8qRCIgE.jpg?v=20260529-media-restore",More FM Tauranga
+https://mediaworks.streamguys1.com/more-tga-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85547/logo_otXQHSDyK3.jpg?v=20260529-media-restore",ROVA - Country Chill
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_COUNTRYCHILL_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85376/logo_W1v62Sfzno.jpg?v=20260529-media-restore",Love FM 交通音乐广播
+http://radiolive.nz936.com:8443/fm994
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85436/logo_q331rpn12x.jpg?v=20260529-media-restore",The Rock Ozzy Mixtape
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEVINHART_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85401/logo_87YQYWDJyL.jpg?v=20260529-media-restore",ROVA -Netsky
+https://playerservices.streamtheworld.com/api/livestream-redirect/NETSKY_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85507/logo_jPVBrZelfH.jpg?v=20260529-media-restore",100.3 FM South Canterbury
+https://uk4-vn.mixstream.net/:8066/listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103892/logo_l0n5mSkSbH.jpg?v=20260529-media-restore",Starlifter FM
+https://stream.starlifter.fm/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85441/logo_3qdE8AsEf9.jpg?v=20260529-media-restore",Voxlee
+https://stream.voxlee.co.nz:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85321/logo_2FSHxdyRR7.jpg?v=20260529-media-restore",The Rock
+https://digitalstreams.mediaworks.nz/rock_net_icy
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85409/logo_LFT2CDBscm.jpg?v=20260529-media-restore",George FM's Latest Bangers
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFRESHHITS_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85456/logo_5bqmUnej1J.jpg?v=20260529-media-restore",Humm FM
+https://digitalstreams.mediaworks.nz/humm_net_icy
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85504/logo_Fdk9QeDLUL.jpg?v=20260529-media-restore",Switch FM Gisborne
+http://s8.myradiostream.com:56886/listen.m4a
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85537/logo_HQpIWOX8DL.jpg?v=20260529-media-restore",The Rock 2000 Replay
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK1500_REPLAY_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85446/logo_C7pQ9wiWLa.jpg?v=20260529-media-restore",Sounds Vagrant
+https://admin.soundsvagrant.live/listen/sounds_vagrant/high.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85422/logo_9Z7FAq8qQQ.jpg?v=20260529-media-restore",Mai Irie Anthems
+https://playerservices.streamtheworld.com/api/livestream-redirect/IRIEANTHEMS_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85362/logo_sewEVi0JFe.jpg?v=20260529-media-restore",More FM High School Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/MOREFM_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85431/logo_JUNJEiaZ9E.jpg?v=20260529-media-restore",ROVA - One Direction
+https://playerservices.streamtheworld.com/api/livestream-redirect/ONEDIRECTION_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85349/logo_8lKxZQBmiI.jpg?v=20260529-media-restore",More FM Rotorua
+https://mediaworks.streamguys1.com/more-rot-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85367/logo_zTaJuAKgYQ.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_74AAC.m3u8?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85318/logo_dwpYFZqjza.jpg?v=20260529-media-restore",Flava
+https://23093.live.streamtheworld.com/NZME_08AAC_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85395/logo_QvyXdkRoTN.jpg?v=20260529-media-restore",The Rock Vanilla Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/VANILLAROCK_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85439/logo_bBX8suHWL7.jpg?v=20260529-media-restore",Mai Waiata Reo Maori
+https://playerservices.streamtheworld.com/api/livestream-redirect/HOT1000_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85327/logo_pE00CJOBqs.jpg?v=20260529-media-restore",Magic
+https://mediaworks.streamguys1.com/magic_net_icy
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85517/logo_7k9fD4RMlU.jpg?v=20260529-media-restore",Radio Apna 990 AM
+https://14533.live.streamtheworld.com/NZME_236_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85366/logo_0yVNOij4g9.jpg?v=20260529-media-restore",Mushroom FM
+https://cast3.my-control-panel.com/proxy/jonatha1/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85484/logo_rWtdY86xD7.jpg?v=20260529-media-restore",Radio Waatea
+https://icast1.streamcom.net/Waatea
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85440/logo_SLNilYumiX.jpg?v=20260529-media-restore",Keep Laughing Forever Radio
+http://carol.epichosts.co.uk:8610/autodj.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85392/logo_aAMGiSKv8Y.jpg?v=20260529-media-restore",More FM Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/MOREWORKOUT_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85426/logo_soyf3YKZpG.jpg?v=20260529-media-restore",The Rock Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/THEPUMP_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85549/logo_1w0PI4hr5X.jpg?v=20260529-media-restore",More FM
+https://mediaworks.streamguys1.com/more-gis-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85363/logo_FTy64OxkLx.jpg?v=20260529-media-restore",More FM
+https://mediaworks.streamguys1.com/more-chc-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85415/logo_Gte6hUAWGv.jpg?v=20260529-media-restore",Mai Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIWORKOUT_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85297/logo_YLbJgsdVPv.jpg?v=20260529-media-restore",Star FM
+https://rhema-radio.streamguys1.com/rhema-sanctuary.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85528/logo_EhXEHBrxEc.jpg?v=20260529-media-restore",More FM
+https://mediaworks.streamguys1.com/more-pmr-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85425/logo_w0jN1SFnve.jpg?v=20260529-media-restore",Mai Maori Mixtape
+https://playerservices.streamtheworld.com/api/livestream-redirect/RHYTHMALPS_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85465/logo_U2SXVtDRoN.jpg?v=20260529-media-restore",TumekeFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_222_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85463/logo_piFc6RnFoi.jpg?v=20260529-media-restore",Kia Ora
+https://wowza.iwi.radio/icecast-to-hls/ngrp:KiaOraFM.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85470/logo_cP2qdwWVj2.jpg?v=20260529-media-restore",AWA FM
+https://wowza.iwi.radio/icecast-to-hls/ngrp:AwaFM.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85428/logo_nH9eihTPce.jpg?v=20260529-media-restore",The Edge Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEWORKOUT_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85510/logo_R2CMabcTlW.jpg?v=20260529-media-restore",Tamil Panpalai ANZ
+https://tamilpanpalai.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85404/logo_wabg9PN4EE.jpg?v=20260529-media-restore",ROVA - Morgan Wallen
+https://playerservices.streamtheworld.com/api/livestream-redirect/MORGANWALLEN_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85393/logo_bru5R8lVtN.jpg?v=20260529-media-restore",ROVA - Justin Bieber
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUSTINBIEBER_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85488/logo_23hgKuNKpI.jpg?v=20260529-media-restore",Sun FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_220AAC.m3u8?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85469/logo_dXJKZazlKE.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_78AAC.m3u8?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85334/logo_Ulhq2dBq11.jpg?v=20260529-media-restore",More FM Alexandra
+https://mediaworks.streamguys1.com/more-cot-high_icy
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85529/logo_6A71jtFlAn.jpg?v=20260529-media-restore",Beach Hop Magic
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAGIC_BEACHHOP_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85293/logo_8VS3tYYaUB.jpg?v=20260529-media-restore",Heads FM
+https://headsfm.radioca.st/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85437/logo_2szfh6HJGS.jpg?v=20260529-media-restore",ROVA - Disney
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_2_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85407/logo_3ZTKcqwKBt.jpg?v=20260529-media-restore",The Breeze Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZEWORKOUT_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85527/logo_OyMdHbn2zQ.jpg?v=20260529-media-restore",More FM Waikato
+https://mediaworks.streamguys1.com/more-ham-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85361/logo_9EgCbXLKtS.jpg?v=20260529-media-restore",Brian FM Ashburton
+https://ais-sa1.streamon.fm/7653_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85365/logo_17zEn8Xnte.jpg?v=20260529-media-restore",The Breeze FM Hamilton
+https://mediaworks.streamguys1.com/breeze-ham-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85353/logo_lP6lX4BmOH.jpg?v=20260529-media-restore",The Breeze Totally 80s
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZE80S_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85290/logo_ONb6RWRNL1.jpg?v=20260529-media-restore",Newstalk ZB
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85399/logo_Ws2SGjnXX4.jpg?v=20260529-media-restore",Mai Throwbacks
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAILTHROWBACKS_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85389/logo_5Tksm60gJE.jpg?v=20260529-media-restore",More FM's Nothing But 90's
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOTHINGBUT90_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85432/logo_pLqZqwi73H.jpg?v=20260529-media-restore",ROVA - Rihanna
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIHANNA_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85331/logo_nz6ntA1XRt.jpg?v=20260529-media-restore",The Sound Deep Cuts
+https://playerservices.streamtheworld.com/api/livestream-redirect/THESOUND_DC_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85471/logo_iDrPRQzaLz.jpg?v=20260529-media-restore",Planet FM
+https://live.accessmedia.nz/PlanetFM.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85520/logo_GlIVflNfHD.jpg?v=20260529-media-restore",George FM Club Classics Respin
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFM_CC_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85326/logo_uL3ZSeEAZo.jpg?v=20260529-media-restore",The Breeze FM Tauranga
+https://mediaworks.streamguys1.com/breeze-tga-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85454/logo_L5KiFi2Rn8.jpg?v=20260529-media-restore",More FM Auckland
+https://mediaworks.streamguys1.com/more-akl-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85475/logo_kofUKQKddK.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_22AAC.m3u8?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85523/logo_bB79leDh7S.jpg?v=20260529-media-restore",The Breeze FM Dunedin
+https://mediaworks.streamguys1.com/breeze-dun-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85482/logo_MTZS5otH4D.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_75_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85292/logo_tSr94jaGDj.jpg?v=20260529-media-restore",Wellington Access Radio
+https://live.accessmedia.nz/Wellington.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85416/logo_pqY26Jn65U.jpg?v=20260529-media-restore",Mai Kendrick
+https://playerservices.streamtheworld.com/api/livestream-redirect/KENDRICKLAMAR_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85341/logo_Dy7KQ4EQHU.jpg?v=20260529-media-restore",NOW Radio
+https://broadcast.airwaven.com/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85503/logo_EehiQag0rz.jpg?v=20260529-media-restore",Radio X
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85418/logo_Aqq6vYLXhv.jpg?v=20260529-media-restore",ROVA - Lizzo
+https://playerservices.streamtheworld.com/api/livestream-redirect/LIZZO_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85435/logo_ExuLkTR2Uk.jpg?v=20260529-media-restore",ROVA - The Chris Brown Mixtape
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHRISBROWN_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85505/logo_W0zU9WDFKx.jpg?v=20260529-media-restore",The Generator FM
+https://s1.myradiostream.com/:14268/listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85398/logo_YtDHuNOQxg.jpg?v=20260529-media-restore",ROVA - Selena Gomez
+https://playerservices.streamtheworld.com/api/livestream-redirect/SELENAGOMEZ_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85335/logo_pf7Iqq9JYK.jpg?v=20260529-media-restore",The Sound Acoustic Sunrise
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACOUSTICSUNRISE_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85323/logo_hGMAk20sJL.jpg?v=20260529-media-restore",Most FM
+http://gordon.mostfm.com:8000/high
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85434/logo_aUFxjgHkUm.jpg?v=20260529-media-restore",More FM High School Hit Countdown Replay 2023
+https://playerservices.streamtheworld.com/api/livestream-redirect/HSHCOUNT_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85330/logo_A9nlPMVhT0.jpg?v=20260529-media-restore",Mai FM Jordan Lee
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIJORDANLEE_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85355/logo_fn1FfsGqh1.jpg?v=20260529-media-restore",More FM Dunedin
+https://mediaworks.streamguys1.com/more-dun-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85483/logo_hyr1xozeg8.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_73_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85377/logo_rw1Z41aaXk.jpg?v=20260529-media-restore",936新闻台
+http://radiolive.nz936.com:8443/am936
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85410/logo_oyWrFYGOto.jpg?v=20260529-media-restore",ROVA - Taylor Swift
+https://playerservices.streamtheworld.com/api/livestream-redirect/CANCERSOCIETY_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85390/logo_RxJ1QymJwU.jpg?v=20260529-media-restore",ROVA - Jonas Brothers
+https://playerservices.streamtheworld.com/api/livestream-redirect/JONASBROTHERS_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85452/logo_6QK8YGXJet.jpg?v=20260529-media-restore",Station Playlist
+https://s2.stationplaylist.com:9000/spl128.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85544/logo_TlFnyjWPyu.jpg?v=20260529-media-restore",Mai FM Backyard Beats
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIBB_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85473/logo_JXAuma7f6G.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_02AAC.m3u8?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85371/logo_7QQPKpziXd.jpg?v=20260529-media-restore",Vinyl Radio NZ
+https://s40.myradiostream.com/17794/listen.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85305/logo_aTOhJfR1lT.jpg?v=20260529-media-restore",RNZ - Concert
+https://radionz.streamguys1.com/concert/concert/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85314/logo_ZgBLMmVPAJ.jpg?v=20260529-media-restore",ZFM Non-Stop
+https://zfm0.radioca.st/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85536/logo_HM0Ivrg1Yz.jpg?v=20260529-media-restore",More FM Taranaki
+https://mediaworks.streamguys1.com/more-npl-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85336/logo_MZVjKg74FB.jpg?v=20260529-media-restore",The Breeze FM Auckland
+https://mediaworks.streamguys1.com/breeze-akl-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85459/logo_29HRalCgb5.jpg?v=20260529-media-restore",95b FM
+https://ssl.geckohost.nz/proxy/caitlinssl?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85513/logo_jCH4BLJCb5.jpg?v=20260529-media-restore",Radio Robotic
+https://stream.zeno.fm/rhscse2a41zuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85329/logo_ANSGyCgkVT.jpg?v=20260529-media-restore",Brian FM Marlborough
+https://ais-sa1.streamon.fm/7103_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85433/logo_WRQAd42vQN.jpg?v=20260529-media-restore",More FM Nothing But Love Songs
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOTHINGBUTLOVE_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85535/logo_SlqkPcpKEX.jpg?v=20260529-media-restore",More FM Northland
+https://mediaworks.streamguys1.com/more-whg-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85530/logo_4iaVroz2zf.jpg?v=20260529-media-restore",Mai Backyard Beats
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIDJ09_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85370/logo_UM7WqhKtpD.jpg?v=20260529-media-restore",ROVA - Big Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/BIGCOUNTRY_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85445/logo_Cf2QaH4emm.jpg?v=20260529-media-restore",Hot Tomato NZ
+https://playerservices.streamtheworld.com/api/livestream-redirect/GOL_HOTTOMATO.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85343/logo_257rvmJ7UY.jpg?v=20260529-media-restore",The Edge 40
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGE40_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85405/logo_tvSEmd6DBn.jpg?v=20260529-media-restore",The Rock Foo's & Friends
+https://playerservices.streamtheworld.com/api/livestream-redirect/PUNKROCK_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85506/logo_UD9AeC5oSG.jpg?v=20260529-media-restore",Coromandel’s CFM
+https://stream.cfm.co.nz/low
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85516/logo_pWrDmitqln.jpg?v=20260529-media-restore",Tiri 2
+https://servidor34-4.brlogic.com:7138/live?source=website
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85462/logo_DOv3qFD7Bs.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_32AAC_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85358/logo_Yto0ByhQSS.jpg?v=20260529-media-restore",Radiowave NZ
+https://stream.radiowavenz.com/stream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85438/logo_nQrQDNikdU.jpg?v=20260529-media-restore",The Rock Duck Yeah!
+https://playerservices.streamtheworld.com/api/livestream-redirect/DUCKYEAH_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85360/logo_aNjxaUDA3R.jpg?v=20260529-media-restore",The Breeze FM Hastings
+https://mediaworks.streamguys1.com/breeze-hst-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85325/logo_kKwFQpZtnS.jpg?v=20260529-media-restore",Mai FM
+https://mediaworks.streamguys1.com/mai_net_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85511/logo_icqi7vz3JJ.jpg?v=20260529-media-restore",Jeewan Dhaara
+https://stream.radio.co/s82f023bab/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85455/logo_5ZkEWUoZAs.jpg?v=20260529-media-restore",Fresh FM
+https://live.accessmedia.nz/Fresh.stream_aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85322/logo_dQfaioyhBz.jpg?v=20260529-media-restore",Radio Southland
+https://live.accessmedia.nz/Southland.stream_aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85427/logo_sBrEluII44.jpg?v=20260529-media-restore",Antenna Web Isole Chatham
+https://tinyurl.com/Antenna-web-Isole-Chatham
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85394/logo_OsOL92Sip1.jpg?v=20260529-media-restore",The Breeze Today's Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/TODAYSCOUNTRY1_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85379/logo_EaBrhwdlhU.jpg?v=20260529-media-restore",The Platform
+https://streaming.shoutcast.com/the-platformlive
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85541/logo_SAVl9o15fz.jpg?v=20260529-media-restore",Brian FM Alexandra & Cromwell
+https://ais-sa1.streamon.fm/7655_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85296/logo_FRnyVw3Jz8.jpg?v=20260529-media-restore",Radio Active
+https://radio123-gecko.radioca.st/radioactivefm
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85548/logo_SUC9pLQzQr.jpg?v=20260529-media-restore",The Edge Mix
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEMIX_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85500/logo_UdPI9VzNTU.jpg?v=20260529-media-restore",Dave FM
+https://s13.myradiostream.com:4618/listen.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85313/logo_m2KWw5DAQn.jpg?v=20260529-media-restore",FLEET FM
+https://audio.fleetfm.co.nz/shows/jimmy_210115.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85539/logo_14x6m93IOU.jpg?v=20260529-media-restore",More FM Wellington
+https://mediaworks.streamguys1.com/more-wtn-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85402/logo_8JD3KQRVrM.jpg?v=20260529-media-restore",The Edge Fresh Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEFRESHHITS_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85316/logo_c9c6q9HqDN.jpg?v=20260529-media-restore",Newstalk ZB
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85298/logo_CVKVuSLbgj.jpg?v=20260529-media-restore",The Edge
+https://mediaworks.streamguys1.com/edge_net_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85411/logo_SCw48skx8G.jpg?v=20260529-media-restore",Magic Elvis & Friends
+https://playerservices.streamtheworld.com/api/livestream-redirect/ELVISFRIENDS_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85324/logo_LE89qyIELo.jpg?v=20260529-media-restore",Newstalk ZB
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85412/logo_iu8IoBZQWU.jpg?v=20260529-media-restore",The Edge Rewind
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEREWIND_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85382/logo_gaizo00q2G.jpg?v=20260529-media-restore",Beach FM 106.3
+https://s8.myradiostream.com/58408/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85380/logo_gWn8XokJWO.jpg?v=20260529-media-restore",Radio BurgerFuel
+https://s3.radio.co/s9909bd65f/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85430/logo_V7Nmg53VQ4.jpg?v=20260529-media-restore",Channel X
+https://mediaworks.streamguys1.com/chx_net_icy?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85351/logo_xNxRtp6fOp.jpg?v=20260529-media-restore",The Breeze FM Manawatu
+https://mediaworks.streamguys1.com/breeze-pmr-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85317/logo_wUpuy83vzK.jpg?v=20260529-media-restore",Radio Hawke's Bay
+https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85515/logo_djJEWyQrHt.jpg?v=20260529-media-restore",Radio A Marlborough
+https://listen.radioking.com/radio/215947/stream/259132
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85546/logo_5GxAgff1zy.jpg?v=20260529-media-restore",Mai Hot 1200 on Shuffle
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIHOT900_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85492/logo_JdituTOB14.jpg?v=20260529-media-restore",Radio Free FM
+https://live.accessmedia.nz/FreeFM.stream_aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85476/logo_GxOMpEpb0n.jpg?v=20260529-media-restore",Tuwharetoa FM
+https://wowza.iwi.radio/icecast-to-hls/ngrp:TuwharetoaFM.stream_all/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85352/logo_7di8vEguUU.jpg?v=20260529-media-restore",More FM Queenstown
+https://mediaworks.streamguys1.com/more-qtn-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85514/logo_WJgVHds5eo.jpg?v=20260529-media-restore",Radio A Nelson
+https://listen.radioking.com/radio/106324/stream/145267
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85388/logo_2A515aPUny.jpg?v=20260529-media-restore",The Sound Going Underground
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_SPARE_3_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85315/logo_Pozs57nWw2.jpg?v=20260529-media-restore",RNZ - Pacific
+https://radionz.streamguys1.com/pacific/pacific/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85301/logo_DEE31v3ELi.jpg?v=20260529-media-restore",Niu FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85303/logo_gfbSSiUieB.jpg?v=20260529-media-restore",Radio 531pi
+https://playerservices.streamtheworld.com/api/livestream-redirect/531PI.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85481/logo_iCW2qj5ujn.jpg?v=20260529-media-restore",Moana Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_232AAC.m3u8?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85472/logo_OdihVjgofN.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_42AAC.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85328/logo_d7jmHo5BMu.jpg?v=20260529-media-restore",The Rock Taupo
+https://mediaworks.streamguys1.com/rock_net_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85522/logo_GtfXVTKWCU.jpg?v=20260529-media-restore",The Breeze FM Ashburton
+https://mediaworks.streamguys1.com/breeze-tiu-high_icy
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85467/logo_gCKXgPh5FJ.jpg?v=20260529-media-restore",The Heat
+http://apple2.irirangi.net:8000/The_Heat.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85457/logo_1t7uaR3rfU.jpg?v=20260529-media-restore",The Breeze FM Wellington
+https://mediaworks.streamguys1.com/breeze-wtn-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85442/logo_DMqfooDZGT.jpg?v=20260529-media-restore",LibertyNZ on The Wireless
+https://stream.zeno.fm/lamr6x1fxrruv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85295/logo_r5RcOWhChR.jpg?v=20260529-media-restore",Radio Hauraki
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85518/logo_lGz6e0SPa5.jpg?v=20260529-media-restore",8k.nz
+https://radio8k.out.airtime.pro/radio8k_b
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85498/logo_J8YPhMqJ3H.jpg?v=20260529-media-restore",One Double-X
+https://radio.e-cast.co.nz/1xxone/stream.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85396/logo_fB7rE7OJxD.jpg?v=20260529-media-restore",The Edge Pre's
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEPRES_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85310/logo_H3UAcz1HgK.jpg?v=20260529-media-restore",World FM
+https://www.worldfm.nz:8884/worldfmstereo.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85543/logo_54PoBM3oEQ.jpg?v=20260529-media-restore",The Breeze FM Nelson
+https://mediaworks.streamguys1.com/breeze-nsn-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85490/logo_j2qhNGpjgd.jpg?v=20260529-media-restore",Coast FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_47AAC.m3u8?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85453/logo_NVjPetEq5K.jpg?v=20260529-media-restore",TBC Radio
+https://stream.tbc.radio:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85417/logo_VQrfVxtWPX.jpg?v=20260529-media-restore",Brian FM Taranaki
+https://ais-sa1.streamon.fm/7759_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85477/logo_fYMZEXc1KM.jpg?v=20260529-media-restore",Radio Ngāti Porou
+https://wowza.iwi.radio/icecast-to-hls/ngrp:NgatiPorou.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85533/logo_SkF7GXrTEd.jpg?v=20260529-media-restore",Brian FM Nelson
+https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85333/logo_kwwqBBHgnv.jpg?v=20260529-media-restore",The Sound
+https://digitalstreams.mediaworks.nz/sound_net_icy
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85487/logo_HPEeRHRZ51.jpg?v=20260529-media-restore",Te Upoko o te Ika Radio
+https://wowza.iwi.radio/icecast-to-hls/ngrp:TeUpokoFM.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85480/logo_SBXmrT2ON4.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_22_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85302/logo_Mx3jRu6qij.jpg?v=20260529-media-restore",Plains FM
+https://live.accessmedia.nz/plains.stream_aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85519/logo_Db5kabM8tM.jpg?v=20260529-media-restore",Brian FM Timaru
+https://ais-sa1.streamon.fm/7656_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85468/logo_T41LA6syNl.jpg?v=20260529-media-restore",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_62AAC.m3u8?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85466/logo_yZp5AdUEYI.jpg?v=20260529-media-restore",Radio Kahungunu
+https://wowza.iwi.radio/icecast-to-hls/ngrp:Kahungunu.stream_all/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85451/logo_VdpHUz3i4M.jpg?v=20260529-media-restore",Brian FM Otago
+https://ais-sa1.streamon.fm/7928_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85357/logo_XSZMSSp4nE.jpg?v=20260529-media-restore",More FM Rodney
+https://mediaworks.streamguys1.com/more-orw-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85538/logo_arUpFeciVx.jpg?v=20260529-media-restore",Brian FM Whanganui
+https://ais-sa1.streamon.fm/7100_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85345/logo_zPm6mQB0oE.jpg?v=20260529-media-restore",Brian FM Wanaka
+https://ais-sa1.streamon.fm/7657_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85486/logo_hCe7ripTUz.jpg?v=20260529-media-restore",Big River
+http://bigriver.broadcast.co.nz/bigriverfm.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85356/logo_888dnf1OzK.jpg?v=20260529-media-restore",More FM Clutha
+https://mediaworks.streamguys1.com/more-cot-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85479/logo_jPDfH4mkhQ.jpg?v=20260529-media-restore",Raukawa FM
+https://wowza.iwi.radio/icecast-to-hls/ngrp:RaukawaFM.stream/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85450/logo_PasaQxIbAn.jpg?v=20260529-media-restore",Haderekh Radio
+https://stream.haderekradio.com/live
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85499/logo_nO5Y6BhRhv.jpg?v=20260529-media-restore",Radio Tama-Ohi
+https://stream.zeno.fm/z6qsbhs48a0uv?1765477073591
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85497/logo_zdoc0MqJ7K.jpg?v=20260529-media-restore",Bayrock
+https://radio.e-cast.co.nz/bayrock/stream.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85495/logo_A1y0ZcvQuR.jpg?v=20260529-media-restore",Q97
+https://radio.e-cast.co.nz/q97/stream.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85419/logo_3sbyLfqIRV.jpg?v=20260529-media-restore",Brian FM Southland
+https://ais-sa1.streamon.fm/7756_128k.aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85319/logo_QodG9mB7Dx.jpg?v=20260529-media-restore",Radio Dunedin
+https://mediaworks.streamguys1.com/radio-dunedin_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85489/logo_Hzvd0Ldsyw.jpg?v=20260529-media-restore",Turanga FM
+https://icast1.streamcom.net/Turanga
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85532/logo_zFoCUjEKeR.jpg?v=20260529-media-restore",More FM Nelson
+https://mediaworks.streamguys1.com/more-nsn-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85347/logo_xCB5DE0zUT.jpg?v=20260529-media-restore",More FM Southland
+https://mediaworks.streamguys1.com/more-ivc-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85444/logo_IRjtksScOM.jpg?v=20260529-media-restore",Southern Cross Country
+https://sxcountry.radioca.st/
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85332/logo_za0n5JiiiM.jpg?v=20260529-media-restore",More FM Wairarapa
+https://mediaworks.streamguys1.com/more-mst-high_icy
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85354/logo_K7YH8rd8Js.jpg?v=20260529-media-restore",More FM Marlborough
+https://mediaworks.streamguys1.com/more-blm-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85421/logo_UQ9WSaiEC6.jpg?v=20260529-media-restore",Mai Heatseekers
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIFRESHHITS_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85385/logo_HfOqrvtz0C.jpg?v=20260529-media-restore",Titan Radio
+https://stream-178.zeno.fm/o7breveydwdvv?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85508/logo_oHqoCc9EPS.jpg?v=20260529-media-restore",Hutt Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_209AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85344/logo_G8QBS7Sc90.jpg?v=20260529-media-restore",More FM Hastings
+https://mediaworks.streamguys1.com/more-hst-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85461/logo_SwfR0qjjM1.jpg?v=20260529-media-restore",The Hits
+https://23153.live.streamtheworld.com/NZME_12_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85306/logo_JwXttgLCTu.jpg?v=20260529-media-restore",Manawatu People's Radio
+https://live.accessmedia.nz/MPR.stream_aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85386/logo_wvqNdWQUbb.jpg?v=20260529-media-restore",Station Beta
+https://stream.zeno.fm/irlu7nxorn5uv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85387/logo_WLTTmMYqSu.jpg?v=20260529-media-restore",Just Fm
+http://stream.justfm.co.nz:88/broadwave.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85521/logo_U4itxytOIs.jpg?v=20260529-media-restore",More FM South Canterbury
+https://mediaworks.streamguys1.com/more-tiu-high_icy?Dist=TuneIn
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85448/logo_p2hld16Clx.jpg?v=20260529-media-restore",Waiheke Radio
+https://s47.myradiostream.com:9962/listen
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85443/logo_lq81cMdGnO.jpg?v=20260529-media-restore",Akaroa World Radio
+https://a8.asurahosting.com:6740/radio.mp3
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85307/logo_CKzDgJIRdJ.jpg?v=20260529-media-restore",Coast Access
+https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85373/logo_iRjI3iR1Ej.jpg?v=20260529-media-restore",Gold AM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_16AAC.m3u8?
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85420/logo_O48WrJN0RF.jpg?v=20260529-media-restore",ROVA - Niall Horan
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_3_S01.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85406/logo_RTRe3XZRTe.jpg?v=20260529-media-restore",ROVA - The Blink 182 Mixtape
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLINK182_S01AAC.aac
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85429/logo_4yniZUzsAL.jpg?v=20260529-media-restore",The Rock Kiwi Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/KIWIROCK_S01.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-more-fm-high-school-hit-countdown-replay-2023-logo.jpg",Radio More FM High School Hit Countdown Replay 2023
+https://playerservices.streamtheworld.com/api/livestream-redirect/HSHCOUNT_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-radio-zm-logo.jpg",Radio ZM
+https://23163.live.streamtheworld.com/NZME_13AAC/HLS/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-newstalk-zb-0-logo.jpg",Radio Newstalk ZB
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-radio-hauraki-logo.jpg",Radio Hauraki
+https://23153.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-zfm-non-stop-logo.jpg",Radio ZFM Non-Stop
+https://zfm0.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-active-89-fm-170096-logo.jpg",Radio Active 89 FM
+http://radio.paradise.net.nz:9020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-music-fm-157707-logo.jpg",Radio Magic Music FM
+http://203.160.113.127:9000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tractor-fm-593009-logo.jpg",Radio Tractor FM
+http://tractorfm.dyndns-web.com:88/broadwave.m3u?src=1u0026rate=1u0026src=1u0026rate=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-pits-fm-594215-logo.jpg",Radio The Pits FM
+http://192.99.0.170:5647/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/969-fm-593782-logo.jpg",Radio 96.9 FM
+http://173.236.59.83:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/one-eyed-fm-155666-logo.jpg",Radio One Eyed Fm
+http://s2.stationplaylist.com:8350
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-new-zealand-international-567667-logo.jpg",Radio New Zealand International
+https://cdn-wowza.radionz.co.nz/international/international/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nzrrs-170671-logo.jpg",Radio NZRRS
+http://www.freedomnet.co.nz:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rock-it-598052-logo.jpg",Radio Rock It
+http://203.86.201.203:88/broadwave.mp3?src=1u0026rate=1u0026ref=
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-wireless-599380-logo.jpg",Radio The Wireless
+http://144.217.203.184:8045/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/new-zealand-country-music-radio-599816-logo.jpg",New Zealand Country Music Radio
+http://usa13.fastcast4u.com:5044/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/atiawa-toa-fm-568654-logo.jpg",Radio Atiawa Toa FM
+http://irirangi.net/listen-online/atiawa-toa-fm.aspx?id=10110F9B-9A43-4CB5-8B1A-895033462ED3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/more-fm-tauranga-568586-logo.jpg",Radio More FM Tauranga
+http://tunein-icecast.mediaworks.nz/more_tauranga_128kbps
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-virsa-nz-599531-logo.jpg",Radio Virsa NZ
+http://s8.voscast.com:7992/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-568845-logo.jpg",Radio Star
+http://rhema-radio.streamguys1.com/rhema-star.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-generator-606889-logo.jpg",Radio The Generator
+http://s1.myradiostream.com:14268/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/human-fm-171427-logo.jpg",Radio Human FM
+http://stream.humanfm.co.nz:8000/streamhigh.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tama-ohi-radio-607410-logo.jpg",Tama-Ohi Radio
+http://173.236.19.90:8174/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tauranga-village-radio-museum-incorporated-609185-logo.jpg",Tauranga Village Radio Museum Incorporated
+http://smoke.wavestreamer.com:5220/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/987radionatindabarkads-609810-logo.jpg",98.7radionatindabarkads
+http://s10.voscast.com:8446/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-auckland-613055-logo.jpg",Radio Magic Auckland
+http://tunein-icecast.mediaworks.nz/magic_128kbps
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-christchurch-613156-logo.jpg",Radio Magic Christchurch
+http://tunein-icecast.mediaworks.nz/magic_christchurch_128kbps
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vipersoundzinc-613351-logo.jpg",Radio ViperSoundzInc
+http://38.89.136.63:8018/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xroads-fm-615490-logo.jpg",Radio Xroads FM
+http://s27.myradiostream.com:13088/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/korekt-recordz-radio-615582-logo.jpg",Korekt Recordz Radio
+http://198.23.206.221:8000/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-hawk-fm-615574-logo.jpg",Radio The Hawk FM
+http://s45.myradiostream.com:19816/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vipersoundzradio-617630-logo.jpg",ViperSoundzRadio
+http://sc.vipersoundzinc.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kidnappers-578464-logo.jpg",Radio Kidnappers
+http://live.wizz.co.nz/rk
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hokonui-568765-logo.jpg",Radio Hokonui
+http://ais-nzme.streamguys1.com/nz_013/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rhema-568742-logo.jpg",Radio Rhema
+http://rhema-radio.streamguys1.com/rhema.aac
+#EXTINF:-1 tv-logo="",Noize Radio
+http://stream.noizeradio.co.nz:8000/320live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-breeze-waikato-581449-logo.jpg",Radio The Breeze Waikato
+http://tunein-icecast.mediaworks.nz/breeze_waikato_128kbps
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/brian-fm-alexandra-624589-logo.jpg",Radio Brian FM Alexandra
+http://s40.myradiostream.com:10004/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lime-grove-radio-627196-logo.jpg",Lime Grove Radio
+http://limegroveradio.org/audio/1468228400/output.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-fm-wellington-583493-logo.jpg",Radio Mix FM Wellington
+http://stream.mixfm.nz/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/solid-hits-628720-logo.jpg",Radio Solid Hits
+http://s35.myradiostream.com:33790/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/piharadio-877-dropfm-601892-logo.jpg",PihaRadio 87.7 DropFM
+http://ghost.wavestreamer.com:7351/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-best-radio-ever-632985-logo.jpg",The Best Radio Ever
+http://radio.thebestradioever.com:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/neo-radio-633213-logo.jpg",Neo Radio
+http://192.99.8.170:6383/;
+#EXTINF:-1 tv-logo="",Radio 1074BFM
+http://s28.myradiostream.com:21652/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/triplexfm-kapiti-1075-633910-logo.jpg",Radio TripleXFM Kapiti 107.5
+http://s28.myradiostream.com:20738/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/niufm-636676-logo.jpg",Radio NiuFM
+http://19213.live.streamtheworld.com:3690/NIUFM_SC?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-kps-638694-logo.jpg",Radio KPS
+http://210.54.147.177:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zfm-all-the-hits-602417-logo.jpg",Radio ZFM - All The Hits
+http://nebula.shoutca.st:8545/64
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kiwifolk-radio-642894-logo.jpg",Kiwifolk Radio
+http://streamer.radio.co/sde527a41e/listen
+#EXTINF:-1 tv-logo="",Radio KFM 106.9 / 88.1
+http://210.48.73.162:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mai-nights-569867-logo.jpg",Radio Mai Nights
+https://www.maifm.co.nz/home.player.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wellington1053fm-591329-logo.jpg",Radio Wellington105.3fm
+http://fire.wavestreamer.com:4261/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/just-jazz-648568-logo.jpg",Radio Just Jazz
+http://epsilon.shoutca.st:9136/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-newstalk-zb-0-1-logo.jpg",Radio Newstalk ZB
+https://23153.live.streamtheworld.com/NZME_01AAC/HLS/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-chomsky-173398-logo.jpg",Radio Chomsky
+http://38.96.148.42:4048/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/puketapu-radio-caroline-173848-logo.jpg",Puketapu Radio Caroline
+http://91.121.166.38:7220/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm-177190-logo.jpg",Radio UP FM
+http://stream.braintrust.co.nz/upfm_mp3_32
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-wfm-6015-club-channel-177916-logo.jpg",Radio WFM 6015 Club Channel
+http://87.118.78.20:6015/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-talk-578406-logo.jpg",Radio Magic Talk
+http://tunein-icecast.mediaworks.nz/radiolive_128kbps
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-new-zealand-parliament-580573-logo.jpg",Radio New Zealand Parliament
+http://radionz-ice.streamguys.com/parliament
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/te-upoko-o-te-ika-582569-logo.jpg",Radio Te Upoko O Te Ika
+http://www.irirangi.net/listen-online/te-upoko-o-te-ika.aspx?id=67F33876-6044-4C51-9654-A306E06AFBB0
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kix-fm-583340-logo.jpg",Radio KIX FM
+http://stream.kixfm.co.nz:8178/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/power-hit-fm-587156-logo.jpg",Radio Power Hit FM
+http://listen.powerhitfm.co.nz:16100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/summit-961-587325-logo.jpg",Radio Summit 96.1
+http://nzbsbroadcast.cpit.ac.nz:5000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-bollybop-fm-587333-logo.jpg",Radio Bollybop FM
+https://igniso-dot-yamm-track.appspot.com/Redirect?ukey=14o-g9fQonM1yzmoFQuozB36A3mm9yeDMs5hULhJiwy4-1262662107u0026key=YAMMID-15866757u0026link=https%3A%2F%2Fstream.radio.co%2Fs2562b6e3a%2Flisten
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/oar-fm-dunedin-589589-logo.jpg",Radio OAR FM Dunedin
+http://pebbles.wizzhosting.co.nz/tr
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dna-fm-590100-logo.jpg",Radio DNA fm
+http://dnafm.org/dnafmplayer.aspx
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/heads-1064fm-590132-logo.jpg",Radio Heads 106.4FM
+http://144.217.195.24:8760/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/britomart-fm-592106-logo.jpg",Radio Britomart FM
+http://streams.audiocloud.co.nz:8000/live.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/calvary-radio-593745-logo.jpg",Calvary Radio
+http://184.154.90.186:8225/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/shed-internet-radio-603213-logo.jpg",Shed Internet Radio
+http://www.shedradio.co.nz:8882/stream-shed.aac
+#EXTINF:-1 tv-logo="",Radio Switch Fm
+http://203.118.133.51:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/choice-fm-nz-605430-logo.jpg",Radio Choice FM NZ
+http://219.89.115.47:8765/choicefm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioshuffle-dnb-606645-logo.jpg",Radioshuffle DnB
+http://s1.radioshuffle.net:8080/stream/4/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sunshine-radio-608921-logo.jpg",Sunshine Radio
+http://www.sunshineradio.co.nz:8882/sunshine.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/new-zealand-kirtan-609099-logo.jpg",Radio New Zealand Kirtan
+http://listen.spacial.com/api/listen/?sid=65594u0026method=scu0026rid=1183612
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiox-609062-logo.jpg",RadioX
+http://listen.spacial.com/api/listen/?sid=13934u0026method=scu0026rid=931830
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xfm-radio-611450-logo.jpg",XFM Radio
+http://192.99.34.205:8410/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/brian-fm-wanganui-614459-logo.jpg",Radio Brian FM Wanganui
+http://brianfm.streamon.fm/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/spm-network-614675-logo.jpg",Radio SPM Network
+http://sc05.saycast.com:8130/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-central-615940-logo.jpg",Radio Central
+http://s27.myradiostream.com:16248/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-basin-fm-992-619407-logo.jpg",Radio The Basin FM 99.2
+http://majestic.wavestreamer.com:5837/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/the-hum-619975-logo.jpg",Radio The Hum
+http://121.98.43.12:8000/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-teapot-622783-logo.jpg",Radio Teapot
+http://streaming.radio.co/s08be0e4bc/low
+#EXTINF:-1 tv-logo="",RBR Rock Radio
+http://37.59.28.208:8040/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/socradio-626767-logo.jpg",SOCRadio
+http://s32.myradiostream.com:10932/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/desi-beats-629789-logo.jpg",Radio Desi Beats
+http://s1.voscast.com:9368/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nostalgia-fm-630069-logo.jpg",Radio Nostalgia FM
+http://s27.myradiostream.com:11450/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/real-radio-104-630779-logo.jpg",Real Radio 104
+http://rss-streaming.co.uk/proxy/real104?mp=/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hot-884fm-630814-logo.jpg",Radio HOT 88.4FM
+http://87.117.217.103:7955/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pulzar-fm-631244-logo.jpg",Radio Pulzar FM
+http://198.105.216.204:8088/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kfm-nz-635895-logo.jpg",Radio KFM NZ
+http://s2.voscast.com:11614/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/electro-swing-happy-radio-636811-logo.jpg",Electro Swing Happy Radio
+http://stream.radiojar.com/k0y6fdr2a24tv
+#EXTINF:-1 tv-logo="",Sundown Radio
+http://s2.voscast.com:10246/;
+#EXTINF:-1 tv-logo="",RadiowaveNZ
+http://184.154.202.243:8232/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-gold-alexandra-1073fm-638979-logo.jpg",Radio Classic Gold - Alexandra 107.3FM
+http://91.121.155.140:19064/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/peak-fm-640497-logo.jpg",Radio Peak FM
+http://5.133.182.174:27227/;
+#EXTINF:-1 tv-logo="",Radio RYZ FM
+http://s2.voscast.com:11622/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/better-beats-644121-logo.jpg",Radio Better Beats
+http://betterbeats.out.airtime.pro:8000/betterbeats_a?_ga=2.188226152.1174238701.1503893952-1135020364.1503527162
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sadeaala-radio-644538-logo.jpg",Sadeaala radio
+http://s35.myradiostream.com:33188/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/max-the-internets-best-music-647345-logo.jpg",Radio MAX The internets Best Music
+http://s23.myradiostream.com:15322/;
+#EXTINF:-1 tv-logo="",Radio Loft FM
+http://pstnet1.shoutcastnet.com:18100/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-gold-fm-logo.jpg",Radio Gold FM
+https://21363.live.streamtheworld.com/NZME_15AAC/HLS/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-country-chill-logo.jpg",Radio ROVA - Country Chill
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_COUNTRYCHILL_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-chill-hop-logo.jpg",Radio ROVA - Chill Hop
+https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-more-fm-wanganui-logo.jpg",Radio More FM Wanganui
+https://digitalstreams3.mediaworks.nz/more-WAG-high/playlist.m3u8?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-gold-radio-redwood-568832-logo.jpg",Classic Gold Radio Redwood
+http://123.255.61.226:8020/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-platform-logo.jpg",Radio The Platform
+https://tpe-hls-chc-1.resonate.net.nz/hls/stream.m3u8?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-breeze-workout-logo.jpg",Radio The Breeze Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZEWORKOUT_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-breeze-todays-country-logo.jpg",Radio The Breeze Today's Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/TODAYSCOUNTRY1_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-breeze-women-logo.jpg",Radio The Breeze Women
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZE_WOMAN_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-magic-elvis-and-friends-logo.jpg",Radio Magic Elvis & Friends
+https://playerservices.streamtheworld.com/api/livestream-redirect/ELVISFRIENDS_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-edge-rewind-logo.jpg",Radio The Edge Rewind
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEREWIND_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-edge-workout-logo.jpg",Radio The Edge Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEWORKOUT_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-edge-fresh-hits-logo.jpg",Radio The Edge Fresh Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEFRESHHITS_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-magic-classic-country-logo.jpg",Radio Magic Classic Country
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAGICCOUNTRY_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-more-fms-nothing-but-90s-logo.jpg",Radio More FM's Nothing But 90's
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOTHINGBUT90_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-mai-heatseekers-logo.jpg",Radio Mai Heatseekers
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAIFRESHHITS_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-edge-pres-logo.jpg",Radio The Edge Pre's
+https://playerservices.streamtheworld.com/api/livestream-redirect/EDGEPRES_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-more-fm-workout-logo.jpg",Radio More FM Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/MOREWORKOUT_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-mai-waiata-reo-maori-logo.jpg",Radio Mai Waiata Reo Maori
+https://playerservices.streamtheworld.com/api/livestream-redirect/HOT1000_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-more-fm-nothing-but-love-songs-logo.jpg",Radio More FM Nothing But Love Songs
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOTHINGBUTLOVE_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-mai-irie-anthems-logo.jpg",Radio Mai Irie Anthems
+https://playerservices.streamtheworld.com/api/livestream-redirect/IRIEANTHEMS_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-mai-kendrick-logo.jpg",Radio Mai Kendrick
+https://playerservices.streamtheworld.com/api/livestream-redirect/KENDRICKLAMAR_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-george-workout-logo.jpg",Radio George Workout
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEWORKOUT_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-rock-ozzy-mixtape-logo.jpg",Radio The Rock Ozzy Mixtape
+https://playerservices.streamtheworld.com/api/livestream-redirect/KEVINHART_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-lizzo-logo.jpg",Radio ROVA - Lizzo
+https://playerservices.streamtheworld.com/api/livestream-redirect/LIZZO_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-the-rock-duck-yeah-logo.jpg",Radio The Rock Duck Yeah!
+https://playerservices.streamtheworld.com/api/livestream-redirect/DUCKYEAH_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-kiwi-discovery-logo.jpg",Radio ROVA - Kiwi Discovery
+https://playerservices.streamtheworld.com/api/livestream-redirect/ODDCOMPANY_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-jonas-brothers-logo.jpg",Radio ROVA - Jonas Brothers
+https://playerservices.streamtheworld.com/api/livestream-redirect/JONASBROTHERS_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-the-blink-182-mixtape-logo.jpg",Radio ROVA - The Blink 182 Mixtape
+https://playerservices.streamtheworld.com/api/livestream-redirect/BLINK182_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-justin-timberlake-logo.jpg",Radio ROVA - Justin Timberlake
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUSTINTIMBERLAKE_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-rihanna-logo.jpg",Radio ROVA - Rihanna
+https://playerservices.streamtheworld.com/api/livestream-redirect/RIHANNA_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-netsky-logo.jpg",Radio ROVA -Netsky
+https://playerservices.streamtheworld.com/api/livestream-redirect/NETSKY_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-abba-logo.jpg",Radio ROVA - Abba
+https://playerservices.streamtheworld.com/api/livestream-redirect/BREEZELONGSONGS_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-one-direction-logo.jpg",Radio ROVA - One Direction
+https://playerservices.streamtheworld.com/api/livestream-redirect/ONEDIRECTION_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-morgan-wallen-logo.jpg",Radio ROVA - Morgan Wallen
+https://playerservices.streamtheworld.com/api/livestream-redirect/MORGANWALLEN_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-justin-bieber-logo.jpg",Radio ROVA - Justin Bieber
+https://playerservices.streamtheworld.com/api/livestream-redirect/JUSTINBIEBER_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-the-chris-brown-mixtape-logo.jpg",Radio ROVA - The Chris Brown Mixtape
+https://playerservices.streamtheworld.com/api/livestream-redirect/CHRISBROWN_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-pink-logo.jpg",Radio ROVA - Pink
+https://playerservices.streamtheworld.com/api/livestream-redirect/PINKMIXTAPE_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-taylor-swift-logo.jpg",Radio ROVA - Taylor Swift
+https://playerservices.streamtheworld.com/api/livestream-redirect/CANCERSOCIETY_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-six60-logo.jpg",Radio ROVA - Six60
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_4_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-sam-smith-logo.jpg",Radio ROVA - Sam Smith
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAMSMITH_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-niall-horan-logo.jpg",Radio ROVA - Niall Horan
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_3_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-selena-gomez-logo.jpg",Radio ROVA - Selena Gomez
+https://playerservices.streamtheworld.com/api/livestream-redirect/SELENAGOMEZ_S01AAC.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-rova-eminem-logo.jpg",Radio ROVA - Eminem
+https://playerservices.streamtheworld.com/api/livestream-redirect/INSTORE_1_S01.aac?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-truth-jams-radio-logo.jpg",Truth Jams Radio
+https://servidor17.brlogic.com:7024/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-beach-fm-1063-logo.jpg",Radio Beach FM 106.3
+https://s8.myradiostream.com/58408/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-southern-cross-country-logo.jpg",Radio Southern Cross Country
+https://sxcountry.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nz-akaroa-world-radio-logo.jpg",Akaroa World Radio
+https://stream.radiojar.com/k0t12bsns1duv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-578398-logo.jpg",Radio Mix
+http://ais-nzme.streamguys1.com/nz_012_aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/newstalk-zb-wellington-163980-logo.jpg",Radio Newstalk ZB Wellington
+http://ais-nzme.streamguys1.com/nz_004_aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/high-country-radio-new-zealand-629650-logo.jpg",High Country Radio New Zealand
+http://s40.myradiostream.com:13548/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-new-zealand-concert-576300-logo.jpg",Radio New Zealand Concert
+https://cdn-wowza.radionz.co.nz/concert/concert/playlist.m3u8
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xs80s-616330-logo.jpg",Radio XS80's
+http://s1.myradiostream.com:12508/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nostalgia-90-177566-logo.jpg",Radio Nostalgia 90
+http://listen.radionomy.com/nostalgia-90
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/xs90s-643796-logo.jpg",Radio XS90s
+http://s39.myradiostream.com:15392/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radioactivefm-168564-logo.jpg",RadioActive.FM
+http://streaming.radio.co:80/s6ef1e80ce/listen
+#EXTINF:-1 tv-logo="",New Zealand Radio Chinese
+http://67.212.165.106:8075/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/static-153916-logo.jpg",Radio Static
+http://artsweb.aut.ac.nz:8002/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/coast-163169-logo.jpg",Radio Coast
+http://ais-nzme.streamguys1.com/nz_011_aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/recently-added-radio-158733-logo.jpg",Recently Added Radio
+http://www.recentlyadded.co.nz:8080/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/power-hit-radio-164628-logo.jpg",Power Hit Radio
+http://stream.powerhitfm.co.nz:8010
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rep-fm-164639-logo.jpg",Radio Rep FM
+http://184.107.202.178:8022/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/amped-165099-logo.jpg",Radio Amped
+http://radionetworknz-ice.streamguys.com/hkonline.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/zm-auckland-165135-logo.jpg",Radio ZM Auckland
+http://radionetworknz-ice.streamguys.com/zmonline
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/chillfm-radio-165165-logo.jpg",ChillFM Radio
+http://69.175.103.237/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/flat-159441-logo.jpg",Radio The Flat
+http://live.wizz.co.nz/flat
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/blenz-hit-music-talk-radio-159447-logo.jpg",Blenz Hit Music & Talk Radio
+http://174.36.206.217:8545
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-n-paints-159475-logo.jpg",Radio n Paints
+http://67.212.189.122:8000
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/humm-fm-1062-159524-logo.jpg",Radio HUMM FM 106.2
+http://66.55.144.67:8007/hummfm.acc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/living-music-172295-logo.jpg",Radio Living For Music
+http://60.234.152.239:8015/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/coast-fm-165743-logo.jpg",Radio The Coast FM
+http://s12.myradiostream.com:12364/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/rag-fm-174284-logo.jpg",Radio RAG-FM
+http://70.38.12.44:8564/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-wfm-6015-177915-logo.jpg",Radio WFM 6015
+http://87.118.78.20:6050/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/groove-1077-fm-166077-logo.jpg",Radio Groove 107.7 FM
+http://www.outcastdigital.com/outcastplayer/OCPlayer-groove.swf
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/country-radio-dunedin-166813-logo.jpg",Country Radio Dunedin
+http://countryradio2.no-ip.org:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/schematics-dubstep-179901-logo.jpg",Radio scheMatics dubstep
+http://live.wizz.co.nz:80/ss
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/raglan-radio-179970-logo.jpg",Raglan Radio
+http://58.28.153.160/broadwave.mp3?src=1u0026rate=1
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sport-extra-166252-logo.jpg",Radio Sport Extra
+http://radionetworknz-ice.streamguys.com/sportextra.aac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/core-radio-178718-logo.jpg",Core Radio
+http://radio.paradise.net.nz:8070/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/boosh-fm-180289-logo.jpg",Radio Boosh FM
+http://ice1.outcastdigital.com:8000/booshfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/volcano-radio-176268-logo.jpg",Volcano Radio
+http://109.169.26.79:8024/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/easy-80s-647142-logo.jpg",Radio Easy 80s
+http://procyon.shoutca.st:8032/;
+#EXTINF:-1 tv-logo="",Radio The Flea
+http://121.98.168.24:10042/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/starlifter-radio-167419-logo.jpg",Starlifter Radio
+http://stream-6.streamsolutions.co.uk:9216/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/far-point-radio-157085-logo.jpg",Far Point Radio
+http://farpointradio.com:9966/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-hits-christchurch-160624-logo.jpg",Radio Classic Hits Christchurch
+http://radionetworknz-ice.streamguys.com/chonlinech.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/andhow-web-radio-182416-logo.jpg",AndHow Web Radio
+http://stream.andhow.com:8000/stream.mp3/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-hits-auckland-168026-logo.jpg",Radio Classic Hits Auckland
+http://radionetworknz-ice.streamguys.com/chonlineak.mp3
+#EXTINF:-1 tv-logo="",Radio Rush FM
+http://rushbroadcasting.serverroom.us:5204/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-hits-wellington-168866-logo.jpg",Radio Classic Hits Wellington
+http://radionetworknz-ice.streamguys.com/chonlinewn.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ranch-online-183359-logo.jpg",Radio The Ranch Online
+http://stream101.com:40068/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-redwood-good-music-fm-185041-logo.jpg",Radio Redwood Good Music FM
+http://radioredwood.dyndns.org:8020/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/more-fm-canterbury-578426-logo.jpg",Radio More FM Canterbury
+http://tunein-icecast.mediaworks.nz/more_chc_128kbps
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/splash-fm-176261-logo.jpg",Radio Splash FM
+http://live.splashfm.co.nz:8000/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/base-fm-nz-578362-logo.jpg",Radio Base FM (NZ)
+http://stream.basefm.co.nz:8000/BaseAAC
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ponsonby-185608-logo.jpg",Radio Ponsonby
+http://69.163.145.228:8000/pfmaac
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wanted-fm-185867-logo.jpg",Radio Wanted FM
+http://174.127.65.126:8002/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vbc-fm-186285-logo.jpg",Radio The VBC FM
+http://s2.stationplaylist.com:8190/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/blenz-hit-music-186403-logo.jpg",Radio Blenz Hit Music
+http://174.36.206.217:8545/;
+#EXTINF:-1 tv-logo="",Radio Mushroom Escape
+http://23.239.13.206:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bop-fm-186555-logo.jpg",Radio Bop FM
+http://stream.braintrust.co.nz/bopfm_mp3_32

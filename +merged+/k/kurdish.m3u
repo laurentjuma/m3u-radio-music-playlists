@@ -273,8 +273,6 @@ http://198.7.59.28:8146/;
 http://5.9.71.122:8257/stream
 #EXTINF:-1,Kurdistan24
 https://audio-edge-3mayu.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
-#EXTINF:-1,Rebaz FM
-https:/http:/asti.out.airtime.prohttp:/asti_a
 #EXTINF:-1,Dicle FM
 https://dicle-rojavaradio.radioca.st/stream
 #EXTINF:-1,mezopotamya radyo
@@ -283,3 +281,9 @@ https://anadolu.liderhost.com.tr/9404/.mp3
 https://c2.radioboss.fm:8564/stream
 #EXTINF:-1,Parzink
 https://a1.asurahosting.com/listen/parzink/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/de-kurd-fm-logo.jpg",Radio Kurd FM
+https://radio.alanmedia.de:4747/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ch-derkimihd-logo.jpg",Radio DerKimiHD
+https://stream.laut.fm/derkimihd
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-voice-of-america-voa-radiyoyacu-logo.jpg",Radio Voice of America - VOA Radiyoyacu
+https://stream.radiojar.com/hzcgfqas92quv

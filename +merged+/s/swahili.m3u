@@ -2143,8 +2143,6 @@ http://109.169.76.104:10548/;stream.mp3
 https://stream-052.zeno.fm/9f8pg7qqsnhvv?zs=FnS2FCjSTzCwmA8LyqaZcg
 #EXTINF:-1,KBS Ekisweko 93.0 FM
 https://air.doscast.com/proxy/obwaka/stream;
-#EXTINF:-1,Rehobothifmtz
-https:/http:/ehobothi.radioca.st/;stream.nsv
 #EXTINF:-1,Papa FM Uganda
 https://stream-154.zeno.fm/uv626z88af9uv?zs=3jStyfkhRT2dL6uBLI-bXw
 #EXTINF:-1,Utume Fm Radio 97.3mhz
@@ -2239,8 +2237,6 @@ https://stream-150.zeno.fm/96ud7736ckhvv?zs=nnsznSIRQlaI5clswOpUtQ
 https://cast3.asurahosting.com/proxy/jambocom/stream
 #EXTINF:-1,Lumen Radio Karatu
 http://freeuk30.listen2myradio.com:30102/;stream.nsv
-#EXTINF:-1,Triple A Fm
-https:/http:/adiotadio.co.tz/triple-a-fm-stream
 #EXTINF:-1,Mbabule Fm 101.1
 https://stream-151.zeno.fm/p4aiznzwfjiuv?zs=zvTFsHJESWih1F3vt-2YSA
 #EXTINF:-1,Tzgospel Swahili (Tunisia)
@@ -2491,3 +2487,1031 @@ https://stream-172.zeno.fm/8q4u3skru98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 https://dc4.serverse.com/proxy/ccmxrgub/stream?1730793263140
 #EXTINF:-1,Champion FM Radio
 https://stream.zeno.fm/i5myrgbesxatv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12045.png",Radio Sapientia
+https://fmradiohub.in/radio?url=http://streaming.radiosapientia.com:6300/sapientia
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12557.png",Upendo FM
+https://fmradiohub.in/radio?url=http://s12.myradiostream.com:8186/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12560.png",Morning Star Radio
+https://n0a.radiojar.com/qpgu3a299rmtv?rj-ttl=5&rj-tok=AAABjy75rDQADN0UXdZKA_7Mog
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12561.png",Bongo Radio
+https://fmradiohub.in/radio?url=http://173.244.208.77:9000/bongo.mp3/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12562.png",Radio Kwizera
+https://fmradiohub.in/radio?url=http://uk4-vn.mixstream.net:8052/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12563.png",Radio Maria
+https://fmradiohub.in/radio?url=http://dreamsiteradiocp2.com:8034/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12567.png",Qiblaten FM
+https://fmradiohub.in/radio?url=http://s36.myradiostream.com:20772/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12575.png",Storm FM
+https://fmradiohub.in/radio?url=http://199.115.115.71:10018/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12556.png",Radio Safina 
+https://fmradiohub.in/radio?url=http://s14.myradiostream.com:7838/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12566.png",RadioOne
+https://fmradiohub.in/radio?url=http://78.129.232.226:8085/stream/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12573.png",Safari FM
+https://fmradiohub.in/radio?url=http://217.147.94.171:8709/safariradio
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12657.png",Ghetto Radio
+https://stream.zeno.fm/t2wky7h647zuv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12663.png",Radio Waumini
+https://fmradiohub.in/radio?url=http://stream-157.zeno.fm/gvk894g072quv?zs=E1DaLDWQQaaoC85yI4-acA&rj-ttl=5&rj-tok=AAABgOXYJpkAyh1U4jpcTHrqSA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12690.png",Akaboozi 87.9 FM
+https://fmradiohub.in/radio?url=http://162.244.80.52:8732/stream.mp3audio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12691.png",Beat FM
+https://fmradiohub.in/radio?url=http://5230.cloudrad.io:8354/:?
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12692.png",Galaxy FM
+https://stream.zeno.fm/ahtmyttw5mftv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12695.png",Radio Maria
+https://fmradiohub.in/radio?url=http://dreamsiteradiocp.com:8052/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12697.png",Radio One FM 90 - FM 90.0 - Kampala
+https://fmradiohub.in/radio?url=http://162.244.80.52:8740/stream.mp3audio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12698.png",GOSPEL RADIO-EAST AFRICA
+https://c32.radioboss.fm:18451/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32894808.png",Radio Guamá
+https://icecast.teveo.cu/ngcdcV3k#
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/93276059.jpg",Guira FM
+https://audio-edge-5bkfj.fra.h.radiomast.io/ce42a7f0-b3a7-47ee-9eb2-97009bba3c2a
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/97840684.jpg",Radio Xtrim FM
+https://stream-174.zeno.fm/huuqtsd6gxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJodXVxdHNkNmd4cXV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InRpRjdMcXRjUllHa2Q3UldiRXk2dXciLCJpYXQiOjE3MzU4MTE5NTcsImV4cCI6MTczNTgxMjAxN30.QgzerwzOlrmdCgmRDMEkjqmlrqIR1A5d3tUjt-ksbFE
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/76042443.jpg",Inooro FM 88.9 FM
+https://originalfm-atunwadigital.streamguys1.com/inoorofm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/104838096.jpg",Sanyu FM
+https://s44.myradiostream.com:8138/listen.mp3?nocache=1655454679
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/52656998.jpg",Radio One FM 90
+https://fmradiohub.in/radio?url=http://162.244.80.52:8740/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/488756.jpg",Bible Indepth Radio
+https://fmradiohub.in/radio?url=http://n0e.radiojar.com/n6c576nrga0uv?rj-ttl=5&rj-tok=AAABgXEeJo0A3bCnh9IC5-y25g
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/110495111.jpg",Baba FM 87.7
+https://stream.zeno.fm/ns28rp24dkhvv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/118654496.jpg",O Radio
+https://node-27.zeno.fm/15u3hdz0qf9uv?zs=86K3fKlqQWqGkjFBrLvgTw&rj-tok=AAABgXEjekgAG69-Iv5BC_ndMA&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/94917044.jpeg",ANSWAR QURAN RADIO
+https://stream-172.zeno.fm/7ndfsp85fc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmRmc3A4NWZjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjNnb1djWkVCU3NDbHhCMG1tOHJ6ZHciLCJpYXQiOjE3NDE3NzIxNjksImV4cCI6MTc0MTc3MjIyOX0.488Jpu9gPfiqFp3YVavRy_01yBr-WiuRrh_i8EKgBiY
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/108301707.jpg",Glory 106.7 FM
+https://stream-154.zeno.fm/5remmcqkpd0uv?zs=DWQ5oKaGSVu8vvsT-bf70Q
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/62197865.jpg",91.5 KVR FM
+https://stream-154.zeno.fm/hyyzuphrsg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoeXl6dXBocnNnMHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImVXdkRzcjJNUTA2ZURPdjlOSzVMTVEiLCJpYXQiOjE3Mzk0NDI4NzAsImV4cCI6MTczOTQ0MjkzMH0.dBzvGIPQ8oom1JNxKsIrLVyFd7Fy0uMSi4MfR-8dWLs
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/85936176.jpg",Mega Radio 101.1 FM
+https://stream-153.zeno.fm/4k48hk3mg5zuv?zs=vvOt7Yr_TUWbhH-99YbhRg
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33697817.jpg",PDN Hope Radio
+https://stream-54.zeno.fm/5pz4yffadm0uv?zs=XYmZkInvSJylh59Jqmgsng
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/67215290.jpg",Cloud Radio Uganda
+https://stream-52.zeno.fm/eq0vu571ekhvv?zs=nsSTbM1FSuaI_42W7vZouQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/41124280.jpg",Street Deejays Radio
+https://stream-40.zeno.fm/p6kusxz7na0uv?zs=IKY02eO5Sn6iKL48Y9J4Og
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/67256520.jpg",Snow FM Kasese
+https://sp.streams.ovh/8032/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/60914196.jpg",KDR 100.3 FM
+https://radiocomnetu.org/kdrfm-stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/73215142.jpg",Papa FM Uganda
+https://stream-59.zeno.fm/uv626z88af9uv?zs=aT0qtRzLS_W0UiEGwiuYJQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7138139.jpg",90.2 Radio kinG
+https://stream-46.zeno.fm/g8sx82rnyfeuv?zs=Nkmjn8b3QBqZMecKsQ4l9w
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/23925878.jpeg",Answar Online Radio
+https://stream-173.zeno.fm/7ndfsp85fc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmRmc3A4NWZjOXV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhUbEh5MmhNUk9LM0txTkNoZ2FSOUEiLCJpYXQiOjE3MjMwMzI4MDAsImV4cCI6MTcyMzAzMjg2MH0.Tqt66dF8anQ4siH5VuAgMNGt5XYpyy-Szu2Lwl5w9ls
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4089040.jpg",Breakthru 
+https://edge.mixlr.com/channel/yjpbp
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/90449264.jpg",Adonai FM
+https://stream-174.zeno.fm/ab9nfrsexzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYjluZnJzZXh6enV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkRxWW1pYndSUmVHT2JyUWxodEI5cEEiLCJpYXQiOjE3NTEyNzk0MzcsImV4cCI6MTc1MTI3OTQ5N30.msFcFt7D4FowPvMMAh1J5r6GN_x4twH67DlD7XOPovU
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40293963.jpg",Hills Fm
+https://s40.myradiostream.com:21392/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/100936933.jpg",NuveyLive 
+https://stream-173.zeno.fm/91yf61hc84zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5MXlmNjFoYzg0enV2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ii1fZ2pQVWM3UnBDQ1Z4ZEE3dDJhRHciLCJpYXQiOjE3NDU2NDk5NDYsImV4cCI6MTc0NTY1MDAwNn0.gBPdNSyq8x1lobjE_qRg0losOi1wsZs9sOjSAp1xlMM
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/76458861.jpg",Radio Pacis
+https://radiopacisuganda.radioca.st/stream/1/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/40270260.jpg",Heaven FM Radio
+https://stream-152.zeno.fm/eequgfw72hhvv?zs=yLNt4STeRGqUhhUXCCHCyQ&rj-tok=AAABgfwRLRcA9IYQex3OASvM5g&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/43224519.jpg",KBC Radio Taifa 92.9 FM
+https://stream-161.zeno.fm/mhmwnyyst5quv?zs=YnVTvSFPTYOTdVd6dTHO8w
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46902295.jpg",EMOO FM
+https://emoofm-atunwadigital.streamguys1.com/emoofm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/10555183.jpg",Street One Radio
+https://stream-175.zeno.fm/d3as2fmadnruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkM2FzMmZtYWRucnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZNN201SThGVC1DUnk1eURIQ0xPUmciLCJpYXQiOjE3NDQ0NTU3NzQsImV4cCI6MTc0NDQ1NTgzNH0.Sd8GVj8DiEyk6FG-VsF1uXt1YN-9dj8Jy3myEl18Ydk
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/49164804.png",Kigooco FM - 98.6
+https://fmradiohub.in/radio?url=http://us4.internet-radio.com:8093/live
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/59865483.jpg",E-FM Radio
+https://fmradiohub.in/radio?url=http://207.148.74.192:7860/stream.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/48912592.jpg",Mungu Kwanza
+https://mungukwanza.radioca.st/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/77958092.jpg",Boresha Radio
+https://halo.streamerr.co/listen/radio_boresha/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46054960.jpg",Tunduma FM Radio
+https://stream-44.zeno.fm/c3q1ab7b2hhvv?zs=DUEhi5KRRaSqnI4mkJdTZw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/95986639.jpg",KGT Radio
+https://stream-52.zeno.fm/p46rpn6cyy8uv?zs=QIGsokOlSvOU0347wOuq6g
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/105228599.jpg",Uhuru FM
+https://s5.myradiostream.com/:42756/listen.mp3?nocache=1684149316
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/59283380.jpg",Savior Radio
+https://fmradiohub.in/radio?url=http://proxima.shoutca.st:8083/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21468.png",CG FM Radio
+https://fmradiohub.in/radio?url=http://38.107.243.99:8002/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29411184.jpg",The Way To Heaven Radio
+https://stream-47.zeno.fm/fyqk13fmbm0uv?zs=tXA2vLLnSKa2VXRaL2RyKg
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35896562.jpg",Storm FM
+https://streaming.radio.co/s6df48fd88/listen
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/96004078.jpg",Deal Plus
+https://stream-174.zeno.fm/x7fe33amc78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4N2ZlMzNhbWM3OHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiaXhWVjFZMi1URkNfUnlVX2tzOWxqdyIsImlhdCI6MTc0ODk0NzkxNSwiZXhwIjoxNzQ4OTQ3OTc1fQ.yrdOrr87ZUbGbsLKzX0o7HzdiPdRFkaUbEFAfjsMXcc
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/8899982.jpg",Planet FM
+https://stream-147.zeno.fm/pxc55r5uyc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJweGM1NXI1dXljOXV2IiwiaG9zdCI6InN0cmVhbS0xNDcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImQtUTkybkkwU2ctWm5nNktYblFJLWciLCJpYXQiOjE3MjkzMTc3MzIsImV4cCI6MTcyOTMxNzc5Mn0.oiRHmgmmx824sbLU0wVyYYwu3ADB5IIGIaNhoQvqYaA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/113773098.jpg",Manukato Radio
+https://stream-175.zeno.fm/pebd18dpw4zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZWJkMThkcHc0enV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IktmYnFJNVBWUmNPUkE2NnJWcnNTdkEiLCJpYXQiOjE3NDkyMTA4OTksImV4cCI6MTc0OTIxMDk1OX0.EEbLKWpagCId9s8Jf7Dd4vl5OC1LFLUt-X0YB_vFHzc
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/99226238.jpg",Station Beta
+https://node-35.zeno.fm/1vqehdq05hhvv?zs=08Hg6d4oSNyz80wU8lJAOg&rj-tok=AAABgTi3TtAA1_npaLo9xxD5vw&rj-ttl=5
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/34548925.jpg",I Nation Fm
+https://stream-55.zeno.fm/7y5hws600f8uv?zs=65YlyK-oSAOXz5UbTyNQ2g
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/106225429.jpg", Tff Online Radio
+https://stream-170.zeno.fm/9q0rr918by8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5cTBycjkxOGJ5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Inl0aUhKY0kzVGVxX3FfaGlXQ1ppcXciLCJpYXQiOjE3NDU5MjcyMzcsImV4cCI6MTc0NTkyNzI5N30.owhDTMkgXQyrIfF-oTp8llB79HbF0nrNoqaDysLe7FE
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/54120467.jpg",Radio Kicheko
+https://stream-159.zeno.fm/hg18dkfn1v8uv?zs=lYapom5GRvS3FgpImVQ-fg
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/101956285.jpg",Kipiti Radio
+https://stream-176.zeno.fm/7ebq5q3tcv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3ZWJxNXEzdGN2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsImp0aSI6InVDUGJTSGtIUnNLN3pTS1dTWXRhdHciLCJpYXQiOjE3MTQ4MjMxMDYsImV4cCI6MTcxNDgyMzE2Nn0.St_CRWGHvterM6gIg9CP8U0AGsKTJYG8ZYmoJg_ND4g&zttl=5&zs=Q6i665cqQs--QfTqjd80mw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/24767651.jpg",Neno Radio
+https://stream-42.zeno.fm/6vx19kexgs8uv?zs=Tke7pP-ETsON2sE73mB4BA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/92617289.jpg",Togan FM
+https://stream-153.zeno.fm/hm255tmmsv8uv?zs=ap6MZ4yyRO-kRlzCq9Ix4w
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/66222726.jpg",Shaba FM
+https://stream-47.zeno.fm/frtk6234qxhvv?zs=aQDHlNEQTD2V7Xqk6L8iQA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/32112169.jpg",Dy International
+https://stream-42.zeno.fm/253yemexgs8uv?zs=sYfoWIeOSJ-fQC0JausY-Q
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/30556784.jpg",Caanan FM
+https://stream-55.zeno.fm/m15eapfacxhvv?zs=ucM45LXXQW-LEPvMfZsa4Q
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/73432659.jpg",Mwalukasa FM Radio
+https://stream-57.zeno.fm/3gtan29ag0hvv?zs=YjVTFJ3OSn2we5VL3C0w7w
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/49162498.jpg",Uvinza FM Radio
+https://fmradiohub.in/radio?url=http://usa1-vn.mixstream.net:8090/listen.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/69343639.jpg",Gombo FM Radio
+https://stream-175.zeno.fm/xgkyolbvybktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4Z2t5b2xidnlia3R2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ino2S1FQdDJEVDZTMUlaYWV4d1hMZ1EiLCJpYXQiOjE3NDYxNzU3MjgsImV4cCI6MTc0NjE3NTc4OH0.5LZKnWsMYxOp8KyXUeww4kbLNNoe_BAdveCNFsNM0VA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/87772892.jpg",Kulola FM Radio
+https://stream-42.zeno.fm/gguuwi06bcntv?zs=Biln9PijRaKFm_0o7Vsdvw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/83638019.jpg",Divine Radio FM
+https://streamlive2.hearthis.at:8000/10321602.ogg
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/113828276.jpg",Savvy FM Arusha
+https://stream-47.zeno.fm/tkh85wpzznhvv?zs=ofW9VrZEQNiSoCfZSILzpg
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/54586748.jpg",Idreams Radio
+https://stream-172.zeno.fm/8v1ryskru98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4djFyeXNrcnU5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJNa3BvR0JxU01DR0lPR3VJZjNRSGciLCJpYXQiOjE3MTY5MTEwMzAsImV4cCI6MTcxNjkxMTA5MH0.6t9tYf7DymLbmxFTQzGp0stHxO3pKrQERQ2p880p7Rs
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/98378417.jpg",Moro Online Radio
+https://stream-151.zeno.fm/15vv25cpg5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxNXZ2MjVjcGc1enV2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsImp0aSI6Ik13Y1hTVGQyUzRxVVZzU0phc2kwSnciLCJpYXQiOjE3MTQwMjc3MzIsImV4cCI6MTcxNDAyNzc5Mn0.dob77E_oYOmq1lMLlaKwlrJ5hs-vqy_gHNUxY50J9D8&zttl=5&zs=EGpLlljLQPOiQ0mVcg07AA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/75912806.jpg",Chabo Online Radio
+https://stream-178.zeno.fm/3nv1wwh5srhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzbnYxd3doNXNyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InJPQm93UUlRU0VtVDhvNXlOeEhXUkEiLCJpYXQiOjE3NDkyMDkwODIsImV4cCI6MTc0OTIwOTE0Mn0.M5QfnAUk1Kz6N3Sg5rsJPvWLWuM0Xt4hmxvUpZZ0BfQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/104964255.jpg",Rehobothi Fmtz
+https://audio.rehoboth.no/rehoboth_mq
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/8861803.jpg",Mustlead Online Radio
+https://stream-174.zeno.fm/b5my1dvyaphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiNW15MWR2eWFwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImVqQkt5TkIxUVZTUlRkTmFRdVRnNVEiLCJpYXQiOjE3NDYwOTU4MTEsImV4cCI6MTc0NjA5NTg3MX0.L_G1kRtmuzzMOepb0UQh0DONKB6Yw9UxZftnVbG4UGE
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/69954743.jpg",Eku FM
+https://stream-42.zeno.fm/kzc06pc8schvv?zs=bN100CxAQ_m7oTFh5HxxJw
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/22423215.jpg",Mimossa Radio
+https://stream-172.zeno.fm/10e0vmsqkxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxMGUwdm1zcWt4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImZzRWI3XzY2UVJpZy1EVzF3NDI2QnciLCJpYXQiOjE3MjE3OTc0MzksImV4cCI6MTcyMTc5NzQ5OX0.oyvZhAY5vtzfMX-tBhBmyNfBKzSNr24OLrmC3wbeY_U
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/44847110.jpg",Njiwa Online Radio
+https://stream-173.zeno.fm/3nv1wwh5srhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzbnYxd3doNXNyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IndQVlJyamkwVEp5RktmN0stOHZkZFEiLCJpYXQiOjE3MTYyODY2NjEsImV4cCI6MTcxNjI4NjcyMX0.QbrcpCShiHeK6IM37t9NZMihbX-XS0UeeVEZfu6U9QA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/47247032.jpg",Shiloh FM
+https://stream-176.zeno.fm/nm7hfnd3uhhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJubTdoZm5kM3VoaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InYtWU1LZkNTUjNxdXY3SFR1QTJ1UXciLCJpYXQiOjE3NDQ2MzE3ODQsImV4cCI6MTc0NDYzMTg0NH0.uXlX2KwlUCxdyyv_tutZyuqi7Gh_Ofi09bsxHlGYljY
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/65228762.jpg",ABC Global Radio
+https://stream-172.zeno.fm/tvb2jrc38hmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0dmIyanJjMzhobXV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlFoT0VPbmxrU1RpYTV2QlY2dVl6NmciLCJpYXQiOjE3MzY5MzQ4NDUsImV4cCI6MTczNjkzNDkwNX0.YNWEiMrxKY3GZVnwvP4ppUQ5RwQVPbTf8IlBVrqkH2g
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/28453272.jpg",Turn Radio
+https://stream.zeno.fm/cuejngegi8btv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/49452014.jpg",Radio YOO
+https://stream-151.zeno.fm/xesdk5gwaphvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4ZXNkazVnd2FwaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlEb3RvQzQ2VEZpRTZTQnlfeFFoNEEiLCJpYXQiOjE3MjQyMTg2OTEsImV4cCI6MTcyNDIxODc1MX0.FqxJcy3ZujsSydjnMaFCrQ8TkxPtU8yLwZBTTLd6sXc
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/29563789.jpg",Gospel Radio-East Africa
+https://fmradiohub.in/radio?url=http://c32.radioboss.fm:8451/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/44757128.jpg",Joy FM 104.5
+https://stream-47.zeno.fm/agzau19esc9uv?zs=MZ1ogBhDRsOMrCAgxs9VSQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/82005680.jpg",Balozi radio
+https://stream-173.zeno.fm/x0m9cgk1nfhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4MG05Y2drMW5maHZ2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNVMDVscjZIUjc2d3FZRThQeGNxSEEiLCJpYXQiOjE3NDU2NDk2NTEsImV4cCI6MTc0NTY0OTcxMX0.8LIkV3xmWAW9GUYaaTFkoXJnu3j99Sal4etCtf_qceI
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/33681721.jpg",Ewhradio
+https://stream-40.zeno.fm/6p2uru1rg98uv?zs=33roiE04RoG-lBGQHawHjA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/58168851.jpg",Calvary Global Network Radio Station 
+https://stream.zeno.fm/65b4smddkceuv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/71958546.jpg",103.1 papa fm uganda
+https://stream-47.zeno.fm/uv626z88af9uv?zs=B1AQjbscRYaMSF949GtLDg
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/109724481.jpg",Samiane Fm
+https://stream-152.zeno.fm/6vpy07x371zuv?zs=9x8bxFw-R1OrWcvbBTax7A
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/63812287.jpg",Praying In Victory
+https://live.ionradios.com:1435/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/82670429.jpg",Radio Marie 89.9 FM
+https://fmradiohub.in/radio?url=http://dreamsiteradiocp.com:8116/
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/3255.png",Fresh 105.9 FM
+https://fmradiohub.in/radio?url=http://198.178.123.11:8442/listen.pls?sid=1
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31103097.jpg",Radio Elias 101
+https://stream-40.zeno.fm/vjrhfxijkl2uv?zs=KJ6iVYfOSv-iHBk6j65MNg
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/54179196.jpg",Ramogi FM
+https://ramogifm-atunwadigital.streamguys1.com/ramogifm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/12835439.jpg",Muuga FM
+https://muugafm-atunwadigital.streamguys1.com/muugafm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/113541831.jpg",Wimwaro FM
+https://fmradiohub.in/radio?url=http://wimwarofm.atunwadigital.streamguys1.com/wimwarofm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/31433640.jpg",Sulwe FM
+https://sulwefm-atunwadigital.streamguys1.com/sulwefm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/9707107.jpg",Vuuka FM
+https://atunwadigital.streamguys1.com/vuukafm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/47419053.jpg",Mulembe FM
+https://mulembefm-atunwadigital.streamguys1.com/mulembefm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/26107588.jpg",Musyi fm 102.2 FM
+https://musyifm-atunwadigital.streamguys1.com/musyifm#
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/74543344.jpg",Radio Ngamia
+https://stream-056.zeno.fm/tyri2rpbpzwtv?zs=a0C_WMK-QV-UDsuCOte_rQ
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/13295729.jpg",Radio Rupiny 95.7 FM
+https://stream.hydeug.com:2020/stream/rupiny/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/82634624.jpg",Radio Wa
+https://fmradiohub.in/radio?url=http://nr8.newradio.it:9544/streamaudio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/64503464.jpg",MIGHTY FIRE FM
+https://stream-150.zeno.fm/gh8yygdb42kuv?zs=0mNLMIXqQdST5hjVZb0IPA
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/117979184.png",Etop Radio 99.4 FM
+https://fmradiohub.in/radio?url=http://stream.hydeinnovations.com:8032/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/16882300.png",Arua One
+https://stream.hydeinnovations.com:2020/stream/aruaone/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/109870023.png",Wasafi FM
+https://streamingv2.shoutcast.com/889-wasafi-fm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/45130131.png",KFM 93.3 FM
+https://fmradiohub.in/radio?url=http://radio.kfm.co.ug:8000/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/56117801.jpg",Radio Safina FM
+https://stream-175.zeno.fm/4c0bs2crua0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0YzBiczJjcnVhMHV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlFNUG0xMWxLUnNXOF9sODlQS1RGYUEiLCJpYXQiOjE3NDA0Nzg5MzcsImV4cCI6MTc0MDQ3ODk5N30.vimLa7FppMXs_S4_Irfr9Ag-R7Hyt5pH7q91ViuIrRo
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/55029211.png",ZBC Radio
+https://fmradiohub.in/radio?url=http://102.214.45.109:8000/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/45278577.jpg",UFM Radio 107.3
+https://stream-165.zeno.fm/6n5d3a3un0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2bjVkM2EzdW4waHZ2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsImp0aSI6InV4S0Q0bFJmVC02bnpmSGYxOEdtU2ciLCJpYXQiOjE3MTQzODU4MTMsImV4cCI6MTcxNDM4NTg3M30.fS8mkvZlJm4rLmkUG94YcEb8HMWsq6BfLZRbdkUiJLY&zttl=5
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/110110597.jpg",High-Rise 94.8 FM
+https://stream-153.zeno.fm/cl9udqdm7xwvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjbDl1ZHFkbTd4d3Z2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkU3bV85SGhrUzQ2S01wazlTd0NremciLCJpYXQiOjE3MjQ2NjE3NTUsImV4cCI6MTcyNDY2MTgxNX0.blW7hiekPP0N6XJB7oIKEEuVpsSEGW9eX7WDrRR47b0
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/28090741.jpg",Tamba Radio
+https://stream-179.zeno.fm/hkolyu7hxrtuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoa29seXU3aHhydHV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Inc2SlJ4LW9sU2JhakFvNVRsZDFlTkEiLCJpYXQiOjE3NDkxMTk3OTAsImV4cCI6MTc0OTExOTg1MH0.pPGDcRDD8Vxli4lZ6l20s-zPCCPC0mxjBFrGcJKDM8w
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/7668738.jpg",Kiruhura 98.6 FM
+https://c18.radioboss.fm:8597/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/109639651.png",KRC 102 FM
+https://stream.zeno.fm/y7bqwfryxdovv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/21194370.png",KBC Kitwek FM
+https://stream-158.zeno.fm/gh67mvp8f2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnaDY3bXZwOGYyenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZNU2FsUlBjUVhhaEpOR1BpRVpCTVEiLCJpYXQiOjE3NDY2MTU4NjAsImV4cCI6MTc0NjYxNTkyMH0.2789WaBXzfxX_KXG-9HewfNS5zlwBECLmD5Nmb5EWag
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/102851173.png",Shammah Fm
+https://free.rcast.net/71593
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/115920371.jpg",Kazi Njema Radio
+https://fmradiohub.in/radio?url=http://cast3.asurahosting.com/proxy/habincon/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/4748904.jpg",TBS 87.6 FM The Bull
+https://dc4.serverse.com/proxy/tbsfm/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/50476089.jpg",BLOCK 103.2 FM
+https://stream.zeno.fm/gxjhbloltwluv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/103528258.png",Salt FM Uganda
+https://fm.salttelevision.com/listen/saltfm/live?1750507396
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/35015589.jpg",E-FM RADIO 93.7
+https://cast1.my-control-panel.com/proxy/efm/efm
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/88997874.jpg",Serulyo 100.1 FM Radio
+https://stream.zeno.fm/oib8r31anzavv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15775329.png",OpenGate 103.2 FM Mbale
+https://fmradiohub.in/radio?url=http://139.162.195.139:8010/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/121053580.jpg",KAHUNGE RADIO
+https://c20.radioboss.fm/stream/684
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/52538428.png",Namirembe FM
+https://s11.myradiostream.com:24382/listen.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/39578183.jpg",Radio buddu 98.8 FM
+https://dc4.serverse.com/proxy/ccmxrgub/stream
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/74745164.jpg",Kazo 97.8 FM
+https://stream.zeno.fm/xaebasjtt0vuv
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/15221332.jpg",Xavier Radio Uganda
+https://streaming.fastsyt.com/listen/xavieradioug/radio.mp3
+#EXTINF:-1 tvg-logo="https://d371i8ihhgym7w.cloudfront.net/9057227.jpg",Bethel Radio Tanzania
+https://a5.asurahosting.com:7290/radio.mp3
+#EXTINF:-1,CBS Eyobujjajja 88.8 FM
+https://stream.zeno.fm/4fdwx9mydbruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-flamez-radio-logo.jpg",Flamez Radio
+https://hoth.alonhosting.com:2395/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-nuru-naiangaze-radio-logo.jpg",Nuru Naiangaze Radio
+https://a2.asurahosting.com:6110/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-waumini-163726-logo.jpg",Radio Waumini
+https://stream.zeno.fm/gvk894g072quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-jambo-615945-logo.jpg",Radio Jambo
+https://atunwapodcasts.com/player/radiojambo.html
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/pamoja-fm-186976-logo.jpg",Radio Pamoja FM
+http://41.212.105.132:90/broadwave.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ke-xfm-kenya-logo.jpg",Radio XFM Kenya
+https://studio.xfm.co.ke/listen/xfm.co.ke/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ke-atg-radio-logo.jpg",ATG Radio
+http://uk1-vn.mixstream.net:10024/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/dembe-fm-585099-logo.jpg",Radio Dembe FM
+http://41.190.132.68:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-pacis-578376-logo.jpg",Radio Pacis
+https://radiopacisuganda.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-933-kfm-logo.jpg",Radio 93.3 KFM
+http://140.238.81.75:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-one-fm-logo.jpg",Radio One FM
+http://162.244.80.52:8740/;stream.mp3;audio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-yofochm-radio-logo.jpg",Yofochm Radio
+https://c13.radioboss.fm:18053/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sapientia-582188-logo.jpg",Radio Sapientia
+http://streaming.radiosapientia.com:6300/sapientia
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/beat-fm-616871-logo.jpg",Radio Beat FM
+http://5230.cloudrad.io:8354/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-galaxy-fm-logo.jpg",Radio Galaxy FM
+https://stream.radio.co/s1ef6287cc/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-913-capital-fm-logo.jpg",Radio 91.3 Capital FM
+https://capitalfm.cloudrad.io/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-metro-fm-logo.jpg",Radio Metro FM
+http://66.55.145.43:7757/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radiocity-logo.jpg",Radiocity
+http://65.108.120.179:8332/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-simba-logo.jpg",Radio Simba
+https://www.radiosimba.ug/stream2
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-open-gate-fm-mbale-logo.jpg",Radio Open Gate FM Mbale
+http://139.162.195.139:8010/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-voice-of-teso-logo.jpg",Radio Voice of Teso
+https://dc4.serverse.com/proxy/vote/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-lead-africa-logo.jpg",Radio Lead Africa
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC177_SC?dist=onlineradiobox
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/upendo-fm-593857-logo.jpg",Radio Upendo FM
+http://s12.myradiostream.com:8186/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-kwizera-logo.jpg",Radio Kwizera
+http://uk4-vn.mixstream.net:8052/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bongo-radio-581697-logo.jpg",Bongo Radio
+http://173.244.208.77:9000/bongo.mp3/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bethel-radio-609989-logo.jpg",Bethel Radio
+https://a5.asurahosting.com:6680/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-timesfm-logo.jpg",Radio TimesFM
+http://154.66.224.20:8000/Timesfm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cg-fm-radio-598669-logo.jpg",CG FM Radio
+http://live2.rcast.net:8590/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/morning-star-radio-598393-logo.jpg",Morning Star Radio
+https://stream.zeno.fm/4aq1th23pvduv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uhuru-fm-598392-logo.jpg",Radio Uhuru FM
+https://s5.myradiostream.com/42756/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/abood-fm-599316-logo.jpg",Radio Abood Fm
+http://streamlive1.hearthis.at:8080/9444525.ogg
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/qiblaten-fm-155229-logo.jpg",Radio Qiblaten FM
+https://s36.myradiostream.com/20772?1594398401261
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-vot-fm-logo.jpg",Radio VOT FM
+http://50.7.99.163:16454/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sayuni-632649-logo.jpg",Radio Sayuni
+http://s36.myradiostream.com:12936/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-jogoo-fm-938-logo.jpg",Radio Jogoo FM 93.8
+https://listen.shoutcast.com/jogoofm938
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-storm-fm-logo.jpg",Radio Storm FM
+http://199.115.115.71:10018/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kahama-fm-logo.jpg",Radio Kahama FM
+http://78.129.193.82:22798/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kasibante-fm-radio-logo.jpg",Kasibante FM Radio
+http://s26.myradiostream.com:20788/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tk-fm-885-tanga-636914-logo.jpg",Radio Tk Fm 88.5 Tanga
+http://78.129.241.110:30273/;stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-jogoo-fm-logo.jpg",Radio Jogoo FM
+http://us5freenew.listen2myradio.com:7006/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-samiane-fm-logo.jpg",Radio Samiane Fm
+https://stream.zeno.fm/6vpy07x371zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-access-fm-1009mhz-logo.jpg",Radio Access Fm 100.9Mhz
+http://109.169.23.84:26540/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-skynet-radio-logo.jpg",Skynet Radio
+https://stream.zeno.fm/twr5ewtfk5zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-faith-victory-radio-logo.jpg",Faith Victory Radio
+https://stream.zeno.fm/3v0veczdzy8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-hii5-radio-logo.jpg",Hii5 Radio
+https://stream.zeno.fm/dcayysc6pxhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-mjf-radio-logo.jpg",MJF radio
+https://26453.live.streamtheworld.com/SAM07AAC134.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-ronage-radio-logo.jpg",Ronage Radio
+https://cast1.asurahosting.com/proxy/ronageme/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-wa-645684-logo.jpg",Radio Wa
+https://nr8.newradio.it/proxy/radiowa?mp=/streamu00261614672505698
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-najim-radio-uganda-logo.jpg",Najim radio Uganda
+http://radio.thehostcity.net/8044/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-keifo-fm-radio-941-logo.jpg",Keifo Fm Radio 94.1
+https://freeuk14.listen2myradio.com/live.mp3?typeportmount=s2_15866_stream_527232255;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-utume-fm-radio-973mhz-logo.jpg",Utume Fm Radio 97.3mhz
+http://uk18freenew.listen2myradio.com:12498/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-moomusic-radio-logo.jpg",MooMusic Radio
+https://c2.radioboss.fm:18354/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-rock-fm-ug-logo.jpg",Radio Rock Fm Ug
+http://titan.shoutca.st:8341/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-gbn-radio-logo.jpg",GBN Radio
+https://server.freedomflixtv.com:5405/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-976-bigfm-radio-mbale-logo.jpg",97.6 Bigfm radio Mbale
+https://stream.zeno.fm/30mcqwg0yuhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-kampala-business-radio-logo.jpg",Kampala Business Radio
+https://servidor38.brlogic.com:7218/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-uvinza-fm-radio-logo.jpg",Uvinza FM Radio
+http://usa1-vn.mixstream.net:8090/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-uplands-fm-radio-logo.jpg",Uplands Fm Radio
+http://uk20freenew.listen2myradio.com:39531/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-xtra-radio-uganda-logo.jpg",Xtra radio Uganda
+https://stream.zeno.fm/xnkrclewfviuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-wam-uwe-mzima-logo.jpg",Radio WAM-UWE MZIMA
+http://freeuk24.listen2myradio.com:22380/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-living-water-logo.jpg",Radio LIVING WATER
+https://stream.zeno.fm/wuuw60gwfxhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-uganda-djs-online-radio-logo.jpg",Uganda djs online radio
+https://stream.zeno.fm/vkunv86994zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-super-fm-logo.jpg",Radio Super FM
+https://stream.radio.co/sbb4e6ffc8/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-calvary-global-network-radio-station-logo.jpg",Calvary Global Network Radio Station
+http://108.59.9.147:8392/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-wasafi-fm-logo.jpg",Radio Wasafi FM
+http://radio.wasafimedia.co.tz:8000/wasafi-fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-cityfm-96-logo.jpg",Radio CityFM 96
+https://stream.zeno.fm/8wyr2dl064uuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/boresha-radio-611549-logo.jpg",Boresha Radio
+https://azura.shoutca.st/listen/radio_boresha/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-homina-gospel-radio-logo.jpg",Homina Gospel Radio
+http://uk5freenew.listen2myradio.com:15602/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-libo-radio-logo.jpg",Libo Radio
+https://stream.zeno.fm/kaxma3iiyanuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-perfect-radio-ug-logo.jpg",PERFECT RADIO UG
+https://stream.zeno.fm/n4vnc80b3c9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tbc-international-598391-logo.jpg",Radio TBC International
+http://s18.myradiostream.com:10246/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-nbs-894-fm-logo.jpg",Radio NBS 89.4 FM
+https://khodeyo.radioca.st/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-freedom-sermons-logo.jpg",Radio Freedom Sermons
+https://stream.zeno.fm/7v1scwv5fd0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-nxt-radio-logo.jpg",NXT Radio
+https://stream.zeno.fm/lbca7zintcnuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-savior-radio-logo.jpg",Savior Radio
+https://stream.zeno.fm/6rbvecezmrpuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-deliverance-radio-uganda-logo.jpg",Deliverance Radio Uganda
+https://freeuk7.listen2myradio.com/records/radiouser3208249/record.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-i-nation-fm-logo.jpg",Radio I Nation Fm
+https://stream.zeno.fm/7y5hws600f8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-faraja-tanzania-logo.jpg",Radio Faraja Tanzania
+http://freeuk1.listen2myradio.com:35284/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-unlock-radio-logo.jpg",Unlock Radio
+http://www.unlockmedia.co.tz:8000/airtime_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-cfm-radio-logo.jpg",CFM Radio
+https://c22.radioboss.fm:8726/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-la-vaccine-logo.jpg",Radio La Vaccine
+https://stream.zeno.fm/tg5q02h7rrhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-elgon-fm-1014-logo.jpg",Radio Elgon fm 101.4
+https://stream.zeno.fm/43sr7vmuhrhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-sdn-radio-logo.jpg",SDN Radio
+https://stream.zeno.fm/23d38ucr1v8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-gold-fm-logo.jpg",Radio GOLD FM
+http://uk20freenew.listen2myradio.com:10888/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-dreamerz-voice-logo.jpg",Radio Dreamerz Voice
+https://stream.zeno.fm/aeknt51tm18uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-gospo-radio-logo.jpg",Gospo Radio
+https://s5.radio.co/s7c6d7357d/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-jibu-radio-logo.jpg",Jibu Radio
+https://s5.radio.co/s200bf249f/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-his-touch-radio-logo.jpg",His Touch  Radio
+http://4963.cloudrad.io:8084/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uk-acts-radio-app-logo.jpg",ACTS Radio App
+https://server.freedomflixtv.com:1065/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-christ-love-radio-logo.jpg",Christ Love Radio
+https://stream.zeno.fm/orioba9siustv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-lastrol-fm-logo.jpg",Radio Lastrol FM
+https://stream.zeno.fm/4scq4ykxzv8uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-ewhradio-logo.jpg",Ewhradio
+https://stream.zeno.fm/6p2uru1rg98uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-j-a-radio-logo.jpg",J A Radio
+https://stream.zeno.fm/a0g20s5hyfeuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-christ-fm-916-logo.jpg",Radio Christ FM 91.6
+https://s39.myradiostream.com/:15664/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-afribeats-mixnet-radio-logo.jpg",Afribeats Mixnet Radio
+https://stream.zeno.fm/duf0fay5kpduv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-faithcity-radio-logo.jpg",FaithCity Radio
+https://ec2.yesstreaming.net:3235/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-apple-skills-radio-logo.jpg",APPLE SKILLS RADIO
+https://stream.zeno.fm/pnlcbfmlh63tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-sachita-fm-881-mhz-logo.jpg",Radio Sachita FM 88.1 MHz
+https://sachitaradio.or.tz/80.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-nyu-fm-radio-logo.jpg",Nyu Fm Radio
+https://freeuk18.listen2myradio.com/live.mp3?typeportmount=s1_13713_stream_715453756
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-wish-logo.jpg",Radio Wish
+https://ifastekpanel.com:1455/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-victory-radio-logo.jpg",Victory Radio
+http://hydra.shoutca.st:8209/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-pastor-anthony-mutiinisa-logo.jpg",Radio Pastor Anthony Mutiinisa
+https://radio.tmediacentre.com/8014/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-balozi-radio-logo.jpg",Balozi radio
+https://stream.zeno.fm/x0m9cgk1nfhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-midundo-online-radio-logo.jpg",Midundo Online Radio
+http://midundo.fauluhost.co.tz:8000/_a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-penel-logo.jpg",Radio Penel
+https://p.draingangon.top/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-station-beta-logo.jpg",Radio Station Beta
+https://stream.zeno.fm/zr2aezq05hhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-unity-fm-lira-uganda-logo.jpg",Radio Unity FM Lira Uganda
+https://stream.zeno.fm/1g8bb8ueuuhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-ukombozi-wa-familia-online-radio-logo.jpg",Ukombozi Wa Familia Online Radio
+https://stream.zeno.fm/y4r90736ckhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-iuiu-fm-uganda-logo.jpg",Radio IUIU FM Uganda
+http://fm.iuiu.ac.ug:4848/stream?id=19
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-1021-fufa-fm-logo.jpg",Radio 102.1 FUFA FM
+https://stream.radio.co/scd479562f/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-campus-radio-ug-logo.jpg",Campus Radio UG
+https://stream.zeno.fm/qiaxrpbyzq2uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-njiwa-online-radio-logo.jpg",Njiwa Online Radio
+https://stream.zeno.fm/kk4huth58nhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-aurora-592642-logo.jpg",RADIO AURORA
+http://sr2.inmystream.info:8078/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-alpha255fm-logo.jpg",Radio Alpha255.FM
+https://alpha255.out.airtime.pro/alpha255_a
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-moshi-fm-radio-907mhz-logo.jpg",Moshi FM Radio 90.7Mhz
+http://uk21freenew.listen2myradio.com:28486/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-op-fm-921-logo.jpg",Radio OP FM 92.1
+https://stream.zeno.fm/gqtybz6hgf9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-voice-of-heaven-logo.jpg",Radio Voice Of Heaven
+https://s20.reliastream.com:8090/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-mpondwe-fm-logo.jpg",Radio Mpondwe FM
+https://julycast.be/8248/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-big-star-fm-logo.jpg",Radio BIG STAR FM
+http://88.150.230.110:16375/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-rafiki-fm-logo.jpg",Radio Rafiki FM
+http://82.145.63.6:4819/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kili-fm-radio-875-logo.jpg",KILI FM RADIO 87.5
+http://41.59.113.136:8000/kili-fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-maisha-halisi-online-radio-logo.jpg",Maisha Halisi  Online Radio
+https://stream.zeno.fm/io6y29jznwzuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-hills-fm-1004-logo.jpg",Radio Hills FM 100.4
+http://s40.myradiostream.com:21392/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kesheni-mkiomba-radio-logo.jpg",Kesheni Mkiomba Radio
+https://stream.zeno.fm/vfid3vayksbtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-bona-radio-uganda-logo.jpg",Bona Radio Uganda
+https://cast4.asurahosting.com/proxy/bonabona/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-trust-fm-logo.jpg",Radio Trust FM
+http://cast4.my-control-panel.com:8270/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-sevenz-radio-logo.jpg",Sevenz Radio
+https://servidor15.brlogic.com:7116/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-makito-radio-logo.jpg",Makito Radio
+https://stream.zeno.fm/8l6obg6juawuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-globify-radio-logo.jpg",Globify Radio
+https://stream.zeno.fm/b6h8lppd3auuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-dr-ptn-radio-logo.jpg",Dr PTN Radio
+https://drptn.com/80.php
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-sunrise-radio-arusha-logo.jpg",Sunrise Radio Arusha
+http://102.219.204.201:8000/sunrise
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-ktown-fm-logo.jpg",Radio Ktown Fm
+https://stream.zeno.fm/cz0qkurw3movv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-enjiri-radio-logo.jpg",Enjiri Radio
+https://stream.zeno.fm/xdb8nazajqcvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-umca-radio-logo.jpg",UMCA RADIO
+https://a5.asurahosting.com:7270/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-tasisi-fm-radio-logo.jpg",Tasisi FM Radio
+https://stream.zeno.fm/bmzisyaqdsruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-tower-radio-logo.jpg",Tower Radio
+https://stream.zeno.fm/3bllsdnvrnvvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-peak-fm-kabale-logo.jpg",Radio Peak fm kabale
+https://stream.zeno.fm/nhnueqpwlpovv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-bomba-fm-radio-logo.jpg",Bomba Fm Radio
+http://s9.myradiostream.com:46740/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-life-haven-radio-mukono-logo.jpg",Life Haven Radio-Mukono
+https://stream.zeno.fm/smoi2chc0tkvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-tarnakh-fm-radio-logo.jpg",Tarnakh Fm Radio
+http://uk7freenew.listen2myradio.com:37138/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-mukono-fm-logo.jpg",Radio Mukono fm
+https://s19.myradiostream.com/18784/;?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-community-green-radio-1039-fm-logo.jpg",Community Green Radio 103.9 FM
+https://stream.zeno.fm/u87k8hdws8puv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kazi-fm-logo.jpg",Radio Kazi FM
+https://stream.zeno.fm/kq04e0gk8rhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-mirembe-radio-992-logo.jpg",Mirembe Radio 99.2
+https://stream.zeno.fm/6sqw2hhwnoquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-marvin-fm-logo.jpg",Radio Marvin FM
+https://stream.zeno.fm/gu1msfvy0kutv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-station-beta-africa-logo.jpg",Radio Station Beta Africa
+https://stream.zeno.fm/bw5aivxbxlbtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-station-beta-africa-logo.jpg",Radio Station Beta Africa
+https://stream.zeno.fm/nrskiapm9qpvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-zoe-fm-radio-logo.jpg",Zoe FM Radio
+https://stream.zeno.fm/uozuugk1essuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-care-radio-logo.jpg",Care Radio
+https://stream.zeno.fm/ew90v6lzp6uvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-prince-online-radio-logo.jpg",Prince Online Radio
+https://cast3.asurahosting.com/proxy/habinco1/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-good-news-radio-logo.jpg",Good News Radio
+https://cast4.asurahosting.com/proxy/habinco2/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-world-shakers-radio-logo.jpg",World Shakers Radio
+https://stream.zeno.fm/lfcjlmzg4jfvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-lumen-fm-radio-logo.jpg",Lumen FM Radio
+http://uk25freenew.listen2myradio.com:23358/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-goshen-radio-logo.jpg",Goshen Radio
+https://vesper.streamerr.co/listen/mbeya1/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-mji-mkuu-fm-radio-logo.jpg",Mji Mkuu FM Radio
+https://stream.zeno.fm/w0wxhdvhoi8tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-upward-radio-logo.jpg",Upward Radio
+https://stream.zeno.fm/fmn9bagw7wxuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-blessings-fm-radio-logo.jpg",Blessings FM Radio
+https://stream.zeno.fm/optlulikwnrvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-voice-of-tarime-logo.jpg",Radio Voice of Tarime
+https://stream.zeno.fm/h0gmu02zpu8tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-ice-fm-radio-logo.jpg",Ice Fm Radio
+http://78.129.185.84:15225/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-vu-radio-kampala-feel-the-hit-logo.jpg",VU RADIO Kampala, Feel the Hit!
+https://c26.radioboss.fm:8642/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-zion-impact-radio-logo.jpg",Zion Impact Radio
+https://stream.zeno.fm/t94pk4xmtkfvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-spear-visual-radio-logo.jpg",Spear Visual Radio
+https://s43.webcastserver.com:23214/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-srh-radio-logo.jpg",SRH Radio
+https://stream.zeno.fm/tnrif5xyrwcuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-refocus-fm-radio-logo.jpg",Refocus FM Radio
+https://stream.zeno.fm/f2ovjecvieetv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-hidaya-logo.jpg",Radio Hidaya
+https://stream.ibadalive.com/8026/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-dvd-ntitu-logo.jpg",Radio Dvd ntitu
+http://109.169.76.155:4603/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-umoja-radio-logo.jpg",Umoja Radio
+https://stream.zeno.fm/gifgb1bkcysvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-zbc-radio-logo.jpg",ZBC Radio
+http://102.214.45.109:8000/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-planetfm-logo.jpg",Radio Planetfm
+https://c17.radioboss.fm:8542/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-sauti-ya-watanzania-logo.jpg",Radio Sauti Ya Watanzania
+https://stream.ibadalive.com/8028/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-injili-okoa-taifa-radio-logo.jpg",Injili Okoa Taifa Radio
+http://europa.shoutca.st:8029/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-okoa-fm-radio-logo.jpg",Okoa Fm Radio
+https://cast5.asurahosting.com/proxy/okoafmok/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-bongo-exclusive-logo.jpg",Radio Bongo Exclusive
+https://stream.zeno.fm/mkx5bg9pounvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-divine-radio-kisoro-logo.jpg",Divine Radio Kisoro
+https://streamer.radio.co/s35ac4f38a/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-mrai-radio-logo.jpg",MRAI RADIO
+https://stream.zeno.fm/ijeisa4ewvevv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-spice-fm-logo.jpg",Radio Spice FM
+https://zbc.go.tz:8443/spice
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-salem-online-radio-logo.jpg",Salem Online Radio
+https://stream.zeno.fm/ar45qguznfhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-kadama-fm-logo.jpg",Radio Kadama Fm
+https://stream.zeno.fm/a4kkqp9k5nstv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-964-tfm-logo.jpg",Radio 96.4 TFM
+https://stream.zeno.fm/y9q1it69x4otv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-infinity-radio-uganda-logo.jpg",Infinity Radio Uganda
+https://stream.zeno.fm/z3d2saoyjsctv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-bion-fm-logo.jpg",Radio Bion Fm
+https://stream.zeno.fm/akjeztb6vpftv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-main-fm-logo.jpg",Radio Main FM
+https://stream.zeno.fm/qqrh9ehcxr4vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-suluhu-online-logo.jpg",Radio Suluhu Online
+https://stream.zeno.fm/m2gp06hiydotv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-redio-sauti-ya-injili-logo.jpg",Radio Redio Sauti ya Injili
+http://212.227.150.101:6801/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-jahzon-radio-uganda-logo.jpg",Jahzon Radio Uganda
+https://stream.zeno.fm/wbulxzf3yxotv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-onefm-radio-logo.jpg",Onefm radio
+https://stream.zeno.fm/opykz6zuaayvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-tamu-fm-logo.jpg",Radio Tamu Fm
+https://stream.zeno.fm/dcomssbgoumtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-vos-fm-radio-logo.jpg",Vos Fm Radio
+https://stream.zeno.fm/6z6xrntmclctv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-umcat-radio-logo.jpg",Umcat Radio
+https://stream.zeno.fm/tnd9uzdeafutv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-sky-radio-ug-logo.jpg",Sky Radio Ug
+https://stream.zeno.fm/skyifevcwmpvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-teo-fm-logo.jpg",Radio Teo Fm
+https://stream.zeno.fm/wshc8fzfmbrtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-selous-fm-logo.jpg",Radio Selous Fm
+https://stream.zeno.fm/ijpzy9avv8wuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-bhm-radio-ug-logo.jpg",BHM Radio Ug
+https://stream.zeno.fm/qd9crih0aobtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-el-olama-fm-logo.jpg",Radio El Olama  FM
+https://stream.zeno.fm/4xt5iodsby3tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-emc-radio-logo.jpg",EMC Radio
+https://c22.radioboss.fm:18040/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-buddu-988fm-and-955fm-logo.jpg",Radio Buddu 98.8FM and 95.5FM
+https://dc4.serverse.com/proxy/ccmxrgub/stream?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-habari-fm-logo.jpg",Radio Habari FM
+https://edge.mixlr.com/channel/vaavc
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-pine-radio-uganda-logo.jpg",Pine Radio - Uganda
+https://stream.zeno.fm/bbecse7al2ruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-dige-fm-logo.jpg",Radio DIGE FM
+https://a9.asurahosting.com:7860/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-sama-online-radio-logo.jpg",sama online radio
+https://stream.zeno.fm/af1kemnxonauv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-vega-radio-smile-now-logo.jpg",Vega Radio ~Smile now
+https://stream.zeno.fm/kkgnwbqh838uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-hifi-radio-logo.jpg",HiFi Radio
+https://stream.zeno.fm/j3vnssegkw0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-hero-radio-uganda-logo.jpg",Hero Radio (uganda)
+https://a2.asurahosting.com:6790/uganda.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-flamingo-fm-radio-logo.jpg",FLAMINGO FM RADIO
+http://uk3-vn.mixstream.net:8166/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-uganda-martyrs-university-radio-logo.jpg",Uganda Martyrs University Radio
+http://s46.webcastserver.com:11190/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-tamba-radio-logo.jpg",Tamba Radio
+https://stream.zeno.fm/hkolyu7hxrtuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-the-host-radio-logo.jpg",The Host Radio
+https://stream.zeno.fm/sz84g8ppnbotv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-shammah-fm-logo.jpg",Radio Shammah Fm
+https://stream6.rcast.net/71593
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-jubilee-radio-logo.jpg",Jubilee Radio
+https://stream.zeno.fm/f3y3up2k07zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-favor-radio-uganda-logo.jpg",Favor Radio (Uganda)
+https://a10.asurahosting.com:7660/uganda.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-favour-radio-omega-logo.jpg",Favour Radio Omega
+https://favour-radio.radiocult.fm/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-876-country-radio-logo.jpg",87.6 Country Radio
+https://stream.zeno.fm/tpj3fn3matktv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-bugwere-fm-logo.jpg",Radio Bugwere Fm
+https://stream.zeno.fm/o5uo32igksjvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-kazo-fm-logo.jpg",Radio Kazo FM
+https://kazofm.radioca.st/;?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-dafani-fm-logo.jpg",Radio Dafani Fm
+https://stream.zeno.fm/uuyq0wpvf48uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-creative-radio-logo.jpg",Creative Radio
+http://uk14freenew.listen2myradio.com:34353/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-build-the-city-radio-logo.jpg",Build The City Radio
+https://stream.zeno.fm/6d3982rhcc9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-neno-la-maarifa-radio-logo.jpg",Neno la Maarifa Radio
+https://cast5.asurahosting.com/proxy/obed/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-tasha-community-radio-logo.jpg",Tasha Community Radio
+https://cast5.asurahosting.com/proxy/habinco5/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-faith-fm-914-logo.jpg",Radio Faith Fm 91.4
+https://stream.zeno.fm/rohl51zwvpruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ebony-fm-155528-logo.jpg",Radio ebony Fm
+https://stream.zeno.fm/zedt9fv1w0hvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-inland-radio-logo.jpg",Inland Radio
+https://stream.zeno.fm/g3ecvxsvr6nuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-bomba-fm-logo.jpg",Radio Bomba Fm
+https://stream.zeno.fm/9pugtwcjq4stv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-channel-303-fm-logo.jpg",Radio Channel 303 FM
+https://stream.zeno.fm/t9hnxglap1ouv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-mpanda-radio-fm-logo.jpg",Mpanda Radio fm
+https://radiotadio.co.tz/mpanda-fm-stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-leo-africa-radio-logo.jpg",Leo Africa Radio
+https://stream.zeno.fm/rzhzzd7bcc6uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-fungua-radio-logo.jpg",Fungua Radio
+http://65.108.124.70:7435/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-own-fm-logo.jpg",Radio OWN FM
+https://stream.zeno.fm/srw8nxlyrlztv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-point-fm-logo.jpg",Radio Point FM
+https://stream.zeno.fm/d9xoaao9pcvuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-vwawa-fm-logo.jpg",Radio Vwawa Fm
+http://uk26freenew.listen2myradio.com:16309/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-wide-fm-logo.jpg",Radio Wide Fm
+https://stream.zeno.fm/2gg3hs3k9hhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-mbeya-fm-logo.jpg",Radio Mbeya Fm
+http://95.154.197.82:19206/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-rufaida-radio-logo.jpg",Rufaida  Radio
+https://stream.zeno.fm/m7vd2bccn9quv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kicora-radio-logo.jpg",Kicora Radio
+http://uk3-vn.mixstream.net:8140/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-faraja-logo.jpg",Radio Faraja
+http://uk20freenew.listen2myradio.com:19635/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-oldtymerz-radio-logo.jpg",Oldtymerz Radio
+https://stream.radio.co/scf650032a/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-signature-fm-radio-logo.jpg",Signature fm Radio
+https://stream.zeno.fm/3wmr8qqkv20vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-o-radio-logo.jpg",O Radio
+https://stream.zeno.fm/15u3hdz0qf9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-favour-radio-kampala-logo.jpg",Favour Radio - Kampala
+https://stream.zeno.fm/ndmy1zj9psyvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-voice-of-tabora-fm-890mhz-logo.jpg",Radio Voice Of Tabora Fm 89.0Mhz
+https://stream.zeno.fm/ssq3ned7qzntv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-visionary-radio-logo.jpg",Visionary Radio
+https://stream.zeno.fm/j7a3dfjt8oquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kimtipesa-radio-logo.jpg",Kimtipesa Radio
+https://stream.zeno.fm/f4by68zlviguv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-promise-radio-ug-logo.jpg",Promise Radio UG
+https://stream.zeno.fm/hkzgeqlcjoxuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-juhudi-radio-logo.jpg",Juhudi Radio
+http://uk4freenew.listen2myradio.com:9224/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-savetalent-fm-logo.jpg",Radio Savetalent FM
+https://listen.radioking.com/radio/696887/stream/761798
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-complete-meal-logo.jpg",Radio Complete Meal
+https://stream.zeno.fm/eijfbhyxwwsvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-gmcl-fm-radio-logo.jpg",GMCL FM Radio
+http://uk17freenew.listen2myradio.com:35504/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-shamba-fm-radio-logo.jpg",Shamba Fm Radio
+https://s6.myradiostream.com/sc1/:49164/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-salvation-radio-logo.jpg",Salvation Radio
+http://37.157.242.101:17581/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-n-fm-radio-logo.jpg",N-FM Radio
+http://uk3-vn.mixstream.net:8104/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-nchi-ya-ahadi-radio-logo.jpg",NCHI YA AHADI RADIO
+https://stream.zeno.fm/m15eapfacxhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-vision-radio-logo.jpg",VISION RADIO
+https://stream.zeno.fm/rmtdek37zxhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-1027-bukomansimbi-fm-entongooli-logo.jpg",Radio 102.7 Bukomansimbi FM Entongooli
+https://stream.zeno.fm/1wueb17n9bhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-rhumba-music-radio-logo.jpg",Rhumba Music Radio
+https://stream.zeno.fm/ahs3fs3yipwuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-mwalukasa-fm-radio-logo.jpg",Mwalukasa Fm Radio
+https://stream.zeno.fm/3gtan29ag0hvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kingdom-voice-online-radio-logo.jpg",Kingdom Voice Online Radio
+http://kingdomvoiceradio.online:8000/airtime_128
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-rhizoo-radio-logo.jpg",Rhizoo Radio
+https://server.freedomflixtv.com:5800/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-peace-in-christ-radio-entebbe-logo.jpg",Peace In Christ Radio Entebbe
+https://stream.zeno.fm/w923knxnbc9uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-bazz-radio-ug-logo.jpg",Bazz Radio Ug
+http://titan.shoutca.st:8070/stream?type=httpu0026nocache=57
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-rehoboth-radio-logo.jpg",Rehoboth Radio
+https://rehobothi.radioca.st/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-gombo-fm-radio-logo.jpg",Gombo FM Radio
+https://stream.zeno.fm/xgkyolbvybktv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-abc-global-impact-radio-logo.jpg",ABC Global Impact Radio
+http://hydra.shoutca.st:8127/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tn-tzgospel-swahili-tunisia-logo.jpg",Radio Tzgospel Swahili (Tunisia)
+https://stream.zeno.fm/v9fvr3f1zehvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-chakula-radio-logo.jpg",Chakula Radio
+http://cressida.shoutca.st:8095/stream?type=httpu0026nocache=7
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-sinza-logo.jpg",Radio Sinza
+https://stream.zeno.fm/zajwav6sescuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-krak-on-radio-logo.jpg",Krak On Radio
+https://stream.zeno.fm/ejtgiokrnnkvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-kiis-fm-1009-logo.jpg",Radio Kiis Fm 100.9
+http://14867.cloudrad.io:9224/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-hgt-radio-kampala-logo.jpg",HGT RADIO KAMPALA
+https://stream.zeno.fm/s0l2pe1mqcuuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-gospel-power-radio-logo.jpg",Gospel Power Radio
+https://stream.zeno.fm/o17ib5o4t51vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-mwanakondoo-radio-logo.jpg",Mwanakondoo Radio
+https://a8.my-control-panel.com:8020/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-chalinze-fm-logo.jpg",Radio Chalinze FM
+https://radio.chalinzefm.co.tz/chalinze-fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-fort-radio-uganda-logo.jpg",Fort Radio Uganda
+https://stream.zeno.fm/3rysvfu3ynttv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-blessed-hope-fm-logo.jpg",Radio BLESSED HOPE FM
+https://stream.zeno.fm/stdnnrjd6vwuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-ref-fm-ukerewe-logo.jpg",Radio REF-FM Ukerewe
+https://ref_fm_ukerewe.streampartner.nl/live?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kilimanjaro-revival-fm-logo.jpg",Radio Kilimanjaro Revival FM
+http://uk2freenew.listen2myradio.com:10665/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-harvest-time-fm-logo.jpg",Radio Harvest time FM
+https://stream.zeno.fm/qeihoogcpukvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-pfem-radio-uganda-logo.jpg",Pfem radio uganda
+https://a5.asurahosting.com:7230/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-rehoboth-media-logo.jpg",Radio Rehoboth Media
+http://uk11freenew.listen2myradio.com:9021/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-nelson-mandela-fm-logo.jpg",Radio Nelson Mandela FM
+http://41.93.52.101:5000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-og-kitambo-logo.jpg",Radio OG KITAMBO
+http://uk9freenew.listen2myradio.com:34446/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-62-online-radio-do-it-now-logo.jpg",62 online Radio - Do It Now
+https://stream.zeno.fm/r1t7vedzpzatv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-919-prime-radio-kampala-logo.jpg",91.9 Prime Radio Kampala
+https://stream.zeno.fm/rge3mzbz77zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-uinjilishaji-fm-logo.jpg",Radio Uinjilishaji Fm
+http://uk18freenew.listen2myradio.com:29523/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-gospel-melodies-radio-logo.jpg",Gospel Melodies Radio
+https://gospelradio.256cloud.com/listen/gospel_melodies/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-east-fm-tororo-logo.jpg",Radio East FM Tororo
+http://uk24freenew.listen2myradio.com:36664/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-dfm-radio-logo.jpg",DFM Radio
+https://stream.zeno.fm/fygodpmrgcquv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-yo-bible-radio-logo.jpg",Yo bible radio
+https://stream.zeno.fm/tgzp9ppcuvnuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-charisma-fm-logo.jpg",Radio Charisma Fm
+https://stream.zeno.fm/izjrq7cssrtuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-wisdom-radio-logo.jpg",Wisdom Radio
+https://a2.asurahosting.com:6300/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-ssenjo-radio-kampala-logo.jpg",SSENJO Radio Kampala
+https://stream.zeno.fm/zv7gtfnyf79tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-eka-radio-logo.jpg",EKA Radio
+https://stream.zeno.fm/ojvt7w7o6eeuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-house-radio-kse-logo.jpg",House Radio K'se
+https://stream.zeno.fm/ibadjv6m5kyuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-5-logo.jpg",Radio 5
+https://stream.zeno.fm/sh45yebkxksvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-machesha-fm-977-mhz-logo.jpg",Radio Machesha Fm  97.7 MHz
+https://stream.zeno.fm/hdcaqdpkuovtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-utukufu-fm-logo.jpg",Radio Utukufu fm
+https://servidor32.brlogic.com:7080/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-d-fm-radio-logo.jpg",D-FM Radio
+https://listen.radioking.com/radio/474527/stream/530720
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-furaha-fm-logo.jpg",Radio Furaha FM
+http://s40.myradiostream.com:23222/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-klpt-boko-online-radio-logo.jpg",Klpt Boko Online Radio
+https://stream.zeno.fm/hggiwcsamelvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-parachichi-fm-logo.jpg",Radio Parachichi Fm
+https://stream.zeno.fm/4r9qcoe2dd0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-hero-radio-logo.jpg",HERO RADIO
+https://a2.asurahosting.com:6790/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-n-fm-radio-0-logo.jpg",N-FM Radio
+http://uk4-vn.mixstream.net:8338/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-nuru-ya-watu-fm-logo.jpg",Radio Nuru ya Watu FM
+https://stream.zeno.fm/nn7crjdltvqtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-baba-yao-fm-logo.jpg",Radio BABA YAO FM
+https://stream.zeno.fm/ztjilv871a2uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-eka-radio-0-logo.jpg",E'ka radio
+https://stream.zeno.fm/rt28io2v44ptv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-voice-of-kyankwanzi-radio-logo.jpg",Voice Of Kyankwanzi Radio
+https://stream.zeno.fm/jjzwii38fqrvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-1002-east-fm-tororo-logo.jpg",Radio 100.2 East FM, Tororo
+https://stream.zeno.fm/yc3g0srwieotv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-hfm-logo.jpg",Radio HFM
+https://s38.myradiostream.com/15892/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-livingstone-radio-logo.jpg",LivingStone Radio
+https://stream.zeno.fm/t43wjcfevfruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-pathfinder-radio-logo.jpg",Pathfinder Radio
+https://s63.radiolize.com:8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-ruutsa-radio-or-inyaisa-mwenya-logo.jpg",Ruutsa Radio | Inyaisa Mwenya
+https://s64.radiolize.com/radio/8000/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-winners-channel-logo.jpg",Radio Winners Channel
+https://stream.zeno.fm/zzmzr8j2kwfuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-nguvu-ya-maombi-logo.jpg",Radio Nguvu Ya Maombi
+https://stream.zeno.fm/audqogef9hetv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mk-radio-radovis-logo.jpg",radio radovis
+https://radio.shoutcast.mk:2020/stream/radioradovis?
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-redemption-radio-logo.jpg",Redemption Radio
+https://stream.zeno.fm/kzkqawu2tc4uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-city-fm-logo.jpg",Radio City FM
+https://ins3.radiolize.com/radio/8160/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-95-time-fm-logo.jpg",Radio 95 Time Fm
+https://stream.zeno.fm/5xw3te7w81zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-mkisi-radio-logo.jpg",Mkisi Radio
+https://stream.zeno.fm/cwhkr4fugdbvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-galaxy-fm-logo.jpg",Radio Galaxy FM
+https://cast.az-streamingserver.com/proxy/widjmqxq/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-shafiq-properties-radio-logo.jpg",Shafiq Properties Radio
+https://stream.zeno.fm/38sqkxjb1nuuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-hidaya-0-logo.jpg",Radio Hidaya
+https://stream.zeno.fm/zkp3volsgi5vv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-spicefm-hoima-logo.jpg",Radio Spicefm Hoima
+https://dc4.serverse.com/proxy/spicefm/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-kabalega-fm-logo.jpg",Radio Kabalega FM
+https://stream.hydeinnovations.com:8028/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-sheema-broadcasting-services-901fm-logo.jpg",Radio Sheema broadcasting services 90.1fm
+https://stream.zeno.fm/rgx4fehmjjytv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-pop—up-radio-logo.jpg",POP—UP Radio
+https://popupradio.radioca.st/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-xkonjo-radio-logo.jpg",xkonjo radio
+https://stream.zeno.fm/mkjmr7lzfe6tv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-ipm-redio-online-logo.jpg",Radio IPM REDIO ONLINE
+https://stream.zeno.fm/uzmr1yuvhnktv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-free-nature-radio-logo.jpg",Free Nature Radio
+https://stream.zeno.fm/9ougf5vnqyhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-ubc-ngeya-fm-logo.jpg",Radio UBC Ngeya FM
+https://julycast.be/8168/stream.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-penuelfm-logo.jpg",Radio penuelfm
+http://freeuk29.listen2myradio.com:33657/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-hhs-fm-radio-logo.jpg",HHS FM Radio
+https://stream.zeno.fm/h6o86th9meduv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-bs-radio-tanzania-logo.jpg",Bs Radio Tanzania
+http://hydra.shoutca.st:8104/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-apex-fm-ekikompola-logo.jpg",Radio Apex FM Ekikompola
+https://a3.asurahosting.com:7060/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-messiah-radio-logo.jpg",Messiah Radio
+https://servidor24.brlogic.com:7084/live
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-984-rockcity-radio-logo.jpg",98.4 ROCKCITY RADIO
+http://uk4freenew.listen2myradio.com:34760/;stream.nsv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-core-worship-radio-logo.jpg",Core Worship radio
+https://stream.zeno.fm/t309u3yvhm0uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-cbc-radio-mirimu-logo.jpg",CBC Radio Mirimu
+https://server.freedomflixtv.com:6316/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-alive-again-emradio-logo.jpg",Alive Again EMRadio
+https://server.freedomflixtv.com:5708/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-xradio-logo.jpg",XRadio
+https://streamer.radio.co/s86f9cd445/listen
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-ugonlinemedia-logo.jpg",Radio Ugonlinemedia
+https://stream.zeno.fm/8t4dtkxfgkuuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tw-tzgospel-taiwan-logo.jpg",Radio Tzgospel Taiwan
+https://stream.zeno.fm/hbuvmyyvcfhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-care-fm-radio-logo.jpg",care fm radio
+https://stream.zeno.fm/q4r7xpwu8cstv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-kheri-logo.jpg",Radio Kheri
+http://s19.myradiostream.com:19894/listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-tintiks-media-logo.jpg",Radio Tintik's media
+https://dc4.serverse.com/proxy/tintik/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-sifa-fm-logo.jpg",Radio Sifa FM
+https://server.freedomflixtv.com:6434/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-golden-radio-logo.jpg",Golden Radio
+https://server.freedomflixtv.com:5693/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-captain-virus-fm-logo.jpg",Radio Captain Virus FM
+https://stream.zeno.fm/wpbdink8tkdtv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-shalom-radio-arusha-logo.jpg",Shalom Radio Arusha
+http://uk3-vn.mixstream.net:8144/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-good-news-fm-biharwe-logo.jpg",Radio Good News FM - Biharwe
+https://stream.zeno.fm/rhf71ls2hbpuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sr-antenna-web-paramaribo-logo.jpg",Radio Antenna Web Paramaribo
+http://tinyurl.com/AntennaWebParamaribo
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-radio-joy-fm-logo.jpg",Radio Joy Fm
+https://stream.zeno.fm/4o7dq42vlsruv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-king-solomon-fm-logo.jpg",Radio King Solomon Fm
+https://stream.zeno.fm/jkgrrfm3rlkvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-legit-radio-logo.jpg",Legit Radio
+https://stream.zeno.fm/yyyg9d6oiwotv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-inspire-fm-logo.jpg",Radio Inspire Fm
+https://stream.zeno.fm/mvguohfmp4gvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-qfm-logo.jpg",Radio QFM
+https://stream.zeno.fm/h33vf45bxptvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-tlit-radio-logo.jpg",TLIT Radio
+https://stream.zeno.fm/k5o8wtfla9fvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-bfm-radio-925-logo.jpg",BFM RADIO 92.5
+https://cast5.my-control-panel.com/proxy/bfmradio/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-radio-tabia-logo.jpg",Radio Tabia
+https://stream.zeno.fm/8qfasezknactv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-rukiga-pearl-radio-929-logo.jpg",Rukiga Pearl Radio 92.9
+https://stream.zeno.fm/8abznqlzdfltv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-lit-fm-gamba-nokora-logo.jpg",Radio Lit Fm Gamba Nokora
+https://stream.zeno.fm/opvtejezt0zuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/uy-fm-ciudad-uruguay-logo.jpg",Radio Fm Ciudad Uruguay
+https://s1.radiosenialesfm.com:8040/radio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-bongo-fm-logo.jpg",Radio Bongo Fm
+http://41.59.223.145:8080/radios/tbc_fm
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-964-kyaka-fm-logo.jpg",Radio 96.4 Kyaka FM
+https://c2.radioboss.fm:8864/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-mix-fm-965-logo.jpg",Radio Mix FM 96.5
+https://stream.zeno.fm/g81ow57ycxuvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-amka-radio-logo.jpg",Amka Radio
+https://stream.zeno.fm/gjz9d9ha3cluv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-ref-fm-kyangwali-logo.jpg",Radio REF-FM Kyangwali
+https://ref_fm_kyangwali.streampartner.nl/live?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-revival-fm-tz-logo.jpg",Radio Revival Fm Tz
+https://stream.zeno.fm/5hvztf4o9b4uv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-on-air-church-media-logo.jpg",Radio On Air Church Media
+https://stream.zeno.fm/4a73xnfmgxuuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-haleluya-fm-logo.jpg",Radio Haleluya Fm
+http://109.169.15.21:38143/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-abm-radio-912-fm-dodoma-logo.jpg",abm radio 91.2 fm Dodoma
+https://stream.zeno.fm/frt0ofb2rrmuv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-897-fm-voice-of-kyankwanzi-logo.jpg",Radio 89.7 Fm Voice of Kyankwanzi
+https://stream.zeno.fm/eyzf4ddwqcmvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-bidibidi-fm-953-logo.jpg",Radio Bidibidi FM 95.3
+https://bidibidi_fm.streampartner.nl/live?type=.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ug-antenna-web-kampala-logo.jpg",Radio Antenna Web Kampala
+https://tinyurl.com/AntennaWebKampala
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-antenna-web-dodoma-logo.jpg",Radio Antenna Web Dodoma
+https://tinyurl.com/AntennaWebDodoma
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-kibaoni-fm-logo.jpg",Radio Kibaoni FM
+https://stream.zeno.fm/20819m6c5zhvv

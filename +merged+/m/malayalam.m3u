@@ -1275,8 +1275,6 @@ https://24863.live.streamtheworld.com:443/RADIO_SUNO_TAMIL_S01AAC.aac
 https://14073.live.streamtheworld.com:443/RADIO_SUNO_HITS_S05AAC.aac
 #EXTINF:-1,Radio Suno Melody
 https://14073.live.streamtheworld.com:443/RADIO_SUNO_MELODY_S06AAC.aac
-#EXTINF:-1,Vatican News - മലയാളം  (Malayalam)
-https:/http:/adio.vaticannews.va/stream-ml
 #EXTINF:-1,Hello Radio 90.8
 http://stream-058.zeno.fm/p2ysncnc1rhvv?zs=tVR2pIz6RByVRPByuTfv-w
 #EXTINF:-1,Ananthapuri FM
@@ -1301,3 +1299,21 @@ https://dc1.serverse.com/proxy/hojmalayalam/stream
 https://gains.reviveradio.net/proxy/revivemalayalam?mp=/stream
 #EXTINF:-1,AIR Kozhikode (Real FM) 103.6
 https://generationfm-underground.ice.infomaniak.ch/generationfm-underground-high.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/82315/logo_440fnmzt57.png",Radio Maria
+https://dreamsiteradiocp2.com/proxy/rmindia1?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004847/logo_UYP746cloy.jpg?v=20260529-media-restore",Shaivam Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2923580_SC
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82705/logo_qrfR4zPRjK.jpg?v=20260529-media-restore",Radio Voxa
+https://stream.zeno.fm/kezsc0y2wwzuv
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82514/logo_LfxqK0hs1m.jpg?v=20260529-media-restore",Radio Beat Malayalam
+https://listen.openstream.co/6761/audio
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82315/logo_4cKyk78krM.jpg?v=20260529-media-restore",Radio Maria
+https://dreamsiteradiocp2.com/proxy/rmindia1?mp=%2Fstream
+#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88933/logo_HMEvXeyH9r.jpg?v=20260529-media-restore",AMR
+https://listen.openstream.co/5791/audio
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kerala-radio-179454-logo.jpg",Kerala Radio
+http://radio.hostonnet.com:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-malayali-fm-logo.jpg",Radio Malayali FM
+http://91.121.164.210:8464/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lk-malayagam-fm-logo.jpg",Radio Malayagam FM
+https://cast5.my-control-panel.com/proxy/malayag1/stream/

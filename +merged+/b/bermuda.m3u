@@ -151,3 +151,57 @@ https://node-27.zeno.fm/gtvdg7xqc18uv
 http://streaming.fueralle.org:8000/bermudafunk.ogg.m3u
 #EXTINF:-1,Bermudafunk Mannheim - 0 - Germany - bermudafunk - bürgerradio - community radio - freies radio - mannheim - nicht-kommerzielles lokalradio
 http://stream1.datenkollektiv.net/bermudafunk.ogg
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A41GWP.png",CRCB Internet Radio
+https://or.mysonicserver.com/8042/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/A6AAW.png",GEMM.WORLD
+http://46.105.180.202:8053/live
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/station-logo-no.png",Gold AM
+https://fusion.centrocibernetico.com/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/6VOD0.png",Hott FM
+https://iic.streamguys1.com/HOTT?starttime=1594550138
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/OVD0U6.png",ZBM-2
+http://perseus.shoutca.st:9380/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ZFO3SY.png",ZFB
+https://pureplay.cdnstream1.com/6018_128.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/86787/logo_OokpkLJCIa.png",Vibe 103 FM Radio
+https://cp11.serverse.com/proxy/fwincknq/stream
+#EXTINF:-1,Slow Radio 
+http://stream2.slowradio.com/
+#EXTINF:-1,Irie 98 FM 
+https://usa19.fastcast4u.com:7430/?type=http&nocache=1711133099
+#EXTINF:-1,Ocean 89 
+https://us2.internet-radio.com/proxy/ocean89?mp=/stream
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Bermuda College Radio - Bermuda - Hamilton
+https://streaming.radio.co/sbba10f75f/listen
+#EXTINF:-1,Dr Dick's Dub Shack - Bermuda - Hamilton
+https://streamer.radio.co/s0635c8b0d/listen
+#EXTINF:-1,Hott 107.5 FM - Bermuda - Hamilton
+https://iic.streamguys1.com/HOTT
+#EXTINF:-1,Inspire 105 - Bermuda - Hamilton
+https://us1.internet-radio.com/proxy/inspire105?mp=/stream
+#EXTINF:-1,Irie FM 98.3 - Bermuda - Hamilton
+https://usa19.fastcast4u.com:7430/;
+#EXTINF:-1,Magic 102.7 FM - Bermuda - Hamilton
+https://iic.streamguys1.com/MAGIC
+#EXTINF:-1,Ocean 89 - Bermuda - Hamilton
+https://us2.internet-radio.com/proxy/ocean89?mp=/stream
+#EXTINF:-1,Power 95 Bermuda - Bermuda - Hamilton
+https://us3.internet-radio.com/proxy/power95?mp=/stream
+#EXTINF:-1,Vibe FM 103.0 - Bermuda - Hamilton
+https://cp11.serverse.com/proxy/fwincknq/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hsda-joy-radio-612861-logo.jpg",HSDA JOY RADIO
+http://209.126.97.227:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/magic-1027-604342-logo.jpg",Radio Magic 102.7
+http://icecast-radioclassica.cdnvideo.ru/radioclassica
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/seductive-vibes-radio-645009-logo.jpg",Seductive Vibes Radio
+http://174.127.92.128:10890/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/irie-983-588542-logo.jpg",Radio Irie 98.3
+http://184.154.90.186:8231/;
+#EXTINF:-1 tv-logo="",Radio Mix 106
+http://50.7.99.155:7284/stream
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/one-harmony-radio-bermuda-163526-logo.jpg",One Harmony Radio Bermuda
+http://216.119.145.218:9998/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jamn97com-590323-logo.jpg",Radio Jamn97.com
+http://jamn97.com:8000/;

@@ -25,8 +25,6 @@ http://r3-fm.stream.laut.fm/r3-fm
 http://metalblastfm.stream.laut.fm/metalblastfm
 #EXTINF:-1,jesus alternative plattenkiste
 http://jesus-alternative-plattenkiste.stream.laut.fm/jesus-alternative-plattenkiste
-#EXTINF:-1,shamanic tunes
-http://shamanic_tunes.stream.laut.fm/shamanic_tunes
 #EXTINF:-1,an ro art
 http://an-ro-art.stream.laut.fm/an-ro-art
 #EXTINF:-1,beyondbelief
@@ -35,16 +33,12 @@ http://beyondbelief.stream.laut.fm/beyondbelief
 http://bamlive.stream.laut.fm/bamlive
 #EXTINF:-1,reddrock
 http://reddrock.stream.laut.fm/reddrock
-#EXTINF:-1,thesoundofrock
-http://thesoundofrock.stream.laut.fm/thesoundofrock
 #EXTINF:-1,0zero0
 http://0zero0.stream.laut.fm/0zero0
 #EXTINF:-1,daspfoertnerhaus
 http://daspfoertnerhaus.stream.laut.fm/daspfoertnerhaus
 #EXTINF:-1,Path through the Forest
 https://paththroughtheforest.stream.laut.fm/path_through_the_forest?t302=2023-04-25_19-31-44&uuid=425515d4-2089-4125-9a35-df47161adb4a
-#EXTINF:-1,Downtuned Radio
-http://195.242.237.14:8020/stream
 #EXTINF:-1,Aircooled
 https://aircooled.stream.laut.fm/aircooled?t302=2023-04-25_19-39-42&uuid=c47350eb-81b6-49f3-92d6-8913c2491d4e
 #EXTINF:-1,SomaFM Metal Detector (128k AAC)

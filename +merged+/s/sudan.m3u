@@ -357,8 +357,6 @@ http://tijaniyyah.asuscomm.com:8000/stream/6/?sid=6
 http://s6.voscast.com:11340/
 #EXTINF:-1,۞ إذاعة القرآن ۞
 https://secure1.reliastream.com/deeshak/;stream.nsv
-#EXTINF:-1,Al Zain Quran Reciter
-https:/http:/adio.radiosamar.org/samar_64
 #EXTINF:-1,Tzgospel ( Sudan)
 https://stream-151.zeno.fm/zr9ekek1zehvv?zs=2BuhZs-RTyCzSKiOAjhayQ
 #EXTINF:-1,راديو الرابعة
@@ -375,3 +373,91 @@ https://stream-019.zeno.fm/chx5s1sebkhvv
 https://stream-022.zeno.fm/1ye963rxrnhvv
 #EXTINF:-1,Antenna Web Giuba
 https://italiavera.radioca.st/stream
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/HBRP3Q.png",Eye Radio
+https://eyeradio.primcast.com:9588/listen.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/5GYNS.png",Radio Miraya
+http://s3.myradiostream.com:15918/stream.i6d8
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79130/logo_5fgzwFWUIf.png",AYWA FM Radio
+https://cast4.asurahosting.com/proxy/aywafm/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79131/logo_17992SK6dA.png",Radio DeeShaK!- Sudan
+https://s7.reliastream.com/proxy/osmmal01?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79135/logo_4UlWwMmBMl.png",Antenna Web Khartum Radio
+https://tinyurl.com/AntennaWebKhartum
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79134/logo_NKdchc8cbm.png",Radio Deeshak- Haqeeba
+https://s9.reliastream.com/proxy/osman?mp=%2Fstream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79136/logo_Ug4NS57hfo.png",Hero Radio (Sudan)
+https://a2.asurahosting.com:6790/sudan.mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/79133/logo_INK9QSkzhH.png",radio south sudan
+https://stream2.svrdedicado.org/8056/stream
+#EXTINF:-1,Dabanga Radio 
+https://stream.dabangasudan.org/
+#EXTINF:-1,#Radio Quran 
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1,Dial Radio 
+https://cast.dialradio.live/stream.aac
+#EXTINF:-1,Abdulbasit Abdulsamad 
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Aywa FM - Sudan - Khartoum
+https://cast4.asurahosting.com/proxy/aywafm/stream
+#EXTINF:-1,Radio Alghad - Sudan - Khartoum
+https://stream.zeno.fm/nmht2cnne0hvv
+#EXTINF:-1,اذاعة كوش Kosh Radio - Sudan - Atbara
+https://stream.zeno.fm/uugtwy6m9hhvv
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-megamind-597789-logo.jpg",Radio Megamind
+http://192.99.0.170:5944/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/capital-radio-595218-logo.jpg",Capital Radio
+http://capitalfm.sd:9106/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/wad-medani-fm-613954-logo.jpg",Radio Wad Medani FM
+http://75.126.171.171:9996/;
+#EXTINF:-1 tv-logo="",Radio SRTC Wadi
+http://www.sudanradio.info/media/wadi/
+#EXTINF:-1 tv-logo="",Radio SRTC Salam
+http://www.sudanradio.info/media/media2/
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/madieh-radio-612112-logo.jpg",Madieh Radio
+http://5.39.71.159:8271/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/quran-radio-shiekh-al-zain-612170-logo.jpg",Quran Radio Shiekh Al Zain
+http://5.39.71.159:8118/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/lijo_media-broadcast-624781-logo.jpg",Radio Lijo_Media Broadcast
+http://s6.voscast.com:11340/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/alsiyada-625487-logo.jpg",Radio Alsiyada
+https://a2.asurahosting.com:6790/southsudan.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eye-radio-626032-logo.jpg",Eye Radio
+http://eyeradio.primcast.com:9588/;listen.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/vision-1013-fm-626823-logo.jpg",Radio Vision 101.3 FM
+http://196.29.181.110:5000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/weer-bei-fm-634413-logo.jpg",Radio Weer Bei FM
+http://uk1-vn.mixstream.net:10084/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sd-radio-miraya-logo.jpg",Radio Miraya
+http://s3.myradiostream.com:15918/;audio.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sd-favor-radio-sudan-logo.jpg",Favor Radio (Sudan)
+https://a10.asurahosting.com:7660/sudan.mp3
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sudan-radio-from-omdurman-568178-logo.jpg",Sudan Radio from Omdurman
+http://178.33.251.97:8639/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miraya-fm-622353-logo.jpg",Radio Miraya-FM
+http://s3.myradiostream.com:15918/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/gbc-fm-155908-logo.jpg",Radio GBC FM
+http://178.162.248.22:8000/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/sports-fm-104-155920-logo.jpg",Radio Sports FM 104
+http://31.3.242.244:8594/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mango-96-fm-163057-logo.jpg",Radio Mango 96 FM
+http://fujmedia.dyndns.org:4427/mango
+#EXTINF:-1 tv-logo="",Nubian Radio
+http://184.107.17.129:8467
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/miraya-101-fm-juba-159989-logo.jpg",Radio Miraya 101 FM - Juba
+http://www.mirayafm.org:8080/;
+#EXTINF:-1 tv-logo="",Radio Furgan FM99
+http://208.43.81.168:8952/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/khartoum-fm-179660-logo.jpg",Radio Khartoum FM
+http://72.13.81.34:5250/;
+#EXTINF:-1 tv-logo="",Radio Miraya 101 FM - Khartoum
+http://www.mirayafm.org:8000/;
+#EXTINF:-1 tv-logo="",Radio Kosti State FM
+http://31.3.242.244:8459/
+#EXTINF:-1 tv-logo="",Radio LiveQuraan.com
+http://livequraan.com:8088/;
+#EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm100-sudanese-house-radio-580940-logo.jpg",FM100 Sudanese House Radio
+http://192.99.17.12:4506/;
+#EXTINF:-1 tv-logo="",Radio SRTC Quran
+http://www.sudanradio.info/media/quran/
+#EXTINF:-1 tv-logo="",Sudan  Peace Radio
+http://69.4.236.223:8065

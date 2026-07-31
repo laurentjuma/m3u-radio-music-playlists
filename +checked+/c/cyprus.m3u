@@ -19,6 +19,8 @@ http://live3.istoikona.net:8372/stream/2/Title1=Kanali
 http://eco.onestreaming.com:8127/
 #EXTINF:-1,DeeJay Cyprus
 http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/playlist.m3u8
+#EXTINF:-1,Radio Proto
+http://eco.onestreaming.com:8191/
 #EXTINF:-1,Super FM Radio
 http://eco.onestreaming.com:8175/
 #EXTINF:-1,ANT1 Radio
@@ -55,22 +57,22 @@ http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
 http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
 #EXTINF:-1,Zucca Radio
 http://95.217.120.122/
+#EXTINF:-1,All 50s Radio
+https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Bayrak FM
 http://sc.brtk.net:8000/
 #EXTINF:-1,All Hits Zone
 http://listen.openstream.co/3126/audio
+#EXTINF:-1,All Time 70s 80s Greatest
+https://chicago-us.freeradio.top/unlimited80s/stream
 #EXTINF:-1,Play FM Cyprus
 http://live.playfm.com.tr:9050/
 #EXTINF:-1,Radio Navagio
 https://radio-navagio.com/stream
-#EXTINF:-1,Radyo ODTU Kuzey Kibris
-http://144.122.156.68:8000/stream/1/
-#EXTINF:-1,Radio TBB
-http://79.98.108.170:8121/live
+#EXTINF:-1,60s Hits Zone
 #EXTINF:-1,Bayrak Radyosu
 http://sc.brtk.net:8002/
-#EXTINF:-1,Radio Ubuntu
-http://5.189.184.146:8000/radio.mp3
+#EXTINF:-1,Black Diamond Radio
 #EXTINF:-1,Kanali7 98.4
 http://live.kanali7.com:4012/
 #EXTINF:-1,Bayrak International
@@ -93,6 +95,12 @@ https://r1.cloudskep.com/radio/diesi/icecast.audio
 http://sfera.live24.gr:80/sfera4132?type=.mp3
 #EXTINF:-1,LIVE
 https://r1.cloudskep.com/cybcr/cybc1/icecast.audio
+#EXTINF:-1,Radio 3D Listen live
+https://radio3d.stream.laut.fm/radio3d?t302=2026-06-08_15-59-06&uuid=34dff66d-2680-445e-bb52-2ccefe548ede
+#EXTINF:-1,Best of Klassik Listen live
+https://best-of-klassik.stream.laut.fm/best-of-klassik?t302=2026-06-08_15-59-06&uuid=0f16df17-3263-4bcb-b145-bdcde771e599
+#EXTINF:-1,DJ Infinity Listen live
+https://djinfinity.stream.laut.fm/djinfinity?t302=2026-06-08_15-59-06&uuid=d346560b-684d-4468-9250-737e65a56eab
 #EXTINF:-1,Dromos FM
 https://dromoscyprus.live24.gr/dromoscyprus
 #EXTINF:-1,ΡΙΚ Τρίτο Πρόγραμμα
@@ -107,12 +115,17 @@ https://r1.cloudskep.com/cybcr/cybc2/icecast.audio
 https://live.radyositesihazir.com/8012/stream
 #EXTINF:-1,Capital Türk
 https://radyo1.radyo-dinle.tc/8210/stream
+#EXTINF:-1,Radio Ubuntu | Jazz, World, Reggae, Soul, Rock, Eclectic
+#EXTINF:-1,LOVE ZONE
+#EXTINF:-1,The 2000s
 #EXTINF:-1,Radio Proto 99.3 Online
 http://eco.onestreaming.com:8310/stream
 #EXTINF:-1,Super Rad104.8 - FM 95.7
 http://eco.onestreaming.com:8175/stream
 #EXTINF:-1,Radio Sfera 102.2
 https://sfera.live24.gr/sfera4132
+#EXTINF:-1,Ράδιο ΠΡΩΤΟ
+http://eco.onestreaming.com:8191/stream
 #EXTINF:-1,Active Radio
 http://stream.zuccaradio.com:80/stream
 #EXTINF:-1,Classic99
@@ -123,8 +136,6 @@ http://sc.brtk.net:8010/
 http://sc.brtk.net:8006/
 #EXTINF:-1,Bayrak Radyo Haber
 http://sc.brtk.net:8008/
-#EXTINF:-1,Rock FM Gold
-http://s3.radio.co/s6d4f4a914/listen
 #EXTINF:-1,Fama FM
 http://stm01.virtualcast.com.br:8072/fama
 #EXTINF:-1,Ράδιο Ναυάγιο
@@ -137,6 +148,8 @@ http://radyo1.radyo-dinle.tc/8256/stream
 http://cast.artfmradio.com:8000/radio.mp3
 #EXTINF:-1,Radio Deejay
 http://live3.istoikona.net:8199/audio.mp3?hash=1442246258955
+#EXTINF:-1,Radio Dardasha7
+http://stream.radio.co/s44717d098/listen
 #EXTINF:-1,Kuzeyin Sesi Radyo Vatan
 http://live3.istoikona.com:8127/
 #EXTINF:-1,Nicósia in brazil america
@@ -167,10 +180,15 @@ http://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio
 http://yayin.netradyom.com:9990/
 #EXTINF:-1,Love fm
 http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/master.m3u8
+#EXTINF:-1,Radio Ef-Em
+https://stream.zuccaradio.com/stream
+https://stream.zuccaradio.com/stream/1/
 #EXTINF:-1,BFBS Radio 1 Cyprus
 https://icy-e-01.sharp-stream.com/ssvcbfbs8.mp3
 #EXTINF:-1,Super Club Radio – Nicosia – CY
 https://mpc2.mediacp.eu:2020/tunein/superclubradio/stream
+#EXTINF:-1,Viva FM – 104.3 FM – Paphos – Pafos – CY
+https://ec1.yesstreaming.net:1850/stream
 #EXTINF:-1,Love FM – 103.3 FM – Nicosia – CY
 http://eradio.networksolutions.com.cy:1935/LoveRadio/Loveradio.stream/playlist.m3u8
 #EXTINF:-1,Bayrak International Radio – Nicosia – CY
@@ -181,10 +199,10 @@ https://radyo1.radyo-dinle.tc/8256/stream
 http://live3.istoikona.net:8101/stream
 #EXTINF:-1,Mix Greek – CY
 http://eco.onestreaming.com:8644/
+#EXTINF:-1,Radio Dardasha7 – CY
+https://stream.radio.co/s44717d098/listen
 #EXTINF:-1,Super Sport FM – Nicosia – CY
 https://sportfm-cyprus.live24.gr/sportfm-cyprus
-#EXTINF:-1,Rock FM Gold – Paphos – Pafos – CY
-https://s3.radio.co/s6d4f4a914/listen
 #EXTINF:-1,Radio Sfera 102.2 FM radio
 https://netradio.live24.gr/sfera4132
 #EXTINF:-1,BFBS Cyprus radio
@@ -207,20 +225,23 @@ http://prem2.di.fm/trance_hi?9dc5e7bd00423d16a960e29a
 http://yayin.netradyom.com:9990/stream.nsv
 #EXTINF:-1,Rockstone
 http://icy-e-01.sharp-stream.com/ssvcbfbs8.mp3
+#EXTINF:-1,Kibris FM
 #EXTINF:-1,Super Rad 104.8
 https://cast.artfmradio.com/radio/8000/radio.mp3?1579455658
-#EXTINF:-1,Greek Hits Radio
-http://listen.radionomy.com/greekhitsradio.m3u
+#EXTINF:-1,Anna Vissi Radio
+https://stream02.pcradio.biz/Anna_Vissi-med
+#EXTINF:-1,Mix FM (Nicosia) Radio
+https://stream02.pcradio.biz/mixfmradio_com-med
+#EXTINF:-1,Love FM (Greece) Radio
+https://stream02.pcradio.biz/rad_lvrdgrcc-med
 #EXTINF:-1,BFBS UK
 http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs1.mp3
 #EXTINF:-1,Sfera 96,8
 http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs2.mp3?i=ssvcbfbs2.mp3.m3u
 #EXTINF:-1,Hitradio Oldies
-https://laut.fm/hitradiooldies
+http://hitradiooldies.stream.laut.fm/hitradiooldies?t302=2026-06-08_15-59-28&uuid=6a4989c8-6a9d-4a32-bcb2-20a687bce8fb
 #EXTINF:-1,Mix Greek
 http://eco.onestreaming.com:8644/;
-#EXTINF:-1,Радио TBB
-http://79.98.108.170:8121/stream
 #EXTINF:-1,Njoy 99.5
 http://cristim84.radi0.im:8000/;stream.nsv
 #EXTINF:-1,Kıbrıs Sim Radyo
@@ -235,3 +256,41 @@ http://95.217.120.122/;
 http://eradio.networksolutions.com.cy:1935/DeeJay/DeeJay.stream/chunklist_w311520733.m3u8
 #EXTINF:-1,Work From Home Radio
 http://cristim84.radi0.im:8000/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/B2Z0KE.png",60s Hits Zone
+https://listen.openstream.co/3341/audio?_=1444376531
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YY7F67.png",Akropolis Radio
+http://dione.shoutca.st:8223/
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/YCT2XY.png",artFM Radio
+https://cast.artfmradio.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/TU3TG.png",BFBS Cyprus
+http://edge-audio-gos2-01.sharp-stream.com/ssvcbfbs8.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/4L8XL4.png",GREEK HITS
+https://listen.openstream.co/4610/audio?token=303f84befe28ec133d3ecccdc0e8b772%2F7655d106
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/WZ55G4.png",Koubebi
+https://s65.radiolize.com/radio/8040/radio.mp3
+#EXTINF:-1 tvg-logo="https://radio.streamitter.com/images/logos/ORUY1U.png",Sim Radyo
+http://88.255.211.12:8000/
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41376/logo_1S9sHOjkxQ.png",Feelgood.FM Radio
+https://radio.feelgood.fm/mp3
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41368/logo_svyFIKPuQU.png",Radyo Juke
+http://yayin.netradyom.com:9990/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41375/logo_FGqscVJiHk.png",MF Radio.de
+https://stream.mfradio.de/listen/mf_radio_cyprus/mf_radio_main_stream_128k
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41370/logo_hMlHPcC0Pt.png",Work From Home radio
+http://cristim84.radi0.im:8000/stream
+#EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/41361/logo_1cYPEMeZGx.png",Star FM Radio
+http://s6.myradiostream.com:11056/
+#EXTINF:-1,Dance FM
+https://live.enerjiplay.com/stream/dancefm
+#EXTINF:-1,BitrRcord
+https://c10.radioboss.fm:18095/stream
+#EXTINF:-1,VIVA FM 104.3
+https://stream1.themediasite.co.uk/8060/stream
+#EXTINF:-1,Lugaradio
+http://91.200.41.23:8000/192.mp3
+#EXTINF:-1,Enerji
+https://live.enerjiplay.com/stream/enerji
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Zucca
+https://stream.zuccaradio.com/stream?

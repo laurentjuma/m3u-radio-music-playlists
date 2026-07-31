@@ -7,8 +7,6 @@ http://listen.classicrock109.com:10042/;
 https://newcap.leanstream.co/CHBMFM
 #EXTINF:-1,Q107
 https://live.leanstream.co/CILQFM-MP3
-#EXTINF:-1,Alternative Rock X-Radio
-https://quincy.torontocast.com:2985/stream
 #EXTINF:-1,Rock 95
 https://cob-ais.leanstream.co/CFJBFM
 #EXTINF:-1,Country 104
@@ -29,6 +27,8 @@ https://streams.calmradio.com:1228/stream
 https://cast1.torontocast.com:1045/stream
 #EXTINF:-1,DKFM Shoegaze Radio
 https://kathy.torontocast.com:2005/stream
+#EXTINF:-1,80&#039;s New Wave Radio
+https://puma.streemlion.com:2910/stream
 #EXTINF:-1,CBC Music
 https://cbcradiolive.akamaized.net/hls/live/2041057/ES_R2ETR/master.m3u8
 #EXTINF:-1,Hot 89.9
@@ -55,8 +55,8 @@ https://live.leanstream.co/CKWFFM
 https://ice64.securenetsystems.net/CKFG
 #EXTINF:-1,Rebel 101.7
 https://torres-media.streamb.live/SB00189
-#EXTINF:-1,AfterHours FM (AH.FM)
-http://ca.ah.fm:8000/live
+#EXTINF:-1,Prog Palace Radio&#039;s The Armory
+https://cheetah.streemlion.com:4775/stream
 #EXTINF:-1,Calm Radio Zen
 https://streams.calmradio.com:14028/stream
 #EXTINF:-1,95.5 Hits FM
@@ -115,8 +115,6 @@ https://streams.calmradio.com:13728/stream
 https://streams.calmradio.com:14528/stream
 #EXTINF:-1,Calm Radio Healing
 https://streams.calmradio.com:1328/stream
-#EXTINF:-1,CFOS
-https://bayshore-ais.leanstream.co/CFOSAM
 #EXTINF:-1,Calm Radio Tchaikovsky
 https://streams.calmradio.com:8728/stream
 #EXTINF:-1,99.9 The Bay
@@ -139,6 +137,8 @@ https://streams.calmradio.com:2728/stream
 https://streams.calmradio.com:12728/stream
 #EXTINF:-1,Click Your Radio Metal &amp; Punk
 https://kathy.torontocast.com:4245/stream
+#EXTINF:-1,Instrumental Hop Radio
+https://cheetah.streemlion.com:2670/stream
 #EXTINF:-1,Calm Radio Classical Piano
 https://streams.calmradio.com:30928/stream
 #EXTINF:-1,Click Your Radio 80&#039;s &amp; 90&#039;s
@@ -155,8 +155,6 @@ https://live.leanstream.co/CKNXFM-MP3?tunein
 https://bayshore.leanstream.co/CIXKFM
 #EXTINF:-1,Calm Radio Debussy
 https://streams.calmradio.com:10228/stream
-#EXTINF:-1,Z103.5
-https://evanov.leanstream.co/CIDCFM?args=web_01
 #EXTINF:-1,Calm Radio Violin
 https://streams.calmradio.com:4528/stream
 #EXTINF:-1,ETN.fm
@@ -187,8 +185,6 @@ https://live.leanstream.co/CJDVFM?type
 https://streams.calmradio.com:4328/stream
 #EXTINF:-1,Mix 96.7
 https://live.leanstream.co/CHYRFM
-#EXTINF:-1,Badlands Classic Rock
-https://kathy.torontocast.com/Badlandsclassicrock
 #EXTINF:-1,Calm Radio Cello
 https://streams.calmradio.com:4628/stream
 #EXTINF:-1,KONA Stream
@@ -253,6 +249,8 @@ https://bayshore.leanstream.co/CHWCFM
 https://connelly.radioca.st/cjkl
 #EXTINF:-1,105.1 The River
 https://ais-sa1.streamon.fm/7258_48k.aac
+#EXTINF:-1,CGCM Radio
+https://das-edge62-live365-dal03.cdnstream.com/a81635
 #EXTINF:-1,Calm Radio High Baroque
 https://streams.calmradio.com:14428/stream
 #EXTINF:-1,Hot 93.5 - CIGM-FM
@@ -311,8 +309,6 @@ https://streams.calmradio.com:13328/stream
 http://stream2.statsradio.com:8038/stream
 #EXTINF:-1,A9Radio
 https://a9radio1-a9media.radioca.st/stream
-#EXTINF:-1,Mix97
-http://mix97.stream.laut.fm:8080/mix97
 #EXTINF:-1,Calm Radio Alessandro Scarlatti
 https://streams.calmradio.com:14628/stream
 #EXTINF:-1,Calm Radio Haydn
@@ -341,6 +337,8 @@ https://streams.calmradio.com:3528/stream
 http://streams.calmradio.com:19228/stream
 #EXTINF:-1,Radio La Buona Musica
 https://puma.streemlion.com:5560/;
+#EXTINF:-1,Canadian Tamil Broadcasting Corporation
+http://ctbcfmradio.primcast.com:4086/;stream.mp3/;
 #EXTINF:-1,Life
 https://netstream.lifeonline.fm/CJLF/128mp3
 #EXTINF:-1,Underground Rock Radio
@@ -371,8 +369,6 @@ https://streams.calmradio.com:16628/stream
 https://streams.calmradio.com:8828/stream
 #EXTINF:-1,Calm Radio Country Now
 https://streams.calmradio.com:13828/stream
-#EXTINF:-1,Terry Callaghan&#039;s Groovy 70&#039;s
-https://s3.free-shoutcast.com/stream/18172/;stream.mp3
 #EXTINF:-1,Calm Radio Tibetan Monks
 https://streams.calmradio.com:30028/stream
 #EXTINF:-1,CJOY
@@ -381,8 +377,6 @@ https://live.leanstream.co/CJOYAM
 https://ais-sa1.streamon.fm/7229_128k.aac/playlist.m3u8
 #EXTINF:-1,RED FM Toronto
 https://ice9.securenetsystems.net/CIRVFM
-#EXTINF:-1,The Bay 88.7FM
-https://thebay887.ca:8002/;stream.mp3
 #EXTINF:-1,Party Dog Radio
 http://us9.streamingpulse.com:7252/stream
 #EXTINF:-1,MIX ROCK METAL RADIO
@@ -391,8 +385,6 @@ https://s3.myradiostream.com:4202/listen.mp3
 https://streams.calmradio.com:14828/stream
 #EXTINF:-1,Calm Radio Mellow Pop Legends
 https://streams.calmradio.com:16228/stream
-#EXTINF:-1,Coyote 103
-http://e10256.cloudrad.io:9000/;?_=0.6126891164994914
 #EXTINF:-1,Calm Radio Cherubini
 https://streams.calmradio.com:10628/stream
 #EXTINF:-1,Calm Radio Eric Harry &amp; Friends
@@ -433,6 +425,8 @@ https://streams.calmradio.com:27428/stream
 https://stream2.statsradio.com:8124/stream
 #EXTINF:-1,Radio Pakistan Toronto
 https://s3.radio.co/s3b10a57ef/listen
+#EXTINF:-1,Hits 101 Toronto
+https://puma.streemlion.com:1595/stream
 #EXTINF:-1,FM 92 South Simcoe
 https://localradio.streamb.live/SB00097
 #EXTINF:-1,Calm Radio Viola da Gamba
@@ -447,18 +441,24 @@ https://streams.calmradio.com:28328/stream
 https://ais-sa1.streamon.fm/7231_128k.aac/playlist.m3u8
 #EXTINF:-1,CINN FM
 https://stream2.statsradio.com:8050/stream
-#EXTINF:-1,Springsteen.com
-http://bruce.springsteenradio.com:9000/;
 #EXTINF:-1,Halton Hills Online
 http://gemini.shoutca.st:8154/stream
 #EXTINF:-1,Radio Nova Toronto
 https://streams.radio.co/s1ae1175cf/listen
+#EXTINF:-1,Caribbean Views Music Radio
+https://puma.streemlion.com:4595/stream
 #EXTINF:-1,High Mass Radio
 http://puma.streemlion.com:1410/stream
 #EXTINF:-1,Calm Radio Essential Beethoven
 https://streams.calmradio.com:20288/stream
+#EXTINF:-1,4Lobos Bollywood Radio
+https://puma.streemlion.com:4135/stream
+#EXTINF:-1,Prog Palace Radio&#039;s The Courtyard
+https://puma.streemlion.com:5045/stream
 #EXTINF:-1,Uturn Radio - Classic Rock
 https://listen.uturnradio.com/classic_rock
+#EXTINF:-1,101 Hamilton Radio
+https://strw3.openstream.co/818?aw_0_1st.collectionid%3D3609%26stationId%3D3609%26publisherId%3D842%26k%3D1780961163
 #EXTINF:-1,FaithFM
 https://ice7.securenetsystems.net/CHJXFM
 #EXTINF:-1,LU
@@ -479,14 +479,14 @@ https://music.wixstatic.com/mp3/cdbd5a_54dce566619a4c31bdf10b6a2fa0eb5b.mp3
 https://bayshore.leanstream.co/CISOFM?args=web_01&uid=ce05b0e5-1feb-4fe9-a42b-30b6e0a4a18c
 #EXTINF:-1,Ciao Italia Radio
 https://cheetah.streemlion.com:1970/stream.m3u
-#EXTINF:-1,56780 Radio
-http://208.131.139.148:8058/stream
 #EXTINF:-1,Estonian Party Radio
 http://maggie.torontocast.com:8110/stream
 #EXTINF:-1,Big 102.5 Hd2 Ckit-db
 http://162.244.80.106:11339/stream
 #EXTINF:-1,AWS Radio
 https://quincy.torontocast.com:1870/stream
+#EXTINF:-1,Club One Radio
+https://cheetah.streemlion.com:1270/stream
 #EXTINF:-1,Q104
 https://ais-sa1.streamon.fm/7808_96k.aac/playlist.m3u8
 #EXTINF:-1,Streaming Praise
@@ -511,16 +511,12 @@ https://s4.radio.co/s1b687cf20/low
 https://stream2.statsradio.com:8130/stream
 #EXTINF:-1,Airtime
 https://wdjyfm.out.airtime.pro/wdjyfm_b
-#EXTINF:-1,Flair Fm
-https://quincy.torontocast.com:2525/stream
-#EXTINF:-1,CMR Tamil HD Canadian Fm
-https://live.cmr24.net/CMR/TamilHD-MQ/icecast.audio
 #EXTINF:-1,CJRR-DB Radio Echelon
 https://streams.radio.co/s803a15fe7/listen
 #EXTINF:-1,107.5 Kool FM
 https://cob-ais.leanstream.co/CKMBFM
-#EXTINF:-1,Hope FM
-https://www.hope943.ca/
+#EXTINF:-1,Accessible Media Inc. - Eastern
+https://www.ami.ca/listenlive
 #EXTINF:-1,Calm Radio Lieder and Songs
 https://streams.calmradio.com:16728/stream
 #EXTINF:-1,Calm Radio Stravinsky
@@ -539,18 +535,26 @@ https://streams.calmradio.com:21528/stream
 https://ais-sa1.streamon.fm/7097_32k.aac
 #EXTINF:-1,104.7 Heart FM
 https://ais-sa1.streamon.fm/7135_48k.aac
+#EXTINF:-1,CFRC
+https://audio-edge-2a8hd.sfo.he.radiomast.io/e5ebc530-289b-4105-9840-364a792d625f
 #EXTINF:-1,Inspired Choices Network
 https://icn.out.airtime.pro/icn_a
 #EXTINF:-1,Complete Music Radio
 https://maggie.torontocast.com:2020/stream/completemusicradio
 #EXTINF:-1,105.9 The Region
 https://carina.streamerr.co:8012/CFMSlive?ver=870002
+#EXTINF:-1,BollyRadio.com
+http://perseverance.shoutca.st:8204/stream2.mp3
 #EXTINF:-1,Calm Radio Faure
 http://streams.calmradio.com:19128/stream
 #EXTINF:-1,Calm Radio Liszt
 https://streams.calmradio.com:9128/stream
 #EXTINF:-1,Curry Bun Radio
 https://streaming.shoutcast.com/curry-bun-radio
+#EXTINF:-1,CHIR Greek Radio
+http://s6.yesstreaming.net:7032/stream
+#EXTINF:-1,Chillfiltr Radio
+https://das-edge12-live365-dal02.cdnstream.com/a80518
 #EXTINF:-1,Cashbox Radio
 https://s3.radio.co/scb4bac80a/listen
 #EXTINF:-1,Planet Rewind Radio
@@ -563,6 +567,10 @@ https://streams.calmradio.com:5028/stream
 https://streams.calmradio.com:21428/stream
 #EXTINF:-1,Hits 100
 https://sboucher.radioca.st/stream
+#EXTINF:-1,Tierra Fertil
+http://5.79.86.158:8104/;audio.mp3
+#EXTINF:-1,Duvelradio
+https://quincy.torontocast.com:2440/;
 #EXTINF:-1,Radio Sud International
 https://cast1.torontocast.com:2805/stream?
 #EXTINF:-1,Kaathoram Live
@@ -579,10 +587,10 @@ https://cast1.torontocast.com:1515/stream
 https://streams.calmradio.com:16928/stream
 #EXTINF:-1,iLive Toronto
 https://streaming.radio.co/s735df8c1c/listen
+#EXTINF:-1,John Patrick Live 101
+https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1,Ckag Radio
 http://s41.myradiostream.com:37436/listen.mp3
-#EXTINF:-1,T-DOT 93 FM TORONTO
-https://s20.myradiostream.com/:18590/listen.mp3
 #EXTINF:-1,Radio Good water 320Kbps
 https://quincy.torontocast.com:3025/stream
 #EXTINF:-1,Calm Radio Poulenc
@@ -593,16 +601,22 @@ https://streams.calmradio.com:26828/stream
 https://stream2.statsradio.com:8104/stream
 #EXTINF:-1,Radio Regent
 https://streamer.radio.co/se3e1e3815/listen
+#EXTINF:-1,Juz Radio
+https://stream3.305stream.com/proxy/client06/stream
+#EXTINF:-1,Coolarity
+https://www.thayrone.com/demo/122103-1of2.mp3
 #EXTINF:-1,Amen FM
 https://ice7.securenetsystems.net/AMENFM
 #EXTINF:-1,Energy 103/104
 https://ais-sa1.streamon.fm/7098_32k.aac
-#EXTINF:-1,Sprlivefm.com
-https://us1.streamingpulse.com/ssl/sprlivefm
+#EXTINF:-1,Radio Mondo Italia
+https://cheetah.streemlion.com:2490/stream.m3ustream
 #EXTINF:-1,Calm Radio Jazz Christmas
 https://streams.calmradio.com:21628/stream
-#EXTINF:-1,8090rocks
-https://cast1.torontocast.com:2685/stream
+#EXTINF:-1,4Lobos Konkani Radio Station
+https://puma.streemlion.com:4465/stream
+#EXTINF:-1,Power! Pop Rock Radio
+http://cheetah.streemlion.com:3430/stream
 #EXTINF:-1,radio annick
 http://cast1.torontocast.com:3940/stream
 #EXTINF:-1,CKWF 101.5 &quot;The Wolf&quot; Peterborough
@@ -694,7 +708,7 @@ http://ais-sa2.cdnstream1.com/1370_128
 #EXTINF:-1,CFRH 88.1 &amp; 106.7 Penetanguishene, ON
 http://stream2.statsradio.com:8030/stream
 #EXTINF:-1,CamoesRadio.com - Toronto, ON
-http://camoesradio.out.airtime.pro:8000/camoesradio a#.mp3
+http://camoesradio.out.airtime.pro:8000/camoesradio_a#.mp3
 #EXTINF:-1,CJWA 107.1 &quot;JJAM FM&quot; Wawa, ON
 http://nap.casthost.net:8428/stream?type=.mp3
 #EXTINF:-1,The Tri City&#039;s Alternative
@@ -703,8 +717,6 @@ https://conestoga.leanstream.co/CJIQFM?args=3rdparty_01&starttime=1605211812
 https://hawkstream.mohawkcollege.ca/1/
 #EXTINF:-1,Clam Radio - Solo Piano &amp; Guitar
 http://streams.calmradio.com:30228/;
-#EXTINF:-1,CJAI 92.1 Amherst Island, ON
-http://peridot.streamguys.com:5040/live
 #EXTINF:-1,CHOQ-FM 105,1 Toronto, ON
 http://ice9.securenetsystems.net/CHOQ
 #EXTINF:-1,Jazz FM CJRT
@@ -723,6 +735,8 @@ https://cbcradiolive.akamaized.net/hls/live/2041029/ES_R1ELD/master.m3u8
 http://cob-ais.leanstream.co/cob/CINDFM.stream/playlist.m3u8
 #EXTINF:-1,CBC Radio 1 Ottawa (CBO-FM)
 https://cbcradiolive.akamaized.net/hls/live/2041037/ES_R1ETT/adaptive_128/chunklist_ao.m3u8
+#EXTINF:-1,4Lobos Pop &amp; Oldies Radio
+https://puma.streemlion.com:4315/stream
 #EXTINF:-1,97.9 The Bruce
 https://bayshore-ais.leanstream.co/CFPSFM
 #EXTINF:-1,Country 102
@@ -733,5 +747,7 @@ https://stream2.statsradio.com:8030/stream
 https://ams-pioneer02.dedicateware.com:1555/stream
 #EXTINF:-1,Durham Tamil Radio
 http://ec3.yesstreaming.net:3460/stream
+#EXTINF:-1,TBN Reggae Radio
+https://puma.streemlion.com:1085/stream
 #EXTINF:-1,Voices 4 Ability Radio
 http://us2.maindigitalstream.com:7134/stream

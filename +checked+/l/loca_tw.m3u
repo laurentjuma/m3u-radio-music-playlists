@@ -33,10 +33,16 @@ http://59.125.41.65:8081/
 http://61.220.209.152:8081/
 #EXTINF:-1,PBS - Taichung Sub-Station
 http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+#EXTINF:-1,Yippee Play
+http://live.onfm.org:8000/broadcast
+#EXTINF:-1,181.FM
+http://relay.181.fm:8128/
 #EXTINF:-1,佳音聖樂網CCM FM90.9
 https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/modern/playlist.m3u8
 #EXTINF:-1,PBS - Llan Sub-Station
 http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+#EXTINF:-1,WeFunk Radio 放克音樂網路電台
+http://s-10.wefunkradio.com:8000/wefunk64.mp3
 #EXTINF:-1,PBS - Tainan Sub-Station
 http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
 #EXTINF:-1,快樂聯播網 澎湖 FM91.3
@@ -55,6 +61,8 @@ https://stream.ginnet.cloud/live0115lo-89xv/_definst_/am729/playlist.m3u8
 http://59.120.255.169:8081/
 #EXTINF:-1,世新廣播電台 SHRS 88.1 FM
 https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/playlist.m3u8
+#EXTINF:-1,真心之音廣播電台
+https://mytuner-radio.com/radio/country/taiwan-stations
 #EXTINF:-1,Voice of Chaozhou 90.9 FM
 http://59.120.255.170:8081/
 #EXTINF:-1,CSBC
@@ -73,8 +81,6 @@ http://59.120.255.155:8081/?n=8f1a822db73c7fae4959
 https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8?n=92b2c8750c24869f03c3
 #EXTINF:-1,佳音電台
 https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8?n=f53bcb21bf009168e11c
-#EXTINF:-1,佳音羅東宜蘭90.3
-http://cdn51.ccdntech.com/live-http/_definst_/vod51_Live/ch02/playlist.m3u8?n=69145e2e072d33db3861
 #EXTINF:-1,竹塹廣播電台
 http://211.72.230.118:8081/?n=311cd936eb5b7d30c974
 #EXTINF:-1,台中廣播
