@@ -1,103 +1,95 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/026fb291-4ab2-4b78-9421-5b556692c45c.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Smooth Jazz
-https://drive.uber.radio/uber-app/jjrsmooth/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/af4c4c4a-2a73-4031-b7e5-201c08a37903.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",The Best Of Jazz
-https://drive.uber.radio/uber-app/starboxjazz/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/bb2cdb60-0d19-4b86-9cd0-7677c656d07a.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Al Jarreau
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/793ae006-0acf-4808-b471-20d24153c3d4.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Al Jarreau
 https://drive.uber.radio/uber-app/jjraljarreau/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f2883d4f-17e2-4ace-8952-c89a7f95b845.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Amy Winehouse
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d11a0a0b-383e-4346-a2f4-f9d4a8e9826e.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Amy Winehouse
 https://drive.uber.radio/uber-app/jjramywinehouse/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/460b1ff4-234f-462c-8273-42ca585ca659.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Art Tatum
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1c402acc-3192-4336-837d-632db6c11277.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Art Tatum
 https://drive.uber.radio/uber-app/jjrarttatum/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/90d5e2b0-6e9d-419f-a15d-8d2b2756a42a.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Benny Goodman
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/cd64b435-5399-4f85-a646-af300dff2f94.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Benny Goodman
 https://drive.uber.radio/uber-app/jjrbennygoodman/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/89451de7-360b-4094-82d2-525db49b4f92.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Bessie Smith
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b991bbfd-00ed-4685-a850-9a7c219272df.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Bessie Smith
 https://drive.uber.radio/uber-app/jjrbessiesmith/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7f5c41d3-76ba-4c7e-905f-d4365ef2232a.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Bill Evans
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/840f27ef-2896-45d1-94af-a93bf4935f5f.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Bill Evans
 https://drive.uber.radio/uber-app/jjrbillevans/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/563a7189-cae5-49d6-8eef-7edd0b53b0e3.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Billie Holiday
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5d0d8ebf-d279-4664-96e1-c2c76fbea797.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Billie Holiday
 https://drive.uber.radio/uber-app/jjrbillieholiday/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f574c3d6-b4fe-4661-9c46-93bafe2d4099.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Buddy Rich
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d8f70aa2-2c87-471b-bafb-a95fe2ba9d72.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Buddy Rich
 https://drive.uber.radio/uber-app/jjrbuddyrich/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f6a02731-3909-44d2-b3f5-6ac97f59de0c.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Charles Mingus
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c9e01deb-4315-446c-8d5f-37b49a6edb6e.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Charles Mingus
 https://drive.uber.radio/uber-app/jjrcharlesmingus/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/81a47918-9f2e-4e79-a672-69d438701387.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Charlie Parker
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5033aa65-fd5e-42ff-ab8b-a6f2e5ca1076.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Charlie Parker
 https://drive.uber.radio/uber-app/jjrcharlieparker/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/7e899a79-c527-45cb-aec2-82b284378203.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Chet Baker
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0183a043-5259-4f3b-b82f-682fb974b37d.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Chet Baker
 https://drive.uber.radio/uber-app/jjrchetbaker/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a610a5a3-d582-49b5-8aa2-fb2ae290df32.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Count Basie
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1b23e98a-a65d-4c49-92ea-47c4abe38df5.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Count Basie
 https://drive.uber.radio/uber-app/jjrcountbasie/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/615be883-3e28-44b2-91d3-7aa2c666bdbd.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Dave Brubeck
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/bf4e9904-c8cf-4205-99fd-53b294dd4bce.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Dave Brubeck
 https://drive.uber.radio/uber-app/jjrdavebrubeck/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/9b225f8b-a7c5-4ca7-a25d-ced3e51af46d.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Diana Krall
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/78d92100-9ce8-4c42-a2ac-ae9375685130.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Diana Krall
 https://drive.uber.radio/uber-app/jjrdianakrall/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0476d032-388d-4e1b-a017-d4150bdeffbc.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Dinah Washington
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5aa3c40b-32b0-4c08-9145-bc7885c2a634.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Dinah Washington
 https://drive.uber.radio/uber-app/jjrdinahwashington/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/ad1c5a2d-c43f-4bd8-9eb7-e133844ad4ba.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Dizzy Gillespie
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fe235da4-7ac9-44f5-b4a2-3284f7c73663.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Dizzy Gillespie
 https://drive.uber.radio/uber-app/jjrdizzygillespie/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/322608e4-387c-46ab-8548-cc85e2a5a0a8.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Django Reinhardt
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8a8e5b13-4c5f-435f-acc9-3fbbb159e325.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Django Reinhardt
 https://drive.uber.radio/uber-app/jjrdjangoreinhardt/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/73d93874-9374-42ed-9a8d-ff635401a7f1.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Duke Ellington
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b039f113-bade-43e6-8b4c-0c51e7111305.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Duke Ellington
 https://drive.uber.radio/uber-app/jjrdukeellington/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5f09d990-0bd1-4d71-b558-4abc807cac79.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Ella Fitzgerald
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/adf81f48-3e5e-4018-84f7-b36f7e3bccf9.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Ella Fitzgerald
 https://drive.uber.radio/uber-app/jjrellafitzgerald/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b1b9ed8b-3dc0-4368-a9c1-e4dec7d33a8d.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Fats Waller
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8c410b86-4614-4000-a39a-26979d3cb7d2.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Fats Waller
 https://drive.uber.radio/uber-app/jjrfatswaller/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/24b6708a-afb1-48d9-8fea-20243110a168.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Frank Sinatra
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/05bd3f95-2b0c-49a7-9db6-c473380ccb5f.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Frank Sinatra
 https://drive.uber.radio/uber-app/jjrfranksinatra/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/884b2b13-061a-4de5-83cd-01689c006890.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",George Benson
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/332a0299-9359-48b4-b89e-ea48033aba4c.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",George Benson
 https://drive.uber.radio/uber-app/jjrgeorgebenson/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f54229e4-fa7c-415f-a5d9-8d7996c62d4f.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",George Shearing
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f88840a9-5564-4dd9-9f70-04ced63c54e9.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",George Shearing
 https://drive.uber.radio/uber-app/jjrgeorgeshearing/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3a3bfd9a-45f5-4c28-84bd-4427d24fe1ce.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Glenn Miller
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8da7a437-5a80-4d2a-a840-008e31feb456.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Glenn Miller
 https://drive.uber.radio/uber-app/jjrglenmiller/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/15783ece-aa9e-43bb-8e2b-0dbf90d26d2e.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Gregory Porter
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/267c0c7e-5825-4a88-b191-603b79618cd6.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Gregory Porter
 https://drive.uber.radio/uber-app/jjrgregoryporter/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/39747336-1dfb-4592-9c9d-dbe0abc42b0e.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Harry Connick Jr
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3d32033e-23df-4e6b-a050-d09966d1394f.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Harry Connick Jr
 https://drive.uber.radio/uber-app/jjrharryconnickjr/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/35cbe680-2240-4717-baf2-d6561ad41ac6.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Herbie Hancock
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/acb3d26e-90d9-464b-b091-237eadc4708f.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Herbie Hancock
 https://drive.uber.radio/uber-app/jjrherbiehancock/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6ab16ad9-0c27-4c8a-afa6-65a6799f28b8.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Jacques Loussier
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/691985da-ae4d-4bd1-9f1f-c7a98e046692.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Jacques Loussier
 https://drive.uber.radio/uber-app/jjrjacquesloussier/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/de367a01-ad83-41c7-bb1a-4b774b282516.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Jamie Cullum
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6bbcac29-6932-4131-b07b-da7f08c82b96.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Jamie Cullum
 https://drive.uber.radio/uber-app/jjrjamiecullum/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/799b3b05-d05a-4715-9576-78fe0e500488.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Jimmy Scott
-https://drive.uber.radio/uber-app/jjrjimmyscott/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b2d1cdac-b492-4274-a0e6-9302c3b49196.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",John Coltrane
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2c4b0779-fadf-4930-918b-2be0fa52eade.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",John Coltrane
 https://drive.uber.radio/uber-app/jjrjohncoltrane/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fb5eeeef-59eb-4835-afa9-4665359352b0.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Kenny G
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/14b4dc1f-b608-4ce5-b55e-4c9cb1813766.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Kenny G
 https://drive.uber.radio/uber-app/jjrkennyg/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f70f7985-0d20-4689-b0cc-21d3a5192c46.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Louis Armstrong
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/146f265a-496f-496c-8064-f6001409e658.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Louis Armstrong
 https://drive.uber.radio/uber-app/jjrlouisarmstrong/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b8e7d145-001f-442a-b9bb-1be9a9739b9e.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Louis Jordan
-https://drive.uber.radio/uber-app/jjrlouisjordan/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e7a12584-c622-4280-9621-79a0b78be66a.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Michael Buble
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2ed83cfb-3edd-4e40-bb47-75bd4547d838.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Michael Buble
 https://drive.uber.radio/uber-app/jjrmichaelbuble/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e58fb33c-7f30-4224-b501-cbb508d1b316.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Miles Davis
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/24351a81-e8ba-42a2-91d6-cfcf3d01ced1.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Miles Davis
 https://drive.uber.radio/uber-app/jjrmilesdavis/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/682b5f56-698a-416e-a86e-56675d5da3cb.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Nat King Cole
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/72066c2c-7d44-49cc-a176-1bfc3797d685.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Nat King Cole
 https://drive.uber.radio/uber-app/jjrnatkingcole/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e6023f05-5fdf-4e54-967c-724a4e98ed89.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Nina Simone
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5e9f9d6f-b7bb-4d26-b5fd-d1f1cbab51ca.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Nina Simone
 https://drive.uber.radio/uber-app/jjrninasimone/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e8be626f-f5ec-4457-9bb6-7d236b54d56c.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Norah Jones
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/9212a2df-3536-4686-8eb1-254c6d9789f6.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Norah Jones
 https://drive.uber.radio/uber-app/jjrnorahjones/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/dd723d6a-cac1-40dd-b138-8facc7b49167.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Oscar Peterson
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e52ef3ed-901c-4def-aa7c-74fe735a5f7d.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Oscar Peterson
 https://drive.uber.radio/uber-app/jjroscarpeterson/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6a41a928-4c22-45bd-a25d-267d06a0b17b.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Pat Metheny
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/95291851-736a-423e-95a3-8a0c93822aac.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Pat Metheny
 https://drive.uber.radio/uber-app/jjrpatmetheny/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/af9c8329-87f8-46f9-8eb2-fd88f0c8a708.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Peggy Lee
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fe3636fc-f026-45a4-8b05-eb60cd50b890.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Peggy Lee
 https://drive.uber.radio/uber-app/jjrpeggylee/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/250eb45d-1a0b-4d38-bc60-eada6c32b68e.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Ray Charles
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d35e2887-46a8-4945-8950-0e233fb760d3.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Ray Charles
 https://drive.uber.radio/uber-app/jjrraycharles/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a600ac5d-59c4-4b24-929d-7e9d49d89173.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Sarah Vaughan
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/65e97bff-9e55-4b08-99dd-5df1f0cc6297.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Sarah Vaughan
 https://drive.uber.radio/uber-app/jjrsarahvaughan/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/9e6d83e5-91de-49f5-85bb-e284c02e636c.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Sonny Rollins
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/15d5ddf8-e45b-400e-87c8-76f9d7b79a4f.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Sonny Rollins
 https://drive.uber.radio/uber-app/jjrsonnyrollins/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/20db3713-edbd-453a-8c34-6061c25596bc.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Stan Getz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3f40e905-0e74-4406-af3f-15a7d532d4df.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Stan Getz
 https://drive.uber.radio/uber-app/jjrstangetz/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/eff7c31d-1b7f-4bb3-8d51-00c62169e209.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Stephane Grappelli
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5857b87d-5ab6-4f18-b1fe-7e885d3bcabe.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Stephane Grappelli
 https://drive.uber.radio/uber-app/jjrstephanegrappelli/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e5b438f5-e660-4ccf-9dc1-26e0109cc9b1.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Thelonius Monk
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d4231ee2-8403-4196-bacf-b027a248e2cd.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Thelonius Monk
 https://drive.uber.radio/uber-app/jjrtheloniusmonk/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f2076f6e-aa5f-4baf-891c-bde8779949e0.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Woody Herman
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a4ad0f4b-ce51-47f3-80d1-f55c29000ba8.png" group-title="Just Jazz Radio" feed-title="Just Jazz Radio",Woody Herman
 https://drive.uber.radio/uber-app/jjrwoodyherman/icecast.audio

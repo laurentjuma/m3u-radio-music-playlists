@@ -1,31 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fa9eec37-962f-44df-8c44-ba8e106702f6.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Blues
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1a00212a-ea33-4a6a-b628-a27c43fca54d.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Smooth Jazz
+https://drive.uber.radio/uber-app/jjrsmooth/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/440a0685-f51e-4ee6-9c1c-271b7efbeab9.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Blues
 https://drive.uber.radio/uber-app/starboxblues/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/62ee6a9a-e3da-4dd4-8828-d870736bfd12.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Christmas Pop
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/bb9dca37-d54f-4b62-aa9f-fe8d2d96cf57.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Christmas Hits
 https://streaming.exclusive.radio/er-app/christmaspop/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/05eba916-9b3c-4d82-b59d-99caa8ff380f.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Easy
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/73cf8881-38f7-42e4-a739-a169ac51c83a.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Easy
 https://drive.uber.radio/uber-app/starboxeasy/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e812eaee-42ad-43c7-9df1-179be1005f28.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Hollywood & Broadway Musicals
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e1383551-2555-4bae-981c-a8aeb76edc55.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Hollywood & Broadway Musicals
 https://streaming.exclusive.radio/er-app/hollywoodandbroadway/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2f3fb33e-593e-4516-8484-7a5ecfc38bf1.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Indie
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8b12e921-4447-42a7-b127-0c4cf90b7306.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Indie
 https://drive.uber.radio/uber-app/starboxindie/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d6edc7c6-fddf-46be-b60d-b6631d00df3c.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Northern Soul
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/f851db1b-9093-4322-9a35-da8ca5b2b140.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Latin Party
+https://live2.mystreaming.net/uber-app/latinparty/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a88cff5a-2485-4b9f-8d9f-015dbe18e681.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Northern Soul
 https://drive.uber.radio/uber-app/starboxnorthernsoul/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/4dec7aa9-7ca9-4fc9-a024-96c52ab22ef6.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Party
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/61f24268-8ab9-48ec-a9b9-d475bb09a110.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Party
 https://streaming.exclusive.radio/er-app/party/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8b768284-bfc6-448b-93ba-23de55761d9b.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Reggae
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d731f5b0-c732-420b-82c5-d435d5a49775.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Reggae
 https://drive.uber.radio/uber-app/starboxreggae/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c6df0a49-98b3-4578-889d-f60e2b85ea70.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",RnB
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e60812c7-e8f9-44f0-8ef2-5d8e02271a6d.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Reggaeton Classics
+https://live2.mystreaming.net/uber-app/reggaetonclassics/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/30bc631b-8c98-40f6-ba28-3bb7713a0c56.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Reggaeton Now
+https://live2.mystreaming.net/uber-app/reggaetonnow/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/4ef5e845-b152-4d73-9728-95db059018a8.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",RnB
 https://drive.uber.radio/uber-app/starboxrnb/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/35c7f0e0-cf8a-4e5f-95d1-1d4490769a60.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Rock
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8c4240a3-68b3-4573-ac2f-f18e56fd8c54.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Rock
 https://drive.uber.radio/uber-app/starboxrock/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fd162acc-f827-4859-b283-8ca664f0cb8a.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Rock N Roll
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/ab1e3581-7740-4276-85c9-17073b5d1f36.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Rock N Roll
 https://streaming.exclusive.radio/er-app/rocknrollparty/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/94a58f73-9dac-4f38-a580-47736aca5f79.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Soul
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/76081dcc-b50c-4623-a99c-09da5cd393f8.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Soul
 https://drive.uber.radio/uber-app/starboxsoul/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/db2b1ec3-ebe2-48cc-99e0-893a4fe6ddad.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",The Best Of Glastonbury 2025
-https://drive.uber.radio/uber-app/festivals/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3d27dc5a-8c27-43bf-964f-52e1260ab17e.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Todays Hits
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0e021b48-e4f8-4d14-b7b6-714af3b5266a.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Todays Hits
 https://streaming.exclusive.radio/er-app/chart/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a8fc7978-44f0-49ad-8685-631c0b66a9d8.png" group-title="Best Of You Radio" feed-title="Best Of You Radio",Wake Up - The Best Of Protest Songs
-https://drive.uber.radio/uber-app/wake/icecast.audio

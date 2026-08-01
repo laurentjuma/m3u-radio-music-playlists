@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/68cf5138-97e2-46d7-9296-b6c453459029.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Festive Christmas Carols
-https://streaming.exclusive.radio/er-app/christmascarols/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/ac5f588d-6781-4dcf-82c7-fdcb6da653f8.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Good Night
 https://streaming.positivity.radio/pr-app/goodnight/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/02e57f13-6aeb-4e38-be48-e19c6c5bbe81.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Good Evening
@@ -41,34 +39,40 @@ https://drive.uber.radio/uber-app/asmrmix/icecast.audio
 https://drive.uber.radio/uber-app/asmrmouthsounds/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e5b013be-8e5c-4707-9f45-ed5dfd1ecf22.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively ASMR River Flow
 https://drive.uber.radio/uber-app/asmrsleep/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d36b91dd-322e-4005-bbf4-3e3fb98fd9de.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Binaural
+https://streaming.positivity.radio/pr-app/posivibe/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0f095e9a-98c8-4ad1-bbc8-b30f24bf9abe.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Bowls
 https://streaming.positivity.radio/pr-app/bowls/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/105614e4-f852-42d8-ab77-7d10b03b46c7.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Calm
 https://streaming.positivity.radio/pr-app/calm/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/004676ee-47e8-42d7-a013-58314d4eb985.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Calm Kids
 https://streaming.positivity.radio/pr-app/calmkids/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/4ee384c2-df1d-4cf3-a183-a3596d614f9a.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Calming 396Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8c6a9d3e-99f7-4275-9a09-165901339175.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Calming 396Hz
 https://streaming.positivity.radio/pr-app/calming/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fe8a01b1-7510-4579-81bc-b081259245dc.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Cascade
 https://streaming.positivity.radio/pr-app/posicascade/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/845cdd4a-e5de-4b8b-84e1-71847a2b1212.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Chants
 https://streaming.positivity.radio/pr-app/chants/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/68cf5138-97e2-46d7-9296-b6c453459029.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Christmas Carols
+https://streaming.exclusive.radio/er-app/christmascarols/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/353960bf-432e-4ee2-a2db-ac82921c77a9.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Classical
 https://streaming.positivity.radio/pr-app/posiclassical/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/dc0f23c3-5262-446b-a641-926901eb872b.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Compassion 639Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c0d44816-9f33-4372-90fc-2fd317013e58.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Coffee And Chill
+https://streaming.positivity.radio/pr-app/coffee/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/59834d52-0527-4f6e-893f-f656389ebd3a.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Compassion 639Hz
 https://streaming.positivity.radio/pr-app/compassion/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/ce3c1beb-0111-47da-83f6-11cb95e1927b.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Country
 https://streaming.positivity.radio/pr-app/country/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0838e29f-369c-4238-938c-65a1004e67e5.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Detox 741Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/df61a8cd-0c28-42f7-b2cb-0d30186aff6c.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Detox 741Hz
 https://streaming.positivity.radio/pr-app/detox/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8c2ce12e-a647-491b-855a-cc233c6169d0.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Easy
 https://streaming.positivity.radio/pr-app/posieasy/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/8f9c9873-0e19-4eac-a3e7-4537720c40b2.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Energy
-https://streaming.positivity.radio/pr-app/energy/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2c95f1d4-d34d-479f-b39b-4c961c2da75f.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Enlightening 936Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/dc9d92f6-755f-451d-a852-073ae149ffd6.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Enlightening 936Hz
 https://streaming.positivity.radio/pr-app/enlightening/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/4d88d6aa-ca72-46dd-bf10-db06c83a43c7.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Focus
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5a832025-aff9-400d-b366-ac3a694b10a7.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Focus
 https://streaming.positivity.radio/pr-app/posisuccessful/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/ac4427f4-de8a-46d8-a503-5333e81419fd.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Freedom
+https://drive.uber.radio/uber-app/wake/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/1cc0d47f-1569-4bd6-83a6-b9ce68324ced.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Gold
 https://streaming.positivity.radio/pr-app/posigold/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b34ef898-1c8a-4189-8276-5f9b77daa361.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Gongs
@@ -77,11 +81,11 @@ https://streaming.positivity.radio/pr-app/gongs/icecast.audio
 https://streaming.positivity.radio/pr-app/happy/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/eba644eb-897e-441d-82f4-1249a03d8c4f.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Harp
 https://streaming.positivity.radio/pr-app/harp/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/80cbb083-a7f5-40c7-8145-6865d520d788.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Healing 285Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d4bdc3a9-af01-4587-883e-29d23137cb24.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Healing 285Hz
 https://streaming.positivity.radio/pr-app/healing/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b568f63b-12ed-4b2f-a79d-e8eab13f712e.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Instrumental
 https://streaming.positivity.radio/pr-app/soothinginstrumental/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/29e0e942-a279-4839-9df8-62985fae9c56.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Intuition 852Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/52caefce-e75a-467d-900a-6a2546babc6d.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Intuition 852Hz
 https://streaming.positivity.radio/pr-app/intuition/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/60ca7ecf-617d-46ca-bd40-31ae1a5aef43.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Jazz
 https://streaming.positivity.radio/pr-app/jazz/icecast.audio
@@ -91,23 +95,25 @@ https://streaming.positivity.radio/pr-app/posilove/icecast.audio
 https://streaming.positivity.radio/pr-app/massage/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/6b82f1f4-8ac2-4d42-9908-34c40c79a257.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Meditation
 https://streaming.positivity.radio/pr-app/posimeditation/icecast.audio
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/5e7fbd7a-578e-4164-9533-35afb2f6a2ec.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Mood Boost
+https://streaming.positivity.radio/pr-app/energy/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a3506d94-3a61-40c9-875f-b5c671881de4.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Motivation
 https://streaming.positivity.radio/pr-app/motivation/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a392265d-35bc-44a3-95d1-04b8c4f39684.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Ocean
 https://streaming.positivity.radio/pr-app/posiocean/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/da60976c-6fa6-48b4-b616-97214481ff98.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Pain Relief 174Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a234f241-511a-4ed2-b748-41419ee9d3f8.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Pain Relief 174Hz
 https://streaming.positivity.radio/pr-app/painrelief/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0f7c536e-112e-465b-b6c7-b8bbbaef1218.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Pan Pipes
 https://streaming.positivity.radio/pr-app/panpipes/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/3999b5c4-8c70-4055-a85a-a7a2b92d3cbd.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Peaceful 432Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/d705c896-293d-4a72-badc-818b42731caa.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Peaceful 432Hz
 https://streaming.positivity.radio/pr-app/posipeaceful/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e4bebaf0-c36e-4ce9-b35a-a15022db7228.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Piano
 https://streaming.positivity.radio/pr-app/piano/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/54e58486-21e1-4e7d-b731-90e28d71d9ca.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Pilates
 https://streaming.positivity.radio/pr-app/pilates/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c504b8e4-ad2e-4a1a-a146-5725a4aef01f.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Reiki
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/e9cd2705-898b-45be-a4ae-2b40b1fe4710.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Reiki
 https://streaming.positivity.radio/pr-app/reiki/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/61662c9c-3f89-4151-804a-f1f7e9207533.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Rejuvenate 528 Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/b069bccc-7a48-40d5-9230-2ccb2f76c3f6.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Rejuvenate 528 Hz
 https://streaming.positivity.radio/pr-app/rejuvenate/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/05195052-fc0f-4478-afe1-359cb12fa6e7.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Relaxation
 https://streaming.positivity.radio/pr-app/relaxation/icecast.audio
@@ -143,10 +149,8 @@ https://streaming.positivity.radio/pr-app/stressrelief/icecast.audio
 https://streaming.positivity.radio/pr-app/taichi/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/9b184bd2-04a7-4126-99ae-365720d1c457.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Tranquil
 https://streaming.positivity.radio/pr-app/positranquil/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/240002ea-2a00-4f83-aa8e-01789fa230bd.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Uplifting 417Hz
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/a44aaaf4-6348-4b4b-a8f9-ee199d5e44d4.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Uplifting 417Hz
 https://streaming.positivity.radio/pr-app/uplifting/icecast.audio
-#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/276f1ff6-4ac3-4ee1-bf2e-3711de267ee1.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Vibe
-https://streaming.positivity.radio/pr-app/posivibe/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/c627d740-6e00-45a3-a2da-4b00b5e7f3a0.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively Vibrant
 https://streaming.positivity.radio/pr-app/vibrant/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/fa699026-e291-4da2-b4a0-90cf84697828.png" group-title="Positivity Radio" feed-title="Positivity Radio",Positively White Noise
