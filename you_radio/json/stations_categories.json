@@ -1235,12 +1235,12 @@
             },
             {
                 "name": "90s90s",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/90s90s_Logo_2017.svg/1200px-90s90s_Logo_2017.svg.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/90s90s_Logo_2017.svg/500px-90s90s_Logo_2017.svg.png",
                 "genre_m3u_id": "90s90s.m3u"
             },
             {
                 "name": "80s80s",
-                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/80s80s_Logo_2015.svg/739px-80s80s_Logo_2015.svg.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/80s80s_Logo_2015.svg/500px-80s80s_Logo_2015.svg.png",
                 "genre_m3u_id": "80s80s.m3u"
             },
             {
