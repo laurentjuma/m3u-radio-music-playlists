@@ -445,7 +445,7 @@
                 "name": "Guinea-Bissau",
                 "logo": "guinea-bissau",
                 "code": "GW",
-                "genre_m3u_id": "+checked+/g/guinea-bissau.m3u"
+                "genre_m3u_id": "+checked+/g/guinea_bissau.m3u"
             },
             {
                 "name": "Guyana",
@@ -469,7 +469,7 @@
                 "name": "Hong Kong",
                 "logo": "hongkong",
                 "code": "HK",
-                "genre_m3u_id": "+checked+/h/hongkong.m3u"
+                "genre_m3u_id": "+checked+/h/hong_kong.m3u"
             },
             {
                 "name": "Hungary",
@@ -667,7 +667,7 @@
                 "name": "Marshall Islands",
                 "logo": "marshall-islands",
                 "code": "MH",
-                "genre_m3u_id": "+checked+/m/marshall-islands.m3u"
+                "genre_m3u_id": "+checked+/m/marshall_islands.m3u"
             },
             {
                 "name": "Mauritania",
@@ -1044,7 +1044,8 @@
             {
                 "name": "St. Eustatius",
                 "logo": "st-eustatius",
-                "code": "BQ"
+                "code": "BQ",
+                "genre_m3u_id": "+checked+/b/bonaire_sint_eustatius_and_saba.m3u"
             },
             {
                 "name": "St. Martin",
@@ -1074,7 +1075,7 @@
                 "name": "Taiwan",
                 "logo": "taiwan",
                 "code": "TW",
-                "genre_m3u_id": "+checked+/s/taiwan.m3u"
+                "genre_m3u_id": "+checked+/t/taiwan.m3u"
             },
             {
                 "name": "Tajikistan",
