@@ -11,28 +11,43 @@ const CATEGORY_BASE = {
     brands: 'you_radio/m3u/stations/'
 };
 
-// Pull the display names out of an M3U file (the text after the comma on #EXTINF)
+// Pull the display names out of an M3U file (the text after the comma on #EXTINF).
+// Entries with no stream URL after the #EXTINF line are left out.
 function readStationNames(m3uPath) {
     const lines = fs.readFileSync(m3uPath, 'utf8').split('\n');
     const names = [];
+    let linkless = 0;
 
-    for (const line of lines) {
-        if (!line.startsWith('#EXTINF')) {
+    for (let i = 0; i < lines.length; i++) {
+        if (!lines[i].startsWith('#EXTINF')) {
             continue;
         }
 
-        const comma = line.indexOf(',');
+        const comma = lines[i].indexOf(',');
         if (comma === -1) {
             continue;
         }
 
-        const name = line.slice(comma + 1).trim();
-        if (name) {
-            names.push(name);
+        const name = lines[i].slice(comma + 1).trim();
+        if (!name) {
+            continue;
         }
+
+        // The link is the next non-blank line; another directive means there is none
+        let next = i + 1;
+        while (next < lines.length && !lines[next].trim()) {
+            next++;
+        }
+
+        if (next >= lines.length || lines[next].startsWith('#')) {
+            linkless++;
+            continue;
+        }
+
+        names.push(name);
     }
 
-    return names;
+    return { names, linkless };
 }
 
 function generateIndex() {
@@ -40,6 +55,7 @@ function generateIndex() {
     const index = {};
     const skipped = [];
     let stationCount = 0;
+    let linklessCount = 0;
 
     for (const [category, data] of Object.entries(categories)) {
         const base = CATEGORY_BASE[category];
@@ -67,8 +83,11 @@ function generateIndex() {
                 console.warn(`! Duplicate id "${id}" (${category}/${genre.name}), overwriting`);
             }
 
-            index[id] = readStationNames(m3uPath);
-            stationCount += index[id].length;
+            const { names, linkless } = readStationNames(m3uPath);
+
+            index[id] = names;
+            stationCount += names.length;
+            linklessCount += linkless;
         }
     }
 
@@ -76,6 +95,7 @@ function generateIndex() {
 
     console.log(`✓ Wrote ${path.relative(repoRoot, outPath)}`);
     console.log(`  ${Object.keys(index).length} playlists, ${stationCount} stations`);
+    console.log(`  Omitted ${linklessCount} stations with no link`);
 
     if (skipped.length) {
         console.log(`\nSkipped ${skipped.length} entries:`);
