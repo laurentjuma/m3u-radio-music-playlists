@@ -71,3 +71,51 @@ http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio
 http://gb25.streamgates.net/radios-audio/100Selfie/icecast.audio
 #EXTINF:-1 tvg-popularity="88" tvg-logo="https://item.radio456.com/007452/330159/logo-84864.png" group-title="Pop" feed-title="100 fm",100fm - 100% Special
 http://gb25.streamgates.net/radios-audio/100Special/icecast.audio
+#EXTINF:-1 tvg-popularity="89" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-2000s.png" group-title="Oldies" feed-title="100 fm",100fm - 100% 2000's
+http://gb25.streamgates.net/radios-audio/1002000s/icecast.audio
+#EXTINF:-1 tvg-popularity="90" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-legends.png" group-title="Oldies" feed-title="100 fm",100fm - 100% Legends
+http://gb25.streamgates.net/radios-audio/100Legends/icecast.audio
+#EXTINF:-1 tvg-popularity="91" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-classicrock.png" group-title="Rock" feed-title="100 fm",100fm - 100% Classic Rock
+http://gb25.streamgates.net/radios-audio/100ClassicRock/icecast.audio
+#EXTINF:-1 tvg-popularity="92" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-blues.png" group-title="Blues" feed-title="100 fm",100fm - 100% Blues
+http://gb25.streamgates.net/radios-audio/100Blues/icecast.audio
+#EXTINF:-1 tvg-popularity="93" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-country.png" group-title="Country" feed-title="100 fm",100fm - 100% Country
+http://gb25.streamgates.net/radios-audio/100Country/icecast.audio
+#EXTINF:-1 tvg-popularity="94" tvg-logo="https://d203uamca1bsc4.cloudfront.net/img/kpop.png" group-title="K-Pop" feed-title="100 fm",100fm - 100% K-Pop
+http://gb25.streamgates.net/radios-audio/100kpop/icecast.audio
+#EXTINF:-1 tvg-popularity="95" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-tiktok.png" group-title="Pop" feed-title="100 fm",100fm - 100% TikTok
+http://gb25.streamgates.net/radios-audio/100Tiktok/icecast.audio
+#EXTINF:-1 tvg-popularity="96" tvg-logo="https://d203uamca1bsc4.cloudfront.net/img/stars.png" group-title="Kids" feed-title="100 fm",100fm - 100% Stars
+http://gb25.streamgates.net/radios-audio/100Stars/icecast.audio
+#EXTINF:-1 tvg-popularity="97" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-kids.png" group-title="Kids" feed-title="100 fm",100fm - 100% Kids
+http://gb25.streamgates.net/radios-audio/100Kids/icecast.audio
+#EXTINF:-1 tvg-popularity="98" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-disney.png" group-title="Soundtracks" feed-title="100 fm",100fm - 100% Disney
+http://gb25.streamgates.net/radios-audio/100Disney/icecast.audio
+#EXTINF:-1 tvg-popularity="99" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-relax.png" group-title="Easy Listening" feed-title="100 fm",100fm - 100% Relax
+http://gb25.streamgates.net/radios-audio/100Relax/icecast.audio
+#EXTINF:-1 tvg-popularity="100" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-karaoke.png" group-title="Pop/Variety" feed-title="100 fm",100fm - 100% Karaoke
+http://gb25.streamgates.net/radios-audio/100karaoke/icecast.audio
+#EXTINF:-1 tvg-popularity="101" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-vip.png" group-title="Pop/Variety" feed-title="100 fm",100fm - 100% VIP
+http://gb25.streamgates.net/radios-audio/100Vip/icecast.audio
+#EXTINF:-1 tvg-popularity="102" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-tomer.png" group-title="Dance" feed-title="100 fm",100fm - 100% Tomer Maizner
+http://gb25.streamgates.net/radios-audio/100Tomer/icecast.audio
+#EXTINF:-1 tvg-popularity="103" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-taklitia.png" group-title="Dance" feed-title="100 fm",100fm - 100% Taklitia
+http://gb25.streamgates.net/radios-audio/100Taklitia/icecast.audio
+#EXTINF:-1 tvg-popularity="104" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-france.png" group-title="World" feed-title="100 fm",100fm - 100% France
+http://gb25.streamgates.net/radios-audio/100France/icecast.audio
+#EXTINF:-1 tvg-popularity="105" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-greek.png" group-title="World" feed-title="100 fm",100fm - 100% Greek
+http://gb25.streamgates.net/radios-audio/100Greek/icecast.audio
+#EXTINF:-1 tvg-popularity="106" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-italian.png" group-title="World" feed-title="100 fm",100fm - 100% Italian
+http://gb25.streamgates.net/radios-audio/100Italian/icecast.audio
+#EXTINF:-1 tvg-popularity="107" tvg-logo="https://d203uamca1bsc4.cloudfront.net/img/russian.png" group-title="World" feed-title="100 fm",100fm - 100% Russian
+http://gb25.streamgates.net/radios-audio/891Digital/icecast.audio
+#EXTINF:-1 tvg-popularity="108" tvg-logo="https://d203uamca1bsc4.cloudfront.net/img/hot.png" group-title="World Middle East" feed-title="100 fm",100fm - 100% Hot
+http://gb25.streamgates.net/radios-audio/91Hot/icecast.audio
+#EXTINF:-1 tvg-popularity="109" tvg-logo="https://d203uamca1bsc4.cloudfront.net/img/yehudi.png" group-title="World Middle East" feed-title="100 fm",100fm - 100% Yehudi
+http://gb25.streamgates.net/radios-audio/100yehudi/icecast.audio
+#EXTINF:-1 tvg-popularity="110" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/t-hospitals.png" group-title="Pop/Variety" feed-title="100 fm",100fm - 100% Loewenstein
+http://gb25.streamgates.net/radios-audio/100Hospital/icecast.audio
+#EXTINF:-1 tvg-popularity="111" tvg-logo="https://d203uamca1bsc4.cloudfront.net/img/history.png" group-title="Talk" feed-title="100 fm",100fm - 100% History
+http://gb25.streamgates.net/radios-audio/100History/icecast.audio
+#EXTINF:-1 tvg-popularity="112" tvg-logo="https://d203uamca1bsc4.cloudfront.net/app/logo/x-standup.png" group-title="Talk" feed-title="100 fm",100fm - 100% Stand-up
+http://gb25.streamgates.net/radios-audio/100StandUp/icecast.audio
