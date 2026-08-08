@@ -6,7 +6,7 @@ http://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio
 #EXTINF:-1 tvg-popularity="6" tvg-logo="https://item.radio456.com/007452/330159/logo-84881.png" group-title="Jazz" feed-title="100 fm",100fm - 100% Jazz
 http://gb25.streamgates.net/radios-audio/100Jazz/icecast.audio
 #EXTINF:-1 tvg-popularity="8" tvg-logo="https://item.radio456.com/007452/330159/logo-87299.png" group-title="Classical" feed-title="100 fm",100fm - 100% Classic
-http://gb25.streamgates.net/radios-audio/100Classic/icecast.aud
+http://gb25.streamgates.net/radios-audio/100Classic/icecast.audio
 #EXTINF:-1 tvg-popularity="9" tvg-logo="https://item.radio456.com/007452/330159/logo-56718.png" group-title="Pop" feed-title="100 fm",100fm - 100% Hits
 http://gb25.streamgates.net/radios-audio/100Hits/icecast.audio
 #EXTINF:-1 tvg-popularity="10" tvg-logo="https://item.radio456.com/007452/330159/logo-84882.png" group-title="Soundtracks" feed-title="100 fm",100fm - 100% Movies
@@ -44,11 +44,11 @@ http://gb25.streamgates.net/radios-audio/100Rock/icecast.audio
 #EXTINF:-1 tvg-popularity="32" tvg-logo="https://item.radio456.com/007452/330159/logo-56722.png" group-title="Oldies" feed-title="100 fm",100fm - 100% Retro
 http://gb25.streamgates.net/radios-audio/100Retro/icecast.audio
 #EXTINF:-1 tvg-popularity="33" tvg-logo="https://item.radio456.com/007452/330159/logo-87300.png" group-title="Pop/Variety" feed-title="100 fm",100fm - 100% Covers
-http://gb25.streamgates.net/radios-audio/100Covers/icecast.aud
+http://gb25.streamgates.net/radios-audio/100Covers/icecast.audio
 #EXTINF:-1 tvg-popularity="34" tvg-logo="https://item.radio456.com/007452/330159/logo-87298.png" group-title="World Middle East" feed-title="100 fm",100fm - 100% Mizrachit
-http://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.aud
+http://gb25.streamgates.net/radios-audio/100Mizrachit/icecast.audio
 #EXTINF:-1 tvg-popularity="37" tvg-logo="https://item.radio456.com/007452/330159/logo-87295.png" group-title="Pop/Top 40" feed-title="100 fm",100fm - 100% Britpop
-http://gb25.streamgates.net/radios-audio/100Britpop/icecast.aud
+http://gb25.streamgates.net/radios-audio/100Britpop/icecast.audio
 #EXTINF:-1 tvg-popularity="38" tvg-logo="https://item.radio456.com/007452/330159/logo-84870.png" group-title="Electronica" feed-title="100 fm",100fm - 100% Trance
 http://gb25.streamgates.net/radios-audio/100Trance/icecast.audio
 #EXTINF:-1 tvg-popularity="40" tvg-logo="https://item.radio456.com/007452/330159/logo-84875.png" group-title="Rock" feed-title="100 fm",100fm - 100% Live
@@ -64,7 +64,7 @@ http://gb25.streamgates.net/radios-audio/91fm_digital_Hafla/icecast.audio
 #EXTINF:-1 tvg-popularity="56" tvg-logo="https://item.radio456.com/007452/330159/logo-84879.png" group-title="Soundtracks" feed-title="100 fm",100fm - 100% Gamer
 http://gb25.streamgates.net/radios-audio/100Gamer/icecast.audio
 #EXTINF:-1 tvg-popularity="61" tvg-logo="https://item.radio456.com/007452/330159/logo-87297.png" group-title="Rock" feed-title="100 fm",100fm - 100% Shlomo
-http://gb25.streamgates.net/radios-audio/100Shlomo/icecast.aud
+http://gb25.streamgates.net/radios-audio/100Shlomo/icecast.audio
 #EXTINF:-1 tvg-popularity="68" tvg-logo="https://item.radio456.com/007452/330159/logo-84869.png" group-title="Dance" feed-title="100 fm",100fm - 100% Workout
 http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio
 #EXTINF:-1 tvg-popularity="87" tvg-logo="https://item.radio456.com/007452/330159/logo-84878.png" group-title="Pop" feed-title="100 fm",100fm - 100% Selfie
