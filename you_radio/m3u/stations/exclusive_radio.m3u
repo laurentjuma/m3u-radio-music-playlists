@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/2bf92cf0-a842-49c5-b852-12ff8f69f357.jpg" group-title="Exclusive Radio" feed-title="Exclusive Radio",50 Cent
+https://streaming.exclusive.radio/er-app/50cent/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/0ef0466b-b8a1-40b7-ab7c-e065a4217ab2.jpg" group-title="Exclusive Radio" feed-title="Exclusive Radio",a-ha
 https://streaming.exclusive.radio/er-app/aha/icecast.audio
 #EXTINF:-1 tvg-country="United Arab Emirates" tvg-popularity="1" tvg-logo="https://manager.uber.radio/static/uploads/station/29d8abd5-1ed1-4f79-a0e0-868ce217e327.jpg" group-title="Exclusive Radio" feed-title="Exclusive Radio",A.R. Rahman
