@@ -1,5 +1,12 @@
 #EXTM3U
-#PLAYLIST:Online radio: HARDROCK Music (www.radio.pervii.com)
+#EXTINF:-1,Best Of Rock.FM Hard Rock - 0 - Germany - bluesrock - classic rock - hardrock - rock - stonerrock
+https://radio21.streamabc.net/radio21-hardrock-mp3-256-1630702?sABC=6n78939o%230%2316npr9r80rr2r351n21r3rq273o4s2r6%23orfgbsebpx.sz&aw_0_1st.playerid=bestofrock.fm&amsparams=playerid:bestofrock.fm;skey:1786287003
+#EXTINF:-1,Pirate Rock  Västkustens bästa rock - 192 - Sweden - classic rock - hardrock - rock
+http://streams.radiobob.de/bob-hardrock/mp3-192/streams.radiobob.de/play.m3u
+#EXTINF:-1,DrGnu - Symphonic Metal  - 0 - Germany - 1980s - 2010s - 2020s - 21st century - alternative/indie - classic rock - classic/dance/pop-rock - classical music - cream - digitalradio - drgnu - europe - hardrock - heavy rock (e.g. led zeppelin - hendrix) - james taylor) - livestream - metal - metal (e.g. iron maiden) - musik - opera metal - prog / symphonic rock (e.g. yes) - punk rock (e.g. sex pistols) - rock - singer/songwriter (e.g. paul simon - symphonic metal
+http://fluxfm.streamabc.net/flx-fluxfmberlin-mp3-320-3394445?sABC=6n78939o%230%232qpn85rrp88p28s3519pnqn6o21rsrp3%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1786287003
+#EXTINF:-1,Sound-Check RadioStation - 128 - Germany - aor - blues-rock - country-rock - fusion - hardrock - heavy-metal - jazzrock - melodic-rock - pop-rock - progrock - sleaze-/glamrock - southernrock - symphonic-metal - synthwave - westcoast
+https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac#PLAYLIST:Online radio: HARDROCK Music (www.radio.pervii.com)
 #EXTINF:-1 tvg-logo="" group-title="HARDROCK Radio", Metal Express Radio - 192 kbit/s
 http://s39.myradiostream.com:11590/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="HARDROCK Radio", Metal Rock Radio - 128 kbit/s
@@ -30,7 +37,6 @@ http://94.23.23.97:31836/stream/1/
 http://streamingp.shoutcast.com/JamendoLounge?lang=*
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="HARDROCK Radio", Black Magic Dwarf - 128 kbit/s
 http://blackmagicdwarf.stream.laut.fm/blackmagicdwarf?t302=2025-10-29_11-33-30&uuid=212c505a-4e70-4cd1-86b4-c21209b00eb8
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/2/1537694872.jpg" group-title="HARDROCK Radio", ClassicRock&amp;HardRock - 128 kbit/s
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/5/1556703425.jpg" group-title="HARDROCK Radio", I.R.O. - 128 kbit/s
 http://stadsradio-iro.be:3001/stream/1/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1572709508.jpg" group-title="HARDROCK Radio", Labgate Hard Rock - 128 kbit/s
@@ -41,15 +47,12 @@ http://songcastradio.com:9034/stream/1/
 https://shoutcast.christianrock.net/stream/4/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="HARDROCK Radio", radiosilenceone - 128 kbit/s
 http://radiosilenceone.stream.laut.fm/radiosilenceone?t302=2025-10-29_11-33-31&uuid=230c4bfe-b2d1-423b-8db1-15445da8bf20
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/1403554005.png" group-title="HARDROCK Radio", radio-barbarossa - 128 kbit/s
-http://radio-barbarossa.stream.laut.fm/radio-barbarossa?t302=2025-10-29_11-33-31&uuid=205a81e8-9553-4f21-b447-b1e7b2150153
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="HARDROCK Radio", Metal Rock Radio by Sonixcast - 128 kbit/s
 https://kathy.torontocast.com:2800/
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/8/1537613178.jpg" group-title="HARDROCK Radio", 2000 FM - Hard Rock - 128 kbit/s
 http://bigrradio.cdnstream1.com/5104_128
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1563707939.jpg" group-title="HARDROCK Radio", BlastFM Rock Radio - 256 kbit/s
 http://165.227.53.102:8000/stream/1/
-#EXTINF:-1 tvg-logo="http://radio.pervii.com/im/9/1563707939.jpg" group-title="HARDROCK Radio", HardRockArenaRadio - 128 kbit/s
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/im/0/1550934730.jpg" group-title="HARDROCK Radio", Metal Rock One - 128 kbit/s
 https://kathy.torontocast.com:2800/stream
 #EXTINF:-1 tvg-logo="http://radio.pervii.com/logo/4855.jpg" group-title="HARDROCK Radio", 181.FM The Rock! (Hard Rock) - 128 kbit/s
