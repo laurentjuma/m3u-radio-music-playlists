@@ -279,8 +279,6 @@ https://uk6.internet-radio.com/proxy/djvine1980?mp=/stream;
 https://streamingv2.shoutcast.com/the-lot-radio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103800/logo_Qe2NcL9Ixz.jpg?v=20260529-media-restore",Kiosk Radio
 https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/50745/logo_tJnMf98Snc.jpg?v=20260529-media-restore",BillFM
-https://visual.shoutca.st:8122/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/51132/logo_jKJl3qYzU2.jpg?v=20260529-media-restore",DanceUKRadio
 https://free.rcast.net/62182
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103921/logo_RqZoVCKI1I.jpg?v=20260529-media-restore",Intergalactic FM Cybernetic Broadcasting System
@@ -299,5 +297,3 @@ https://stream.kanefm.com:10375/;html5
 https://uk5.internet-radio.com/proxy/slightradio?mp=/live
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-ultradesertica-logo.jpg",Radio Ultradesertica
 https://s3.free-shoutcast.com/stream/18092/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cz-freeravecz-tekno-radio-logo.jpg",Freerave.cz - Tekno Radio
-http://164.68.122.137:8061/;

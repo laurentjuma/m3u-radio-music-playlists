@@ -821,36 +821,22 @@ https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/needs/playlist.m3u8
 https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/stars/playlist.m3u8
 #EXTINF:-1,Classical FM 97.7 - Taiwan - Taichung City
 https://onair.family977.com.tw:8977/live.mp3
-#EXTINF:-1,FM 101.7 國立教育廣播電臺 - 高雄分臺 - Taiwan - Kaohsiung City
-https://cast.ner.gov.tw/5
 #EXTINF:-1,GoGoRadio 桃園 FM104.3 - Taiwan - Taoyuan City
 https://fm1043.hr9d.com/gogoradio-fm1043
 #EXTINF:-1,I go AM531 - Taiwan - Taipei
 https://n03a-eu.rcs.revma.com/s7hc9kpy2tzuv
 #EXTINF:-1,i-radio 任意門計劃 - Taiwan - Taipei
 https://n05a-eu.rcs.revma.com/ndk05tyy2tzuv
-#EXTINF:-1,IC 之音 FM97.5 - Taiwan - ​Hsinchu City
-https://stream.rcs.revma.com/7mnq8rt7k5zuv
 #EXTINF:-1,ICRT FM100 - Taiwan - Taipei
 https://stream.rcs.revma.com/18pd8tztxp3vv
 #EXTINF:-1,MRadio - National Broadcast FM 106 - Taiwan - Taitung
 https://n21a-eu.rcs.revma.com/044q61ha7a0uv
 #EXTINF:-1,News 98 時時刻刻報新聞 - Taiwan - Taipei
 https://n05a-eu.rcs.revma.com/55tyxsy4qtzuv.m4a/;
-#EXTINF:-1,Taiwan Lounge Radio - Taiwan - Taoyuan City
-https://azuracast.conceptradio.fr/radio/8030/stream.mp3
 #EXTINF:-1,中廣新聞網 NewsRadio - Taiwan - Taipei
 https://n07a-eu.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1,中廣流行網 I Like Radio - Taiwan - Taipei
-https://stream.rcs.revma.com/aw9uqyxy2tzuv
-#EXTINF:-1,中廣鄉親網 BCC Country - Taiwan - Taipei
-https://stream.rcs.revma.com/p2e3rfg3qtzuv
 #EXTINF:-1,佳音電台 FM90.9 - Taiwan - Taipei
 https://fm909.hr9d.com/goodnews-fm909
-#EXTINF:-1,國立教育廣播電臺 - 臺東分臺 100.5 FM - Taiwan - Taitung
-https://cast.ner.gov.tw/7
-#EXTINF:-1,國立教育廣播電臺 - 臺東分臺 102.9 FM - Taiwan - Taitung
-https://cast.ner.gov.tw/6
 #EXTINF:-1,飛碟聯播網 Ufo Network - Taiwan - Taipei
 https://n10a-eu.rcs.revma.com/4yevzvbeewzuv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bcc-formosa-network-567485-logo.jpg",Radio BCC FORMOSA NETWORK
@@ -957,3 +943,21 @@ http://hichannel.hinet.net/player/radio/index.jsp?radio_id=241
 http://hichannel.hinet.net/player/radio/index.jsp?radio_id=215
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/voice-of-han-broadcasting-network-579118-logo.jpg",Radio Voice of Han Broadcasting Network
 http://hichannel.hinet.net/player/radio/index.jsp?radio_id=216
+#EXTINF:-1,警察广播台中台
+https://stream.pbs.gov.tw/live/TCS/playlist.m3u8
+#EXTINF:-1,警察广播高雄分台
+https://stream.pbs.gov.tw/live/KSS/playlist.m3u8
+#EXTINF:-1,BIG BIG MIX TW
+https://hi.bigbigmix.com/audio/stream1
+#EXTINF:-1,警察广播台北分台
+https://stream.pbs.gov.tw/live/TPS/playlist.m3u8
+#EXTINF:-1,警察广播台南分台
+https://stream.pbs.gov.tw/live/TNS/playlist.m3u8
+#EXTINF:-1,警察广播宜兰分台
+https://stream.pbs.gov.tw/live/ELS/playlist.m3u8
+#EXTINF:-1,警察广播台东分台
+https://stream.pbs.gov.tw/live/TTS/playlist.m3u8
+#EXTINF:-1,警察广播花莲分台
+https://stream.pbs.gov.tw/live/HLS/playlist.m3u8
+#EXTINF:-1,警察广播新竹分台
+https://stream.pbs.gov.tw/live/SCS/playlist.m3u8

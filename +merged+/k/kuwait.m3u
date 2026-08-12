@@ -1175,3 +1175,11 @@ http://78.129.159.205:8088/;
 http://96.44.147.34:7942/stream/1/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/muslim-starz-169866-logo.jpg",Radio Muslim Starz
 http://lush.wavestreamer.com:7979/;
+#EXTINF:-1,Kuwait General Radio
+https://kwtkrdota.cdn.mangomolo.com/k1rdo/k1rdo.stream_aac/chunklist.m3u8
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://s74.radiolize.com:8020/radio.mp3?t=1780673757445
+#EXTINF:-1,COKO Radio
+https://listen.radioking.com/radio/527335/stream/585745
+#EXTINF:-1,The Sound Social Radio
+https://listen.radioking.com/radio/223414/stream/266851

@@ -397,22 +397,8 @@ https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,Alefamusic - Madagascar - Antsiranana
 https://play.radioking.io/alefamusic/70388
-#EXTINF:-1,Hi&Fi Radio - Madagascar - Antananarivo
-https://listen.radioking.com/radio/52108/stream/89122
-#EXTINF:-1,Joy Radio Africa - Madagascar - Antananarivo
-https://audio-joyradioafricacom.bisericilive.com/joyradioafricacom.mp3
 #EXTINF:-1,MBS Radio 95.4 FM - Madagascar - Antananarivo
 https://stream.zeno.fm/vrwc8iesy7fuv
-#EXTINF:-1,Radio Emia FM 88.0 - Madagascar - Antananarivo
-https://emiaradio.ice.infomaniak.ch/emiaradio-48.aac
-#EXTINF:-1,Radio FMFOI 107.4MHz - Madagascar - Antananarivo
-https://stream.zeno.fm/tc6qiq23sz2uv
-#EXTINF:-1,Radio Maria Madagascar - Madagascar - Ambositra
-https://dreamsiteradiocp4.com/proxy/rmmadagascar?mp=/stream
-#EXTINF:-1,Radio Paradisagasy - Madagascar - Majunga
-https://stream.deevaradio.net:10443/paradisagasy
-#EXTINF:-1,RadioVazoGasy - Madagascar - Toamasina
-https://stream.radiovazogasy.com/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-fanambarana-591643-logo.jpg",Radio Fanambarana
 http://serveur.wanastream.com:21300/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-madagasikara-hoani-kristy-598195-logo.jpg",Radio Madagasikara hoan'i Kristy
@@ -457,3 +443,25 @@ http://str81.streamakaci.com:8000/;
 http://www.zoara-fanantenana.org:8280/;
 #EXTINF:-1 tv-logo="",Radio Orange Madagascar
 http://91.197.138.9:8000/;
+#EXTINF:-1,RDJ
+http://drs-live-rna.gasy-internet.info:9001/;
+#EXTINF:-1,Top Radio 102.8
+https://listen.radioking.com/radio/309053/stream/356036
+#EXTINF:-1,Radio Rock Madagascar
+https://tanjona.radioca.st/stream
+#EXTINF:-1,Radio Feon'ny Filazantsara
+https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6u0026port=8622u0026type=s1
+#EXTINF:-1,Radio Oasis
+https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3
+#EXTINF:-1,NetPro.TV Radio
+https://radio.netpro.tv/listen/netpro_radio/radio.mp3
+#EXTINF:-1,Hopefy Radio MG
+https://a9.asurahosting.com/listen/radio_mtv_madagacar/radio.mp3
+#EXTINF:-1,Hopefy Radio
+https://stream.radiovazogasy.com/stream?1_mp3=&t=1642690217
+#EXTINF:-1,Emmanuel Radio
+https://emmanuel.jireh.ovh/
+#EXTINF:-1,MRE webradio
+https://listen.radioking.com/radio/62953/stream/100504
+#EXTINF:-1,Cevam Radio
+https://listen.radioking.com/radio/331132/stream/379453

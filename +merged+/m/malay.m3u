@@ -1175,3 +1175,33 @@ http://ceriafm.iradio.work:8080/;stream.nsv
 https://freeus5.listen2myradio.com/live.mp3?typeportmount=s1_23311_stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/my-syok-osai-logo.jpg",Radio Syok Osai
 https://stream.rcs.revma.com/60s783vbv4uvv/hls.m3u8
+#EXTINF:-1,Syok Classic Rock
+https://stream.rcs.revma.com/fk3507vbv4uvv/hls.m3u8
+#EXTINF:-1,Gegar FM Maghi Gelek
+https://stream-eu-a.rcs.revma.com/97gya1w711uvv/51_1u9svxg0fdgdd02/playlist.m3u8
+#EXTINF:-1,Sinar FM Jiwang
+https://stream-eu-a.rcs.revma.com/5s38zah811uvv/68_3ff8k7870ke802/playlist.m3u8
+#EXTINF:-1,Sandakan FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SANDAKAN_FMAAC_SC
+#EXTINF:-1,Sinar FM IraMalaysia
+https://stream-eu-a.rcs.revma.com/mm13z8g811uvv/57_m5qwugbgh2d702/playlist.m3u8
+#EXTINF:-1,Sinar FM Irama 70'
+https://stream-eu-a.rcs.revma.com/bb4ey1g811uvv/49_k1nayd1txhif02/playlist.m3u8
+#EXTINF:-1,Era FM Nusantera
+https://stream-eu-a.rcs.revma.com/sgzunsw711uvv/57_1h6itpgb81l8e02/playlist.m3u8
+#EXTINF:-1,Radio Lagenda BBest
+https://rlbbest.radioca.st/stream
+#EXTINF:-1,Gegar FM Hoh Btabuh
+https://n11a-eu.rcs.revma.com/5u674yw711uvv/17_1l2aleeuzv39b02/playlist.m3u8
+#EXTINF:-1,Radio Lagenda Retro
+https://rlretro.radioca.st/stream
+#EXTINF:-1,Sinar FM Pop Yeh Yeh
+https://stream-eu-a.rcs.revma.com/1scz4dh811uvv/49_xtette8x8pni02/playlist.m3u8
+#EXTINF:-1,Sinar FM Irama 80's
+https://stream-eu-a.rcs.revma.com/xdz7f5g811uvv/68_1pxky7ia6kr2h02/playlist.m3u8
+#EXTINF:-1,A.F.O Radio
+https://stream.rcs.revma.com/8150ezy4bshvv
+#EXTINF:-1,Era FM Cintan
+https://stream-eu-a.rcs.revma.com/0z5mdyv711uvv/34_uhws0gtg53ow02/playlist.m3u8
+#EXTINF:-1,Classic Rock FM
+https://stream-eu-a.rcs.revma.com/fk3507vbv4uvv/21_123cdbkwmeooj02/playlist.m3u8

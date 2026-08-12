@@ -2423,22 +2423,14 @@ http://s8.iqstreaming.com:8070/
 https://slusaj.hr:10446/stream?type=http&nocache=9
 #EXTINF:-1,REPLAY NEWS - Hrvatski         Radio informacija svakih 5 minuta 
 https://replaynewshr.ice.infomaniak.ch/replaynewshr-128.mp3
-#EXTINF:-1,Alfa Radio FM 100.1 - Croatia - Bjelovar
-https://ec2s.crolive.com.hr:2535/stream
 #EXTINF:-1,Bravo! 107.1 FM - Croatia - Zagreb
 https://relay1.social3.hr/radio/8310/radio.mp3
 #EXTINF:-1,Enter Zagreb 97.0 FM - Croatia - Zagreb
 https://audio.social3.hr/listen/enter_mp3_256/stream
 #EXTINF:-1,Extra FM - Croatia - Zagreb
 https://audio.social3.hr/listen/extra_aac/stream
-#EXTINF:-1,FolkyTon - Croatia - Zagreb
-https://ec2s.crolive.com.hr:6035/stream
-#EXTINF:-1,Gradski Radio Belišće FM 101,3 - Croatia - Belišće
-https://mcp1.mydataknox.com:8006/stream
 #EXTINF:-1,Happy FM - Croatia - Zagreb
 https://audio.social3.hr/listen/happy_aac/stream
-#EXTINF:-1,HKR - Croatia - Zagreb
-https://stream.hkr.hr/hkr.mp3
 #EXTINF:-1,HR Knin - Croatia - Knin
 https://23623.live.streamtheworld.com:443/KNINAAC.aac
 #EXTINF:-1,HR Radio Dubrovnik - Croatia - Dubrovnik
@@ -2457,126 +2449,42 @@ https://27753.live.streamtheworld.com:443/SLJEMEAAC.aac
 https://25633.live.streamtheworld.com:443/ZADARAAC.aac
 #EXTINF:-1,KLFM - Croatia - Split
 https://klfmorgborg.radioca.st/;
-#EXTINF:-1,Medulin FM 95.0 - Croatia - Medulin
-https://de1.streamingpulse.com/ssl/MedulinFM
 #EXTINF:-1,Novi Radio 89.3 FM - Croatia - Zadar
 https://s8.iqstreaming.com:2020/stream/novi_radio
-#EXTINF:-1,Novi Radio FM 99.5 - Croatia - Đakovo
-https://ec2s.crolive.com.hr:2385/stream
-#EXTINF:-1,Otvoreni Chill - Croatia - Zagreb
-https://stream.otvoreni.hr/chill
-#EXTINF:-1,Otvoreni Fitness - Croatia - Zagreb
-https://stream.otvoreni.hr/fitness
 #EXTINF:-1,Otvoreni Ho-Ho - Croatia - Zagreb
 https://stream2.otvoreni.hr/ho-ho
-#EXTINF:-1,Otvoreni Hot - Croatia - Zagreb
-https://stream.otvoreni.hr/hot
-#EXTINF:-1,Otvoreni Love - Croatia - Zagreb
-https://stream.otvoreni.hr/love
-#EXTINF:-1,Otvoreni Radio - Croatia - Buzin
-https://stream.otvoreni.hr/otvoreni
-#EXTINF:-1,Petrinjski Radio FM 106.9 - Croatia - Petrinja
-https://s8.iqstreaming.com:2020/stream/petrinjski_radio
-#EXTINF:-1,Podravski Radio FM 87.6 - Croatia - Đurđevac
-https://streaming.podravskiradio.hr/live
 #EXTINF:-1,Radio 023 - Croatia - Zadar
 https://slusaj.hr:10443/stream/2/
-#EXTINF:-1,Radio 051 - Croatia - Rijeka
-https://distorzi.radioca.st/stream
-#EXTINF:-1,Radio 057 - Croatia - Zadar
-https://audio.alter-media.hr/9052/stream
-#EXTINF:-1,Radio 1 FM 105.6 - Croatia - Čakovec
-https://azuracast.novi-net.net/radio/8020/radio1.aac
 #EXTINF:-1,Radio 101 - Croatia - Zagreb
 https://live.radio101.hr:9531/stream/;
-#EXTINF:-1,Radio 105 Selnica - Croatia - Selnica
-https://azuracast.novi-net.net/radio/8050/radio105.aac
-#EXTINF:-1,Radio Banovina 96.8 FM - Croatia - Velika Gorica
-https://audio.radio-banovina.hr:9998/stream
 #EXTINF:-1,Radio Banska Kosa FM 96.9 - Croatia - Beli Manastir
 https://cdn2.acmetv.info:8443/radio-banska-kosa
 #EXTINF:-1,Radio Baranja FM 88 - Croatia - Beli Manastir
 https://s8.iqstreaming.com:2020/stream/radio_baranja/stream/;
 #EXTINF:-1,Radio Bljesak FM 105.5 - Croatia - Okučani
 https://rbx2.hnux.com/http://e15011.cloudrad.io:8443/stream
-#EXTINF:-1,Radio Blue Adria - Croatia - Vrsar
-https://s2.radio.co/s5c0d6942f/listen
-#EXTINF:-1,Radio BnM 94.0 FM - Croatia - Biograd na Moru
-https://c2.hostingcentar.com/streams/bnmradio/
-#EXTINF:-1,Radio Borovo 100.7 FM - Croatia - Borovo
-https://audio.radio-banovina.hr/9018/stream
 #EXTINF:-1,Radio Brod FM 101.3 - Croatia - Slavonski Brod
 https://worldradio.online/proxy/?q=http://194.145.208.251:8010/stream&plugin_id=13399&site_id=16402810
-#EXTINF:-1,Radio Centar - Croatia - Poreč
-https://radiocentar.hr:8282/mp3
 #EXTINF:-1,Radio Crash - Croatia - Zagreb
 https://live.radiocrash.net/;stream/1
 #EXTINF:-1,Radio Ćurak - Croatia - Rugvica
 https://antares.dribbcast.com/proxy/curak?mp=/stream
-#EXTINF:-1,Radio Delta FM 97 - Croatia - Metković
-https://ec2s.crolive.com.hr/RadioDelta
-#EXTINF:-1,Radio Donji Miholjac FM 92.3 - Croatia - Donji Miholjac
-https://s8.iqstreaming.com:8032/stream
-#EXTINF:-1,Radio Drava FM 92.5 - Croatia - Koprivnica
-https://streaming.radio-drava.hr/live
-#EXTINF:-1,Radio Drniš - Croatia - Drniš
-https://ec2s.crolive.com.hr:2410/stream
 #EXTINF:-1,Radio Falš - Croatia - Zagreb
 https://play.radioking.io/radiofals
 #EXTINF:-1,Radio Gospić FM 97.1 - Croatia - Gospić
 https://sonic.brzioblak.eu/8002/stream
-#EXTINF:-1,Radio Ilok 101.3FM - Croatia - Ilok
-https://eu8.fastcast4u.com/proxy/radioilok/stream
-#EXTINF:-1,Radio Imotski FM 107.4 - Croatia - Imotski
-https://radioimotski.radioca.st/stream
-#EXTINF:-1,Radio Istra - Croatia - Pazin
-https://uk1.streamingpulse.com/ssl/RadioIstra
-#EXTINF:-1,Radio Jaska 93.8 FM - Croatia - Jastrebarsko
-https://uk1.streamingpulse.com/ssl/RadioJaska
-#EXTINF:-1,Radio Kaj - Croatia - Zagreb
-https://s8.iqstreaming.com:2020/stream/radio-kaj2/stream
-#EXTINF:-1,Radio Kampus FM 104 - Croatia - Split
-https://audio.alter-media.hr/9128/stream
-#EXTINF:-1,Radio Kaštel - Croatia - Crikvenica
-https://kastel2020.radioca.st/stream
-#EXTINF:-1,Radio Kaštela - Croatia - Kaštela
-https://streams.radio.co/s1b59a32d7/listen
 #EXTINF:-1,Radio Koprivnica 91.7 FM - Croatia - Koprivnica
 https://443-1.reliastream.com/51/;
-#EXTINF:-1,Radio Korzo FM 98.4 - Croatia - Rijeka
-https://c2.hostingcentar.com/streams/radiokorzo/stream
-#EXTINF:-1,Radio Krizevci FM 96.6 - Croatia - Križevci
-https://s8.iqstreaming.com:8048/stream
 #EXTINF:-1,Radio Krka - Croatia - Kistanje
 https://cmr-hosting.com:7020/;
-#EXTINF:-1,Radio Labin FM 91.0 - Croatia - Labin
-https://c2.hostingcentar.com/streams/radiolabin/
-#EXTINF:-1,Radio Ludbreg - Croatia - Ludbreg
-https://a1.asurahosting.com/listen/radioludbreg/radio.mp3
-#EXTINF:-1,Radio Maestral FM 95.4 - Croatia - Pula
-https://ec2s.crolive.com.hr:1635/stream
-#EXTINF:-1,Radio Mali Lošinj (Jadranka Grupa) - Croatia - Mali Lošinj
-https://stream.radiojar.com/ppdr62bnmrhvv
-#EXTINF:-1,Radio Max FM 99.3 - Croatia - Maruševec
-https://azuracast.novi-net.net/radio/8010/radiomax.aac
-#EXTINF:-1,Radio Megaton FM 104.9 - Croatia - Vidovec
-https://chopin.bizmusic.net/radio/8030/radio.mp3
-#EXTINF:-1,Radio More - Croatia - Supetar
-https://s5.radio.co/s8cf5effc6/listen
 #EXTINF:-1,Radio Moslavina 101.4 FM - Croatia - Kutina
 https://s8.iqstreaming.com:2020/stream/rmoslavina
 #EXTINF:-1,Radio Mreznica - Croatia - Mrežnica
 https://stream3.dns69it.com/;
 #EXTINF:-1,Radio Nacional - Croatia - Zagreb
 https://nnc1-bpmmc501.radioca.st//stream
-#EXTINF:-1,Radio Našice FM 88.7 - Croatia - Našice
-https://s8.iqstreaming.com:8038/stream
 #EXTINF:-1,Radio Novi Marof FM 97.5 - Croatia - Novi Marof
 https://ec2s.crolive.com.hr:1295/stream
-#EXTINF:-1,Radio Orahovica FM 95.7 - Croatia - Orahovica
-https://ec2s.crolive.com.hr:2595/stream
-#EXTINF:-1,Radio Otok Krk FM 89.2 - Croatia - Krk
-https://s8.iqstreaming.com:8014/stream
 #EXTINF:-1,Radio Privrednik - Croatia - Zagreb
 https://radio.privrednik.hr/radio.mp3
 #EXTINF:-1,Radio Prkos FM 91 - Croatia - Nova Gradiška
@@ -2585,232 +2493,44 @@ https://eu7.fastcast4u.com/proxy/radioprk?mp=/1
 https://27753.live.streamtheworld.com:443/PULAAAC.aac
 #EXTINF:-1,Radio Rijeka - Croatia - Rijeka
 https://22663.live.streamtheworld.com:443/RIJEKA_ADP.aac
-#EXTINF:-1,Radio Ritam FM 106.4 - Croatia - Šibenik
-https://ec2s.crolive.com.hr:8455/stream
 #EXTINF:-1,Radio ROJC 87.7 FM - Croatia - Pula
 https://radio.widecast.cloud/stream/radiorojc.mp3
-#EXTINF:-1,Radio Roža - Croatia - Rijeka
-https://stream.radio-roza.org/live.mp3
 #EXTINF:-1,Radio Sisačko Moslavački FM 91.7 - Croatia - Sisak
 https://s8.iqstreaming.com:2020/stream/radio_quirinus/stream
-#EXTINF:-1,Radio Sjeverozapad FM 95.2 - Croatia - Varaždin
-https://a4.asurahosting.com:7840/radio.mp3
 #EXTINF:-1,Radio Slatina FM 107.4 - Croatia - Slatina
 https://a1.asurahosting.com/listen/radio_slatina/radio.mp3
-#EXTINF:-1,Radio Split FM 101.0 - Croatia - Split
-https://www.myipcast.com/radio/split
 #EXTINF:-1,Radio Sunce FM 90.9 - Croatia - Split
 https://shoutcast.pondi.hr:8002/;
-#EXTINF:-1,Radio Sveta Nedelja 97.7 FM - Croatia - Sveta Nedelja
-https://ec2s.crolive.com.hr:2205/stream
 #EXTINF:-1,Radio Tvornica - Croatia - Zagreb
 https://c8.hostingcentar.com/proxy/tvornica/stream
-#EXTINF:-1,Radio Vallis Aurea - Croatia - Požega
-https://ec2s.crolive.com.hr:2265/stream
 #EXTINF:-1,Radio Virovitica FM 92.9 - Croatia - Virovitica
 https://streaming.icv.hr/8002/stream
-#EXTINF:-1,Radio Zelina FM 92.9 - Croatia - Sveti Ivan Zelina
-https://ec2s.crolive.com.hr:1690/stream
 #EXTINF:-1,Radio Županja FM 94.5 - Croatia - Županja
 https://audio.alter-media.hr/8150/stream
-#EXTINF:-1,Radio Ðakovo - Croatia - Đakovo
-https://ec2s.crolive.com.hr:8305/stream
 #EXTINF:-1,Radio92 FM - Croatia - Slavonski Brod
 https://stream.radio92.eu/
-#EXTINF:-1,RHZK 1 FM91.5 - Croatia - Krapina
-https://s8.iqstreaming.com:2020/stream/rhzk1/stream
-#EXTINF:-1,Rock&Off Radio - Croatia - Zagreb
-https://stream.player-jukebox.com/proxy/rockoff/stream
-#EXTINF:-1,Sjeverni FM 92.8 - Croatia - Ivanec
-https://live.sjeverni.fm/radio/8000/radio.mp3
-#EXTINF:-1,Slavonski Radio FM 106.2 - Croatia - Osijek
-https://ec2s.crolive.com.hr:8035/stream
-#EXTINF:-1,Studio M 98.8 - Croatia - Donji Kraljevec
-https://a4.asurahosting.com:7090/studiom.aac
 #EXTINF:-1,Super Narodni Radio - Croatia - Bjelovar
 https://mcp1.mydataknox.com:8014/stream
-#EXTINF:-1,Super Radio 89.0 FM - Croatia - Bjelovar
-https://mcp1.mydataknox.com:8010/stream
 #EXTINF:-1,Tamburaški radio - Croatia - Vukovar
 https://play.radioking.io/tamburaskiradio
 #EXTINF:-1,The Room FM 97.0 - Croatia - Virovitica
 https://cast6.my-control-panel.com/proxy/theroomfm/stream
 #EXTINF:-1,The Voice of Croatia - Croatia - Zagreb
 https://23543.live.streamtheworld.com:443/VOICEOFCROATIAAAC.aac
-#EXTINF:-1,Top Radio - Croatia - Zagreb
-https://c5.hostingcentar.com/streams/topradio/
-#EXTINF:-1,Tranzistor - Croatia - Đakovo
-https://ec2s.crolive.com.hr/tranzistor
-#EXTINF:-1,Trend Radio FM 102.1 - Croatia - Karlovac
-https://stream1.dns69it.com/;
-#EXTINF:-1,Yammat FM 102.5 - Croatia - Zagreb
-https://stream.yammat.fm/radio/8000/yammat.mp3
 #EXTINF:-1,Zabavni Radio - Croatia - Zagreb
 https://radiocentar.hr:8585/;
-#EXTINF:-1,Zagorski Radio FM 87.8 - Croatia - Zabok
-https://s8.iqstreaming.com:2020/stream/zagorski/stream
-#EXTINF:-1,ZFM FM 96.0 Zarazno Dobar Radio - Croatia - Zaprešić
-https://ec2s.crolive.com.hr:7015/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40971/logo_W38MYQ4iid.jpg?v=20260529-media-restore",Happy Legenda
-http://c5.hostingcentar.com:8396/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40913/logo_VRSvcxY7KL.jpg?v=20260529-media-restore",Radio M
-http://radiomvelaluka.ddns.net:8000/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40832/logo_ytJAXBWXsG.jpg?v=20260529-media-restore",Radio Rojc
-https://cf.widecastcdn.live/Z07ww1NUNl/live.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40970/logo_DFID00mdvX.jpg?v=20260529-media-restore",Happy Tambura
-http://c5.hostingcentar.com:8378/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40891/logo_J42Nz1UhfL.jpg?v=20260529-media-restore",Radio Vrbovec
-http://c2.hostingcentar.com:9452/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40956/logo_nBCewFs4Gt.jpg?v=20260529-media-restore",Hrvatski radio Valpovština
-http://s8.iqstreaming.com:8068/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40944/logo_Bi8Osix2yN.jpg?v=20260529-media-restore",Radio Delta
-https://ec2s.crolive.com.hr:1815/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40892/logo_4CcLb7WpJT.jpg?v=20260529-media-restore",Club Music Radio - Folk
-http://cmr-hosting.com:8010/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40959/logo_F7VDMBjA5b.jpg?v=20260529-media-restore",Radio Prkos
-https://eu7.fastcast4u.com/proxy/radioprk?mp=%2Fstream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40900/logo_qSyuIuo7Vq.jpg?v=20260529-media-restore",Radio Drnis
-https://ec2s.crolive.com.hr:2415/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40849/logo_sJHz7Yc40R.jpg?v=20260529-media-restore",Tamburaški Radio
-https://listen.radioking.com/radio/552965/stream/612287
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40895/logo_kOnrJvmCXY.jpg?v=20260529-media-restore",Laganini FM
-http://194.145.208.251:8008/start/lfmpz
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40886/logo_XjN5HNtSsp.jpg?v=20260529-media-restore",Radio Imotski
-http://radioimotski.radioca.st:8662/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40929/logo_nNYljgFwaJ.jpg?v=20260529-media-restore",Radio Lucky
-http://cmr-hosting.com:8470/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40982/logo_LP6IE19Q1E.jpg?v=20260529-media-restore",Vrbovecki Narodni Radio
-https://beethoven.streamwarp.com/listen/vrbovecki_narodni_radio/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40978/logo_PJKguJ1oxe.jpg?v=20260529-media-restore",Prvi karlovački - WOW Hits
-http://s8.iqstreaming.com:8030/stream?type=http&nocache=790
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40844/logo_TivDC9Zecs.jpg?v=20260529-media-restore",Radio Dalmacija Hajducke
-http://c5.hostingcentar.com:8221/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40826/logo_jVbHQINH9E.jpg?v=20260529-media-restore",Pomorski Radio
-http://85.17.172.242:8010/live.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40947/logo_jQcKH3Aa9Z.jpg?v=20260529-media-restore",Club Music Radio - 70s, 80s, 90s
-http://cmr-hosting.com:8030/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40921/logo_PWlFlm4ycv.jpg?v=20260529-media-restore",Radio Eurostar
-http://mcp1.mydataknox.com:8012/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40965/logo_SAaZpgWEDE.jpg?v=20260529-media-restore",Happy Fest
-http://c5.hostingcentar.com:8372/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40857/logo_HcCoDaIqCO.jpg?v=20260529-media-restore",Radio BNM Rock
-https://c2.hostingcentar.com/streams/bnm-rock/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40972/logo_RrkPPAKVR4.jpg?v=20260529-media-restore",Prvi karlovački Live
-http://s8.iqstreaming.com:8002/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40980/logo_BRMdQvWclm.jpg?v=20260529-media-restore",Prvi karlovački - Grill Mix
-http://s8.iqstreaming.com:8006/stream?type=http&nocache=1695
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40905/logo_2kujXWses2.jpg?v=20260529-media-restore",UNIDU radio
-http://radio.unios.hr:8000/unidu
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40839/logo_L7U7xc0ZAA.jpg?v=20260529-media-restore",Radio Dalmacija mix (miXmas)
-http://c5.hostingcentar.com:8281/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40831/logo_hOLJNkC4Lr.jpg?v=20260529-media-restore",JR Radio
-https://stream.zeno.fm/pdkt234k698uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40968/logo_8kcV3BX0zE.jpg?v=20260529-media-restore",Radio Sisak
-http://c5.hostingcentar.com:8092/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40867/logo_FPXUjhVJtr.jpg?v=20260529-media-restore",Krugoval 93.1 MHz
 http://144.76.172.23:7043/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40940/logo_yS2pneKRbe.jpg?v=20260529-media-restore",Radio Baranja
-http://s8.iqstreaming.com:8036/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40964/logo_vd7bCA6YxZ.jpg?v=20260529-media-restore",Happy Party
-http://c5.hostingcentar.com:8390/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40960/logo_QEiwV6uctz.jpg?v=20260529-media-restore",Radio Brač
-http://s8.iqstreaming.com:8066/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40858/logo_f7tazx5zDr.jpg?v=20260529-media-restore",Radio BNM Off Air
-https://c2.hostingcentar.com/streams/bnm-off-air/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40843/logo_Nsw5638W0x.jpg?v=20260529-media-restore",Radio Dalmacija Fjaka
-http://c5.hostingcentar.com:8203/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40924/logo_mScMhH0XhI.jpg?v=20260529-media-restore",Club Music Radio - CRO HITS
-http://cmr-hosting.com:8060/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40817/logo_wCvl1GvPHp.jpg?v=20260529-media-restore",Happy FM
-http://c5.hostingcentar.com:9543/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40904/logo_YcgU5t519u.jpg?v=20260529-media-restore",Radio Terezija
-https://ec2s.crolive.com.hr:2315/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40829/logo_D5eWFsTGXO.jpg?v=20260529-media-restore",Rock Kneginec
-https://stream.zeno.fm/mgdzyz8nc18uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40823/logo_Nem5nBby6S.jpg?v=20260529-media-restore",Radio Županja
-https://audio.alter-media.hr:7019/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40955/logo_MYRqfUYRkY.jpg?v=20260529-media-restore",Radio Otočac
-http://s8.iqstreaming.com:8024/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40916/logo_Ba5C0AT6XX.jpg?v=20260529-media-restore",Club Music Radio - LOVE SONGS
-http://cmr-hosting.com:8040/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40838/logo_cfywWaVTPo.jpg?v=20260529-media-restore",Radio Kastav
-https://radiokastav.radioca.st/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40854/logo_oyIWqh8F1b.jpg?v=20260529-media-restore",Happy FM DAB+
-http://c5.hostingcentar.com:8446/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40841/logo_wVfpGqY7G6.jpg?v=20260529-media-restore",Radio Dalmacija Furesta
-http://c5.hostingcentar.com:8215/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40853/logo_LFXIMJ8m6x.jpg?v=20260529-media-restore",Fontana 13 Kneginec
-https://stream.zeno.fm/mdzqj4dcpiauv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40875/logo_uPOK91POQe.jpg?v=20260529-media-restore",HRT - Radio Knin
-https://playerservices.streamtheworld.com/api/livestream-redirect/KNIN.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40898/logo_jgMixEqjKw.jpg?v=20260529-media-restore",Radio Slavonija
-http://s8.iqstreaming.com:8026/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40893/logo_tw2a35pUAJ.jpg?v=20260529-media-restore",Pitomi Radio
-https://matrix-server.hr:8042/live.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40879/logo_1s53u1aRgn.jpg?v=20260529-media-restore",Radio Stubica
 http://radiostubica.hc.hr:7010/;&type=mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40903/logo_Rd417JdQuK.jpg?v=20260529-media-restore",HRT - Radio Zadar
-https://playerservices.streamtheworld.com/api/livestream-redirect/ZADAR.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40859/logo_p2ubYOvrk0.jpg?v=20260529-media-restore",Radio BNM Pop
-https://c2.hostingcentar.com/streams/bnm-pop/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40877/logo_g7zezdOWq9.jpg?v=20260529-media-restore",Radio Posavina
-http://cmr-hosting.com:8500/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40834/logo_qK1zfB1FXs.jpg?v=20260529-media-restore",Club Music Radio - ExYU-POP-ROCK
-https://cmr-hosting.com/8080/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40930/logo_8354GeMGat.jpg?v=20260529-media-restore",Radio Makarska Riviera
-http://radio.pa-hosting.de:1080/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40966/logo_SoaAwFkFaZ.jpg?v=20260529-media-restore",The Room FM
-http://65.108.198.245:8856/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40958/logo_q28Sq3Y0Pw.jpg?v=20260529-media-restore",City Radio
-http://s8.iqstreaming.com:8058/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40915/logo_bkrwF9qSMi.jpg?v=20260529-media-restore",Radio Sunce
-http://shoutcast.pondi.hr:8002/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40870/logo_qEcmFlz9e2.jpg?v=20260529-media-restore",Studentski radio UNIOS
-http://radio.unios.hr:8000/stream.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40822/logo_9F9tsqPJRk.jpg?v=20260529-media-restore",Radio Samobor
-http://185.150.235.162:80/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40908/logo_EOvThSW1fo.jpg?v=20260529-media-restore",Rmb Marija Bistrica
-http://178.218.163.171:8024/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40899/logo_11yaLZ1Wpm.jpg?v=20260529-media-restore",Radio Šibenik
-http://144.76.219.22:8215/stream.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40977/logo_A5zO9N1ZQV.jpg?v=20260529-media-restore",Radio Falš
-https://listen.radioking.com/radio/541295/stream/600212
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40816/logo_0y6kZtDxu7.jpg?v=20260529-media-restore",Radio Cakovec
-http://live.radio-cakovec.hr:7020/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40824/logo_rPrc2coDdL.jpg?v=20260529-media-restore",Radio Gorski kotar
-http://144.76.39.214:9500/stream.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40914/logo_FItVyC0glg.jpg?v=20260529-media-restore",Radio Quirinus
-http://s8.iqstreaming.com:8064/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40868/logo_WQHpPA0BlO.jpg?v=20260529-media-restore",Radio Trogir
-http://144.76.39.214:6022/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40819/logo_TDaTxQdBiQ.jpg?v=20260529-media-restore",Radio Korcula
 http://shoutcast.pondi.hr:8005/;Title1=Radio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40873/logo_LGBzauFb9d.jpg?v=20260529-media-restore",Radio Virovitica
 https://streaming.icv.hr/8002/stream/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40885/logo_DHj01lccR1.jpg?v=20260529-media-restore",Radio Rab
-http://uk1.streamingpulse.com:7014/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40852/logo_dCCkzsilCl.jpg?v=20260529-media-restore",Radio NU
 https://slusaj.hr:10445/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40909/logo_Ga7vte4P5I.jpg?v=20260529-media-restore",Radio Slunj
-https://s8.iqstreaming.com:2020/stream/radio-slunj1/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40961/logo_S72txSt3ku.jpg?v=20260529-media-restore",Laganini FM
-http://194.145.208.251:8012/start/lfmos
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40827/logo_A0UBPgibWO.jpg?v=20260529-media-restore",Domaći radio Kneginec
-https://stream.zeno.fm/ygb5x04e268uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40814/logo_Lg6weXACFt.jpg?v=20260529-media-restore",Laganini FM
-http://194.145.208.251:8010/start/lfmsb
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40896/logo_zRISpPHvpI.jpg?v=20260529-media-restore",Radio Labin
-http://radiolabin.streamradio.com.hr:9100/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40871/logo_eHQ1uhE9ZR.jpg?v=20260529-media-restore",Laganini FM
-http://194.145.208.251:8004/start/lfmri
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40984/logo_h0sfj6TcvQ.jpg?v=20260529-media-restore",Radio Novi val
-https://live.novi-val.com:8000/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40872/logo_4p3QaEXo9U.jpg?v=20260529-media-restore",Radio Ogulin
 http://144.76.172.23:8002/;stream.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40946/logo_dIYobOuhae.jpg?v=20260529-media-restore",Radio Daruvar
-https://mcp1.mydataknox.com:8016/live.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40845/logo_GwgepsZ9yz.jpg?v=20260529-media-restore",Radio Cvoksi
-https://stream.zeno.fm/k5a6yoyw6eltv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40910/logo_3Q6UAH4bIH.jpg?v=20260529-media-restore",Radio Mreznica
 https://stream3.dns69it.com/;*.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40897/logo_jqm7rXQ0Gn.jpg?v=20260529-media-restore",Radio Postaja Novska
@@ -2963,10 +2683,6 @@ http://radiostubica.hc.hr:7010/;u0026type=mp3
 http://live.antenazagreb.hr:8000/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-labin-170945-logo.jpg",Radio Labin
 http://radiolabin.streamradio.com.hr:9100/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-ogulin-171027-logo.jpg",Radio Ogulin
-http://144.76.172.23:8002/;stream.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-koprivnica-169706-logo.jpg",Radio Koprivnica
-https://443-1.reliastream.com/51/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-samobor-170014-logo.jpg",Radio Samobor
 http://185.150.235.162:80/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-hrt-radio-osijek-logo.jpg",HRT - Radio Osijek
@@ -2975,16 +2691,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/OSIJEK.mp3?dis
 https://c2.hostingcentar.com/streams/radiodj/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-zabavni-radio-logo.jpg",Zabavni Radio
 https://genf196.server4you.de:8585/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-klfm-logo.jpg",Radio KLFM
-https://klfmorgborg.radioca.st/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-postaja-novska-169601-logo.jpg",Radio Postaja Novska
 http://genf196.server4you.de:8686/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-club-music-radio-folk-logo.jpg",Club Music Radio - Folk
 http://cmr-hosting.com:8010/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-media-servis-logo.jpg",Radio Media Servis
 http://live.mediaservis.hr:8084/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-korcula-logo.jpg",Radio Korcula
-http://shoutcast.pondi.hr:8005/;Title1=Radio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-808-logo.jpg",Radio 808
 http://stream.radio808.info:8003/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-vrbovec-logo.jpg",Radio Vrbovec
@@ -2995,8 +2707,6 @@ http://144.76.39.214:6022/;stream.nsv
 https://playerservices.streamtheworld.com/api/livestream-redirect/ZADAR.mp3?dist=onlineradiobox
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-slunj-184186-logo.jpg",Radio Slunj
 http://144.76.172.23:7057/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/krugoval-93-1-mhz-623406-logo.jpg",Radio Krugoval 93.1 MHz
-http://144.76.172.23:7043/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-pitomi-radio-logo.jpg",Pitomi Radio
 http://194.145.208.251:8022/;*.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dunav-176332-logo.jpg",Radio Dunav
@@ -3005,8 +2715,6 @@ http://cp1.shoutcheap.com:8111/;
 http://s8.iqstreaming.com:8026/stream;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-virovitica-logo.jpg",Radio Virovitica
 https://radio.icv.hr:10998/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-mreznica-171026-logo.jpg",Radio Mreznica
-https://stream3.dns69it.com/;*.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-korzo-169293-logo.jpg",Radio Korzo
 https://c2.hostingcentar.com/streams/radiokorzo/stream?type=httpsu0026nocache=7219
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-hrt-radio-knin-logo.jpg",HRT - Radio Knin
@@ -3131,8 +2839,6 @@ http://s8.iqstreaming.com:8058/;stream.nsv
 http://s8.iqstreaming.com:8068/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-sibinj-hits-fm-logo.jpg",Radio Sibinj Hits FM
 http://cast3.name.ba:9306/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-extra-fm-logo.jpg",Radio Extra FM
-https://audio.social3.hr/listen/extra_aac/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-prvi-karlovacki-grill-mix-logo.jpg",Radio Prvi karlovački - Grill Mix
 http://s8.iqstreaming.com:8006/stream?type=httpu0026nocache=1695
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-novi-val-logo.jpg",Radio Novi val
@@ -3353,3 +3059,29 @@ http://cmr-hosting.com:8010/;
 http://streamplus8.leonex.de:15436/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-varazdin-170051-logo.jpg",Radio Varazdin
 http://94.76.208.7:8009/;
+#EXTINF:-1,Antena Zagreb - Live
+http://streams.extrafm.hr:8110/;
+#EXTINF:-1,Radio Max 99.3 (Cerje Nebojse, Maruševec)
+https://c8.hostingcentar.com/streams/radiotvornica?type=httpu0026nocache=50001
+#EXTINF:-1,Top Radio Yugo
+https://cmr-hosting.com:7005/;stream/1
+#EXTINF:-1,Club Music Radio - 70's 80's 90's
+https://cmr-hosting.com:7003/;stream/1
+#EXTINF:-1,HRVATSKI RADIO VALPOVŠTINA
+https://audio.alter-media.hr:7019/stream
+#EXTINF:-1,RADIO MARIA
+http://dreamsiteradiocp.com:8026/stream?type=httpu0026nocache=215
+#EXTINF:-1,Radio Korčula 107,5FM
+http://shoutcast.pondi.hr:8005/;
+#EXTINF:-1,Laganini Narodni i Folk Radio
+https://sonic1-rbx.cloud-center.ro/8026/stream
+#EXTINF:-1,Radio 2
+http://listen.mitchfm.com/
+#EXTINF:-1,Otvoreni Radio - Hot
+http://radiocentar.hr:8585/stream.aac
+#EXTINF:-1,Gamerz Inn - Jamz
+https://radio.gamerzinn.com:1385/stream
+#EXTINF:-1,Balkanbeatz
+https://listen.radioking.com/radio/719480/stream/785282
+#EXTINF:-1,Drama Radio
+https://listen.radioking.com/radio/626884/stream/689212

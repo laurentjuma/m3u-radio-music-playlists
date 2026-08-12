@@ -1211,14 +1211,6 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/radyo5_qp.m3u8
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,WILD HEART FM 97.1 
 https://62.138.18.102:8133/stream
-#EXTINF:-1,Alif Alif FM - Saudi Arabia - Jeddah
-https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3
-#EXTINF:-1,Miraath Al Anbiyya - Saudi Arabia - Riyadh
-https://radio.al7eah.net/8010/stream
-#EXTINF:-1,Mix FM 105.5 - Saudi Arabia - Jeddah
-https://s1.voscast.com:11377/live.mp3
-#EXTINF:-1,Radio Asharq with Bloomberg - Saudi Arabia - Riyadh
-https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio
 #EXTINF:-1,Radio UFM 90.0 - Saudi Arabia - Riyadh
 https://stream.ufmradio.com:8003/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sa-favradio-logo.jpg",Favradio
@@ -1317,3 +1309,41 @@ http://75.75.226.92:9004/;
 http://184.173.185.71:9984/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-fm-sa-155613-logo.jpg",Radio Mix FM - SA
 http://uk.mixfm-sa.com:8000/
+#EXTINF:-1,MBC Mood
+https://radio-mbc-mood.mbc.net/radio-mbc-mood.m3u8
+#EXTINF:-1,SBA Jeddah Radio 96.2 FM
+https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8
+#EXTINF:-1,.Quran radio
+https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5u0026rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
+#EXTINF:-1,UFM 95.5
+https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-websiteu0026_=477645
+#EXTINF:-1,SBA Radio Call Of Islam 107.5 FM
+http://104.7.66.64:8010/;?icy=http
+#EXTINF:-1,UFM KSA 80s 95.5 FM
+https://nl4.mystreaming.net/uber/boomerang1980s/icecast.audio
+#EXTINF:-1,KSA Dance FM 104.3
+http://stream-155.zeno.fm/cygwwun7a5zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjeWd3d3VuN2E1enV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieVFYX2N0eWVUZzZvQXQ4Y1V1eUh3dyIsImlhdCI6MTc1NTMwNzE1OCwiZXhwIjoxNzU1MzA3MjE4fQ.zNoyRMywC9T10LI0-DNpsUJWvb1t8rMaSvsWChhLS3Q
+#EXTINF:-1,UFM KSA 90s 105.9 FM
+https://drive.uber.radio/uber/boomerang1990s/icecast.audio
+#EXTINF:-1,Sky ABC Radio 95.1 FM
+https://cast.skyradio105.com/proxy/skyradio105/stream
+#EXTINF:-1,Star KSA 99.9 FM
+https://eu10.fastcast4u.com:6300/;?type=httpu0026fbclid=IwY2xjawFqDntleHRuA2FlbQIxMQABHTTxwatDLaI3zkRXdSFYydXbOIRIvpABKZ_UJtqR3_vuCOvdsqzoeP80-Q_aem_slP_LtUYWwu6xNl3wmsesA
+#EXTINF:-1,Sky ABC Radio 96.6 FM
+https://stream-02.surfernetwork.com/iysqd3wuj38uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJpeXNxZDN3dWozOHV2IiwiaG9zdCI6InN0cmVhbS0wMi5zdXJmZXJuZXR3b3JrLmNvbSIsInJ0dGwiOjUsImp0aSI6Im1ieUJHT0lOVC1HSXllSFlGbG5KRXciLCJpYXQiOjE3NzgxNjAwMDMsImV4cCI6MTc3ODE2MDA2M30.xYqjN-KICXfpgsxWdN_Ae3gaNqpRsTdELgTkBOVutmg
+#EXTINF:-1,Jeddah
+https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/cee738f00_WithoutLoveWhatsLife_.mp3
+#EXTINF:-1,Khuzama Radio 95.3 FM
+https://live.kwikmotion.com/sbrksakhuzamaradiolive/khuzama/chunks.m3u8
+#EXTINF:-1,105.5 AFN RADIO ONE
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac
+#EXTINF:-1,105.5 Soft Rock FM KSA
+https://drive.uber.radio/uber/starboxsoftrock/icecast.audio
+#EXTINF:-1,Voice Of Grace
+https://securestreams5.reliastream.com:1820/;
+#EXTINF:-1,OFW Tambayan FM 100.7
+https://stream-170.zeno.fm/82bb4d2uz68uv?zs=CnZDUKriSmSeaRAwyMpGoQu0026zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4MmJiNGQydXo2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzAuemVuby5mbSIsImp0aSI6IkNuWkRVS3JpU21TZWFSQXd5TXBHb1EiLCJpYXQiOjE3MTI4MzUxMDgsImV4cCI6MTcxMjgzNTE2OH0.eNzYZ6jQPY5RL2uohAGhp8G7cFwGXB9BjFUeX7mysXou0026zttl=5
+#EXTINF:-1,Salah Boukhater
+http://live.mp3quran.net:9878/;stream.mp3
+#EXTINF:-1,PHR 105.3 FM Precious Hearts Radio
+https://stream-172.zeno.fm/yyzp7bv9qchvv?zs=FS8fstfMQw-0L-XNabOKtgu0026zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5eXpwN2J2OXFjaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsImp0aSI6IkZTOGZzdGZNUXctMEwtWE5hYk9LdGciLCJpYXQiOjE3MTI5Mjg1MDQsImV4cCI6MTcxMjkyODU2NH0.lfZDEwX6ZNFFGIqdubaoRgrWWlEpvGJp4jIbELmANmgu0026zttl=5

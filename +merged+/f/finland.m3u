@@ -1741,78 +1741,32 @@ https://replaynewsfi.ice.infomaniak.ch/replaynewsfi-128.mp3
 https://djuplink.com/ninjabox.mp3
 #EXTINF:-1,Finest Radio - Finland - Helsinki
 https://shoutcast.finestfm.fi/stream/1//;stream
-#EXTINF:-1,Hakkeriradio FM 105.8 - Finland - Vantaa
-https://hakkeriradio.fi:8443/stream
 #EXTINF:-1,Helsinki Open Waves (HOW) - Finland - Helsinki
 https://stream.radiojar.com/huf9r94x3tzuv.mp3
-#EXTINF:-1,IDA Radio - Finland - Helsinki
-https://broadcast.idaidaida.net:8030/stream
-#EXTINF:-1,Jaerviradio - Finland - Alajärvi
-https://jarviradio.radiotaajuus.fi:9000/jr
-#EXTINF:-1,Kaaosradio 24/7 - Finland - Tuusula
-https://kaaosradio.fi:8001/stream2
 #EXTINF:-1,Kaaosradio Chillout - Finland - Helsinki
 https://kaaosradio.fi:8001/chill
-#EXTINF:-1,Kaaosradio Chiptune - Finland - Helsinki
-https://kaaosradio.fi:8001/chip
-#EXTINF:-1,Kaupunki Kanava FM 107.4 - Finland - Helsinki
-https://kaupunkiradio.radiotaajuus.fi:9013/radio
 #EXTINF:-1,KYOI - Finland - Helsinki
 https://radio.kyoi.ru:8002/;
 #EXTINF:-1,Mökkiradio - Finland - Mäntyharju
 https://stream.mokkiradio.fi:18008/mokkiradio
-#EXTINF:-1,POPfm - Finland - Helsinki
-https://stream.madmenmedia.se/popfm
 #EXTINF:-1,Radio Gramofoni - Finland - Turku
 https://solid9.streamupsolutions.com/proxy/kookmuod?mp=/live
 #EXTINF:-1,Radio Helsinki FM 89.7 - Finland - Helsinki
 https://stream.radiohelsinki.fi/;
-#EXTINF:-1,Radio Kaakko - Finland - Hamina
-https://wr2.downtime.fi/kaakko.aac
-#EXTINF:-1,Radio Keskisuomalainen FM 95.9 - Finland - Jyväskylä
-https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen
 #EXTINF:-1,Radio Musa - Finland - Tampere
 https://n03.radiojar.com/n6yg5q0z8vzuv.mp3
-#EXTINF:-1,Radio Patmos - Finland - Helsinki
-https://s3.yesstreaming.net:7011/radio
 #EXTINF:-1,Radio Queen Loviisa - Finland - Loviisa
 https://a8.asurahosting.com:8140/radio.mp3
-#EXTINF:-1,Radio Ramona - Finland - Rauma
-https://stream.protonbroadcast.com:8443/ramona.mp3
 #EXTINF:-1,Radio Rymd - Finland - Skinnarby
 https://stream.radiorymd.com/radiorymd
-#EXTINF:-1,Radio Sandels - Finland - Kuopio
-https://radiosandels.radiotaajuus.fi:9050/radio
-#EXTINF:-1,Radio Santa Claus - Finland - Rovaniemi
-https://streaming.radiostreamlive.com/radiosantaclaus_devices
-#EXTINF:-1,Radio SUN - Finland - Tampere
-https://st.downtime.fi/sun.mp3
-#EXTINF:-1,Radio Vaasa - Finland - Vaasa
-https://stream.protonbroadcast.com:8443/radiovaasa.mp3
-#EXTINF:-1,Radio Voima - Finland - Lahti
-https://cast2.radiovoima.fi/voima.mp3
 #EXTINF:-1,Roll FM 97.1 - Finland - Vantaa
 https://rollfm.online/
-#EXTINF:-1,Rondo Classic Klasu - Finland - Helsinki
-https://iradio.fi/klasu-hi.mp3
-#EXTINF:-1,Savon Aallot FM 102.0 - Finland - Kuopio
-https://cast.savonaallot.fi/savonaallot
 #EXTINF:-1,Sea FM 88.8 - Finland - Oulu
 https://s3.myradiostream.com/:4976/;
-#EXTINF:-1,Soho Radio - Finland - Tampere
-https://sohostream.djonline.fi:8008/radio
-#EXTINF:-1,Tampereen Kiakkoradio: Tappara - Finland - Tampere
-https://st.downtime.fi/kiakko-tappara.aac
-#EXTINF:-1,Võmba FM - Finland - Helsinki
-https://c4.radioboss.fm:18123/live
-#EXTINF:-1,YLE Klassinen - Finland - Helsinki
-https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio
 #EXTINF:-1,YLE Radio 1 - Finland - Helsinki
 https://icecast.live.yle.fi/radio/YleRadio1/icecast.audio
 #EXTINF:-1,YLE Radio Suomi Helsinki - Finland - Helsinki
 https://icecast.live.yle.fi/radio/YleRS/icecast.audio
-#EXTINF:-1,YleX - Finland - Helsinki
-https://icecast.live.yle.fi/radio/YleX/icecast.audio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/jouluradio-xmas-593764-logo.jpg",Jouluradio: Xmas
 http://relay1.toivon.zenon.media:8004/xmas
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/classic-595212-logo.jpg",Radio Classic
@@ -1881,8 +1835,6 @@ http://stream.bauermedia.fi/iskelma/hyv_64.aac
 http://stream.bauermedia.fi/radiocity/hml_64.aac
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/iskelma-sastamala-649527-logo.jpg",Radio Iskelmä Sastamala
 http://stream.bauermedia.fi/iskelma/sas_64.aac
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-helsinki-579769-logo.jpg",Radio Helsinki
-https://stream.radiohelsinki.fi/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hamsi-fm-154077-logo.jpg",Radio Hamsi FM
 http://radyo.hamsi.fm:8050/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-yle-vega-aboland-logo.jpg",Radio YLE Vega Aboland
@@ -1999,3 +1951,61 @@ http://217.30.180.247:9013
 http://217.30.180.247:9011/;
 #EXTINF:-1 tv-logo="",Radio Iskelma Rex
 http://media.innoventum.fi:8000/radiorex
+#EXTINF:-1,NRJ
+https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=falseu0026aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,FugeFM
+https://streaming.broadcast.radio/fugefm
+#EXTINF:-1,YLE Radio Suomi Hämeenlinna
+https://yleradiolive5.akamaized.net/hls/live/20000882/ylers-kajaani/256/variant.m3u8
+#EXTINF:-1,POPfm
+https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=falseu0026aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Keygen FM
+https://keygen-fm.kodatek.app/listen/keygen-fm/radio.mp3
+#EXTINF:-1,Kaaos Radio Chiptune
+https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b
+#EXTINF:-1,Unexplained Agency Radio
+https://radio.unexplained.agency/stream
+#EXTINF:-1,Kohina - Old School Game and Demo Music
+http://kohina.duckdns.org:8000/stream.ogg
+#EXTINF:-1,Basso
+https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=falseu0026aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Yle Radio Suomi, Kotka
+https://streaming.radioplay.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=falseu0026aw_0_1st.playerid=BMUK_ukrpu0026aw_0_req.userConsentV2=~TCSTRING~u0026rp_source=1u0026aw_0_1st.skey=1770708690
+#EXTINF:-1,RAKKAUDEN WAPPURADIO
+https://stream1.wappuradio.fi/wappuradio.opus
+#EXTINF:-1,Pride Radio
+https://streaming.radioplay.fi/fi_pride_128.mp3
+#EXTINF:-1,POP fm
+http://stream.nsp.se:8000/pop
+#EXTINF:-1,FinnRadio
+https://servidor39-5.brlogic.com:7076/live
+#EXTINF:-1,TOP51
+https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=falseu0026aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Radio Boofi
+https://radio.iranian.fi/listen/vip/radio.mp3
+#EXTINF:-1,Yle Radio Suomi, Rovaniemi
+https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3?aw_0_1st.bauer_loggedin=falseu0026aw_0_1st.playerid=BMUK_tuneinu0026aw_0_1st.skey=1697625781
+#EXTINF:-1,YleRadioSuomiLahti
+https://icecast.live.yle.fi/radio/YleLahti/icecast.audio
+#EXTINF:-1,Järviradio Puhe
+https://jarviradio.radiotaajuus.fi:9000/jrpuhe
+#EXTINF:-1,MTV Uutiset
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:-1,RattoRadio
+https://stream.rattoradio.fi/ratto.mp3
+#EXTINF:-1,Tranceport FM
+https://a12.asurahosting.com/listen/tranceport_fm/radio.mp3
+#EXTINF:-1,Yle Radio Suomi - Pori
+http://s3.myradiostream.com:4976/;
+#EXTINF:-1,RollFM
+https://streaming.radioplay.fi/fi_classic_128.mp3
+#EXTINF:-1,Tekoälyradio
+https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3
+#EXTINF:-1,Yle Lahti Radio Suomi
+https://streams.radiomast.io/1a940889-c9f0-4040-aa8c-1d5945f9d6fc
+#EXTINF:-1,Classic Hits Finland
+https://ms-live-classichits.nm-elemental.nelonenmedia.fi/master-256000.m3u8
+#EXTINF:-1,Radio Kempele
+https://listen.radioking.com/radio/283663/stream/329548
+#EXTINF:-1,Utajärven seurakunnan Kirkkoradio
+https://listen.radioking.com/radio/486611/stream/543311

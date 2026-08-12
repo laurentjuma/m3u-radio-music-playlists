@@ -431,12 +431,8 @@ https://sawtelghad.org:8002/
 https://stream.radiojar.com/78cxy6wkxtzuv
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/83842/logo_XuvzR1xxrC.png",Radio Nagham
 https://rstream.hadara.ps/proxy/radionagham/stream
-#EXTINF:-1,24FM - Palestine - Ramallah
-https://icecast.mada.ps:8402/24fm
 #EXTINF:-1,Ajyal - Palestine - Ramallah
 https://streamer.mada.ps:8208/ajyal
-#EXTINF:-1,Angham Radio - Palestine - Ramallah
-https://streamer.mada.ps:8207/ANGHAM
 #EXTINF:-1,Basma FM 101.2 - Palestine - Rawabi
 https://mars.streamerr.co/8342/stream
 #EXTINF:-1,HR - Palestine - Hebron
@@ -451,10 +447,6 @@ https://rstream.hadara.ps/proxy/radiobethlehem2000/stream
 https://rstream.hadara.ps/proxy/hayat/stream.mp3
 #EXTINF:-1,Radio Mawwal FM 101.7 - Palestine - Bethlehem
 https://rstream.hadara.ps/proxy/mawwal/stream.mp3
-#EXTINF:-1,Radio Nissa - Palestine - Ramallah
-https://streamer.mada.ps:8210/nisaa
-#EXTINF:-1,Raya FM 96.4 - Palestine - Nablus
-https://rstream.hadara.ps/proxy/raya/stream
 #EXTINF:-1,Sawt El Ghad - Akhbaar - Palestine - Ramallah
 https://sawtelghad.org:8012/;
 #EXTINF:-1,Sawt El Ghad - Al-Haan - Palestine - Ramallah
@@ -483,8 +475,6 @@ https://sawtelghad.org:8444/;
 https://sawtelghad.org:8010/;
 #EXTINF:-1,Sawt El Ghad FM 105 - Al Awli - Palestine - Ramallah
 https://sawtelghad.org:7000/;
-#EXTINF:-1,راديو نغم FM 99.7 Radio Nagham - Palestine - Qalqilyah
-https://rstream.hadara.ps/proxy/radionagham/stream
 #EXTINF:-1 tv-logo="",Radio Raya FM
 http://live.raya.fm:8032/;
 #EXTINF:-1 tv-logo="",Radio Angham

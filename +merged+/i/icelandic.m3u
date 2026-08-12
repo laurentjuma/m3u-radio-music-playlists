@@ -221,3 +221,27 @@ https://stream.zeno.fm/52gf9f8u2ehvv
 https://stream.zeno.fm/5dgevfbqyhhvv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/is-trolli-fm-logo.jpg",Radio Trölli FM
 http://live.trolli.is:8200/;
+#EXTINF:-1,STIL EX YU POP
+https://live.visir.is/hls-radio/fm957/playlist.m3u8
+#EXTINF:-1,RUV Rás 2
+http://netradio.ruv.is/ras2.mp3
+#EXTINF:-1,Útvarp 101
+https://stream.101.live/audio/101/playlist.m3u8
+#EXTINF:-1,Rondó Radio
+https://ruv-radio-live.akamaized.net/streymi/rondo/rondo.m3u8
+#EXTINF:-1,80s BYLGJAN
+https://icecast.visir.is/orb80s.aac
+#EXTINF:-1,Jahta Radio
+https://usa7.fastcast4u.com/proxy/mdjscwwh?mp=/1
+#EXTINF:-1,FM Xtra
+https://ice-11.spilarinn.is/zfmextra
+#EXTINF:-1,2024 ehf
+https://1985.is:8200/testserver128
+#EXTINF:-1,Útvarp Boðun
+https://bodun.is:8443/stream?type=.mp3
+#EXTINF:-1,Létt Bylgjan 96.7 FM
+https://icecast.visir.is/orbLettBylgjan.aac
+#EXTINF:-1,Antenna Web Akureyri
+https://islanda.radioantennaweb.com/Akureyri
+#EXTINF:-1,Seyðisfjörður Community Radio
+https://seyisfjorur-community-radio.radiocult.fm/stream

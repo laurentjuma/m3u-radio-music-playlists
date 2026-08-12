@@ -99,9 +99,9 @@ http://live.radiol.li:8000/love
 http://live.radiol.li:8000/schlager
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,Campus Radio Universität Liechtenstein - Liechtenstein - Vaduz
-https://campusradioli.out.airtime.pro/campusradioli_a
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/li-tzgospel-liechtenstein-logo.jpg",Radio Tzgospel ( Liechtenstein)
 https://stream.zeno.fm/s92yr231uchvv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/li-antenna-web-vaduz-logo.jpg",Radio Antenna Web Vaduz
 https://tinyurl.com/Antenna-Web-Vaduz
+#EXTINF:-1,Antenna Web Liechtenstein
+https://tinyurl.com/AntennaWebLiechtenstein

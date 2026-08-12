@@ -2547,174 +2547,64 @@ https://live-nors.sharp-stream.com/nors17.mp3
 https://stream.radiorakel.no/radiorakel_hq
 #EXTINF:-1,NRK P3 Musikk 
 https://lyd.nrk.no/icecast/mp3/high/bkaen3z6bl/p3musikk?1768728185
-#EXTINF:-1,1FM - Norway - Molde
-https://s2.radio.co/s914ffa700/listen
-#EXTINF:-1,1FM Gull - Norway - Molde
-https://lyd.1fm.no/1fmgull_hq
-#EXTINF:-1,1FM Jazz - Norway - Molde
-https://lyd.1fm.no/1fmjazz_hq
-#EXTINF:-1,1FM Rock - Norway - Molde
-https://lyd.1fm.no/1fmrock_hq
 #EXTINF:-1,3FM Norge - Norway - Stokmarknes
 https://uk6.internet-radio.com/proxy/3fmnorge/stream
-#EXTINF:-1,Arctic Outpost AM1270 - Norway - Longyearbyen
-https://radio.streemlion.com:3715/stream
-#EXTINF:-1,Ariel Radio - Norway - Stavanger
-https://streams.radio.co/sf069f3c03/listen
-#EXTINF:-1,Askøy Radioo FM 107.1 - Norway - Bergen
-https://radioaskoy.radioca.st/sender
-#EXTINF:-1,Duen Radio - Norway - Stavanger
-https://streams.radio.co/s07e510a23/listen
 #EXTINF:-1,FM 8000 Bodø - Norway - Bodø
 https://stream.theradiohub.com/?server=sirius.shoutca.st&port=8245&type=mp3&mount=1/;
-#EXTINF:-1,Gudbrandsdalsradioen - Norway - Lillehammer
-https://lyd.radioene.no/gdal.mp3
-#EXTINF:-1,Guovdageainnu Lagasradio - Norway - Kautokeino
-https://streaming.radio.co/s5b773f8d3/listen
-#EXTINF:-1,Hamarradioen - Norway - Hamar
-https://lyd.radioene.no/hamar.mp3
-#EXTINF:-1,Historyradio.org - Norway - Tromsø
-https://stream.radiojar.com/6bmecgg3wd5tv
 #EXTINF:-1,Hjalarhornet Radio - Norway - Flatdal
 https://lyd.hjalar.no/hjalar_hq
 #EXTINF:-1,Inthemixstyle Radio - Norway - Oslo
 https://s4.radio.co/see8af2dc7/low
-#EXTINF:-1,JærRadioen FM 103.5 - Norway - Sandnes
-https://audio.jaerradiogruppen.no/jaerradioen_hq
 #EXTINF:-1,KSU 24/7 - Norway - Kristiansund
 https://utmothavet.ksu247.no/192
 #EXTINF:-1,Lovsangsradion - Norway - Nordre Follo
 https://studio20.radiolize.com/radio/8020/radio.mp3
 #EXTINF:-1,Metal Express Radio - Norway - Oslo
 https://s39.myradiostream.com/:11590/;
-#EXTINF:-1,Metro Romerike 96.6 FM - Norway - Lillestrøm
-https://stream.oneplay.no/romerike64
-#EXTINF:-1,Nkanalen 105.5 FM - Norway - Ørnes
-https://stream.radiomeloy.no:8003/high
-#EXTINF:-1,Nordfjord Nærradio - Norway - Nordfjordeid
-https://lyd.nnr1987.no/nnr_hq
 #EXTINF:-1,Norea Pluss Radio - Norway - Kristiansand
 https://rbx2.hnux.com/http://149.202.22.75:8168/;?_=0.44698911506018857
 #EXTINF:-1,Norges Blindeforbund Radio Z - Norway - Oslo
 https://straum.blindeforbundet.no/radio.mp3?.mp3
 #EXTINF:-1,North & Beyond Radio - Norway - Hammerfest
 https://north-beyond.stream.laut.fm/north-beyond?t302=2025-01-04_07-38-03&uuid=3cf5e88b-7618-4e8f-a181-cc87566bfc71
-#EXTINF:-1,NRJ 90.5 - Norway - Oslo
-https://nrj.p4groupaudio.com/NRJ_AH
 #EXTINF:-1,NRK Alltid Nyheter - Norway - Oslo
 https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_h?_hdr=0
-#EXTINF:-1,NRK Folkemusikk - Norway - Oslo
-https://lyd.nrk.no/nrk_radio_folkemusikk_mp3_h
-#EXTINF:-1,NRK Jazz - Norway - Oslo
-https://lyd.nrk.no/nrk_radio_jazz_mp3_h
 #EXTINF:-1,NRK Klassisk - Norway - Oslo
 https://lyd.nrk.no/nrk_radio_klassisk_aac_h
-#EXTINF:-1,NRK mP3 - Norway - Trondheim
-https://lyd.nrk.no/nrk_radio_mp3_mp3_h
-#EXTINF:-1,NRK P1 Buskerud - Norway - Kongsberg
-https://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_m
-#EXTINF:-1,NRK P1 Finnmark - Norway - Vadso
-https://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_m
-#EXTINF:-1,NRK P1 Hedmark og Oppland - Norway - Lillehammer
-https://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_m
 #EXTINF:-1,NRK P1 Hordaland - Norway - Bergen
 https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_m
-#EXTINF:-1,NRK P1 Møre og Romsdal - Norway - Ålesund
-https://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_h
-#EXTINF:-1,NRK P1 Nordland - Norway - Bodø
-https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_h
 #EXTINF:-1,NRK P1 Sogn og Fjordane - Norway - Førde
 https://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_aac_h
 #EXTINF:-1,NRK P1 Sørlandet - Norway - Kristiansand
 https://lyd.nrk.no/nrk_radio_p1_sorlandet_aac_h
-#EXTINF:-1,NRK P1 Troms - Norway - Tromsø
-https://lyd.nrk.no/nrk_radio_p1_troms_mp3_h
 #EXTINF:-1,NRK P1 Trøndelag - Norway - Trondheim
 https://lyd.nrk.no/nrk_radio_p1_trondelag_aac_h
-#EXTINF:-1,NRK P1 Vestfold - Norway - Tønsberg
-https://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_m
-#EXTINF:-1,NRK P1 Østfold - Norway - Fredrikstad
-https://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_m
-#EXTINF:-1,NRK P1+ - Norway - Oslo
-https://lyd.nrk.no/nrk_radio_p1pluss_mp3_h
 #EXTINF:-1,NRK P13 - Norway - Oslo
 https://lyd.nrk.no/nrk_radio_p13_aac_h
 #EXTINF:-1,NRK P2 - Norway - Oslo
 https://lyd.nrk.no/nrk_radio_p2_mp3_h?.mp3
 #EXTINF:-1,NRK P3 - Norway - Oslo
 https://lyd.nrk.no/nrk_radio_p3_mp3_m
-#EXTINF:-1,NRK P3 Urørt - Norway - Oslo
-https://lyd.nrk.no/nrk_radio_p3_urort_mp3_h
-#EXTINF:-1,NRK Sport - Norway - Oslo
-https://lyd.nrk.no/nrk_radio_sport_mp3_h
-#EXTINF:-1,NRK Super - Norway - Oslo
-https://lyd.nrk.no/nrk_radio_super_mp3_m
-#EXTINF:-1,Ordentlig Radio - Norway - Oslo
-https://stream.oradio.no/oradio_hq
-#EXTINF:-1,P10 Country - Norway - Oslo
-https://p10.p4groupaudio.com/P10_MH
-#EXTINF:-1,P11 Dance - Norway - Oslo
-https://p11.p4groupaudio.com/P11_AH
-#EXTINF:-1,P4 Lyden av Norge - Norway - Lillehammer
-https://p4.p4groupaudio.com/P04_MH
-#EXTINF:-1,P5 Fosen - Norway - Rissa
-https://lyd.p5fosen.no/p5fosen_hq
-#EXTINF:-1,P5 Hits - Norway - Oslo
-https://p5.p4groupaudio.com/P05_MM
-#EXTINF:-1,P6 Rock - Norway - Oslo
-https://p6.p4groupaudio.com/P06_MH
-#EXTINF:-1,P7 Klem - Norway - Oslo
-https://p7.p4groupaudio.com/P07_MH
-#EXTINF:-1,P7 Kristen Pop - Norway - Straume
-https://radio.p7.no/radio/8000/kristen_pop
 #EXTINF:-1,P7 Kristen Riksradio - Norway - Straume
 https://radio.p7.no/radio/8020/kristen_riksradio
-#EXTINF:-1,P8 Pop 80s & 90s - Norway - Oslo
-https://p8.p4groupaudio.com/P08_MM
-#EXTINF:-1,P9 Retro - Norway - Oslo
-https://p9.p4groupaudio.com/P09_MH
 #EXTINF:-1,Piratradioen - Norway - Mosjøen
 https://play.radioking.io/piratradioen
-#EXTINF:-1,RAD102 - Norway - Haugesund
-https://stream.radio102.no/radio102_hq
-#EXTINF:-1,Radio 3 Bodø FM 104.9 - Norway - Bodø
-https://stream.radio3.no/Radio3Bodo128
 #EXTINF:-1,Radio Ålesund FM 104.5 - Norway - Ålesund
 https://audio.jaerradiogruppen.no/aalesund_hq
-#EXTINF:-1,Radio Alta - Norway - Alta
-https://stream02.nordavis.no/radioalta-128k
 #EXTINF:-1,Radio Bardufoss - Norway - Bardufoss
 https://stream.bardufoss.no/radiobardufoss128
-#EXTINF:-1,Radio Bø - Norway - Bø, Nordland
-https://nettradio.radiobo.com/radiobo-high
 #EXTINF:-1,Radio E6 - Norway - Oppdal
 https://lyd.radioe6.no/radioe6_hq
-#EXTINF:-1,Radio Grenland FM - Norway - Skien
-https://audio.radiogrenland.no/grenland_hq
 #EXTINF:-1,Radio Haugaland - Norway - Haugesund
 https://stream.theradiohub.com/?server=radioip.no&port=8000&type=mp3&mount=stream/1/;
-#EXTINF:-1,Radio Kongsvinger - Norway - Kongsvinger
-https://lyd.radioene.no/kongsvinger.mp3
 #EXTINF:-1,Radio Kos - Norway - Sandnes
 https://lyd1.lokalradio.no/kos_hq
-#EXTINF:-1,Radio L - Lillesand - Norway - Lillesand
-https://stream.radio-l.no/rlihq
 #EXTINF:-1,Radio Laagendalen - Norway - Steinsholt
 https://radiolarvik.radioca.st/stream?ver=446721
 #EXTINF:-1,Radio Larvik - Norway - Larvik
 https://eu10.fastcast4u.com:15220/;
-#EXTINF:-1,Radio Latin-Amerika - Norway - Oslo
-https://stream.radiolatinamerika.no/latam_hq
-#EXTINF:-1,Radio Loland - Norway - Vennesla
-https://stream.radiololand.no/rlohq
-#EXTINF:-1,Radio Luster FM 107.6 - Norway - Gaupne
-https://edge.mixlr.com/channel/obrtv
-#EXTINF:-1,Radio Lyngdal - Norway - Lyngdal
-https://live.radiolyngdal.com/rly_hq
 #EXTINF:-1,Radio Mehamn FM 106.4 - Norway - Mehamn
 https://lyd.samkring.no/mehamn_hq
-#EXTINF:-1,Radio Metro - Norway - Oslo
-https://stream.radiometro.no/oslo128
 #EXTINF:-1,Radio Midt-Østerdal - Norway - Rena
 https://free.rcast.net/70637
 #EXTINF:-1,Radio Nano - Norway - Oslo
@@ -2723,226 +2613,44 @@ https://s2.yesstreaming.net:7157/stream/;
 https://nettradiobackup.radiobo.com/high
 #EXTINF:-1,Radio Nordkapp 103.9 FM - Norway - Honningsvåg
 https://lyd.samkring.no/nordkapp_lq
-#EXTINF:-1,Radio Nordsjø 106.1 FM - Norway - Egersund
-https://audio.jaerradiogruppen.no/nordsjo_hq
-#EXTINF:-1,Radio Nova - Norway - Oslo
-https://stream.radionova.no/mp3
-#EXTINF:-1,Radio Rana - Norway - Mo i Rana
-https://lyttradio.no/live.mp3
-#EXTINF:-1,Radio Randsfjord - Norway - Gran
-https://stream.radiorandsfjord.no/randsfjord_hq
-#EXTINF:-1,Radio Revolt - Norway - Trondheim
-https://direkte.radiorevolt.no/revolt.ogg
-#EXTINF:-1,Radio Rjukan 106.5 FM - Norway - Rjukan
-https://stream.radiorjukan.no/rjukan_hq
-#EXTINF:-1,Radio Sandnes - Norway - Sandnes
-https://audio.jaerradiogruppen.no/sandnes_hq
-#EXTINF:-1,Radio Sotra FM 100.9 - Norway - Straume
-https://streaming.radiosotra.no:8443/radiosotra
-#EXTINF:-1,Radio Stryn - Norway - Stryn
-https://lyd.radiostryn.no/stryn_hq
 #EXTINF:-1,Radio Sunnmøre - Norway - Ålesund
 https://ipradio.no/RS
 #EXTINF:-1,Radio Tordenskrall - Norway - Sandnessjøen
 https://carina.streamerr.co/stream/radiotordenskrall
-#EXTINF:-1,Radio Toten - Norway - Raufoss
-https://lyd.radioene.no/radiototen-mp3
 #EXTINF:-1,Radio Tromsø - Norway - Tromsø
 https://stream.bardufoss.no/radiotromso
-#EXTINF:-1,Radio Tropoli - Norway - Stavanger
-https://radio.roganett.com/listen/tropoli/radio.mp3
-#EXTINF:-1,Radio Tønsberg FM 102.8 - Norway - Sem
-https://audio.radiotonsberg.no/tonsberg_hq
-#EXTINF:-1,Radio Øst 97.3 FM - Norway - Råde
-https://stream.radio-ost.no/radioost_hq
-#EXTINF:-1,RadiOrakel - Norway - Oslo
-https://stream.radiorakel.no/fm993.mp3
-#EXTINF:-1,Rehoboth FM 107.2 - Norway - Stavanger
-https://audio.rehoboth.no/rehoboth_mq
-#EXTINF:-1,Rox FM 90.1 - Norway - Oslo
-https://stream.oneplay.no/rox128
 #EXTINF:-1,RT Hits FM 94.4 - Norway - Tromsø
 https://stream.bardufoss.no/rthits128
 #EXTINF:-1,Silkeveien Radio - Norway - Oslo
 https://n0a.radiojar.com/2arcr5qmb
-#EXTINF:-1,SolørRadioen - Norway - Åsnes
-https://lyd.radioene.no/solor.mp3
-#EXTINF:-1,SolørRadioen+ - Norway - Flisa
-https://lyd.radioene.no/solorpluss.mp3
-#EXTINF:-1,The Beat - Norway - Oslo
-https://stream.oneplay.no/beatoslo128
-#EXTINF:-1,Thuthi FM - Norway - Oslo
-https://streams.radio.co/s790fe269d/listen
-#EXTINF:-1,TrysilRadioen 103.7 - Norway - Trysil
-https://lyd.radioene.no/trysil.mp3
 #EXTINF:-1,Valdres Radio 105.0 FM - Norway - Fagernes
 https://lyd.valdresradio.com/valdres_hq
 #EXTINF:-1,Vers Libre - Norway - Bergen
 https://vers-libre.radiocult.fm/stream
-#EXTINF:-1,Østerdalsradioen FM 89.4 - Norway - Tynset
-https://lyd.radioene.no/osterdal.mp3
 #EXTINF:-1,Radiø Bø 
 http://stream.oneplay.no/oslo128
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102764/logo_FDd97U7iG2.jpg?v=20260529-media-restore",Enigmatic Chill
 https://tower.hayva.ru/jxnul-96
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35722/logo_7FMI7Q04Yg.jpg?v=20260529-media-restore",The Beat
-https://live-nors.sharp-stream.com/nors17.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004554/logo_Kq8u9GDKU4.jpg?v=20260529-media-restore",NRJ Norway
-https://nrj.p4groupaudio.com/NRJ_MH
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005316/logo_ofxLRD36NV.jpg?v=20260529-media-restore",Clásico
 https://audio.clasico.no/clasico_hq
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35851/logo_Kh2mIM5012.jpg?v=20260529-media-restore",Radio Rock Legends
-https://live-bauerno.sharp-stream.com/radiorock_legends_no_vip
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004533/logo_ZiPGhNuEgT.jpg?v=20260529-media-restore",NRK P3
 https://nrk-live-radio-world.akamaized.net/p3/muxed.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35833/logo_IQO493o07P.jpg?v=20260529-media-restore",KISS Norge
-https://live-bauerno.sharp-stream.com/kiss_no_mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35854/logo_Es2Bf3k20d.jpg?v=20260529-media-restore",Radio Rock 80s
-https://live-bauerno.sharp-stream.com/power_ballads_no_vip
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35737/logo_3fXrvc6Idr.jpg?v=20260529-media-restore",P10 Country
-https://p10.p4groupaudio.com/P10_MM
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35860/logo_ZAoQR2zsL7.jpg?v=20260529-media-restore",Radio Rock 90s
-https://live-bauerno.sharp-stream.com/radiorock_90s_no_vip
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35844/logo_oxO2KjTuVa.jpg?v=20260529-media-restore",Radio Rock
-https://live-bauerno.sharp-stream.com/radiorock_no_mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35712/logo_JyoE5pbz0H.jpg?v=20260529-media-restore",P11 Bandit
-https://p11.p4groupaudio.com/P11_MH
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103781/logo_x4Fay7PXwy.jpg?v=20260529-media-restore",Hit Radio
 https://live-nors.sharp-stream.com/nors2.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35725/logo_UvivF1hoUB.jpg?v=20260529-media-restore",1FM
-https://lyd.1fm.no/1fm_hq
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004751/logo_lGEKaXrkGf.jpg?v=20260529-media-restore",NRK Sport
-https://lyd.nrk.no/nrk_radio_sport_mp3_l
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005317/logo_SqhaYH4Ma2.jpg?v=20260529-media-restore",Radio Metro
 https://live-nors.sharp-stream.com/nors8.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35795/logo_EJa7KjzvMM.jpg?v=20260529-media-restore",Radio Norge
-https://live-bauerno.sharp-stream.com/radionorge_no_mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35873/logo_i4UiajXsPU.jpg?v=20260529-media-restore",Harrys Radio
-https://mpc1.mediacp.eu:8208/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35870/logo_qHJWw44Zui.jpg?v=20260529-media-restore",North & Beyond Radio
-https://stream.north-beyond.com
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35750/logo_kDIUXScW7W.jpg?v=20260529-media-restore",NRK Klassisk
-https://lyd.nrk.no/nrk_radio_klassisk_mp3_m
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35731/logo_qfEd0tB0oF.jpg?v=20260529-media-restore",NRK Alltid Nyheter
-https://lyd.nrk.no/nrk_radio_alltid_nyheter_mp3_h
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35718/logo_H8Te1YjSJV.jpg?v=20260529-media-restore",Metal Express Radio
-https://s39.myradiostream.com/11590/listen.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35830/logo_my13tQLi71.jpg?v=20260529-media-restore",Radio Tromso Hits
-https://stream.radiotromso.no/rthits48
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103780/logo_vmCc98Dt8G.jpg?v=20260529-media-restore",Heart Radio
 https://live-nors.sharp-stream.com/nors15.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35867/logo_FsGK9hOt85.jpg?v=20260529-media-restore",Danseband 1
-https://stream.zeno.fm/yytaywmrf8uuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35842/logo_TAaR3IWk91.jpg?v=20260529-media-restore",Norsk Pop
-https://live-bauerno.sharp-stream.com/norskpop_no_mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35856/logo_7qwCC4mPev.jpg?v=20260529-media-restore",Radio Rock TOPP666
-https://live-bauerno.sharp-stream.com/radiorock_666list_no_vip
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35846/logo_AJfFxG8xqy.jpg?v=20260529-media-restore",Radio P24-7 MIX
-https://live-bauerno.sharp-stream.com/p247mix_no_mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35749/logo_glUl9HlbBw.jpg?v=20260529-media-restore",RadiOs
-https://lyd.radios.no/radios_hq
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103778/logo_Gtroxm4kUq.jpg?v=20260529-media-restore",Radio Metro Classic
 https://live-nors.sharp-stream.com/nors3.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35872/logo_qnrx6rz48P.jpg?v=20260529-media-restore",Dansebandmusikk fra facebook
-https://stream.zeno.fm/cmbfam9up0hvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35855/logo_thJASDAt9a.jpg?v=20260529-media-restore",Køntry
-https://stream.zeno.fm/syhwgukh738uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103779/logo_sBAlZeg9ZH.jpg?v=20260529-media-restore",Power Rock Radio
 https://live-nors.sharp-stream.com/nors4.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004610/logo_1eK9daRgRL.jpg?v=20260529-media-restore",P5 Nonstop Hits
-https://p5n.p4groupaudio.com/P05AMM
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35818/logo_f2UcJA0kTo.jpg?v=20260529-media-restore",FM101
-http://ipradio.no:8000/FM101
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35839/logo_Pg2r4gdS60.jpg?v=20260529-media-restore",Sabbath Radio
-https://listen.radioking.com/radio/460760/stream/516014
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35866/logo_lIuptRAx8q.jpg?v=20260529-media-restore",Promo Danseband jukebox
-http://stream.zeno.fm/vzzfimpkf3puv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35862/logo_9tqlsvAaWN.jpg?v=20260529-media-restore",Trekkspill
-https://stream.zeno.fm/1z2xfh076zhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35857/logo_siLVo58UNg.jpg?v=20260529-media-restore",Danseband 2
-https://stream.zeno.fm/wrx3pc66ng0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35863/logo_AelQIbFJo8.jpg?v=20260529-media-restore",Norsk musikk
-https://stream.zeno.fm/qmhb4q9xgm0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35800/logo_Dwyk6zCDVc.jpg?v=20260529-media-restore",Headcleaner
-https://headcleaner.stream.laut.fm/headcleaner
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35794/logo_K8L2mgTsfk.jpg?v=20260529-media-restore",Radio Z
-https://straumod.blindeforbundet.no/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35847/logo_fY9XgtTZQI.jpg?v=20260529-media-restore",Radio P24-7 Fun
-https://live-bauerno.sharp-stream.com/station10_no_aac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35843/logo_PFWaOZvaAR.jpg?v=20260529-media-restore",Radio P24-7 KOS
-https://live-bauerno.sharp-stream.com/p247kos_no_hq
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35838/logo_8WXqNyB29M.jpg?v=20260529-media-restore",MC Radio Classic
 https://cast6.asurahosting.com/proxy/mcradiom/stream/;JLS_ATI.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35812/logo_AEN4DGusE8.jpg?v=20260529-media-restore",Radio Bardufoss
-https://stream.radio3.no/radiobardufoss192
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35754/logo_6iYIZYZl5N.jpg?v=20260529-media-restore",ScanSat
-https://stream.scansat.no/scansat_hq
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35825/logo_7m95QdkzQk.jpg?v=20260529-media-restore",Radio Vest
-http://radiovest.eu:8000/radiovest
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35810/logo_qbaOL5bPVF.jpg?v=20260529-media-restore",Bygderadio Vest
-http://radio.bygderadiovest.no:8000/radio
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35742/logo_YK0YVe2ynq.jpg?v=20260529-media-restore",NRK P2
-https://lyd.nrk.no/nrk_radio_p2_mp3_m
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35815/logo_pz1KMyv029.jpg?v=20260529-media-restore",Nea Radio
-https://nettradio.nearadio.no:8100/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35853/logo_78qcGbQ8rg.jpg?v=20260529-media-restore",Radio Drunk
-https://stream.zeno.fm/tsmd7rdzgm0uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35764/logo_GHsrM1xLJg.jpg?v=20260529-media-restore",Radio Alta
 https://uksoutha.streaming.broadcast.radio/radio-alta?1766287148760=
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35852/logo_GkKPjgFAXB.jpg?v=20260529-media-restore",Radio Rock NÜEVO
-https://live-bauerno.sharp-stream.com/bm_popup2_no_vipaac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35796/logo_Uujd3vlWP2.jpg?v=20260529-media-restore",Radio Norea Pluss Mediemisjon
-http://149.202.22.75:8168/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35724/logo_KnmgJhEfCK.jpg?v=20260529-media-restore",P8 Pop
-https://p8.p4groupaudio.com/P08_MH
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35715/logo_SLh7gB5ARC.jpg?v=20260529-media-restore",NRK P1 Oslo og Akershus
-https://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_m
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35845/logo_DcS8yUnpC6.jpg?v=20260529-media-restore",Radio Topp 40
-https://live-bauerno.sharp-stream.com/top40_no_mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35836/logo_qnCpooQTVD.jpg?v=20260529-media-restore",Radio Norge 80s
-https://live-bauerno.sharp-stream.com/radionorge_80s_no_vip
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35745/logo_tTbF1jGNeB.jpg?v=20260529-media-restore",NRK P13
-https://lyd.nrk.no/nrk_radio_p13_mp3_m
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35869/logo_PDaF0S51zI.jpg?v=20260529-media-restore",AllMusic.Radio [AAC+]
 https://a8.asurahosting.com:8770/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35779/logo_5gykI8p66p.jpg?v=20260529-media-restore",Jæren Misjonsradio
-http://radioip.no:443/jm
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35859/logo_QWOSHhRplS.jpg?v=20260529-media-restore",Jul med danseband
-https://stream.zeno.fm/kpw00ea1k18uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35771/logo_lAxWuYl8yX.jpg?v=20260529-media-restore",FnF.Fm
-http://178.33.135.245:4250/stream2
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35821/logo_6RTEhJsCEK.jpg?v=20260529-media-restore",Dansbandradioen
-https://live-nors.sharp-stream.com/nors1.aac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35763/logo_1KPE2Ydbhb.jpg?v=20260529-media-restore",Radio Haugaland
-http://radioip.no:8000/stream/1/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35820/logo_7L8YWBU2Rq.jpg?v=20260529-media-restore",Radio Kos
-https://lyd.radiokos.no/kos_hq
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35717/logo_GqsA8LxJEx.jpg?v=20260529-media-restore",NRK P1 Nordland
-https://lyd.nrk.no/nrk_radio_p1_nordland_mp3_m
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35727/logo_aVN8WSkNh5.jpg?v=20260529-media-restore",NRK P1+
-https://lyd.nrk.no/nrk_radio_p1pluss_mp3_m
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35766/logo_hND31k7lLr.jpg?v=20260529-media-restore",Radio Tromso
-https://stream.radio3.no/radiotromso
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35834/logo_osHquraArN.jpg?v=20260529-media-restore",Ducket Radio
-https://az10.yesstreaming.net:8300/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35774/logo_KxE9twFSoK.jpg?v=20260529-media-restore",Misjonsradioen Agder
-http://5195.cloudrad.io:8136/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35755/logo_P3rAe16AWS.jpg?v=20260529-media-restore",NRK Sámi Radio
-https://lyd.nrk.no/nrk_radio_sami_mp3_m
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35808/logo_t9Hs6K8GsF.jpg?v=20260529-media-restore",Radio Sunnmøre
-https://lyd.radiosunnmore.no/sunnmore_hq?___cb=477072511676051
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35758/logo_hHQsnOZWng.jpg?v=20260529-media-restore",NRK P1 Troms
-https://lyd.nrk.no/nrk_radio_p1_troms_mp3_m
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35835/logo_rmg6UE8PkX.jpg?v=20260529-media-restore",Radio Norge Topp 1000
-https://live-bauerno.sharp-stream.com/radionorge_t1000_no_vipaac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35762/logo_hPZg1M8lLM.jpg?v=20260529-media-restore",Radio 3,16
-https://streaming.radio.co/se326fb378/listen
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35861/logo_fH8EJxHTTi.jpg?v=20260529-media-restore",Henrettelseskanalen
-https://stream.zeno.fm/xymmncoqoirvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35780/logo_WkNHx1ma92.jpg?v=20260529-media-restore",Radio Nordkapp
-http://audio.visto.no/radionordkapp.ogg
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35816/logo_SxjPkMXN56.jpg?v=20260529-media-restore",Inter FM
-https://stream.interfm.no/interfm_mq
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/no-mc-radio-logo.jpg",MC Radio
 https://cloudstream2030.conectarhosting.com/8066/stream/;BS_ATKM.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/no-snowflake-fm-logo.jpg",Radio Snowflake FM
@@ -3079,8 +2787,6 @@ http://srv1.dab.no:2047/;
 http://stream.sysrq.no:8000/00-nsr.mp3?type=.mp3/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/no-pinoy-radio-nordic-logo.jpg",Pinoy Radio Nordic
 http://206.72.194.250:9978/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/nrk-p1-hordaland-181673-logo.jpg",Radio NRK P1 Hordaland
-https://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_m
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/no-nrk-p13-radioresepsjonen-logo.jpg",NRK P13 Radioresepsjonen
 https://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_m
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/no-radio-laagendalen-logo.jpg",Radio Laagendalen
@@ -3293,3 +2999,39 @@ http://wms.yourstation.com:8000
 http://mms-live.online.no:80/p5_oslo
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/p5-trondheim-170009-logo.jpg",Radio P5 Trondheim
 http://mms-live.online.no/p5_trondheim
+#EXTINF:-1,NRK P2 aac_h
+http://s39.myradiostream.com:11590/;
+#EXTINF:-1,Rock Radio Norway
+https://nrk-live-radio-world.akamaized.net/p1pluss/muxed.m3u8?adap=audiou0026aco=aac
+#EXTINF:-1,P10 Country (AAC HQ)
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/klassisk_mp3_h
+#EXTINF:-1,P5 Nonstop Hits (AAC HQ)
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk2_mp3_h
+#EXTINF:-1,NRK P1 Innlandet
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk14_mp3_h
+#EXTINF:-1,Radio Haugaland 96
+https://stream.theradiohub.com/?server=radioip.nou0026port=443u0026type=mp3u0026mount=rh.mp3
+#EXTINF:-1,Radio 3 Bodø
+https://stream.radio3.no/Radio3Bodo48?rp_source=1u0026=u0026u0026___cb=322377588283394
+#EXTINF:-1,Tune Tribe Radio
+https://tunetriberadio.com:8556/hls/tune_tribe_radio/live.m3u8
+#EXTINF:-1,Tube Tamil FM Radio டியூப் தமிழ் எஃப்.எம் பண்பலை ரேடியோtube
+http://s2.voscast.com:12084/;stream1619441439791/1
+#EXTINF:-1,P9 Retro (MP3 128k)
+https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/folkemusikk
+#EXTINF:-1,Scansat Radio (Scandinavian Satellite Radio)
+https://stream.rcast.net/67165
+#EXTINF:-1,Radio AI Norge
+https://a13.asurahosting.com/listen/radio_ai/radio.mp3
+#EXTINF:-1,NF Radio
+https://player.nfradio.fr/listen/nf_radio/radio.mp3
+#EXTINF:-1,P12 Hitmix (MP3 128k)
+https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sapmi_mp3_h
+#EXTINF:-1,Radio Rock Norway AAC
+https://live-bauerno.sharp-stream.com/radiorock_no_aac
+#EXTINF:-1,Radio Tropoli
+https://radio.roganett.com/listen/radio_tropoli/radio.mp3
+#EXTINF:-1,NRK P1 Oslo og Akershu
+https://nrk-p1-oslo-akershus.akamaized.net/60/0/hls/nrk_p1_oslo_akershus/playlist.m3u8
+#EXTINF:-1,Piratradioen
+https://listen.radioking.com/radio/139750/stream/179842

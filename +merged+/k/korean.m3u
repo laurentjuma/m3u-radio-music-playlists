@@ -873,38 +873,10 @@ https://stream.zeno.fm/2h4b2x5bpy8uv
 https://us1new.listen2myradio.com:2199/listen.php?port=10095&amptype=s2&ampmount=%2Fstream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/66056/logo_7W1OcSOwjR.png",World Hits Kpop (Korean Pop) Radio
 https://stream.zeno.fm/k12saxcgk5zuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80312/logo_Q37LmQqwkj.jpg?v=20260529-media-restore",Gugak FM
-https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80310/logo_IzgdNgm5qT.jpg?v=20260529-media-restore",CBS 표준FM
-https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007453/logo_o68X0Avb7n.jpg?v=20260529-media-restore",Радио Голос Кореи
 https://listen4.myradio24.com/60315
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/101916/logo_iPEpCPknW6.jpg?v=20260529-media-restore",Big B Radio - KPOP
-https://antares.dribbcast.com/proxy/kpop?mp=%2Fs
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80075/logo_oX5RRTGJ6a.jpg?v=20260529-media-restore",World Hits Kpop (Korean Pop)
-https://stream.zeno.fm/7qk8gcygk5zuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008214/logo_XsQ29zNDBW.jpg?v=20260529-media-restore",Pyongyang FM
-https://listen7.myradio24.com/69366
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66056/logo_irJQUAKB1a.jpg?v=20260529-media-restore",World Hits Kpop (Korean Pop)
-https://stream.zeno.fm/k12saxcgk5zuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100051/logo_dpjCzvCT7k.jpg?v=20260529-media-restore",Radio Korea New York
-http://ingest.live365.com:8000/a48202_live
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/80317/logo_YYGLpQSuHQ.jpg?v=20260529-media-restore",MMLR FM
-https://stream.zeno.fm/2h4b2x5bpy8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/73711/logo_mtu6FeGy4m.jpg?v=20260529-media-restore",Musicas de Asia Internet Radio
-http://rosetta.shoutca.st:8405/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100202/logo_x5rJleO8mJ.jpg?v=20260529-media-restore",Radio Korea
-https://onair.radiokorea.com/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98072/logo_djObdnzHe6.jpg?v=20260529-media-restore",OnlyHit K-Pop
-https://kpop.onlyhit.us/play
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96483/logo_P2BhtVSCxE.jpg?v=20260529-media-restore",113.FM Pop2K (Pop, Top 40)
-https://113fm.cdnstream1.com/1737_128?cb=746431.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102084/logo_RxKfmzY9xx.jpg?v=20260529-media-restore",KGBN
-https://streamer.radio.co/scb2948df3/listen
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/92639/logo_QWtCZVcM3u.jpg?v=20260529-media-restore",DKNET 730 AM
 https://us1new.listen2myradio.com:2199/listen.php?port=10095&type=s2&mount=%2Fstream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96677/logo_UTRVQwBgOz.jpg?v=20260529-media-restore",113.FM K-Pop (Korean Pop)
-https://113fm-atunwadigital.streamguys1.com/1049
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/happyday-newage-radio-ez-156869-logo.jpg",Happyday Newage Radio EZ
 http://newage.kr:8000
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/kr-tbc-dream-fm-logo.jpg",Radio TBC Dream FM
@@ -943,3 +915,95 @@ https://radio1.koreatimes.com/index.html?sid=1
 http://ec2-18-218-198-193.us-east-2.compute.amazonaws.com:8000/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/kr-tzgospel-south-korea-logo.jpg",Radio Tzgospel South Korea
 https://stream.zeno.fm/v48m6vkgzchvv
+#EXTINF:-1,올드팝카페
+https://stream.zeno.fm/oldwnjuma3duv
+#EXTINF:-1,KBS 2FM
+https://radio.bsod.kr/stream/?stn=kbsu0026ch=2fm
+#EXTINF:-1,Yggdrasil Radio
+http://radio.shirayuki.org:9200/
+#EXTINF:-1,Voice of Korea
+https://radio.intchoson.com/vok/index.m3u8
+#EXTINF:-1,K-RADIO
+https://s5.radio.co/s0a9796fe3/listen
+#EXTINF:-1,(BSOD) MBC mini All-That-Music
+https://radio.bsod.kr/stream/?stn=mbcu0026ch=chm
+#EXTINF:-1,CBS 파워라디오 [Music FM]
+https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3
+#EXTINF:-1,TBS FM 95.1
+https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8
+#EXTINF:-1,하늘호수24
+https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8
+#EXTINF:-1,OBS 라디오
+https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8
+#EXTINF:-1,KBS HappyFM
+https://radio.bsod.kr/stream/?stn=kbsu0026ch=2radiou0026bora=true
+#EXTINF:-1,REPLAY NEWS - 한국어 5분마다 뉴스 라디오
+https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3
+#EXTINF:-1,경인방송
+https://stream.ifm.kr/live/aod1/playlist.m3u8
+#EXTINF:-1,ARA FM
+http://141.164.38.238/listen/ara_fm/radio.mp3
+#EXTINF:-1,Korean Central Broadcasting Station
+https://radio.intchoson.com/kcbs/index.m3u8
+#EXTINF:-1,CHKG-FM 96.1 "Fairchild Radio" Vancouver, BC
+https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
+#EXTINF:-1,JeonjuFM
+http://radiostream.communityradio.kr/jcfm1
+#EXTINF:-1,WOWCCM
+http://wowccm.iptime.org:8000/stream/1/
+#EXTINF:-1,CBS 음악 FM
+https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/chunklist.m3u8
+#EXTINF:-1,KBS 1FM
+https://radio.bsod.kr/stream/?stn=kbsu0026ch=1fm
+#EXTINF:-1,CJRK-FM 102.7 "East FM" Toronto, ON
+https://centova.radioservers.biz/proxy/eastfmc1/stream
+#EXTINF:-1,韩国音乐台
+https://stream.zeno.fm/r0tbse9jnbptv
+#EXTINF:-1,Classic Odyssey
+http://live07.inlive.co.kr:21110/
+#EXTINF:-1,延边朝鲜语新闻综合广播
+https://lhttp-hw.qtfm.cn/live/20324/64k.mp3
+#EXTINF:-1,延边朝鲜语文艺生活广播 문예생활방송
+https://srs.iybtv.cn/audio/FM1023/index.m3u8
+#EXTINF:-1,延边朝鲜语新闻综合广播 뉴스종합방송
+https://srs.iybtv.cn/audio/AM1206/index.m3u8
+#EXTINF:-1,Floyd Server (Rock Ballad...From 09/25/05)
+http://1.uicl.co.kr:8000/;
+#EXTINF:-1,HIT FM K-Pop Hits
+https://radio3.dixi.md/listen/kpop_hits/kpop_hits.aac
+#EXTINF:-1,Arirang Radio
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1,RMF K-Pop
+https://rs8-krk2-cyfronet.rmfstream.pl/GAMEMUSIC
+#EXTINF:-1,Vibe Radio
+https://stream.zeno.fm/zf0ac4raqy8uv
+#EXTINF:-1,WHRW Binghamton 90.5 FM
+http://stream.whrwfm.org/new
+#EXTINF:-1,CNR-8 民族之声 조선어방송  
+https://satellitepull.cnr.cn/live/wxmzzs/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174761703245334u0026wsIPSercert=270c8446fe14303f2433a2f164ccd9e5
+#EXTINF:-1,라디오한국 Radio Hankook KSUH 1450 AM KWYZ 1230 AM
+http://50.222.186.230:8080/stream
+#EXTINF:-1,CINZ NET Radio
+https://stream.cinz.net/
+#EXTINF:-1,Supreme Master TV
+https://radio.suprememastertv.com/128K
+#EXTINF:-1,CPBC
+https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Njg1MDcyMjEsInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI4ODQzYTNlNi00NTQ3LTQ3YzgtYmYxYy05MThhODU0ZDdmODYiLCJpYXQiOjE3Njg0NjQwMjF9.1jtH2oRGNFgUvicR3AChArjPkQL6RTnHCN-htmtGY2U
+#EXTINF:-1,Europa Plus K-Pop
+https://hls-01-europaplus-kpop.emgsound.ru/europaplus-kpop/112/playlist.m3u8
+#EXTINF:-1,Pyongyang FM 105.2
+https://stream.zeno.fm/tghzpiblktzvv
+#EXTINF:-1,YTN 라디오 (YTN FM)
+https://streams.radiomast.io/678de728-1691-4eb7-bf37-057bcc9b12f5?referer=onlinetingfm
+#EXTINF:-1,The plug | k-pop
+https://kpop-jakeradiomasterserver.radioca.st/stream
+#EXTINF:-1,AFN Humphreys
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_OSN_SC
+#EXTINF:-1,TBN 부산교통방송
+https://5cc6beb04faf6.streamlock.net/gyeongin/myStream/playlist.m3u8
+#EXTINF:-1,AFN Kunsan
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_KSN_SC
+#EXTINF:-1,FinLy Radio (대한민국)
+https://azuracast.raphaastudios.com.br/listen/rsradio-korea/radio.mp3
+#EXTINF:-1,AFN Daegu
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_DGU_SC

@@ -183,8 +183,6 @@ https://stream.fusionradioapp.com:1045/stream
 https://stream.radiogoose.ru/listen/phonk/play
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103704/logo_5m9cArxz9b.jpg?v=20260529-media-restore",DFM Armin van Buuren
 https://hls-01-dfm.hostingradio.ru/avburren/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49038/logo_udl3Cm7nSl.jpg?v=20260529-media-restore",Minatrix.FM
-https://minatrix.fm/stream/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36218/logo_kOQd9vZDqo.jpg?v=20260529-media-restore",Minimal Mix Radio
 https://minimalmix.radioca.st/media
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103235/logo_Iwc55EZRD1.jpg?v=20260529-media-restore",Mashup Record

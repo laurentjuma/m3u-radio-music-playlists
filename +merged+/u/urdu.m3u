@@ -993,3 +993,63 @@ https://cast5.my-control-panel.com/proxy/libertybeats/stream
 https://stream.zeno.fm/pjsno4cdel1uv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/pk-life-style-radio-logo.jpg",Life Style Radio
 https://cast6.asurahosting.com/proxy/lifestyleradio/stream
+#EXTINF:-1,BIG 92.7 FM
+https://stream.zeno.fm/dbstwo3dvhhtv
+#EXTINF:-1,Radio Pakistan Lahore News and Current Affair AM 1332 KHZ
+https://whmsonic.radio.gov.pk:7004/stream?type=httpu0026nocache=12
+#EXTINF:-1,Radio Pakistan Multan
+https://whmsonic.radio.gov.pk:8034/stream?type=httpu0026nocache=12
+#EXTINF:-1,Love-Islam-Radio
+https://stream-52.zeno.fm/f9h69cgbu68uv
+#EXTINF:-1,Radio Madhoshi
+https://stream.zeno.fm/7rsl8fsccf8uv
+#EXTINF:-1,AIR Indore
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8
+#EXTINF:-1,City FM 89 Islamabad
+https://whmsonic.radio.gov.pk:8026/relay?type=httpu0026nocache=9
+#EXTINF:-1,Radio Pakistan WS
+https://whmsonic.radio.gov.pk:7005/stream?type=httpu0026nocache=12
+#EXTINF:-1,CMR Hindi FM Radio
+https://live.cmr24.net/CMR/Desi_Music-MQ/icecast.audio
+#EXTINF:-1,AmorFM
+https://amorfm_192.streampartner.nl/stream
+#EXTINF:-1,Radio Vivid Voice
+https://stream.zeno.fm/xuin6ocdc2juv
+#EXTINF:-1,Live FM
+https://stream.aiir.com/dbv0rxpwp6ytv
+#EXTINF:-1,Radio Mirpur
+https://whmsonic.radio.gov.pk:8074/?type=httpu0026nocache=9
+#EXTINF:-1,Papa John's Pizza Pakistan
+http://162.252.85.85:7086/
+#EXTINF:-1,AK radio Trarkhal
+https://whmsonic.radio.gov.pk:8076/relay?type=httpu0026nocache=9
+#EXTINF:-1,SunriseFM
+http://stream.sunrisefm.nl:9600/
+#EXTINF:-1,Radio Srinagar
+http://streaming01.x-6.nl:8000/
+#EXTINF:-1,Radio Hulchul
+https://everestcast.live-streams.nl:18015/stream
+#EXTINF:-1,Radio Pechaan
+http://mscp3.live-streams.nl:8050/stream
+#EXTINF:-1,BAHAWAL PUR MW STATION
+https://whmsonic.radio.gov.pk:8088/stream?type=httpu0026nocache=4
+#EXTINF:-1,Radio SBS
+http://live.radiosbs.nl:8272/radiosbs
+#EXTINF:-1,VahonFM - Vahon Hindustani Radio
+https://onlineradio.websoftitnepal.com/8030/stream
+#EXTINF:-1,Taiyabah Masjid
+https://taiyabahmbolton.radioca.st/stream
+#EXTINF:-1,Gulshan Radio
+http://s3.voscast.com:11510/;.mp3
+#EXTINF:-1,101peshawar
+https://whmsonic.radio.gov.pk:8070/relay?type=httpu0026nocache=9
+#EXTINF:-1,Hand Of Jesus - URDU
+https://whmsonic.radio.gov.pk:7008/stream?type=http&nocache=12
+#EXTINF:-1,Fm 100 Pakistan
+https://cast4.servcast.net/proxy/fm100islamabad/stream?ver=614923
+#EXTINF:-1,Spice FM107
+https://s5.myradiostream.com/42724/listen.mp3?0_9724205635133212=
+#EXTINF:-1,Radio Awaz
+https://gujratfm105-awazradionetwork.radioca.st/stream
+#EXTINF:-1,Djlive
+https://stream.rcast.net/71089

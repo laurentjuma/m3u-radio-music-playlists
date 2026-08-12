@@ -261,18 +261,8 @@ https://cdn.radioplayer.kg:8443/suiunchu64
 https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,Aura FM - Kyrgyzstan - Bishkek
-https://cdn.radioplayer.kg:8443/new64
 #EXTINF:-1,Avtoradio Bishkek FM 107.8 - Kyrgyzstan - Bishkek
 https://cast.avtoradio.kg/0/avtoradio
-#EXTINF:-1,Hit FM Kyrgyzstan - Kyrgyzstan - Bishkek
-https://cdn.radioplayer.kg:8443/hitfm64
-#EXTINF:-1,Kyrgyzstan Obondoru - Kyrgyzstan - Bishkek
-https://cdn.radioplayer.kg:8443/obondoru64
-#EXTINF:-1,OK Radio FM 100.5 - Kyrgyzstan - Bishkek
-https://stream.okradio.kg:8005/stream
-#EXTINF:-1,Tumar FM - Kyrgyzstan - Bishkek
-https://radio.tumar.fm:8005/stream
 #EXTINF:-1,Радио Европа Плюс Ош 103.8 - Kyrgyzstan - Osh
 https://europaplus.hostingradio.ru:8014/europaplus320.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-manas-569354-logo.jpg",Radio Manas
@@ -285,3 +275,5 @@ http://www.ktrk.kg/online-audio.php?id=1
 http://www.ktrk.kg/online-audio.php?id=3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/stan-tv-581368-logo.jpg",Radio Stan TV
 http://engl.stan.tv/online_tv/?ch_id=1
+#EXTINF:-1,ColdStar.Online Radio (High quality)
+https://ice.coldstar.online/high.mp3

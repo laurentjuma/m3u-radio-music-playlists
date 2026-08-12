@@ -31,8 +31,6 @@ https://streaming.nrjaudio.fm/ou8vm6gk7oiu
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL_SC
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53901/logo_9rHqbrPTMw.jpg?v=20260529-media-restore",Dancecore Record
 https://radiorecord.hostingradio.ru/dc96.aacp
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53882/logo_yyF2r4yMl6.jpg?v=20260529-media-restore",Trance Classics Record
-https://radiorecord.hostingradio.ru/trancehits96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102745/logo_zMn8uHLc2L.jpg?v=20260529-media-restore",Vocal Trance
 https://tower.hayva.ru/8s8kc-96
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103347/logo_EweaJyu8cv.jpg?v=20260529-media-restore",Nu Euphoria Trance Radio
@@ -67,17 +65,7 @@ https://xfer.hirschmilch.de:8001/hypnotic.mp3?ts=1780687838
 https://clubsoundfm.stream.laut.fm/clubsoundfm
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005337/logo_s8SWP3sJ2u.jpg?v=20260529-media-restore",Radio SPB1
 https://listen2.myradio24.com/2666
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103457/logo_1J0oIM3Kgx.jpg?v=20260529-media-restore",Radio 538 Tomorrowland One World
-https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_WORLD_RADIO_NL_SC
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42793/logo_RIkY5N1xTT.jpg?v=20260529-media-restore",Energy FM
-https://network.coast.fm/listen/energy_fm/energy
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53961/logo_v2ijJpCYIc.jpg?v=20260529-media-restore",Ultra Music Festival Record
-https://radiorecord.hostingradio.ru/ultra96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/192/logo_KzBK7cah3h.jpg?v=20260529-media-restore",Хит FM на бегу
 https://hls-01-hitfm.hostingradio.ru/hitontherun/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47189/logo_dzYv0ctIxJ.jpg?v=20260529-media-restore",NRJ Club Hits
-https://streaming.nrjaudio.fm/ou8vm6gk7oiu
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41151/logo_EGX7JiVvy5.jpg?v=20260529-media-restore",Mugadavanje Radio
-https://radio.mugadavanje.rs/listen/mugadavanje/mugadavanje
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-edc-radio-logo.jpg",EDC Radio
 http://c14icyelb.prod.playlists.ihrhls.com/7355_icy

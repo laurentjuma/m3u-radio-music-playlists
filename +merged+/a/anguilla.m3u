@@ -369,7 +369,15 @@ http://174.37.252.208:8441/;
 http://68.168.101.146:8635/mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ai-kool-fm-logo.jpg",Radio Kool FM
 https://s29.myradiostream.com:20299/koolfm-103
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/ai-klass-fm-logo.jpg",Radio Klass FM
-https://klassfm929.radioca.st/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/klass-fm-578641-logo.jpg",Radio Klass FM
 http://68.168.101.146:8627/;
+#EXTINF:-1,Sun 91.1
+http://listen.digital-origin.com:8005/
+#EXTINF:-1,WRNO-HD2 Throwback 96.3 FM
+http://stream.revma.ihrhls.com/zc5873
+#EXTINF:-1,PJD2 102.7 FM Sint Maarten
+http://142.4.219.8:8181/
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,AW The Valley
+https://anguilla.radioantennaweb.com/TheValley

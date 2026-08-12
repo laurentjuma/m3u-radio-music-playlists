@@ -143,12 +143,6 @@ https://listen.radioking.com/radio/190309/stream/232540
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,Chwitiweb - French Guiana - Cayenne
 https://play.radioking.io/chwitiweb
-#EXTINF:-1,Radio Metis FM - French Guiana - Cayenne
-https://str0.creacast.com/metisfm
-#EXTINF:-1,Radio Péyi - French Guiana - Cayenne
-https://radiopeyiguyane.ice.infomaniak.ch/radiopeyiguyane-64.aac
-#EXTINF:-1,RFO Guyane 1ère FM 92.0 - French Guiana - Remire-Montjoly
-https://guyane.ice.infomaniak.ch/guyane-128.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/guyane-1ere-170254-logo.jpg",Radio Guyane 1ere
 http://mp3.live.tv-radio.com/rfo/all/rfo_guyane-128k.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sas-radio-guyane-176060-logo.jpg",SAS Radio Guyane
@@ -173,3 +167,5 @@ http://ns501.ovh.net:8080/metis
 http://sv3.vestaradio.com:6990/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/guyane-la-1ere-571487-logo.jpg",Radio Guyane La 1ère
 http://radios.la1ere.fr/guyane
+#EXTINF:-1,Radio Contact Vosges
+https://s2.ssl-stream.com/listen/radio_contact/radio.mp3

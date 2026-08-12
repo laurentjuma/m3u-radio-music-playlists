@@ -155,3 +155,5 @@ http://ebisradio.zapto.org:8000/stream
 http://ebisradio.zapto.org:8002/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-usnice-621645-logo.jpg",Radio Usnice
 http://138.201.21.17:9998/;
+#EXTINF:-1,Antenna Web Mbabane
+https://tinyurl.com/AntennaWebMbabane

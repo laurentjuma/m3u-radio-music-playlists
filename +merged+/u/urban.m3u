@@ -7645,8 +7645,6 @@ https://stream.pcradio.app/Guf-hi
 http://radio.yasenbit.net:8000/yasenbit192k
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53884/logo_7nRREaJt7T.jpg?v=20260529-media-restore",Маятник Фуко Record
 https://radiorecord.hostingradio.ru/mf96.aacp
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53887/logo_hei3gCyeyo.jpg?v=20260529-media-restore",Black Rap Record
-https://radiorecord.hostingradio.ru/yo96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006529/logo_JcRTNiIiLF.jpg?v=20260529-media-restore",Eminem
 https://stream.pcradio.app/Eminem-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006979/logo_TbTpm01NY0.jpg?v=20260529-media-restore",Каспийский Груз
@@ -7695,8 +7693,6 @@ https://hls-01-dfm.hostingradio.ru/dfmtrap/playlist.m3u8
 https://strmreg.1.fm/jamz_mobile_mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004173/logo_sKeikAZ8IY.jpg?v=20260529-media-restore",Powerhitz - Hip Hop
 http://powerhitz.powerhitz.com:5030/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004172/logo_dXHLISOagr.jpg?v=20260529-media-restore",181 FM - The Beat
-https://listen.181fm.com/181-beat_128k.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94237/logo_crw5iHa8R8.jpg?v=20260529-media-restore",LITT Live - Shaq Fu
 https://radiocustoms.cdnstream1.com/shaqfu
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005549/logo_jpOD8WYxKB.jpg?v=20260529-media-restore",Oldschool Hiphop
@@ -7709,8 +7705,6 @@ https://stream.pcradio.app/twenty_five_seventeen-hi
 http://tunein.defjay.com:80
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66383/logo_UpPBkrkCR4.jpg?v=20260529-media-restore",DFM Rap
 https://dfm-dfmrap.hostingradio.ru/dfmrap96.aacp
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004126/logo_5bvwIRAZhL.jpg?v=20260529-media-restore",Fréquence 3 Urban
-https://frequence3.net-radio.fr/frequence3urban-128.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004217/logo_rxB40TUSmL.jpg?v=20260529-media-restore",bigFM Hip-Hop Radio
 https://streams.bigfm.de/bigfm-hiphop-128-aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006850/logo_EqtQuGZJxm.jpg?v=20260529-media-restore",Noize MC
@@ -7735,8 +7729,6 @@ https://stream.pcradio.app/first_klas-hi
 https://stream.pcradio.app/Krec-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29063/logo_ReWXwLrBAd.jpg?v=20260529-media-restore",Energy Rap US
 https://streaming.nrjaudio.fm/ou4wx2htd2ko
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46865/logo_TjyUzENqCc.jpg?v=20260529-media-restore",Générations Rap US Gold
-https://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004839/logo_FeqprsBuoQ.jpg?v=20260529-media-restore",Mouv'
 https://direct.mouv.fr/live/mouv-midfi.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006811/logo_qan0BbaCVF.jpg?v=20260529-media-restore",Bad Balance
@@ -7791,8 +7783,6 @@ https://stream.pcradio.app/otpetie_moshenniki-hi
 https://icecast4.play.cz/spin128.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006973/logo_1VChw1xwT7.jpg?v=20260529-media-restore",MOT
 https://stream.pcradio.app/mot-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53103/logo_Gl98r1oCgn.jpg?v=20260529-media-restore",NPO FunX
-https://icecast.omroep.nl/funx-bb-mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006860/logo_McbtcFrxrA.jpg?v=20260529-media-restore",Run-D.M.C.
 https://stream.pcradio.app/run_dmc-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004536/logo_Cb5s2aXZw5.jpg?v=20260529-media-restore",KISS FM Urban Beats
@@ -7817,26 +7807,16 @@ https://streams.bigfm.de/bigfm-rnb-128-aac
 https://listen.powerapp.com.tr/powerplus/abr/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005515/logo_AMocPGgiUJ.jpg?v=20260529-media-restore",Радио NEW HIP HOP
 https://live.lofiradio.ru/hiphop_mp3_320
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96009/logo_PoPsMyzPVl.jpg?v=20260529-media-restore",Dilemaradio Hip-Hop Music
-https://dilemaradiolive.radioca.st/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/124/logo_jgBWS5jEn0.jpg?v=20260529-media-restore",Urban Европа Плюс
-https://epdop.hostingradio.ru:8033/ep-urban128.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28562/logo_2X62HRmk4k.jpg?v=20260529-media-restore",1A Deutsch Rap
-https://1a-deutschrap.radionetz.de/1a-deutschrap.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96566/logo_r6ydbhejIR.jpg?v=20260529-media-restore",.100 Hip Hop and RNB FM
 https://usa13.fastcast4u.com/proxy/lorenzo1?mp=%2F1
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53032/logo_sCoNX6HhR1.jpg?v=20260529-media-restore",FunX SlowJamz
 https://icecast.omroep.nl/funx-slowjamz-bb-mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94533/logo_VAK87Siwgc.jpg?v=20260529-media-restore",Sensimedia - Hip Hop
 https://sensihiphop.radioca.st/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29071/logo_PP7zqIRYb4.jpg?v=20260529-media-restore",Antenne Bayern Black Music
-https://mp3channels.webradio.antenne.de/black-beatz
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004790/logo_sF58MmKL9g.jpg?v=20260529-media-restore",bigFM Deutscher Hip-Hop Charts
 https://stream.bigfm.de/deutschland/aac-128/homepage/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000056/logo_4WfXPOnXWb.jpg?v=20260529-media-restore",Dance XL
 https://sonic.mediatelekom.net/8564/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96162/logo_xWPoBgel6R.jpg?v=20260529-media-restore",Klassic Joints Radio
-http://hemnos.cdnstream.com:80/1674_128
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005562/logo_j5NfK6SD7W.jpg?v=20260529-media-restore",Native Rhymes - Classic Hip-Hop
 https://das-sa39.cdnstream1.com/5584_128
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006698/logo_IkghRhzq31.jpg?v=20260529-media-restore",The Notorious
@@ -7885,10 +7865,6 @@ https://stream.vyshka24.ru/wowurban
 https://backend.fedstrapradio.com:8000/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008089/logo_TLX8MRMWi9.jpg?v=20260529-media-restore",Urban and Pop Mix 105.5 FM
 https://sonic.cloudstreaming.eu:10938/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005697/logo_VcZEARoOfW.jpg?v=20260529-media-restore",Energy Urban
-https://streaming.nrjaudio.fm/ouqusryoeo8p
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81802/logo_DCNglEPN0t.jpg?v=20260529-media-restore",Sportify - Latin Urban Workout
-https://drive.uber.radio/uber/sportifylatinurban/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004346/logo_h2S2w3GTBy.jpg?v=20260529-media-restore",Party Vibe - Rap
 https://www.partyvibe.com:8063/;listen.pls?sid=1
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103772/logo_cxYrpjbyw7.jpg?v=20260529-media-restore",Trap Habits Radio
@@ -7947,10 +7923,6 @@ https://radio107info.radioca.st/stream
 https://s3.fleetradionetwork.com:6010/;?ver=95747
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004797/logo_F4GOXRCLaH.jpg?v=20260529-media-restore",WIDE radio
 https://n05.radiojar.com/65s5r7weh24tv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98453/logo_5p0yx2ZS06.jpg?v=20260529-media-restore",760 AM The Gospel
-https://us2.maindigitalstream.com/ssl/WENO
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97508/logo_oMrmlMFTGw.jpg?v=20260529-media-restore",El Coro Musical
-https://radiopa.onlineradiohosting.com/8014/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103475/logo_PthiWijbRb.jpg?v=20260529-media-restore",Rhythm X Radio
 https://s3.fleetradionetwork.com:6051/;?ver=46975
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007573/logo_lMSGzm7syU.jpg?v=20260529-media-restore",Underground Of The Brain
@@ -7975,8 +7947,6 @@ https://stream.pcradio.app/miyagi_endshpil-hi
 https://nexostream.net/listen/ritmohits/live
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/98960/logo_C4zgZwkLDt.jpg?v=20260529-media-restore",Livesideradio 92.7fm
 https://stream.zeno.fm/9h35skerrkeuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1003305/logo_6V7tR9N172.jpg?v=20260529-media-restore",Zona Urbana 101.9 FM
-https://stream.zeno.fm/9bs4fcs77gruv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103455/logo_RglHAuBciC.jpg?v=20260529-media-restore",Nex Hits
 https://nexhits.net:8050/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35546/logo_GHvLUoGJzi.jpg?v=20260529-media-restore",NeonFM
@@ -7985,16 +7955,10 @@ https://stream-177.surfernetwork.com/q52f6x75038uv?
 https://radio-power.stream.laut.fm/radio-power
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95657/logo_qpmqSz0wNH.jpg?v=20260529-media-restore",The Rap MIXX
 https://ais-sa2.cdnstream1.com/1988_64.aac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42348/logo_V1illYKm75.jpg?v=20260529-media-restore",ONE URBAN
-https://stream.onefm.es:8020/one-urban.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103319/logo_c8003aFtMV.jpg?v=20260529-media-restore",NRJ Hits Francais De L’Été
 https://streaming.nrjaudio.fm/oufdfatx4thg?
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1002476/logo_6P20zkC0tF.jpg?v=20260529-media-restore",Radio 7 FM
 http://streamtotal.net:4029/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103447/logo_NoEnAdVQJw.jpg?v=20260529-media-restore",Zona Stereo
-https://stream.vocesparatumarca.net/8006/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103954/logo_7QxAaKhyVQ.jpg?v=20260529-media-restore",El Bloke Radio
-https://streaming.radio.co/sd8f1e3a16/listen
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004341/logo_1anugitBU9.jpg?v=20260529-media-restore",Party Vibe Rap - HipHop
 https://www.partyvibe.com/rap-radio-station/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1001882/logo_g9IkwsSwrT.jpg?v=20260529-media-restore",Aurora FM Urban

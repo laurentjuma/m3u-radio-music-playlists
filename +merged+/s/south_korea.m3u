@@ -723,10 +723,6 @@ https://kpop-jakeradiomasterserver.radioca.st/stream
 https://stream.zeno.fm/nkb20ze9t18uv
 #EXTINF:-1,AFN Eagle 88.5 FM Daegu - South Korea - Daegu
 https://27153.live.streamtheworld.com:443/AFNP_DGUAAC.aac
-#EXTINF:-1,Big B Radio - Kpop - South Korea - Seoul
-https://antares.dribbcast.com/proxy/kpop?mp=/s
-#EXTINF:-1,Jinli Radio - South Korea - Seoul
-https://streamer.radio.co/s014534c05/listen
 #EXTINF:-1,My Hangul Cafe Online Radio - South Korea - Ulsan
 https://stream.zeno.fm/4zhg2xz4138uv
 #EXTINF:-1,WBS FM 89.7 - South Korea - Seoul
@@ -737,8 +733,6 @@ https://wbsradio2.kr/wbs-g
 https://wbsradio2.kr/wbs-d
 #EXTINF:-1,WBS 부산원음방송 104.9 - South Korea - Busan
 https://wbsradio2.kr/wbs-b
-#EXTINF:-1,Yahweh Radio - South Korea - Seoul
-https://s3.radio.co/s22189b87c/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/jazz-break-598463-logo.jpg",Radio Jazz Break
 http://c8.inlive.co.kr:2790/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/kr-kbs-classic-fm-logo.jpg",Radio KBS Classic FM

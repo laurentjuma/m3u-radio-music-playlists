@@ -1503,50 +1503,18 @@ https://stream.nextmedia.si/proxy/rocks_3
 https://live.radio1.si/Radio80
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,ARS 3. program Radia Slovenija - Slovenia - Ljubljana
-https://mp3.rtvslo.si/ars
-#EXTINF:-1,best FM 101.6 - Slovenia - Ljubljana
-https://live.radio.si/BestFM
-#EXTINF:-1,ENTER.radio - Slovenia - Ljubljana
-https://stream.nextmedia.si/proxy/enter_1?mp=/enter
 #EXTINF:-1,Hitradio Center - Slovenia - Ljubljana
 https://stream.nextmedia.si/proxy/center4?mp=/center
-#EXTINF:-1,Koroški Radio 97.2 FM - Slovenia - Slovenj Gradec
-https://live.radio.si/Koroski
 #EXTINF:-1,Mister Deejay Radio - Slovenia - Ljubljana
 https://stream.mister-deejay.com/proxy/misterdj2?mp=/mrdj
 #EXTINF:-1,Moj Radio FM 107 - Slovenia - Velenje
 https://stream.mojradio.si:8000/mojradio
-#EXTINF:-1,Muravidéki Magyar Rádió - Slovenia - Lendava
-https://mp3.rtvslo.si/mmr
 #EXTINF:-1,Primorski val - Slovenia - Cerkno
 https://altair.streamerr.co/stream/primorskival
 #EXTINF:-1,Radijo Sraka 94.6 FM - Slovenia - Novo Mesto
 https://sraka.siradiostream.net/
-#EXTINF:-1,Radio 1 - Slovenia - Ljubljana
-https://live.radio1.si/Radio1
-#EXTINF:-1,Radio 1 Maribor - Slovenia - Maribor
-https://live.radio1.si/Radio1MB
-#EXTINF:-1,Radio 1 Novo Mesto - Slovenia - Novo Mesto
-https://live.radio1.si/Radio1NM
-#EXTINF:-1,Radio 1 Primorska - Slovenia - Sežana
-https://live.radio.si/Radio1
 #EXTINF:-1,Radio 1 Vrhnika - Slovenia - Vrhnika
 https://live.radio1.si/Radio1VR
-#EXTINF:-1,Radio 2 - Slovenia - Ljubljana
-https://live.radio.si/Radio2
-#EXTINF:-1,Radio Aktual - Slovenia - Ljubljana
-https://live.radio.si/Aktual
-#EXTINF:-1,Radio Antena FM 105.2 - Slovenia - Ljubljana
-https://live.radio.si/Antena
-#EXTINF:-1,Radio Brezice Eu - Slovenia - Brežice
-https://stream.radiojar.com/a62vxp5uvueuv
-#EXTINF:-1,Radio Capodistria - Slovenia - Koper
-https://mp3.rtvslo.si/capo
-#EXTINF:-1,Radio Capris - Slovenia - Koper
-https://stream.exit.si/live
-#EXTINF:-1,Radio Capris 80 - Slovenia - Koper
-https://stream.exit.si/80
 #EXTINF:-1,Radio Center 80s - Slovenia - Ljubljana
 https://stream.nextmedia.si/proxy/center80s3?mp=/stream
 #EXTINF:-1,Radio Center Fresh Pop - Slovenia - Ljubljana
@@ -1555,46 +1523,8 @@ https://stream.nextmedia.si/proxy/centerpop3?mp=/stream
 https://stream.nextmedia.si/proxy/centerhit3?mp=/stream
 #EXTINF:-1,Radio Center Yu - Slovenia - Ljubljana
 https://stream.nextmedia.si/proxy/centeryu3?mp=/stream
-#EXTINF:-1,Radio City 100.6 - Slovenia - Maribor
-https://stream1.radiocity.si/CityMp3128.mp3
-#EXTINF:-1,Radio Dur - Slovenia - Rakitna
-https://zvok.ragla.si/gr
-#EXTINF:-1,Radio Ekspres - Slovenia - Ljubljana
-https://stream.nextmedia.si/proxy/ekspres1?mp=/stream
-#EXTINF:-1,Radio Fantasy - Slovenia - Celje
-https://live.radio.si/Fantasy
-#EXTINF:-1,Radio Kranj 97.3 FM - Slovenia - Kranj
-https://live.radio.si/Kranj
-#EXTINF:-1,Radio Krka - Slovenia - Novo Mesto
-https://live.radio.si/Krka
-#EXTINF:-1,Radio Kum - Slovenia - Trbovlje
-https://live.radio.si/AktualK
-#EXTINF:-1,Radio Maxi - Slovenia - Ljutomer
-https://live.radio.si/Maxi
-#EXTINF:-1,Radio Murski val 94.6 FM - Slovenia - Murska Sobota
-https://stream.murskival.si/
-#EXTINF:-1,Radio Nula Beatz - Slovenia - Maribor
-https://strm.radionula.com/lounge
-#EXTINF:-1,Radio Nula Organic - Slovenia - Maribor
-https://strm.radionula.com/channel2
-#EXTINF:-1,Radio Ognjišče FM 104.5 - Slovenia - Ljubljana
-https://live.radio.si/ognjisce.mp3
-#EXTINF:-1,Radio Ptuj - Slovenia - Ptuj
-https://live.radio.si/Ptuj
-#EXTINF:-1,Radio Robin - Slovenia - Nova Gorica
-https://live.radio.si/Robin
-#EXTINF:-1,Radio Slovenija A1 - Slovenia - Ljubljana
-https://mp3.rtvslo.si/ra1
-#EXTINF:-1,Radio Slovenske Gorice FM 96.4 - Slovenia - Municipality of Lenart
-https://stream.iradio.pro/proxy/radioslovenskegoric?mp=/stream
-#EXTINF:-1,Radio Študent FM89.3 - Slovenia - Ljubljana
-https://kruljo.radiostudent.si:8001/hiq
-#EXTINF:-1,Radio Terminal - Slovenia - Ljubljana
-https://air.radioterminal.si/
 #EXTINF:-1,Radio Tomi - Slovenia - Celje
 https://93.103.130.12:8443/tomi.mp3
-#EXTINF:-1,Radio Triglav - Slovenia - Jesenice
-https://live.radio.si/Triglav
 #EXTINF:-1,Radio Urnebes - Slovenia - Metlika
 https://cmr-hosting.com/9650/stream
 #EXTINF:-1,Radio Velenje 107.8 FM - Slovenia - Velenje
@@ -1609,20 +1539,8 @@ https://live.1chi.si/zica
 https://prd-icecast.spectar.tv/ramboamadeus
 #EXTINF:-1,Rock Radio - Slovenia - Ljubljana
 https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock
-#EXTINF:-1,Rock Radio Best Ballads - Slovenia - Ljubljana
-https://stream.nextmedia.si/proxy/rocks_1?mp=/stream
-#EXTINF:-1,Rock Radio Classics - Slovenia - Ljubljana
-https://stream.nextmedia.si/proxy/rocks_3?mp=/stream
-#EXTINF:-1,Rock Radio Hard & Heavy - Slovenia - Ljubljana
-https://stream.nextmedia.si/proxy/rocks_2?mp=/stream
-#EXTINF:-1,RTV SLO Radio Koper - Slovenia - Koper
-https://mp3.rtvslo.si/rakp
 #EXTINF:-1,Terra Relicta Radio - Slovenia - Ljubljana
 https://a3.asurahosting.com:7050/radio.mp3
-#EXTINF:-1,Toti Radio Maribor 106.8 - Slovenia - Maribor
-https://live.radio.si/Toti
-#EXTINF:-1,VAL 202 - Slovenia - Ljubljana
-https://mp3.rtvslo.si/val202
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-laser-170270-logo.jpg",Radio Laser
 http://shoutcast.netsi.net:8100/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/stajerski-val-567561-logo.jpg",Radio Stajerski val
@@ -1765,3 +1683,37 @@ http://tvslo.si/predvajaj/v-zivo-tv-koper-capodistria/tv.kp1/
 http://stream.strozak.org:8006/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/koroski-radio-169887-logo.jpg",Koroski Radio
 http://shoutcast.netsi.net:8300/;
+#EXTINF:-1,Rock Radio Best Ballads SLO
+http://stream.rockradio.si:9034/;
+#EXTINF:-1,Radi Frajer
+https://stream2.nextmedia.si/hls/frj/128k/frj-128.m3u8
+#EXTINF:-1,FRAJER RADIO
+https://stream.nextmedia.si/proxy/frajer_1?mp=/frajer?uid=frjweb;
+#EXTINF:-1,Radio 1 Rock
+https://live.radio.si/Radio1Rock?t=1776880155210
+#EXTINF:-1,Radio Center Gen X
+https://stream2.nextmedia.si/hls/gex/live.m3u8
+#EXTINF:-1,Radio Frajer
+https://stream2.nextmedia.si/hls/frj/live.m3u8
+#EXTINF:-1,Rock Radio Classics SLO
+http://stream3.radiocenter.si:8064/;stream/1
+#EXTINF:-1,Radio Slovenija 1
+https://mp3.rtvslo.si/prvi
+#EXTINF:-1,Capital Radio SL
+http://live.capitalradio.sl/
+#EXTINF:-1,Radio METEOR .si
+https://stream.radiometeor.si/listen/meteor/live.mp3
+#EXTINF:-1,Rock Radio Hard & Heavy SLO
+http://89.142.192.172/live
+#EXTINF:-1,ENTER.RADIO
+http://stream3.radiocenter.si:8066/;stream/1
+#EXTINF:-1,Radio Ekspres SI
+http://145.14.14.93:8016/stream/1/
+#EXTINF:-1,Rádio Timea
+http://193.105.67.24:8010/;?type=httpu0026nocache=3804
+#EXTINF:-1,RADIO NET FM
+https://solid55.streamupsolutions.com/proxy/jtnpkssu/stream
+#EXTINF:-1,Radio Jugoslavija
+https://s5.radio.co/s5f6124412/listen
+#EXTINF:-1,Radio Klopotec
+https://listen.radioking.com/radio/284119/stream/330022

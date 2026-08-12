@@ -649,8 +649,6 @@ https://carol.epichosts.co.uk:8272/live.mp3/;
 https://stream.vovmedia.vn/vov3
 #EXTINF:-1,VOV Giao Thong 91.00 FM - Vietnam - Hanoi
 https://stream.vovmedia.vn/vovgthn
-#EXTINF:-1,VOV5 FM 105.5 - Vietnam - Hanoi
-https://stream.vovmedia.vn/vov5
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-4-logo.jpg",Radio VOV 4
 http://media.kythuatvov.vn:7035/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-3-logo.jpg",Radio VOV 3
@@ -669,3 +667,65 @@ http://m.vov.vn/RadioPlayer.aspx?c=vov1
 http://www.saigontivi.com/onlinetv.html
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/vn-vov-6-logo.jpg",Radio VOV 6
 https://stream.vov.vn/2d424a5f73c34f6700f93e2b0858c8281688297471/vov1-audio/playlist.m3u8
+#EXTINF:-1,VOV Giao thông Hà Nội
+https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
+#EXTINF:-1,ZING BOLERO
+https://vnno-ne-3-tf-multi-playlist-zmp3.zmdcdn.me/BJ7DyJjfG_E/zhls/playback-realtime/audio/5bace800d4453d1b6454/audio.m3u8
+#EXTINF:-1,RFI Tiếng Việt
+https://strm.voh.com.vn/radio/channel3/chunklist_w1005696319.m3u8
+#EXTINF:-1,Cherry Radio Music 247
+https://stream-176.zeno.fm/umt5gqmg3reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1bXQ1Z3FtZzNyZXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNZUXVUREM3VGNtTjEyblNnR0x4UkEiLCJpYXQiOjE3Mjk3NDI5MzAsImV4cCI6MTcyOTc0Mjk5MH0.nXD9Wgj-wiNAqBZ-Pdh_3sfnI3b-Nsa4DwbcZgO1o5Iu0026adtonosListenerId=01JAYBBMWV0MGTJKRSBW480E4Z
+#EXTINF:-1,M Radio Vietnam
+https://stream-155.zeno.fm/4q7y9hvkp2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cTd5OWh2a3AyenV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlpeGFsbUNWVE51cGxub1h2eE9NTmciLCJpYXQiOjE3MzE1NTExNjIsImV4cCI6MTczMTU1MTIyMn0.RQUqatQ8CtSaIcvH9kT1xRfeuptGIM13jzFd-2SehU0u0026aw_0_req_lsid=8196d2c78a734f244852a3f8bbbecbcb
+#EXTINF:-1,VOV GT HCM
+https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+#EXTINF:-1,CRI Tiếng Việt
+https://ice5.securenetsystems.net:80/KALI
+#EXTINF:-1,CHẠM RADIO
+https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8
+#EXTINF:-1,VIET WASHINGTON DC
+http://varadio.serverroom.net:7968/
+#EXTINF:-1,Nhân dân TV
+https://arpt.tvic.vn/live/nhandan720/chunklist_w1899174222.m3u8
+#EXTINF:-1,KC Radio Asia 80s & 90s
+https://kcradio.asia/stream/80s90s
+#EXTINF:-1,VOH FM 95.6
+https://strm.voh.com.vn/radio/channel1/chunklist_w829828563.m3u8
+#EXTINF:-1,VIET RADIO 1560
+http://71.4.56.20/3rdout/radio.hou.std2/icecast.audio
+#EXTINF:-1,REPLAY NEWS - Tiếng Việt Radio tin tức mỗi 5 phút
+https://replaynewsvi.ice.infomaniak.ch/replaynewsve-128.mp3
+#EXTINF:-1,Digital Radio Hongkong
+http://ice.digitalradiohk.net:8000/drhk
+#EXTINF:-1,VOV Mekong
+https://stream.vovmedia.vn/vovmekong
+#EXTINF:-1,KALI SAIGON
+https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
+#EXTINF:-1,Bolsa Radio VN
+http://stream.zenolive.com/ueychbrzv9duv
+#EXTINF:-1,RVA Vietnamese
+https://livestream.rvasia.org:8443/Vietnamese.mp3
+#EXTINF:-1,CAND
+https://lives.antv.gov.vn/channel/antv/channel/antv_480p/chunks.m3u8
+#EXTINF:-1,VOV2 (HD + for copyrighted contents)
+https://audio-lss.vov.vn/live/vov2.m3u8
+#EXTINF:-1,L0ves0n9scafe
+http://listen.57fm.com/lscafe
+#EXTINF:-1,VOH AM 610
+https://strm.voh.com.vn/radio/channel2/chunklist_w884773542.m3u8
+#EXTINF:-1,Saigon Houston AM900
+http://142.4.215.82:8070/stream?type=httpu0026nocache=151
+#EXTINF:-1,Hà Nội Community Radio
+https://ha-noi-community-radio.radiocult.fm/stream
+#EXTINF:-1,VOV GTHN (HD + for copyrighted contents)
+https://tfx70gr4nhct1gwzdrcttfa5urmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,VOH FM 87.7
+https://strm.voh.com.vn/radio/channel5/chunklist_w2071193605.m3u8
+#EXTINF:-1,TNT Atlanta Radio
+https://cast4.servcast.net/proxy/longpham2/stream
+#EXTINF:-1,M Radio Giải Trí Việt Nam
+https://stream-37.zeno.fm/4q7y9hvkp2zuv
+#EXTINF:-1,VIEN THAO Radio
+https://stream.zeno.fm/dw22656b8e9uv

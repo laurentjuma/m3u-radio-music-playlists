@@ -475,37 +475,35 @@ https://stream.zeno.fm/saphn63q35kvv
 http://stream1.dimusic.club:11534/rw?type=.aac
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,Bip Radio 106.0 FM - Benin - Cotonou
-https://ice.creacast.com/bipradio
 #EXTINF:-1,CAPP FM 99.6 - Benin - Cotonou
 https://cdnradio.streamakaci.com/cappfm.mp3
 #EXTINF:-1,Crystal News - Benin - Porto Novo
 https://play.radioking.io/crystal-news
 #EXTINF:-1,Deeman Radio FM 90.2 - Benin - Parakou
 https://stream.zeno.fm/cpbfat3wc8cvv
-#EXTINF:-1,Ekaaro Ejiire - Benin - Ifangni
-https://stream.zeno.fm/ox3cowdhqhevv
 #EXTINF:-1,Fraternité FM 96.5 - Benin - Parakou
 https://radio8.pro-fhi.net/flux-pjlpnvde/stream
-#EXTINF:-1,Frissons Radio FM 95.2 - Benin - Cotonou
-https://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3
 #EXTINF:-1,ORTB Atlantic FM 92.2 - Benin - Abomey Calavi
 https://listen.radioking.com/radio/613798/stream/675604
-#EXTINF:-1,ORTB Radio Nationale - Benin - Abomey Calavi
-https://listen.radioking.com/radio/47608/stream/84430
-#EXTINF:-1,ORTB Radio Parakou - Benin - Parakou
-https://listen.radioking.com/radio/51919/stream/88927
-#EXTINF:-1,Radio Hémicycle - Benin - Porto Novo
-https://listen.radioking.com/radio/117355/stream/156709
-#EXTINF:-1,Radio Tokpa FM 104.3 - Benin - Cotonou
-https://radiotokpa.info/liveradio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-maranatha-568908-logo.jpg",Radio Maranatha
 http://radiolatina.info:8891/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/soleil-fm-benin-626752-logo.jpg",Radio Soleil FM Benin
 http://94.23.66.114:8135/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bj-radio-immaculee-conception-logo.jpg",Radio Immaculée Conception
 https://ovps1.ulcast.com:8042/;stream.mp4
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/capp-fm-587127-logo.jpg",Radio CAPP FM
-https://cdnradio.streamakaci.com/cappfm.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bj-favor-radio-benin-logo.jpg",Favor Radio (Benin)
 https://a10.asurahosting.com:7660/benin.mp3
+#EXTINF:-1,DIMusic Trance Club 🇧🇯
+https://listen.radioking.com/radio/47608/stream/84424
+#EXTINF:-1,Legibenin
+https://listen.radioking.com/radio/185545/stream/227638
+#EXTINF:-1,Sion Radio Gospel
+https://listen.radioking.com/radio/550517/stream/609773
+#EXTINF:-1,Made In Bénin Radio
+https://listen.radioking.com/radio/357802/stream/407221
+#EXTINF:-1,Radio RCL
+https://listen.radioking.com/radio/699122/stream/764123
+#EXTINF:-1,La voix des enfants
+https://listen.radioking.com/radio/712106/stream/777692
+#EXTINF:-1,MEC-Radio
+https://listen.radioking.com/radio/404350/stream/456556

@@ -187,10 +187,6 @@ http://65.108.143.81:7700/1
 https://lhttp-hw.qtfm.cn/live/20973/64k.mp3
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,Elgen Nutag FM 96.9 - Mongolia - Ulaanbaatar
-https://a6.asurahosting.com:7210/radio.mp3
-#EXTINF:-1,Ger Buliin Radio FM 104.5 - Mongolia - Ulaanbaatar
-https://c2.radioboss.fm/stream/394
 #EXTINF:-1,MGL Radio - Mongolia - Ulaanbaatar
 https://s17.ssl-stream.com/proxy/mglradio?mp=/stream
 #EXTINF:-1,Дархан ЭХЛЭЛ радио 87.9 - Mongolia - Darkhan
@@ -217,3 +213,5 @@ http://sh4.audio-stream.com/tunein.php/ojalov02/playlist.pls
 http://67.159.44.132:8292/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tv5-581527-logo.jpg",Radio TV5
 http://www.ubs.mn/player.swf?file=rtmp://202.131.225.171/live/_definst_u0026volume=80u0026autostart=trueu0026caption=falseu0026fullscreen=trueu0026mute=falseu0026quality=falseu0026stretching=fill
+#EXTINF:-1,ЭЛГЭН НУТАГ FM-96.9
+https://live.mnb.mn/hls/radio1.stream.m3u8

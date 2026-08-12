@@ -3569,8 +3569,6 @@ https://18433.live.streamtheworld.com:443/AFNP_IWA.mp3
 https://14003.live.streamtheworld.com:443/AFNP_MSW.mp3
 #EXTINF:-1,AFN Thunder 1575 AM Sasebo - Japan - Sasebo
 https://28503.live.streamtheworld.com:443/AFNP_SBO.mp3
-#EXTINF:-1,AshiyaRadio〜アシヤ・ラヂヲ〜 - Japan - Ashiya
-https://s3.radio.co/sc8d895604/listen
 #EXTINF:-1,Gotanno 89.2 足立区民放送 - Japan - Adachi City
 https://gotanno.love:8443/;
 #EXTINF:-1,J1 Radio - Japan - Tokyo
@@ -3579,14 +3577,8 @@ https://jenny.torontocast.com:2000/stream/J1HITS/;
 https://jenny.torontocast.com:2000/stream/J1XTRA
 #EXTINF:-1,J1 Radio Gold - Japan - Tokyo
 https://jenny.torontocast.com:2000/stream/J1GOLD
-#EXTINF:-1,Listen.moe - Japan - Tokyo
-https://listen.moe/fallback
 #EXTINF:-1,Ottava - Japan - Tokyo
 https://ottava2.out.airtime.pro:8000/ottava2_a
-#EXTINF:-1,r/a/dio - Japan - Osaka
-https://relay0.r-a-d.io/main.mp3
-#EXTINF:-1,RadiCro - Japan - Kobe
-https://radicrojapan.out.airtime.pro/radicrojapan_a
 #EXTINF:-1,Radio Eigekai Indies - Japan - Tokyo
 https://n0b.radiojar.com/66zgtscuc1duv?rj-ttl=5&rj-tok=AAABdXhJlMQAI-dVvCfx4sG4Yw
 #EXTINF:-1,Rádio Mega Mix Japan - Japan - Kameyama
@@ -3597,14 +3589,10 @@ https://sv10.hdradios.net:21920/;
 https://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF:-1,Sound Up Station NFRS - Japan - Osaka
 https://stream1.rcast.net/70945
-#EXTINF:-1,Súper Tokio Radio - Japan - Tokyo
-https://streamer.radio.co/s83eb8ff39/listen
 #EXTINF:-1,Tannan FM 79.1 - Japan - Sabae
 https://tannan.mediaservice.jp:7910/;
 #EXTINF:-1,WREP Live - Japan - Tokyo
 https://c13.radioboss.fm:8200/stream
-#EXTINF:-1,羊飼いラジオ Hitsujikai Radio - Japan - Shibetsu
-https://streaming.radio.co/se4a8e6a93/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/jp-moon-mission-logo.jpg",Radio Moon Mission
 http://uk5.internet-radio.com:8306/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/1037-pinoy-love-radio-594522-logo.jpg",103.7 pinoy love radio
@@ -3781,8 +3769,6 @@ https://ssl.pnstream.com:7756/;stream.nsv
 http://freebird.ddns.net:8010/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/jp-studio-fkm-logo.jpg",Radio Studio FKM
 http://199.101.98.82:8390/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/jp-radio-shiga-logo.jpg",Radio Shiga
-https://sv10.hdradios.net:21920/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/jp-sigma-music-logo.jpg",Radio Sigma Music
 https://rsigma.sytes.net:8000/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/metal-hard-166165-logo.jpg",Radio Metal Hard
@@ -3855,3 +3841,55 @@ http://216.245.208.74:8116/
 http://www1.akasakatonight.com:80/cast/tunein.php/akasaka24/playlist.pls
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/suono-dolce-591057-logo.jpg",Radio Suono Dolce
 http://www.suono.jp/player/player_dp.swf
+#EXTINF:-1,stereo anime
+https://radio.stereoanime.com/listen/stereoanime/128
+#EXTINF:-1,BOX : Japan City Pop - 日本のシティポップ
+http://kathy.torontocast.com:3330/stream/1/?esPlayeru0026cb=82181.mp3
+#EXTINF:-1,NHKワールド・ラジオ日本
+https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8
+#EXTINF:-1,Chifuru!
+https://157.254.194.202/stream/nanahira@256
+#EXTINF:-1,J-Club Club Bandstand
+https://cast1.torontocast.com:2060/;.mp3
+#EXTINF:-1,Gotanno FM 89.2
+https://radio.gotanno.love/;
+#EXTINF:-1,Kawaii Anime Radio
+http://158.69.227.214:8137/stream
+#EXTINF:-1,Neko-Network Radio: Anime/Japanese
+http://listen.nekonetwork.moe:8400/anime.mp3
+#EXTINF:-1,NHK WORLD RADIO 8
+https://master.nhkworld.jp/nhkworld-radio/playlist/rs5/live.m3u8
+#EXTINF:-1,VRC放送局
+https://vrc.gate.vrtv.jp/live?p=gu0026u=d
+#EXTINF:-1,NHK WORLD RADIO 3
+http://shoutcast.wrn.org:8025/nhk41left
+#EXTINF:-1,Otaku Music Radio
+https://kathy.torontocast.com:2880/;?type=httpu0026nocache=1606748882
+#EXTINF:-1,BAY WAVE 塩竈のラジオ
+https://radicrojapan.out.airtime.pro/radicrojapan_b
+#EXTINF:-1,Moon Mission Recordings, Tokyo Deep and Electronic
+https://uk5.internet-radio.com/proxy/mmr?mp=/stream;
+#EXTINF:-1,NHK WORLD RADIO 2
+https://nhkworld-radio.akamaized.net/hls/live/2115823/nhkworld-radio-rs1/index_rs1.m3u8
+#EXTINF:-1,NHK WORLD RADIO 11
+https://master.nhkworld.jp/nhkworld-radio/playlist/gs2/live.m3u8
+#EXTINF:-1,NFRS Radio
+https://securestreams.autopo.st:2592/stream?t=1769818665235
+#EXTINF:-1,NHK WORLD RADIO 7
+https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8
+#EXTINF:-1,#Radio Quran
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5u0026rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1,MILCpod
+https://radio.milradio.info:9000/milcpod.m3u8
+#EXTINF:-1,NHK WORLD RADIO 9
+https://master.nhkworld.jp/nhkworld-radio/playlist/rs4/live.m3u8
+#EXTINF:-1,NHK WORLD RADIO 10
+https://nhkworld-radio.akamaized.net/hls/live/2115820/nhkworld-radio-rs5/index_rs5.m3u8
+#EXTINF:-1,Retro PC Game Music Streaming Radio for Gyusyabu
+http://gyusyabu.ddo.jp:8000/;stream.mp3
+#EXTINF:-1,NHK WORLD RADIO
+https://b-nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-rs1/index_rs1.m3u8
+#EXTINF:-1,NHK WORLD RADIO 5
+http://shoutcast.wrn.org:8025/nhk41right
+#EXTINF:-1,City Hunter OST 24/7
+http://5.178.106.47:8000/cityhunter.mp3

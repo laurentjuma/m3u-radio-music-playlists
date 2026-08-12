@@ -89,7 +89,5 @@ https://hoth.alonhosting.com:2005/stream
 https://antares.dribbcast.com/proxy/cpop?mp=/s
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008226/logo_YiC8EJzvvd.jpg?v=20260529-media-restore",Wong Song
 https://vip.wongsong.cn/proxy/wongsong/stream-mp3-WongSong
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/84795/logo_KzK0bVuldg.jpg?v=20260529-media-restore",SBS PopAsia
-https://sbs-ice.streamguys1.com/sbs-popasia
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-asia-world-618451-logo.jpg",Radio Asia World
 http://sirius.shoutca.st:8019/;

@@ -47,3 +47,17 @@ https://stream.zeno.fm/xbohf8qf5uauv
 https://broadcast.shoutstream.co.uk:8078/stream
 #EXTINF:-1,Orman Radio Jabal Alarab 
 http://ormanland.no-ip.info:8200/mp3
+#EXTINF:-1,Radio Damascus إذاعة دمشق
+https://radiodamascus.ortas.live/RDimshq/RDimshqAudioLive/playlist.m3u8
+#EXTINF:-1,Radio Nasaem راديو نسائم
+https://stream.zeno.fm/u1wbm3k7gxquv
+#EXTINF:-1,Al Karma FM
+https://broadcast.shoutstream.co.uk/stream/8112
+#EXTINF:-1,Asima Online Radio
+https://asima.out.airtime.pro/asima_a
+#EXTINF:-1,Radio Helmna
+https://radiohelmna.com/stream/;
+#EXTINF:-1,Radio Rozana
+https://stream.zeno.fm/sq7y5y2z06duv
+#EXTINF:-1,Radio Yeraz
+http://149.255.60.194:8008/stream

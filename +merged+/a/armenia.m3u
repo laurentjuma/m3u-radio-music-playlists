@@ -723,22 +723,6 @@ https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 https://s8.myradiostream.com:15554/listen.mp3?nocache=1735982486
 #EXTINF:-1,Jour News - Armenia - Yerevan
 https://stream.zeno.fm/xdbg45c3afhvv
-#EXTINF:-1,Kiss FM 88.3 - Armenia - Yerevan
-https://am.radioaurora.am/kiss
-#EXTINF:-1,Lav Radio - Armenia - Yerevan
-https://eu.stream4cast.com/proxy/lavradio/stream
-#EXTINF:-1,Lav Radio Mix - Armenia - Yerevan
-https://eu.stream4cast.com/proxy/lavradiomix/stream
-#EXTINF:-1,Radio Azalia - Armenia - Yerevan
-https://stream.zeno.fm/s865660v7hhvv
-#EXTINF:-1,Radio Energy - Armenia - Yerevan
-https://eu.stream4cast.com/proxy/energyfm/stream
-#EXTINF:-1,Radio Mariam - Armenia - Gyumri
-https://live.radiomariam.am/RadioMariam
-#EXTINF:-1,Radio Van FM 103.1 - Armenia - Yerevan
-https://stream.radiovan.fm:8000/96_stereo
-#EXTINF:-1,Radio Vem - Armenia - Yerevan
-https://eu1.stream4cast.com/proxy/vemradio/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/lav-radio-armenian-radio-187596-logo.jpg",Lav Radio - Armenian Radio
 http://195.154.181.100:8000/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hyevibes-radio-174787-logo.jpg",Hyevibes Radio
@@ -771,3 +755,13 @@ http://dl.mixcache.com:8000/;
 http://78.159.102.100:6230/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/public-radio-armenia-1076-fm-161467-logo.jpg",Public Radio of Armenia - 107.6 FM
 http://195.154.181.100:8052/;
+#EXTINF:-1,Armenian Radio
+https://cast.thiff.com/proxy/laarmeni?mp=/stream
+#EXTINF:-1,LOVE RADIO
+http://s3.streammonster.com:8117/;
+#EXTINF:-1,Armenian Bible Study Radio
+https://ssl.nexuscast.com:8082/stream?type=httpu0026nocache=30722
+#EXTINF:-1,Jazz FM 106.9 Yerevan Radio
+https://de.auroramedia.am/jazz.mp3
+#EXTINF:-1,Radio Muzofan
+https://radio.muzofan.net/radio/newlive

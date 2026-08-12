@@ -47,16 +47,12 @@ https://c22.radioboss.fm:18416/piratfm
 https://stream.deep.friskyradio.com/mp3_low
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103690/logo_CTVw8vnUBP.jpg?v=20260529-media-restore",DFM Грустный дэнс
 https://hls-01-dfm.hostingradio.ru/saddance/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/147/logo_zUdaqclvPf.jpg?v=20260529-media-restore",Deep FM
-https://deep.amgradio.ru/DeepFM
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004317/logo_oYez0S84GR.jpg?v=20260529-media-restore",Deep Promo DJ
 https://radio.promodj.com/deep-192
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103695/logo_VS56Lwewli.jpg?v=20260529-media-restore",DFM Gangsta Deep
 https://hls-01-dfm.hostingradio.ru/gangstadeep/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008046/logo_uszpYtE8Bq.jpg?v=20260529-media-restore",Iskra FM
 https://xn--80apgjsey.xn--p1ai/hls/iskrafm/live.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103287/logo_17wqjuBXz6.jpg?v=20260529-media-restore",Радио Гусь
-https://stream.radiogoose.ru/listen/radiogoose/play
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102747/logo_7G3EJ42Ijh.jpg?v=20260529-media-restore",Deep House
 https://tower.hayva.ru/d4pd7-96
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103848/logo_SfPsC7Lh0M.jpg?v=20260529-media-restore",Deep House Radio Caprice
@@ -73,19 +69,7 @@ https://radio.promodj.com/toodeep-192
 https://listen7.myradio24.com/2455
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005482/logo_rVUZT632XM.jpg?v=20260529-media-restore",PULSE FM
 https://listen4.myradio24.com/22582
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29213/logo_WtgZtKXqqs.jpg?v=20260529-media-restore",Best Of Techno
-https://stream.laut.fm/best-of-techno
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103718/logo_pgtyGhQRO4.jpg?v=20260529-media-restore",Radio Contact Italy
 https://stream.laut.fm/italiastyle
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38622/logo_ermNGSBRTX.jpg?v=20260529-media-restore",Deep Radio Hits
-https://stream.adradio.ro/deep
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008317/logo_DOKL9wfIoG.jpg?v=20260529-media-restore",Melodic Techno Voyage
 https://stream.pcradio.app/mldc-th-vg-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/233/logo_8ldsorrohS.jpg?v=20260529-media-restore",Соль FM Deep
-https://radiopotok2.online/solfm.ru:8000/deep128
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47189/logo_dzYv0ctIxJ.jpg?v=20260529-media-restore",NRJ Club Hits
-https://streaming.nrjaudio.fm/ou8vm6gk7oiu
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/236/logo_4fpQPqlYg4.jpg?v=20260529-media-restore",Соль FM Lo-Fi
-https://radiopotok2.online/solfm.ru:8000/lofi_128
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/134/logo_iAI7gQer5o.jpg?v=20260529-media-restore",SOUNDPARK CLASSIC
-http://relay4.radiotoolkit.com/spclassic

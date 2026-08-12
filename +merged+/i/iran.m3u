@@ -1741,3 +1741,5 @@ http://liveradio.irib.ir/ashna3.m3u8
 http://liveradio.irib.ir/goftegoo.m3u8
 #EXTINF:-1 tv-logo="",Radio Sedabaran
 http://209.190.93.187:8000/
+#EXTINF:-1,Radio Mokashefeh
+https://listen.radioking.com/radio/526993/stream/585379

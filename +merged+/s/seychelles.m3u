@@ -173,8 +173,6 @@ https://cc6.beheerstream.com/proxy/radio078?mp=%2Fstream
 https://a2.asurahosting.com:6790/seychelles.mp3
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,Inside Seychelles - Seychelles - Victoria
-https://stream.radio.co/sb947e1883/listen
 #EXTINF:-1,Pure FM 90.7 - Seychelles - Victoria
 https://s3.voscast.com:10815/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sbc-radyo-sesel-am-service-583035-logo.jpg",Radio SBC Radyo Sesel  (AM Service)
@@ -185,3 +183,5 @@ http://cc6.beheerstream.com:8645/stream
 http://94.23.148.11:8050/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radiobaku90-646966-logo.jpg",RadioBaku90
 http://eu9.fastcast4u.com:5080/;
+#EXTINF:-1,Offshore Radio
+https://live.offshoreradio.net/listen/offshore_radio/radio.mp3

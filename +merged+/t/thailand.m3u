@@ -3725,8 +3725,6 @@ https://media.onair.one:8200/stream/1/?v=1769497160087
 https://radio14.plathong.net/7072/;stream.mp3
 #EXTINF:-1,90 Rakthai - Thailand - Bangkok
 https://radio11.plathong.net/8896/;
-#EXTINF:-1,94 FMClub - Thailand - Hat Yai
-https://plus.onair.network:8130/94fmclub
 #EXTINF:-1,AM 621 kHz. สวท ขอนแก่น. - Thailand - Khon Kaen
 https://radio-org-01-ott.prd.go.th/kkn_am621
 #EXTINF:-1,AM1062KHz สวท.ภูเก็ต - Thailand - Phuket
@@ -3739,26 +3737,16 @@ https://radio12.plathong.net/7116/;stream.mp3
 https://audio-edge-ey5nr.ams.s.radiomast.io/b4328177-eee1-4fb1-8b28-94009a331613
 #EXTINF:-1,Binhla Radio FM 99.0 - Thailand - Na Bin La
 https://apps4.mcot.net/stream855.aac
-#EXTINF:-1,BKK.FM - Thailand - Bangkok
-https://rsas.bkk.fm/radio
-#EXTINF:-1,Boonniyom Radio - Thailand - Bangkok
-https://stream.zeno.fm/m0fs2kgws4zuv
 #EXTINF:-1,buengkan radio - Thailand - Bueng Kan
 https://c16.radioboss.fm:8332/stream
 #EXTINF:-1,Buriram Radio FM 103 บุรีรัมย์ เรดิโอ - Thailand - Buriram
 https://lnwradio.hostsevenplus.com/9504/audio.php
 #EXTINF:-1,Capitol.FM - Thailand - Bangkok
 https://securestreams4.autopo.st:1787/;stream.mp3/;stream.mp3
-#EXTINF:-1,ChiliRADIO Pop - Thailand - Chiang Mai
-https://stream.chiliradio.app/chilipop
-#EXTINF:-1,Chill FM - Thailand - Bangkok
-https://atimeonline.smartclick.co.th/chill
 #EXTINF:-1,Chorsaard - Thailand - Nonthaburi
 https://radio12.plathong.net/9999/;stream.mp3
 #EXTINF:-1,City Life FM - Thailand - Si Ra Cha
 https://radio14.plathong.net/8076/;stream.mp3
-#EXTINF:-1,City Radio FM 90.25 - Thailand - Pattaya City
-https://plus.onair.network:8020/ctapp
 #EXTINF:-1,COOLfahrenheit FM 93 - Thailand - Bangkok
 https://coolism-web.cdn.byteark.com/;stream/1
 #EXTINF:-1,Digital Radio Pai - Thailand - Pai
@@ -3769,12 +3757,8 @@ https://lnwradio.hostsevenplus.com/9622/audio.php
 https://22243.live.streamtheworld.com:443/EAZYFM_1055AAC.aac
 #EXTINF:-1,EFM - Thailand - Bangkok
 https://atimeonline2.smartclick.co.th/efm
-#EXTINF:-1,Fabulous 103 FM - Thailand - Pattaya City
-https://fabulous.thailandstreaming.net/fabulous.mp3
 #EXTINF:-1,Flex 102.5 - Thailand - Bangkok
 https://radio12.plathong.net/7172/;
-#EXTINF:-1,FM 101 MHz Wat-Lomphajawtong - Thailand - Pa Sang
-https://apps4.mcot.net/stream729.aac
 #EXTINF:-1,FM 88.75 Mhz Uthai Thani - Thailand - Uthai Thani
 https://radio12.plathong.net/8206/;stream.mp3
 #EXTINF:-1,FM 90.9 และ 104.25 James Radio - Thailand - Kalasin
@@ -3789,12 +3773,8 @@ https://radio.event360plus.com/stream.ogg
 https://radio14.plathong.net/7448/;
 #EXTINF:-1,FM91 Trafficpro - Thailand - Bangkok
 https://www.fm91bkk.com:8900/;stream.mp3
-#EXTINF:-1,FMONE 103.5 - Thailand - Bangkok
-https://cdn-th2.livestreaming.in.th/shoutcast/8835
 #EXTINF:-1,Full Moon Radio - Thailand - Surat Thani
 https://stream.radio.co/sa77da88c7/listen
-#EXTINF:-1,Fung Fung Fung - Thailand - Bangkok
-https://plus.onair.network:8170/my
 #EXTINF:-1,Genesis Radio FM 104.50MHz - Thailand - Tha Rae
 https://radio10.plathong.net/7228/;stream.mp3
 #EXTINF:-1,Goodtime Radio FM 88.50 - Thailand - Bangkok
@@ -3803,8 +3783,6 @@ https://28153.live.streamtheworld.com:443/GOODTIME_RADIOAAC.aac
 https://ice1.streeemer.com:8030/radio.mp3
 #EXTINF:-1,Great 93 | Online - Thailand - Chiang Mai
 https://free.rcast.net/70914
-#EXTINF:-1,Greenwave 106.5 - Thailand - Bangkok
-https://atimeonline2.smartclick.co.th/green
 #EXTINF:-1,Hitz FM Exclusive 102.25 - Thailand - Lampang
 https://radio10.plathong.net/7292/;
 #EXTINF:-1,Hitz Thailand - Thailand - Bangkok
@@ -3833,8 +3811,6 @@ https://radio11.plathong.net/7356/;stream.mp3
 https://cdn-th2.login.in.th/shoutcast/8410
 #EXTINF:-1,NBT Oversea Radio Thailand - Thailand - Bangkok
 https://cdn-th2.login.in.th/shoutcast/8415
-#EXTINF:-1,Onair FM 89.5 - Thailand - Hat Yai
-https://plus.onair.network:8170/radio.mp3
 #EXTINF:-1,Pattaya Mundee พัทยามันดี - Thailand - Pattaya City
 https://plus.onair.network:8100/mundee
 #EXTINF:-1,Phuket 94 City Radio - Thailand - Phuket
@@ -3847,20 +3823,14 @@ https://cdn-th2.livestreaming.in.th/shoutcast/8775
 https://radio11.plathong.net/8712/;stream.mp3
 #EXTINF:-1,Radio Chumphon FM 100 MHz - Thailand - Chumphon
 https://radio-org-01-ott.prd.go.th/cpn_fm100
-#EXTINF:-1,Radio Phatthalung FM 98 สวท.พัทลุง - Thailand - Phatthalung
-https://stream.zeno.fm/8tc4bbawgxhvv
 #EXTINF:-1,Radio Station 914 - Thailand - Chiang Rai
 https://radio14.plathong.net/7324/;stream.mp3
 #EXTINF:-1,Radio Takuapa FM90.25 - Thailand - Takua Pa
 https://radio-org-01-ott.prd.go.th/pna_fm90_25
 #EXTINF:-1,Radio Thailand 89.5 FM - Thailand - Songkhla
 https://plus.onair.network:8110/895.mp3
-#EXTINF:-1,Radio Thailand 90.5 FM - Thailand - Songkhla
-https://plus.onair.network:8110/905.mp3
 #EXTINF:-1,Radio Thailand Krabi 98.5 FM - Thailand - Krabi
 https://radio-org-01-ott.prd.go.th/kbi_fm98_5
-#EXTINF:-1,Radio Thailand Yala FM 95 - Thailand - Yala
-https://radio-org-01-ott.prd.go.th/yla_fm95
 #EXTINF:-1,Rakpaktai Radio - Thailand - Surat Thani
 https://radio10.plathong.net/7100/;stream.mp3
 #EXTINF:-1,Ranong Radio 107.25 FM - Thailand - Ranong
@@ -3879,12 +3849,6 @@ https://stream.pjcdn.com:8000/1
 https://stream.pjcdn.com:9000/1
 #EXTINF:-1,Surat City Radio FM 102.75 - Thailand - Surat Thani
 https://lnwradio.hostsevenplus.com/9630/player.php
-#EXTINF:-1,Surf 102.5 FM - Thailand - Hua Hin
-https://stream.surf.radio/surf1025
-#EXTINF:-1,Talay FM 90.25 - Thailand - Hua Hin
-https://stream.talay.asia/talay
-#EXTINF:-1,The Spot Thailand - Thailand - Pattaya City
-https://rsas.bkk.fm/spot
 #EXTINF:-1,Top Viewpoint Radio 93.75 - Thailand - Phrae
 https://radio9.plathong.net/7146/;stream.mp3
 #EXTINF:-1,Voice Of MuslimThai - AM 837 - Thailand - Bangkok
@@ -3911,16 +3875,10 @@ https://radio12.plathong.net/8648/;
 https://radio14.plathong.net/7164/;
 #EXTINF:-1,สวท.ภูเก็ต FM 96.75 MHz กรมประชาสัมพันธ์ - Thailand - Phuket
 https://radio-org-01-ott.prd.go.th/pkt_fm96_75
-#EXTINF:-1,เพลงลูกทุ่ง Looktung Eingdoi Station - Thailand - Bangkok
-https://inter.lannaradio.com/radio/8000/radio.mp3
 #EXTINF:-1,เสียงสามยอดเชียงใหม่​ FM 105.75 - Thailand - Chiang Mai
 https://radio12.plathong.net/7002/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-104-green-fm-logo.jpg",Radio 104 Green Fm
-https://radio14.plathong.net/7072/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-ic-radio-logo.jpg",IC Radio
 http://radio1.serverradio.net:8278/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cool-93-fahrenheit-181437-logo.jpg",Radio COOL 93 Fahrenheit
-https://coolism-web.cdn.byteark.com/;stream/1
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-radio-thailand-logo.jpg",Radio Thailand
 http://prdonline.prd.go.th:8118/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-radio-thailand-0-logo.jpg",Radio Thailand
@@ -4259,8 +4217,6 @@ https://radio14.plathong.net/7060/;stream.mp3
 https://listen.radioking.com/radio/326620/stream/374689
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-radio-btr-logo.jpg",Radio BTR
 https://cp11.serverse.com/proxy/radiohappyplus?mp=/streamu00261697437438930
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-รักษ์ปักษ์ใต้เรดิโอ-logo.jpg",Radio รักษ์ปักษ์ใต้เรดิโอ
-https://radio10.plathong.net/7100/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-ch19-fm-logo.jpg",Radio CH19 FM
 http://103.22.182.104:7000/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-sukson-radio-international-logo.jpg",Sukson Radio International
@@ -4285,8 +4241,6 @@ https://radio11.plathong.net/7040/;stream.mp3
 http://95.111.193.151:8870/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-ice-radio-945-fm-logo.jpg",Ice Radio 94.5 FM
 http://1.10.141.185:7106/;stream.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-top-viewpoint-radio-9375-fm-logo.jpg",Top Viewpoint Radio 93.75 FM.
-https://radio9.plathong.net/7146/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-แม่คำมี-fm-8875-mhz-แพร่-logo.jpg",Radio แม่คำมี FM 88.75 MHZ. แพร่
 http://ohmi-design.com:9056/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/muingtest-radio-647172-logo.jpg",Muingtest Radio
@@ -4297,8 +4251,6 @@ https://radio14.plathong.net/7196/;stream.mp3
 https://cdn-edge-ott.prd.go.th/radio_edge/acce-f471-f48f-bd8f-4369.stream_aac/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-voice-of-navy-0-1-2-3-4-5-logo.jpg",Radio Voice of Navy
 https://radio12.plathong.net/9912/;stream.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-voice-of-navy-0-1-2-3-4-5-6-logo.jpg",Radio Voice of Navy
-https://radio12.plathong.net/8660/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-voice-of-navy-0-1-2-3-4-5-6-7-logo.jpg",Radio Voice of Navy
 https://radio12.plathong.net/9922/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/th-ikiwmusic-logo.jpg",Radio iKiwMusic
@@ -4499,3 +4451,63 @@ http://server1.thairadioservice.com:8704/;
 http://radio01.hostrang.com:1460/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/munfm-589411-logo.jpg",Radio munfm
 http://103.246.18.3:4018/;
+#EXTINF:-1,ลูกทุ่ง รักไทย ๙๐
+http://radio11.plathong.net:8896/;stream.mp3
+#EXTINF:-1,106 Family News Radio
+https://radio11.plathong.net/7138/;stream.mp3
+#EXTINF:-1,Radio Red Phuket
+https://stream.chiliradio.app/radiored
+#EXTINF:-1,fm99
+https://northernlive.mcot.net/fm99/voice.m3u8
+#EXTINF:-1,Smooth 105.5 (RStream)
+http://live3.smartbomb.co.th:8624/;stream.mp3
+#EXTINF:-1,บ้านธัมมะ
+https://radio10.plathong.net/7238/;stream.mp3
+#EXTINF:-1,GOLD Radio
+https://streaming.live365.com/a94344
+#EXTINF:-1,91.5 FM Panzer Radio Station
+http://radio.servradio.com:9398/;stream.mp3
+#EXTINF:-1,banmai radio
+https://radio10.plathong.net/7590/;stream.mp3?type=http
+#EXTINF:-1,MCOT อุดรธานี
+http://rstream.mcot.net:9044/;.mp3
+#EXTINF:-1,ลูกทุ่งเน็ตเวิร์ค
+http://media.login.in.th:8200/;stream.mp3
+#EXTINF:-1,KRB Radio 2
+https://nontawat3664.i234.me:8443/stream
+#EXTINF:-1,MCOT Chumphon (Amphoe Lang Suan) FM 104.75
+https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;
+#EXTINF:-1,90.5 Smart News มิติข่าว
+http://103.246.19.203:8004/stream?type=httpu0026nocache=145
+#EXTINF:-1,Rad Radio
+http://radio1.serverradio.net:8592/;?type=http
+#EXTINF:-1,DPRadio
+https://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.ogg
+#EXTINF:-1,FM 93.50 MHz บ้านใหม่ เรดิโอ
+https://radio10.plathong.net/7590/;stream.mp3
+#EXTINF:-1,Keangun Radio เขียนกันเรดิโอ ฟังเพลงสบายสไตล์ร้านกาแฟ ร้านเหล้า ร้านนั่งชิล
+https://radio9.plathong.net/7054/;stream.mp3
+#EXTINF:-1,KRB Radio 3
+https://pakeefm.org/stream/300006/
+#EXTINF:-1,สถานีวิทยุจังหวัดทหารบกลพบุรี AM 1197 KHz. Stereo
+https://mdr13.ddns.net/radio/am1197
+#EXTINF:-1,DPCloudev
+http://azuracast.saber.proxy.damp11113.xyz/listen/systest/radio.mp3
+#EXTINF:-1,วัดป่าไทรงาม
+https://radio10.plathong.net/7110/;stream.mp3
+#EXTINF:-1,KRB Radio 1
+https://radio1.ohmi-design.com/8086/;
+#EXTINF:-1,HITZ Thailand
+https://playerservices.streamtheworld.com/api/livestream-redirect/HITZ_955AAC_128_SC
+#EXTINF:-1,onairPLUS | City Radio Pattaya
+https://media.onair.one:8200/
+#EXTINF:-1,Chili Radio Asia
+https://media.onair.one:8090/onair
+#EXTINF:-1,Good fm Thailand
+https://a.hostpleng.cloud/8062/live.mp3
+#EXTINF:-1,BKK.Fm
+https://cp11.serverse.com/proxy/radiohappyplus?mp=%2Fstream&1697437438930=
+#EXTINF:-1,Northeastenjoymusic
+https://8090music.duckdns.org/listen/8090_music/radio.mp3
+#EXTINF:-1,MCOT Radio FM
+https://bcr.radiocult.fm/stream

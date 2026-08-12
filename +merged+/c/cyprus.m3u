@@ -1113,40 +1113,18 @@ http://194.154.128.242:9090/stream.mp3
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,Zucca 
 https://stream.zuccaradio.com/stream?
-#EXTINF:-1,Astra FM 92.8 - Cyprus - Nicosia
-https://securestreams2.autopo.st:1106/stream
 #EXTINF:-1,BFBS Cyprus - Cyprus - Akrotiri
 https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs8.mp3?platform=radiogarden
-#EXTINF:-1,Capital Turk 107.1 FM - Cyprus - Nicosia
-https://radyo1.radyo-dinle.tc/8210/stream
-#EXTINF:-1,CCN Radio - Cyprus - Nicosia
-https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio
-#EXTINF:-1,Choice FM 104.3 - Cyprus - Limassol
-https://live3.istoikona.net:18364/stream
 #EXTINF:-1,Cool Radio 91.6 FM - Cyprus - Limassol
 https://live3.istoikona.net/proxy/cooleradio/stream
-#EXTINF:-1,CyBC Radio 1 - Cyprus - Nicosia
-https://r1.cloudskep.com/cybcr/cybc1/icecast.audio
-#EXTINF:-1,CyBC Radio 2 - Cyprus - Nicosia
-https://r1.cloudskep.com/cybcr/cybc2/icecast.audio
-#EXTINF:-1,CyBC Radio 3 - Cyprus - Nicosia
-https://r1.cloudskep.com/cybcr/cybc3/icecast.audio
 #EXTINF:-1,Dance 95.5 FM - Cyprus - Nicosia
 https://live.enerjiplay.com/stream/1/;
 #EXTINF:-1,East Coast Radio Cyprus - Cyprus - Avgorou
 https://stream.zeno.fm/28b33bqkyk8uv
-#EXTINF:-1,Enerji 93.1 FM - Cyprus - Nicosia
-https://live.enerjiplay.com/stream/enerji
-#EXTINF:-1,Kanali 6 - Cyprus - Limassol
-https://live3.istoikona.net:9802/kanali
 #EXTINF:-1,Kanali 6 Jazz & Soul - Cyprus - Limassol
 https://stream.radiojar.com/gddd94mshkhvv
 #EXTINF:-1,Kanali 6 Laiko - Cyprus - Limassol
 https://stream.radiojar.com/6g4awe55sk8uv
-#EXTINF:-1,Kiss FM 89.0 - Cyprus - Nicosia
-https://securestreams3.autopo.st:1417/89FM
-#EXTINF:-1,Njoy - Cyprus - Nicosia
-https://stream.radiojar.com/mg7kftnzka3vv
 #EXTINF:-1,NRG Türk - Cyprus - Nicosia
 https://live.nrgplay.com/stream/2/;
 #EXTINF:-1,NRJ Cyprus - Cyprus - Nicosia
@@ -1157,42 +1135,18 @@ https://n11.radiojar.com/3emwf2xgam8uv
 https://r1.cloudskep.com/radio/agiosdemetrios/icecast.audio
 #EXTINF:-1,Radio Cosmos FM 95.2 - Cyprus - Paphos
 https://sonic.streamhost.gr/8018/stream
-#EXTINF:-1,Radio Proto 99.3 FM - Cyprus - Nicosia
-https://live3.istoikona.net:18191/stream
-#EXTINF:-1,Radio Sama - Cyprus - Limassol
-https://radio.radiosama.org/sama_64
-#EXTINF:-1,Radio Sfera 96.8 - Cyprus - Nicosia
-https://securestreams3.autopo.st:1417/sfera
-#EXTINF:-1,RIK Radio 4 88.2 Λευκωσία - Cyprus - Nicosia
-https://r1.cloudskep.com/cybcr/cybc4/icecast.audio
-#EXTINF:-1,Rock FM 89.2 - Cyprus - Limassol
-https://cdn.istoikona.com/RockFm/limassol/icecast.audio
-#EXTINF:-1,Rock FM 98.5 - Cyprus - Paphos
-https://cdn.istoikona.com/RockFm/Live/icecast.audio
-#EXTINF:-1,Russian Wave FM 105.7 - Cyprus - Limassol
-https://stream.veblot.net/proxy/russianradio/stream/
-#EXTINF:-1,Super Sport FM - Cyprus - Nicosia
-https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
 #EXTINF:-1,UCY Voice 95.2 - Cyprus - Nicosia
 https://cp10.shoutcheap.com:18142/stream/;
-#EXTINF:-1,Viva FM - Cyprus - Paphos
-https://stream1.themediasite.co.uk/8060/stream
 #EXTINF:-1,Voice of Hope Radio - Cyprus - Nicosia
 https://voh.radio.anharnet.org/voh_128
-#EXTINF:-1,Zenith 96.4 FM - Cyprus - Nicosia
-https://live3.istoikona.net:9836/stream
 #EXTINF:-1,Εκκλησία Ερήμης - Cyprus - Limassol
 https://stream.zeno.fm/1b1k768ykwzuv
-#EXTINF:-1,Πολίτης 107.6 - Cyprus - Nicosia
-https://cdn.istoikona.com/politis/live/icecast.audio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-banat-598540-logo.jpg",Radio Banat
 http://live.radiobanatfm.com:8002/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-star-fm-logo.jpg",Radio Star FM
 http://s6.myradiostream.com:11056/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-bayrak-radyosu-logo.jpg",Radio Bayrak Radyosu
 http://sc.brtk.net:8002/;*.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/cy-nrg-turk-logo.jpg",Radio NRG Türk
-https://live.nrgplay.com/stream/2/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ydu-fm-168351-logo.jpg",Radio Ydü FM
 https://live.enerjiplay.com/stream/campusydu
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fg-radio-nostalgia-186752-logo.jpg",FG Radio Nostalgia
@@ -1319,3 +1273,27 @@ http://live3.istoikona.net:2199/tunein/super.pls
 http://www.cybc.com.cy/index.php/radio?id=79
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/lions-radio-584917-logo.jpg",Lions - Radio
 http://streams4.museter.com:8392/;
+#EXTINF:-1,MIX FM Cyprus
+https://strm.mixlive.eu/mixfm/index.m3u8
+#EXTINF:-1,Ι.Μ. Λεμεσού
+http://live3.istoikona.net:8278/;
+#EXTINF:-1,Klik FM - Paphos
+http://eco.onestreaming.com:8310/;
+#EXTINF:-1,Radio ReyMod
+https://server.streamcasthd.com:7092/;
+#EXTINF:-1,Radio T.O.A
+https://live3.istoikona.net/proxy/radiotoa/stream
+#EXTINF:-1,Radio Turbo21
+https://radioturbo21.com/radio/stream
+#EXTINF:-1,Radio Sfera
+https://r1.cloudskep.com/cybcr/cybc1/playlist.m3u8
+#EXTINF:-1,Studio64 Ραδιόφωνο
+https://c16.radioboss.fm:8459/stream
+#EXTINF:-1,Radio Πολίτης
+https://cast.artfmradio.com/radio/8000/radio.mp3?1579455658=
+#EXTINF:-1,AW Radio Larnaca
+https://cyprus.radioantennaweb.com/Larnaca
+#EXTINF:-1,Radio RockLineWorld
+https://listen.radioking.com/radio/80332/stream/118495
+#EXTINF:-1,Barking Cats
+https://stream.radiojar.com/metdnagugs8uv

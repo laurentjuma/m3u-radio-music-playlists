@@ -657,30 +657,16 @@ https://stream.zeno.fm/noozxmffa38uv
 https://audiostr.atv.az/106fm
 #EXTINF:-1,Artsakh Public Radio - Azerbaijan - Stepanakert
 https://stream.zeno.fm/882v2pnkcc9uv
-#EXTINF:-1,AutoLife Radio Azerbaijan - Azerbaijan - Baku
-https://radio.autoliferadio.com:8005/radio
-#EXTINF:-1,Azad Azərbaycan 106.3 FM - Azerbaijan - Baku
-https://audiostr.atv.az/106.3fm
 #EXTINF:-1,BOSS Radio - Caspian Business Radio - Azerbaijan - Baku
 https://listen5.myradio24.com/bosscomaz
-#EXTINF:-1,Enerji̇ 101.1 FM - Azerbaijan - Baku
-https://icecast.livetv.az/antennfm
 #EXTINF:-1,Mak Online - Azerbaijan - Baku
 https://s05.volnorez.com/live-app/843862
-#EXTINF:-1,Medi̇a FM 105.5 - Azerbaijan - Baku
-https://icecast.livetv.az/mediafm
 #EXTINF:-1,Radio Araz 103.3 FM - Azerbaijan - Baku
 https://s14.myradiostream.com/:30454/listen.mp3?nocache=1753930644
-#EXTINF:-1,Radio Vətən - Azerbaijan - Baku
-https://stream.zeno.fm/0kgkkzanmueuv
 #EXTINF:-1,TMB Radio 100.5 FM - Azerbaijan - Baku
 https://s39.myradiostream.com/:5458/listen.mp3?nocache=1753928449
-#EXTINF:-1,Vintage Radio Azerbaijan - Azerbaijan - Baku
-https://trucker.autoliferadio.com:1045/stream
 #EXTINF:-1,Xezer FM 103.0 - Azerbaijan - Baku
 https://s40.myradiostream.com/:22546/listen.mp3?nocache=1753930656
-#EXTINF:-1,Yurd FM 90.7 - Azerbaijan - Baku
-https://icecast.livetv.az/yurdfm
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/azadliq-radiosu-157706-logo.jpg",Azadliq Radiosu
 http://199.16.186.40:8486/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ensonxeber-596139-logo.jpg",Radio EnSonXeber
@@ -719,3 +705,7 @@ http://stream.ansradio.ws:8149/ANS-102FM-32k-Online
 http://85.132.78.130:8081/mediafm-mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ictimai-tv-580382-logo.jpg",Radio Ictimai TV
 http://az.itv.az/canlitv.php
+#EXTINF:-1,TMB 100.5
+https://stream.antiradio.net/listen/anti_radio/mp3
+#EXTINF:-1,yalnizfm.com
+https://listen.radioking.com/radio/103396/stream/142219

@@ -701,8 +701,6 @@ https://ice.apple-fm.net:8443/apple-fm.mp3
 https://22253.live.streamtheworld.com:443/AXR_HONGKONGAAC.aac
 #EXTINF:-1,CR2 FM 90.3 - Hong Kong - Hong Kong
 https://r1---sn-c0q7lns7.c.2mdn.net/videoplayback/id/d85b93619d5acff2/itag/43/source/doubleclick/requiressl/yes/ratebypass/yes/ip/0.0.0.0/ipbits/0/expire/2144448000/sparams/expire,id,ip,ipbits,itag,met,mh,mip,mm,mn,ms,mv,mvi,pl,ratebypass,requiressl,rms,s
-#EXTINF:-1,Radio Lantau - Hong Kong - Hong Kong
-https://radio.dripfeed.net/listen/radiolantau/radio.mp3
 #EXTINF:-1,RTHK Putonghua Channel - Hong Kong - Hong Kong
 https://stm.rthk.hk/radiopth
 #EXTINF:-1,RTHK Radio 1 - Hong Kong - Hong Kong
@@ -719,3 +717,35 @@ https://stm1.rthk.hk/radio5
 https://acast01.kolorboxlab.com/radio/8010/radio.mp3
 #EXTINF:-1,講台 talkonly - Hong Kong - Hong Kong
 https://live.talkonly.net:8443/talkonly.mp3
+#EXTINF:-1,香港新城电台知讯台
+https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
+#EXTINF:-1,香港電台第一台
+https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
+#EXTINF:-1,香港新城电台财经台
+https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8
+#EXTINF:-1,香港普通话台
+https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+#EXTINF:-1,香港電台第五台
+https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8
+#EXTINF:-1,香港電台第六台
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8
+#EXTINF:-1,香港電台第四台
+https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/index_64_a.m3u8
+#EXTINF:-1,深圳交通廣播
+https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59u0026uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9
+#EXTINF:-1,華語 HITS
+https://das-edge14-live365-dal02.cdnstream.com/a57743_2
+#EXTINF:-1,良友电台同行频道
+https://c23.radioboss.fm/stream/194
+#EXTINF:-1,良友电台友音乐频道
+https://c25.radioboss.fm:8334/stream
+#EXTINF:-1,香港新城电台采讯台
+https://1946218710.rsc.cdn77.org/1946218710/index.m3u8
+#EXTINF:-1,AisaFM亚洲粤语台
+https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts
+#EXTINF:-1,香港電台第八台
+https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/index_64_a.m3u8
+#EXTINF:-1,CNR-14 香港之聲
+https://satellitepull.cnr.cn/live/wxxgzs/playlist.m3u8?wsSession=5849bb6c90cf7fc1a7e3eae9-174908181231216u0026wsIPSercert=f7b6cfa8467acd0836b62cf14aa786d3
+#EXTINF:-1,FM Belowground
+https://listen.belowground.fm/radio/8000/radio.mp3

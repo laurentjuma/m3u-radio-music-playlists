@@ -2713,14 +2713,6 @@ http://vip128.streaming.rs:8110/
 https://eu1.fastcast4u.com/proxy/megamix1/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103911/logo_b3hDMWqDKm.jpg?v=20260529-media-restore",Mega Mix Radio
 https://eu1.fastcast4u.com/proxy/megamix/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41222/logo_VwfzRbLnW4.jpg?v=20260529-media-restore",VIP Radio
-http://vip128.streaming.rs:8110/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40848/logo_KAbn9XOEwv.jpg?v=20260529-media-restore",Radio More
-https://s5.radio.co/s8cf5effc6/listen
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/40838/logo_cfywWaVTPo.jpg?v=20260529-media-restore",Radio Kastav
-https://radiokastav.radioca.st/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41217/logo_6lVH50VRV2.jpg?v=20260529-media-restore",Radio Glas Nade
-https://radio.glasnade.com:7999/rgn1
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-italo-disco-net-logo.jpg",Radio Italo Disco Net
 https://cast2.my-control-panel.com/proxy/alen/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-i-love-80s-logo.jpg",Radio I Love 80s!
@@ -2997,3 +2989,97 @@ https://c2.hostingcentar.com/streams/bnm-off-air/
 https://cast6.asurahosting.com/proxy/balkantrap/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hr-radio-023-logo.jpg",Radio 023
 https://securestreams6.autopo.st:2493/;
+#EXTINF:-1,bravo!
+http://c5.hostingcentar.com:8059/stream?4960
+#EXTINF:-1,Radio Max 99.3 (Cerje Nebojse, Maruševec)
+https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=1676766574706
+#EXTINF:-1,ENTER Zagreb
+http://27873.live.streamtheworld.com/SLJEMEAAC_SC
+#EXTINF:-1,Radio101
+http://25603.live.streamtheworld.com/PROGRAM3AAC_SC
+#EXTINF:-1,RTV - Radio Novi Sad 3
+http://212.200.230.50:1935/rns3/treciprogram/livestream/stream.m3u8
+#EXTINF:-1,Balkan Hip-Hop Radio
+http://centova.dukahosting.com:2022/stream
+#EXTINF:-1,bravo! kids
+https://audio.social3.hr/listen/bravo_kids/stream?3367
+#EXTINF:-1,Radio 101 Soft Sound
+https://live.radio101.hr:8020/
+#EXTINF:-1,Hrvatski radio - Rock
+http://25683.live.streamtheworld.com/HR_ROCK_SC
+#EXTINF:-1,Radio Ritam Šibenik
+http://comet.shoutca.st:8050/
+#EXTINF:-1,HRVATSKI RADIO VALPOVŠTINA
+http://s8.iqstreaming.com:8068/stream
+#EXTINF:-1,Narodni - AAAAAAA!
+http://c5.hostingcentar.com:8348/stream?1996
+#EXTINF:-1,Radio 105 Selnica (HR)
+http://de4.streamingpulse.com:7117/stream
+#EXTINF:-1,Radio BnM - Biograd na moru - ROCK
+https://c2.hostingcentar.com/streams/bnm-rock/
+#EXTINF:-1,Happy FM Klape
+http://c5.hostingcentar.com:8384/stream?8802
+#EXTINF:-1,Radio BnM - Biograd na moru 94,0; 100,5 MHz
+http://28513.live.streamtheworld.com/PULAAAC_SC
+#EXTINF:-1,Radio Korčula 107,5FM
+http://shoutcast.pondi.hr:8005/;
+#EXTINF:-1,Radio Dalmacija - Rokija
+https://c2.hostingcentar.com/streams/radiokorzo/stream
+#EXTINF:-1,RADIO HRVATSKO ZAGORJE KRAPINA
+http://s8.iqstreaming.com:8072/stream
+#EXTINF:-1,Karlovac NOW Dance 90's radio
+http://s8.iqstreaming.com:8010/stream
+#EXTINF:-1,Narodni - Ljubav je u zraku
+http://27863.live.streamtheworld.com:3690/ZADARAAC_SC
+#EXTINF:-1,Radio Sova
+http://evcast.mediacp.eu:1960/stream
+#EXTINF:-1,PRVI KARLOVACKI
+http://s8.iqstreaming.com:8002/stream
+#EXTINF:-1,RADIO KASTAV
+http://proxima.shoutca.st:8559/stream
+#EXTINF:-1,Radio BnM - Biograd na moru - POP
+http://c5.hostingcentar.com:8360/stream?1510
+#EXTINF:-1,OBITELJSKI RADIO IVANIĆ
+https://klfmorgborg.radioca.st/stream?type=httpu0026nocache=1089
+#EXTINF:-1,Radio Preporod
+http://s1.voscast.com:7986/;
+#EXTINF:-1,Happy FM Fest
+http://c5.hostingcentar.com:8372/stream?4956
+#EXTINF:-1,Happy FM Tambura
+http://c5.hostingcentar.com:8378/stream?3238
+#EXTINF:-1,Radio Drniš 89,0 MHz
+http://23543.live.streamtheworld.com:3690/KNINAAC_SC
+#EXTINF:-1,HIT RADIO
+http://s8.iqstreaming.com:8012/stream
+#EXTINF:-1,Radio Vrbovec 94.5
+http://c2.hostingcentar.com:9452/;
+#EXTINF:-1,HRT Radio Sljeme (mp3)
+https://playerservices.streamtheworld.com/api/livestream-redirect/SLJEME.mp3
+#EXTINF:-1,CKWR 98.5 "Real Community Radio" Kitchener, ON
+https://stream2.statsradio.com:8150/stream
+#EXTINF:-1,Hrvatski radio - Klasik
+http://22653.live.streamtheworld.com/HR_CLASSICS_SC
+#EXTINF:-1,Radio bravo!
+https://relay1.social3.hr/radio/8310/radio.mp3
+#EXTINF:-1,FolkyTon
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM3_SC
+#EXTINF:-1,Radiopostaja MIR Medugorje
+https://beethoven.streamwarp.com/listen/hrvatski_radio_frankfurt/radio.mp3
+#EXTINF:-1,Prigorski Radio
+https://s8.iqstreaming.com:8048/stream?1597337833918=
+#EXTINF:-1,Radio Centar-studio Poreč
+https://www.radiocentar.hr:8282/stream.aac
+#EXTINF:-1,Euforija
+https://ec6.yesstreaming.net:1280/stream
+#EXTINF:-1,Radio Balkan Music (HRV)
+https://www.radiobalkanmusic.com/rbm/radioHR.php
+#EXTINF:-1,Vrbovecki Narodni Radio
+https://beethoven.streamwarp.com/listen/vrbovecki_narodni_radio/radio.mp3
+#EXTINF:-1,Radio Mali Lošinj - Radio Jadranka
+https://stream.zeno.fm/wywkvztk1zlvv
+#EXTINF:-1,Radio Seni
+https://server4p.com:7001/
+#EXTINF:-1,Balkanbeatz
+https://listen.radioking.com/radio/719480/stream/785282
+#EXTINF:-1,Drama Radio
+https://listen.radioking.com/radio/626884/stream/689212

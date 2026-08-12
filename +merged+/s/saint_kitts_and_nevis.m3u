@@ -167,16 +167,8 @@ http://vonradio.streamon.fm:8000/vonradio-24k.aac?type=.mp3/stream.mp3
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,Central Praise SKB - Saint Kitts and Nevis - Basseterre
 https://sonic01.instainternet.com/8302/;
-#EXTINF:-1,Freedom FM 106.5 - Saint Kitts and Nevis - Basseterre
-https://media.slactech.com:8012/stream
 #EXTINF:-1,Praise FM 99.3 - Saint Kitts and Nevis - Charlestown
 https://stream.zeno.fm/ufwhkd3tmeruv
-#EXTINF:-1,Voice of the Caribbean Radio - Saint Kitts and Nevis - Basseterre
-https://c11.radioboss.fm:18230/stream
-#EXTINF:-1,Winn FM 98.9 - Saint Kitts and Nevis - Basseterre
-https://edge.mixlr.com/channel/jzlfo
-#EXTINF:-1,ZIZ 96 FM - Saint Kitts and Nevis - Basseterre
-https://media.slactech.com:8014/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/central-praise-skb-radio-599598-logo.jpg",Central Praise SKB Radio
 http://s42.myradiostream.com:30466/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-st-kitts-nevis-599145-logo.jpg",Radio St. Kitts Nevis
@@ -191,8 +183,6 @@ http://162.244.81.111:4020/;
 http://vonradio.streamon.fm/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/kn-kbnlive-logo.jpg",Radio KBNLIVE
 http://s1.voscast.com:8342/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/kn-central-praise-skb-radio-logo.jpg",CENTRAL PRAISE SKB RADIO
-https://sonic01.instainternet.com/8302/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/kn-hotline2heaven-radio-logo.jpg",HOTLINE2HEAVEN RADIO
 http://sjamz.com:8084/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ziz-96-fm-569247-logo.jpg",Radio ZIZ 96 FM
@@ -203,3 +193,5 @@ http://ice2.securenetsystems.net:80/scr903
 http://78.129.175.157:28790/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ziz-96-fm-169971-logo.jpg",Radio ZIZ 96 FM
 http://zizonline.primcast.com:6424/;
+#EXTINF:-1,Abdulbasit Abdulsamad
+http://perseus.shoutca.st:8218/;

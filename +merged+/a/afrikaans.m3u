@@ -647,3 +647,21 @@ http://streamnavs.net:8145/live
 http://hts08.kshost.com.br:10108/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/tz-tanakh-fm-1059-mhz-logo.jpg",Radio Tanakh FM 105.9 Mhz
 http://uk7freenew.listen2myradio.com:14264/;stream.nsv
+#EXTINF:-1,80 Exitos
+https://cast5.asurahosting.com/proxy/leonard/stream
+#EXTINF:-1,Alerta Paisa
+https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632cb4abaa9ace684913be97
+#EXTINF:-1,BERLIN RAP
+https://a5.asurahosting.com:7980/radio.mp3
+#EXTINF:-1,Rainbow Radio
+https://usa6.fastcast4u.com/proxy/macamoah2?mp=%2F1
+#EXTINF:-1,93.4 FM Radio Namakwaland
+https://zas7.ndx.co.za:8040/stream?1613841850002=
+#EXTINF:-1,Pulp FM
+https://stream.rcast.net/68455
+#EXTINF:-1,VUT FM
+https://s2.radio.co/sfb8777b6a/listen
+#EXTINF:-1,Radio Estacion Superior 96.3 FM
+https://sonic.globalstream.pro/8030/stream
+#EXTINF:-1,Antenna Web Victoria
+https://tinyurl.com/AntennaWebVictoria

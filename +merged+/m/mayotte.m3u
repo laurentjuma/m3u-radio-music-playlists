@@ -161,18 +161,8 @@ https://a2.asurahosting.com:6790/radio/mayotte.mp3
 https://tinyurl.com/AntennaWebMamoudzou
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,Mayotte 1 FM 91.0 - Mayotte - Pamandzi
-https://mayotte.ice.infomaniak.ch/mayotte-128.mp3
-#EXTINF:-1,Nour Webradio - Mayotte - Dzaoudzi
-https://nour-webradio.ice.infomaniak.ch/nour-webradio.mayotte-32.aac
-#EXTINF:-1,Radio Koudjouni - Mayotte - M'Tsangamouji
-https://radio.mayotte-streaming.com/8002/stream
-#EXTINF:-1,Radio Mawoua FM 88.1 - Mayotte - Dzaoudzi
-https://mawoua.ice.infomaniak.ch/mawoua-32.aac
 #EXTINF:-1,RF Mayotte - Mayotte - M'Tsangamouji
 https://radio.mayotte-streaming.com:10998/;
-#EXTINF:-1,RS-Mayotte - Mayotte - M'Tsangamouji
-https://radio.mayotte-streaming.com/8008/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mayotte-la-1ere-568040-logo.jpg",Radio Mayotte La 1ère
 http://radios.la1ere.fr/mayotte
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/chiconifm-599731-logo.jpg",Radio Chiconifm
@@ -193,3 +183,7 @@ http://51.254.221.183:8006/;stream.nsv
 http://live.myradio.yt:1090/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-machaka-165942-logo.jpg",Radio Machaka
 http://machaka.viens.la:8009/;
+#EXTINF:-1,SUN FM
+https://listen.radioking.com/radio/669814/stream/733864
+#EXTINF:-1,Studio h prod
+https://listen.radioking.com/radio/675910/stream/740167

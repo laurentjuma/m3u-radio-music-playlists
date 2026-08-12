@@ -2337,8 +2337,6 @@ https://cast4.servcast.net/proxy/karachi/stream?ver=776520
 https://whmsonic.radio.gov.pk:8072/relay/;
 #EXTINF:-1,Chiltan FM-88 - Pakistan - Quetta
 https://stream.zeno.fm/00qbtallxabtv
-#EXTINF:-1,City FM 89.0 - Pakistan - Karachi
-https://radio.cityfm89.com/stream
 #EXTINF:-1,Dhanak - Pakistan - Islamabad
 https://whmsonic.radio.gov.pk:7007/stream/;
 #EXTINF:-1,External Service - Pakistan - Islamabad
@@ -2347,8 +2345,6 @@ https://whmsonic.radio.gov.pk:7006/stream/;
 https://whmsonic.radio.gov.pk:8044/stream/;
 #EXTINF:-1,FM 101 Islamabad - Pakistan - Islamabad
 https://whmsonic.radio.gov.pk:7008/stream/;
-#EXTINF:-1,FM 101 Karachi - Pakistan - Karachi
-https://whmsonic.radio.gov.pk:8048/stream
 #EXTINF:-1,FM 101 Mianwali - Pakistan - Mianwali
 https://whmsonic.radio.gov.pk:8028/relay/;
 #EXTINF:-1,FM 101 Mirpur - Pakistan - New Mirpur City
@@ -2367,36 +2363,18 @@ https://whmsonic.radio.gov.pk:8024/relay/;
 https://whmsonic.radio.gov.pk:7014/stream/;
 #EXTINF:-1,FM101.5 Peshawar - Pakistan - Peshawar
 https://whmsonic.radio.gov.pk:8070/relay/;
-#EXTINF:-1,FM91 - Pakistan - Karachi
-https://cc.vmakerhost.com/proxy/karachi?mp=/stream
-#EXTINF:-1,HumFm106 - Pakistan - Islamabad
-https://server.mediacast4u.stream/8002/stream
-#EXTINF:-1,Jeay FM 88 - Pakistan - Sukkur
-https://ssl.rockhost.com/proxy/sukkur?mp=/stream
-#EXTINF:-1,Jugnu ki Dunya - Pakistan - Karachi
-https://stream.zeno.fm/xhvvvxzfr7zuv
-#EXTINF:-1,Mera FM 107.4 - Pakistan - Karachi
-https://samaakhi107-itelservices.radioca.st/stream
 #EXTINF:-1,NCAC News and Current affairs channel - Pakistan - Islamabad
 https://whmsonic.radio.gov.pk:7004/stream/;
-#EXTINF:-1,Power Radio FM 99 - Pakistan - Islamabad
-https://stream.zeno.fm/xh2e8vsz1uquv
 #EXTINF:-1,Radio FM World Pakistan - Pakistan - Islamabad
 https://stream.zeno.fm/tty4gmu30ehvv
 #EXTINF:-1,Radio Karachi FM 96 - Pakistan - Karachi
 https://cast5.asurahosting.com/proxy/imran/stream
-#EXTINF:-1,Radio Mast FM 103 - Pakistan - Karachi
-https://mast103.com/karachi/
 #EXTINF:-1,Radio Pakistan FM93 - Pakistan - Faisalabad
 https://whmsonic.radio.gov.pk:8022/relay/;
-#EXTINF:-1,Radio Pakwafa - Pakistan - Karachi
-https://stream.zeno.fm/rzqnk328z98uv
 #EXTINF:-1,Saut-ul-Quran 93.4 FM - Pakistan - Islamabad
 https://whmsonic.radio.gov.pk:7002/stream/;
 #EXTINF:-1,Shashka FM - Pakistan - Islamabad
 https://stream.zeno.fm/txbsg85tn2zuv
-#EXTINF:-1,Shopen Anime Radio - Pakistan - Lahore
-https://s97.radiolize.com:8040/radio.mp3
 #EXTINF:-1,Valley FM 103 - Pakistan - Muzaffarabad
 https://stream.zeno.fm/s96ccqggr2zuv
 #EXTINF:-1,World Service - Pakistan - Islamabad
@@ -2869,3 +2847,29 @@ http://96.com.pk/page/go-live-radio-swat/
 http://199.167.196.117:8001
 #EXTINF:-1 tv-logo="",Radio SWAD E AZAM Ahlsunat Wa Jamaath
 http://188.165.229.150:14030/;
+#EXTINF:-1,Radio Pakistan Lahore News and Current Affair AM 1332 KHZ
+https://whmsonic.radio.gov.pk:7004/stream?type=httpu0026nocache=12
+#EXTINF:-1,Radio Pakistan Peshawar MW
+https://whmsonic.radio.gov.pk:8034/stream?type=httpu0026nocache=12
+#EXTINF:-1,City FM 89 Islamabad
+https://whmsonic.radio.gov.pk:8026/relay?type=httpu0026nocache=9
+#EXTINF:-1,Hot fm Nawabshah
+https://stream.zeno.fm/t961q1d0vp6vv/
+#EXTINF:-1,Radio Pakistan WS
+https://whmsonic.radio.gov.pk:7005/stream?type=httpu0026nocache=12
+#EXTINF:-1,Radio Mirpur
+https://whmsonic.radio.gov.pk:8074/?type=httpu0026nocache=9
+#EXTINF:-1,fm...
+http://n0a.radiojar.com/htnudfgugm8uv?rj-ttl=5u0026rj-tok=AAABjGvN8wYArmabhGP5SLHW1A
+#EXTINF:-1,AK radio Trarkhal
+https://whmsonic.radio.gov.pk:8076/relay?type=httpu0026nocache=9
+#EXTINF:-1,#radio quran
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5u0026rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1,BAHAWAL PUR MW STATION
+https://whmsonic.radio.gov.pk:8088/stream?type=httpu0026nocache=4
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://cdn.voscast.com/resources/?key=4e1e2d7ac97ea7ad9493c529df2ab16cu0026c=wmp
+#EXTINF:-1,101peshawar
+https://whmsonic.radio.gov.pk:8070/relay?type=httpu0026nocache=9
+#EXTINF:-1,Djlive
+https://stream.rcast.net/71089
