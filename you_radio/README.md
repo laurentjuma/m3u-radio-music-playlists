@@ -46,6 +46,10 @@ it never adds rows, a row's `name` and `genre_m3u_id` are hand-written and can't
 
 the order matters, ① edits the file ② uses as its worklist, run them backwards and you'll waste requests on genres that are about to be deleted
 
+**`fetch_brand_descriptions.js`** sits outside the three steps, it fills in `description` and `description_long` on every `brands.genres` row and nothing downstream depends on it, run it when you add a row or when the copy upstream changes
+
+descriptions don't come from one place, a row with a `genre_id` takes the brand's `meta_description` and `description` from the api, the three hand-made rows get theirs scraped off the broadcaster's own front page, see below for why it's split that way
+
 <br>
 
 ### the files
@@ -64,6 +68,8 @@ the order matters, ① edits the file ② uses as its worklist, run them backwar
 ```json
 {
     "name": "Just Jazz Radio",
+    "description": "Immerse yourself in smooth jazz music on Just Jazz radio. Enjoy legendary jazz tracks without ads or interruptions.",
+    "description_long": "<p>Welcome to Just Jazz, your ultimate destination for jazz music that never sleeps…</p><p>…</p>",
     "genre_id": "94",
     "logo": "brand/cc0e8fa8-5d32-4cfe-8c82-e0195e854171.png",
     "genre_m3u_id": "just_jazz_radio.m3u"
@@ -71,6 +77,12 @@ the order matters, ① edits the file ② uses as its worklist, run them backwar
 ```
 
 `genre_id` is the api's genre id, stick it on the end of `brands.genre_link` to get the source data, it is **not** a brand id
+
+`description` is one plain sentence, `description_long` is the same brand's full copy carried through byte for byte from the api, **it is html** and rendering it is the client's job, it isn't only `<p>` runs either, country and greatest hits use `<h3>` section headings and billionz club has an `<h1>` and a `<ul>` of 50 track titles
+
+both are filled in by `fetch_brand_descriptions.js` and both describe the **brand**, not the row, so the eight tick tock decades all carry the same text, there is no per-decade copy anywhere upstream to use instead
+
+the three hand-made rows have a `description` and no `description_long` at all, only a brand record carries long copy
 
 `genre_m3u_id` names both the playlist and its source (`just_jazz_radio.m3u` ⇢ `json/stations/just_jazz_radio.json`)
 
@@ -90,6 +102,12 @@ three rows (`90s90s`, `80s80s`, `100 fm`) have no `genre_id` at all, they're han
 
 every station gets `tvg-country="United Arab Emirates"`, it's hardcoded in ③ because the station records don't carry a country
 
+the brand websites in `brand.json` are mostly gone, of the eighteen only `positivity.radio` still serves a meta description, the rest are dead dns, http 525 or a js shell with nothing in the head, so `fetch_brand_descriptions.js` reads the api's `meta_description` for those rows instead, it's the same tag those sites would have rendered and it's the copy that still resolves
+
+the three hand-made rows are the other way round, they have no api record but their sites are real, so they get scraped, their urls live in `HAND_MADE_SITES` at the top of the script because nothing in the catalogue says where they come from
+
+a scraped description comes back in the site's own language, `90s90s` is german and `100 fm` is hebrew, that's what the broadcaster wrote and the script doesn't translate it
+
 nothing overwrites a good file with a bad response, ① won't write at all if either fetch fails, and ② keeps the existing file whenever a genre fails or comes back empty, if a genre really has been emptied upstream and you want that recorded, pass `--allow-empty`
 
 <br>
@@ -103,6 +121,9 @@ node update_all.js --allow-empty             # accept genres with no stations
 
 node sync_stations_categories.js --dry-run   # steps can be run on their own too
 node fetch_stations_json.js just_jazz_radio  # one genre, by file name, genre id or name
+
+node fetch_brand_descriptions.js --dry-run      # show the copy it would write
+node fetch_brand_descriptions.js --only-missing # leave rows that already have both alone
 ```
 
 everything is idempotent, a second run tells you it's already up to date
