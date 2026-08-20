@@ -1829,6 +1829,10 @@
                 let dateObj = null;
                 if (node.type === "file") {
                     try { dateObj = getItemDate(node); } catch (err) { dateObj = null; }
+                    // Cache on the original tree node too (not just the allFiles
+                    // copy below), since getCurrentItems()/render() read directly
+                    // from fileIndex.root and need dateObj for date sorting.
+                    node.dateObj = dateObj;
                 }
                 allFiles.push({
                     ...node,
@@ -2689,6 +2693,13 @@
             const d = typeof raw === "number" ? new Date(raw < 1e12 ? raw * 1000 : raw) : new Date(raw);
             return isNaN(d.getTime()) ? null : d;
         }
+        // Date sort keys, in ms. Prefers the precomputed dateObj (set in
+        // preprocessFiles for allFiles entries) but falls back to computing
+        // it live, since items pulled from fileIndex.root (the tree used by
+        // getCurrentItems/render) never had dateObj attached to them.
+        function itemDateMs(item) {
+            return (item.dateObj ?? getItemDate(item))?.getTime() ?? 0;
+        }
         const MONTH_ABBR = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
         function formatItemDate(item) {
             if (item.dateStr !== undefined) return item.dateStr;
@@ -2722,9 +2733,9 @@
                     case "size-asc":
                         return getItemSize(a) - getItemSize(b);
                     case "date-asc":
-                        return (a.dateObj?.getTime() ?? 0) - (b.dateObj?.getTime() ?? 0);
+                        return itemDateMs(a) - itemDateMs(b);
                     case "date-desc":
-                        return (b.dateObj?.getTime() ?? 0) - (a.dateObj?.getTime() ?? 0);
+                        return itemDateMs(b) - itemDateMs(a);
                     case "type":
                         return (a.category || "").localeCompare(b.category || "") || a.name.localeCompare(b.name);
                     case "name-asc":
