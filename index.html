@@ -13,7 +13,6 @@
     <script src="./hls.min.js" defer></script>
     
     <style>
-        /* Styles remain consistent */
         :root {
             --bg-primary: #121212;
             --bg-secondary: #1a1a1a;
@@ -996,11 +995,8 @@
         // -- Search / listing state --
         let searchQuery = "",
             searchResultLimit = 100,
-            // Separate (larger) page size for plain folder browsing. Search
-            // results are already ranked, so a small page makes sense there;
-            // a normal folder listing has no ranking to lean on, so this is
-            // set higher to stay invisible for the vast majority of folders
-            // and only kick in for the rare folder with hundreds+ of items.
+            // Larger page size for plain folder browsing since it has no
+            // ranking to lean on, unlike search results.
             folderResultLimit = 300;
 
         // -- Open file / playback state --
@@ -1104,12 +1100,10 @@
             </svg>`,
         };
 
-        // A big pool of music-gear glyphs for the icon shown above the audio
-        // player: cassette tapes, boomboxes, CDs/vinyl, portable players,
-        // headphones, microphones, guitars/strings, keys/wind/percussion,
-        // speakers/amps, radios, and a few odds and ends. One is picked at
-        // random whenever the player first appears, and swapped for a
-        // different random one each time the station/track changes.
+        // Pool of music-gear glyphs for the icon above the audio player
+        // (cassettes, boomboxes, vinyl, players, headphones, mics, instruments,
+        // speakers, radios, etc). One is picked at random on first appearance
+        // and swapped for a different random one on each station/track change.
         const playerNoteIcons = [
             // --- Cassette tapes ---
             `<svg viewBox="0 0 24 24" fill="currentColor"><rect x="1.5" y="4" width="21" height="16" rx="1.8"/><circle cx="7" cy="12" r="2.8" fill="var(--bg-tertiary)"/><circle cx="17" cy="12" r="2.8" fill="var(--bg-tertiary)"/><circle cx="7" cy="12" r="0.90"/><circle cx="17" cy="12" r="0.90"/><rect x="9" y="16.6" width="6" height="1.9" rx="0.5" fill="var(--bg-tertiary)"/></svg>`,
@@ -1275,6 +1269,63 @@
             currentPlayerNoteIndex = idx;
             return playerNoteIcons[idx];
         }
+        // Some glyphs aren't drawn symmetrically inside their viewBox, so
+        // recenter each one on its real bounding box once it's in the DOM.
+        function centerAudioIconSvg(containerEl) {
+            const svg = containerEl && containerEl.querySelector("svg");
+            if (!svg) return;
+            let bbox;
+            try {
+                bbox = svg.getBBox();
+            } catch (e) {
+                return; // element not renderable yet (e.g. detached/hidden)
+            }
+            if (!bbox || (!bbox.width && !bbox.height)) return;
+            const cx = bbox.x + bbox.width / 2;
+            const cy = bbox.y + bbox.height / 2;
+            const PADDING = 1.15; // slight margin so glyphs don't touch the edges
+            const size = Math.max(bbox.width, bbox.height) * PADDING;
+            svg.setAttribute("viewBox", `${cx - size / 2} ${cy - size / 2} ${size} ${size}`);
+        }
+        // Sets a glyph's markup on an .audio-icon container and recenters it.
+        function setPlayerIcon(iconEl, svgMarkup) {
+            if (!iconEl) return;
+            iconEl.innerHTML = svgMarkup;
+            centerAudioIconSvg(iconEl);
+        }
+        // Auto-swap registry: one timer per active <audio>, only ticking while
+        // that audio is playing and the tab is visible. Uses a single shared
+        // visibilitychange listener rather than one per player instance.
+        const AUTO_SWAP_MS = 30000;
+        const autoSwapRegistry = new Map(); // audioEl -> { iconEl, timer }
+        let autoSwapVisibilityWired = false;
+        function ensureAutoSwapVisibilityListener() {
+            if (autoSwapVisibilityWired) return;
+            autoSwapVisibilityWired = true;
+            document.addEventListener("visibilitychange", () => {
+                autoSwapRegistry.forEach((_entry, audioEl) => {
+                    if (document.hidden) {
+                        stopAutoSwap(audioEl);
+                    } else if (!audioEl.paused) {
+                        startAutoSwap(audioEl);
+                    }
+                });
+            });
+        }
+        function startAutoSwap(audioEl) {
+            const entry = autoSwapRegistry.get(audioEl);
+            if (!entry || entry.timer || document.hidden || audioEl.paused) return;
+            entry.timer = setInterval(() => {
+                setPlayerIcon(entry.iconEl, pickPlayerNoteIcon());
+            }, AUTO_SWAP_MS);
+        }
+        function stopAutoSwap(audioEl) {
+            const entry = autoSwapRegistry.get(audioEl);
+            if (entry && entry.timer) {
+                clearInterval(entry.timer);
+                entry.timer = null;
+            }
+        }
         // Tapping the big music glyph above the player swaps it for a
         // different random one, but only while audio is actually playing.
         function wirePlayerIconTap(scope) {
@@ -1284,8 +1335,30 @@
             iconEl.style.cursor = "pointer";
             iconEl.addEventListener("click", () => {
                 if (audioEl.paused) return;
-                iconEl.innerHTML = pickPlayerNoteIcon();
+                setPlayerIcon(iconEl, pickPlayerNoteIcon());
             });
+            if (!autoSwapRegistry.has(audioEl)) {
+                autoSwapRegistry.set(audioEl, { iconEl, timer: null });
+                ensureAutoSwapVisibilityListener();
+                audioEl.addEventListener("play", () => startAutoSwap(audioEl));
+                audioEl.addEventListener("pause", () => stopAutoSwap(audioEl));
+                audioEl.addEventListener("ended", () => stopAutoSwap(audioEl));
+                audioEl.addEventListener("emptied", () => {
+                    // `emptied` fires on every track-change load(), not just
+                    // teardown. Only drop the registry entry once the audio
+                    // element has actually left the DOM, or the follow-up
+                    // "play" event races it and the timer never restarts.
+                    stopAutoSwap(audioEl);
+                    if (!audioEl.isConnected) {
+                        autoSwapRegistry.delete(audioEl);
+                    }
+                });
+            } else {
+                // Same audio element across a track change; the icon node
+                // is reused too, but keep the registry's reference fresh.
+                autoSwapRegistry.get(audioEl).iconEl = iconEl;
+            }
+            if (!audioEl.paused) startAutoSwap(audioEl);
         }
         function loadSettings() {
             const e = localStorage.getItem("theme");
@@ -1526,21 +1599,16 @@
             const inv = (n) => clampNum(255 - n, 0, 255).toString(16).padStart(2, "0");
             return `#${inv(r)}${inv(g)}${inv(b)}`;
         }
-        // Leaves baseHex alone unless it fails contrast against bgHex. If so,
-        // try inverting it first; if even that isn't enough (a genuinely
-        // awkward pairing), fall back to whichever of pure black/white is
-        // more visible, guaranteeing text is never actually unreadable.
+        // Leaves baseHex alone unless it fails contrast against bgHex, then
+        // tries inverting it, then falls back to pure black/white.
         function readableTextColor(baseHex, bgHex, minRatio) {
             if (contrastRatio(baseHex, bgHex) >= minRatio) return baseHex;
             const inverted = invertHex(baseHex);
             if (contrastRatio(inverted, bgHex) >= minRatio) return inverted;
             return contrastRatio("#ffffff", bgHex) >= contrastRatio("#000000", bgHex) ? "#ffffff" : "#000000";
         }
-        // Nudges hex's LIGHTNESS ONLY (hue & saturation untouched — still
-        // unmistakably the same color) just far enough that it's visible
-        // against bgHex. Used only for borders/hover states, which are
-        // useless if they're literally identical to the flat fill behind
-        // them.
+        // Nudges hex's lightness only (hue/saturation untouched) just far
+        // enough to be visible against bgHex. Used for borders/hover states.
         function visibleVariant(hex, bgHex, targetRatio, maxShift) {
             if (contrastRatio(hex, bgHex) >= targetRatio) return hex;
             const { h, s, l } = hexToHsl(hex);
@@ -1557,10 +1625,8 @@
             return best;
         }
         // Blends the picked color toward a calm, desaturated, settled-
-        // lightness target as intensity is lowered. hue never moves.
-        // intensityPct is one of 100/80/60/40/20 — at 100 this returns hex
-        // completely unchanged (blend 0); at 20 it's mostly the muted
-        // target (blend 1), leaving just a tint of the original color.
+        // lightness target as intensity is lowered (hue never moves).
+        // intensityPct is one of 100/80/60/40/20; 100 = unchanged, 20 = mostly muted.
         function muteColorAtIntensity(hex, intensityPct) {
             const { h, s, l } = hexToHsl(hex);
             const mutedS = clampNum(s * 0.12, 3, 15);
@@ -1582,66 +1648,39 @@
             const root = document.documentElement.style;
             const base = THEME_BASE[getActivePaletteKey()];
             const newVals = {};
-            // At 100% intensity: your color exactly as picked, no changes.
-            // Below that: the one deliberate exception — your color is
-            // blended toward a calmer, desaturated version of itself first,
-            // then applied the exact same way below.
+            // Below 100% intensity the picked color is muted toward a calmer
+            // version of itself first; every surface below then uses that
+            // exact same hex (background, hover fill, accent).
             const activeColor = muteColorAtIntensity(vividColor, colorIntensity);
-            // Every surface is your color, byte-for-byte — no hue shift, no
-            // saturation change, no lightness substitution. Backgrounds,
-            // hover fill, and the accent are all the literal same hex.
             newVals["--bg-primary"] = activeColor;
             newVals["--bg-secondary"] = activeColor;
             newVals["--bg-tertiary"] = activeColor;
             newVals["--bg-hover"] = activeColor;
             newVals["--accent"] = activeColor;
-            // Borders and the hover state are the ONE necessary exception:
-            // if they were literally identical to the fill behind them,
-            // they'd be invisible. Each gets the smallest possible lightness
-            // nudge (hue & saturation still untouched) needed to be seeable.
+            // Borders/hover need a lightness nudge or they'd be invisible
+            // against an identical fill color.
             newVals["--border-color"] = visibleVariant(activeColor, activeColor, 2.2, 50);
             newVals["--accent-hover"] = visibleVariant(activeColor, activeColor, 1.6, 30);
-            // Guaranteed-visible surface for icon-only interactive controls
-            // (play button, player controls, info/copy buttons). Flattening
-            // every panel to the exact picked color (by design, above)
-            // means a button whose fill is also that exact color can vanish
-            // into the panel behind it. This shifts far enough in lightness
-            // (hue & saturation untouched) to always read as a distinct,
-            // clickable surface, then guarantees a genuinely legible icon
-            // color on top of it.
+            // Guaranteed-visible surface for icon-only controls, since a
+            // button matching the flat panel color would otherwise vanish.
             const { h: ctrlH, s: ctrlS, l: ctrlL } = hexToHsl(activeColor);
             const shiftedL = clampNum(ctrlL + (ctrlL < 55 ? 22 : -22), 6, 94);
             const controlSurface = visibleVariant(hslToHex(ctrlH, ctrlS, shiftedL), activeColor, 2.5, 70);
             newVals["--control-surface"] = controlSurface;
             newVals["--control-surface-hover"] = visibleVariant(controlSurface, controlSurface, 1.3, 25);
             newVals["--on-control"] = contrastRatio("#ffffff", controlSurface) >= contrastRatio("#000000", controlSurface) ? "#ffffff" : "#000000";
-            // Skeleton loading shimmer: normally this animates between
-            // --bg-tertiary and --bg-hover, but this theme flattens both to
-            // the exact same activeColor (by design, above), which would
-            // make the shimmer invisible. Reuse the same guaranteed-visible
-            // control-surface pair so the loading animation still reads.
+            // Skeleton shimmer normally animates between --bg-tertiary and
+            // --bg-hover, both flattened here, so reuse the control-surface
+            // pair instead so the loading animation still reads.
             newVals["--skeleton-base"] = controlSurface;
             newVals["--skeleton-shine"] = newVals["--control-surface-hover"];
-            // Dedicated fill color for proportional bar visualizations (e.g.
-            // the Library Stats category bars). A subtle lightness-only
-            // variant of the flat color (like --control-surface above) isn't
-            // enough here - two same-hue, close-lightness tones sitting right
-            // next to each other in a thin bar read as "the same color" even
-            // when they technically differ. So this starts from a vivid,
-            // fully-saturated version of the theme hue, then is nudged with
-            // visibleVariant until it's guaranteed to contrast against the
-            // track (--control-surface) it's rendered inside of, not just
-            // against the flat background.
+            // Vivid, contrast-guaranteed fill for proportional bars (e.g.
+            // Library Stats), since a subtle lightness variant of the flat
+            // color wouldn't read as distinct in a thin bar.
             const vividFill = hslToHex(ctrlH, 85, 55);
             newVals["--stat-fill"] = visibleVariant(vividFill, controlSurface, 3, 80);
-            // The accent is intentionally the exact same flat color as every
-            // panel background (see above), which means anywhere it's used
-            // as TEXT (e.g. breadcrumb links sitting on the header, which is
-            // --bg-secondary === --accent) it would be completely invisible.
-            // This gives a same-hue, lightness-nudged variant that's
-            // guaranteed legible on top of the flat panels, without
-            // touching --accent itself (still used correctly as a flat
-            // background/border color elsewhere).
+            // Accent-as-text variant (e.g. breadcrumb links), since the flat
+            // --accent equals the panel background it would sit on.
             newVals["--accent-text"] = visibleVariant(activeColor, activeColor, 4.5, 100);
             for (const key of Object.keys(base)) {
                 if (!(key in newVals)) newVals[key] = base[key];
@@ -1685,11 +1724,8 @@
             renderIntensityBar();
             updateThemeButtons();
         }
-        // Paints each segment of the intensity bar with what that step
-        // actually looks like for the currently picked color (or a neutral
-        // default hue if none is picked yet), so the bar always shows a
-        // real vivid-on-the-left, muted-on-the-right gradient rather than
-        // a plain slider.
+        // Paints each segment with what that intensity step actually looks
+        // like for the picked color, instead of a plain slider.
         function renderIntensityBar() {
             const wrap = document.getElementById("colorIntensityControl");
             if (!wrap) return;
@@ -1712,10 +1748,8 @@
                 btn.classList.toggle("active", parseInt(btn.dataset.intensity, 10) === colorIntensity);
             });
         }
-        // Interface corner rounding: square (1, default) through round (5).
-        // Purely a data-depth attribute on <html> — every visual consequence
-        // lives in CSS (corner radius variables only), this just persists the
-        // choice and keeps the segmented bar's active state in sync.
+        // Interface corner rounding: square (1, default) through round (5),
+        // via a data-depth attribute on <html>; CSS handles the visuals.
         function applyDepth(level, persist) {
             uiDepth = level;
             if (level === 1) document.documentElement.removeAttribute("data-depth");
@@ -1822,14 +1856,11 @@
                 const searchKey = currentPathStr.toLowerCase();
                 const navPath = pathPrefix ? [...pathPrefix.split('/'), node.name] : [node.name];
 
-                // Precompute fuzzy-search keys once per file so every keystroke
-                // doesn't have to re-derive them:
-                //  - normalizedKey: lowercase path with all separators/punctuation
-                //    collapsed to single spaces (e.g. "+checked+/c/chillout" -> "checked c chillout")
-                //  - compactKey: normalizedKey with the spaces removed, used for
-                //    subsequence/fuzzy matching (e.g. "checkedcchillout")
-                //  - boundarySet: indices within compactKey where a "word" starts,
-                //    used to give bonus weight to matches that land on word starts
+                // Precompute fuzzy-search keys once per file so keystrokes don't
+                // re-derive them: normalizedKey (path with separators/punctuation
+                // collapsed to spaces), compactKey (normalizedKey with spaces
+                // removed, for subsequence matching), boundarySet (word-start
+                // indices in compactKey, for bonus weighting).
                 const normalizedKey = searchKey.replace(/[^a-z0-9]+/g, " ").trim().replace(/\s+/g, " ");
                 const words = normalizedKey.length ? normalizedKey.split(" ") : [];
                 const boundarySet = new Set();
@@ -1839,17 +1870,11 @@
                     compactKey += w;
                 }
 
-                // Parse each item's modified date exactly once (instead of on
-                // every render/sort) and cache the Date so the column cells and
-                // date sorts never re-construct a Date for the same item.
+                // Parse each item's modified date once and cache it; also cache
+                // on the original tree node since getCurrentItems()/render()
+                // read directly from fileIndex.root for date sorting.
                 let dateObj = null;
                 try { dateObj = getItemDate(node); } catch (err) { dateObj = null; }
-                // Cache on the original tree node too (not just the allFiles
-                // copy below), since getCurrentItems()/render() read directly
-                // from fileIndex.root and need dateObj for date sorting.
-                // Applies to directories as well as files — a folder's
-                // "modified" field (the max of its children, set in
-                // generate_index.js) is just as cheap to parse once here.
                 node.dateObj = dateObj;
                 allFiles.push({
                     ...node,
@@ -1895,18 +1920,13 @@
             return score;
         }
 
-        // Scores how well a single file/folder item matches the search query.
-        // Returns null when the item doesn't match at all. Matches are grouped
-        // into tiers (higher score range = more relevant), so that a precise
-        // match (e.g. "check chill") always outranks a loose fuzzy one
-        // (e.g. "checkchill"), regardless of which folder either file is in:
-        //   Tier 4 (~2000+): the full query, separators and all, is a direct
-        //                     substring of the path ("c/chillout")
-        //   Tier 3 (~1400-1900): every space/slash-separated token is present
-        //                     as its own substring ("check chill", "check/chill")
-        //   Tier 2 (~1000-1300): a single-token query matches as a substring
-        //                     once punctuation is ignored
-        //   Tier 1 (~300-800): fuzzy subsequence match only ("checkchill")
+        // Scores how well a single file/folder item matches the search query
+        // (null = no match). Tiered so a precise match always outranks a
+        // loose fuzzy one, regardless of folder:
+        //   Tier 4 (~2000+): full query is a direct substring of the path
+        //   Tier 3 (~1400-1900): every token is present as its own substring
+        //   Tier 2 (~1000-1300): single-token substring match, punctuation ignored
+        //   Tier 1 (~300-800): fuzzy subsequence match only
         function scoreSearchItem(query, tokens, compactQuery, item) {
             const rawKey = item.searchKey;
             const normKey = item.normalizedKey;
@@ -1954,11 +1974,8 @@
             return null;
         }
 
-        // Runs the fuzzy search across every indexed file/folder and returns
-        // results ranked by relevance first, with a bonus applied to items
-        // that live in the folder currently being viewed so, among comparably
-        // relevant results, local matches surface before matches from other
-        // folders.
+        // Runs the fuzzy search across every indexed file/folder, ranked by
+        // relevance with a bonus for items in the currently viewed folder.
         function searchFiles(query) {
             const tokens = query.split(/[\s/]+/).filter(Boolean);
             const compactQuery = query.replace(/[^a-z0-9]/g, "");
@@ -1978,9 +1995,8 @@
         
         // Initialize Web Audio API for Normalization
         function setupAudioNormalization(mediaElement) {
-            // A media element can only ever be connected to one MediaElementSourceNode.
-            // Since we now reuse the same <audio>/<video> element across playlist
-            // track changes, skip re-connecting if it's already wired up.
+            // A media element can only ever connect to one MediaElementSourceNode;
+            // skip if it's already wired up (elements are reused across tracks).
             if (normalizedElements.has(mediaElement)) return;
             try {
                 // Ensure CORS is handled for Web Audio
@@ -2015,9 +2031,8 @@
         }
 
         // Media Session API: surfaces play/pause/prev/next on the lock screen,
-        // hardware media keys, and OS media overlays. Set up once per element
-        // (alongside setupAudioNormalization) regardless of whether the custom
-        // control bar or native controls are in use.
+        // hardware media keys, and OS media overlays, regardless of whether
+        // the custom control bar or native controls are in use.
         function setupMediaSession(mediaEl, title) {
             if (!("mediaSession" in navigator)) return;
             updateMediaSessionTitle(title);
@@ -2114,17 +2129,11 @@
             shuffleBtn.addEventListener("click", toggleShuffle);
 
             let seeking = false;
-            // For live/unknown-length streams there's no fixed duration, but the
-            // browser still buffers a rewindable window of what's already been
-            // received. mediaEl.seekable exposes that window so we can let
-            // people scrub back into it instead of just disabling seeking.
-            //
-            // Some live sources (particularly HLS live streams) report a
-            // seekable.end() far ahead of the actual live edge, which used to
-            // pin the indicator near the start of the bar. To keep the
-            // indicator tracking real playback, we treat "now" (currentTime)
-            // as the live edge and only trust seekable.start() as the
-            // furthest-back point we can rewind into.
+            // For live/unknown-length streams, mediaEl.seekable exposes the
+            // buffered rewindable window so people can scrub back into it.
+            // Some HLS live streams report seekable.end() far ahead of the
+            // actual live edge, so we treat currentTime as the live edge and
+            // only trust seekable.start() as the furthest-back rewind point.
             function getSeekableRange() {
                 try {
                     const ranges = mediaEl.seekable;
@@ -2599,11 +2608,8 @@
                 if (path) navigateTo(path);
             } else t.dataset.file && openFile(t.dataset.file, t.dataset.category, t.dataset.name);
         }
-        // Toggles the star/pin state for a card without opening the folder
-        // or file underneath it. Updates just this button in place (rather
-        // than a full re-render) for a snappy response; the sidebar lists
-        // (Pinned/Favorites) and breadcrumb pin icon are refreshed by the
-        // underlying toggle functions themselves.
+        // Toggles the star/pin state for a card without opening the folder or
+        // file underneath it, updating just this button in place.
         function handleStarButtonClick(e) {
             const btn = e.target.closest(".card-star-btn");
             if (!btn) return;
@@ -2832,9 +2838,7 @@
         }
         // --- Pinned folders ---------------------------------------------
         // Stored as an array of path arrays, e.g. [["Music","Ambient"], []].
-        // A plain JSON.stringify comparison is used throughout to check
-        // whether two paths refer to the same folder — simple and correct
-        // here since path arrays only ever contain strings.
+        // Compared via JSON.stringify since path arrays only contain strings.
         const PINNED_FOLDERS_KEY = "pinnedFolders";
         function loadPinnedFolders() {
             try {
@@ -2873,11 +2877,9 @@
             renderBreadcrumb();
         }
         // Truncates long pinned/favorite labels from the *start* (keeping the
-        // tail, e.g. "…9/00s.m3u", visible) so the more distinguishing end of
-        // a path/filename stays readable. This is done with real text
-        // measurement rather than a CSS direction:rtl trick, because that
-        // trick corrupts strings with symmetric punctuation at the edges
-        // (e.g. "+checked+") and can shuffle a trailing file extension.
+        // tail, e.g. "…9/00s.m3u", visible). Uses real text measurement
+        // rather than a CSS direction:rtl trick, which corrupts strings with
+        // symmetric punctuation at the edges and can shuffle a trailing extension.
         function measurePinnedTextWidth(text, font) {
             const canvas = measurePinnedTextWidth._canvas || (measurePinnedTextWidth._canvas = document.createElement("canvas"));
             const ctx = canvas.getContext("2d");
@@ -2948,9 +2950,8 @@
             truncatePinnedLabels(container);
         }
         // Individual file favorites/stars, toggled from the top-right of the
-        // preview window. Unlike pinned folders (which need a path array),
-        // files already have a single unique string path, so this is a flat
-        // array of those path strings.
+        // preview window. A flat array of file path strings (files already
+        // have a single unique string path, unlike pinned folders).
         const FAVORITE_FILES_KEY = "favoriteFiles";
         function loadFavoriteFiles() {
             try {
@@ -2989,11 +2990,10 @@
             btn.setAttribute("aria-label", favorited ? "Remove file from favorites" : "Add file to favorites");
             btn.innerHTML = favorited ? icons.starFilled : icons.starOutline;
         }
-        // Renders the "Favorites" list at the top left of the sidebar, right
-        // below Pinned folders. Only the file path is persisted, so the
-        // current allFiles list is consulted for a display name/icon; if a
-        // favorited file can no longer be found (moved/deleted), it still
-        // shows using its stored path so it isn't silently dropped.
+        // Renders the "Favorites" list below Pinned folders. Only the file
+        // path is persisted, so allFiles is consulted for a display name/icon;
+        // a favorited file that can no longer be found still shows via its
+        // stored path rather than being silently dropped.
         function renderFavoriteFiles() {
             const container = document.getElementById("treeFavorites");
             if (!container) return;
@@ -3020,14 +3020,11 @@
             container.innerHTML = `<div class="tree-pinned-header">Favorites</div>${rows}`;
             truncatePinnedLabels(container);
         }
-        // Pinned folders and favorite files render as visually identical
-        // "tree-pinned" strips (see renderPinnedFolders/renderFavoriteFiles)
-        // and share the same interaction shape: click/keydown opens the row,
-        // clicking the small unpin button removes it instead. The two lists
-        // differ only in how a path is read off the row's dataset (folders
-        // store a JSON-encoded path array; files store a plain string) and
-        // what "open" and "unpin" actually do, so those four bits are the
-        // only things each caller needs to supply.
+        // Pinned folders and favorite files render as identical "tree-pinned"
+        // strips and share the same click/keydown-opens, unpin-button-removes
+        // interaction; they differ only in how the path is read off the
+        // row's dataset and what "open"/"unpin" do, so those four bits are
+        // the only things each caller needs to supply.
         function makePinnedListHandlers({ getPath, onOpen, getUnpinPath, onUnpin }) {
             function onClick(e) {
                 const unpinBtn = e.target.closest(".tree-pinned-unpin");
@@ -3165,10 +3162,8 @@
         function getFileIconType(e) {
             return isPlaylistExtension(e) ? "playlist" : null;
         }
-        // Builds the star/pin toggle shown directly on a card in grid, list,
-        // and tree view — folders get pinned (same mechanism as the
-        // breadcrumb pin button), files get favorited (same mechanism as the
-        // preview modal's favorite button). Kept as one shared button so
+        // Builds the star/pin toggle shown on a card in grid/list/tree view —
+        // folders get pinned, files get favorited — as one shared button so
         // both concepts read the same way to the user: a star.
         function renderStarButton(type, pathValue) {
             const isFolder = type === "folder";
@@ -3179,11 +3174,9 @@
                 : starred ? "Remove from favorites" : "Add to favorites";
             return `<button type="button" class="card-star-btn${starred ? " starred" : ""}" data-star-type="${type}" data-star-path="${pathAttr}" title="${label}" aria-label="${label}" aria-pressed="${starred}">${starred ? icons.starFilled : icons.starOutline}</button>`;
         }
-        // The four right-hand columns (ext/size/date/time) shown in list/tree
-        // view are built the same way for the parent-dir row, directories,
-        // and files — only the four values differ (directories leave ext
-        // blank and show "DIR" for size; the parent-dir row leaves all four
-        // blank).
+        // The four right-hand columns (ext/size/date/time) in list/tree view
+        // are built the same way for the parent-dir row, directories, and
+        // files — only the four values differ.
         function renderColumnCells(ext, size, date, time) {
             return `
                 <span class="col-ext">${ext}</span>
@@ -3280,12 +3273,8 @@
                     clickPath = item.fullPath;
                     fullDisplayPath = item.fullPath;
                     parentPathArr = item.navPath;
-                    // Search results can come from anywhere in the tree, so a
-                    // location hint is useful — but showing the *full* path
-                    // (including the filename we just showed above it) is
-                    // redundant, and for root-level results it duplicates the
-                    // filename outright. Show only the containing folder, and
-                    // only when there is one.
+                    // Show only the containing folder as a location hint, since
+                    // the full path would duplicate the filename shown above it.
                     parentDisplayPath = parentPathArr.slice(0, -1).join("/");
                 } else {
                     fullDisplayPath = (currentPath.length ? currentPath.join("/") + "/" : "") + item.name;
@@ -3587,6 +3576,12 @@
         function stopPlaylist() {
             destroyHls();
             clearStreamTimeout();
+            const activeMedia = document.getElementById("audioPlayer") || document.getElementById("videoPlayer");
+            if (activeMedia) {
+                activeMedia.pause();
+                activeMedia.removeAttribute("src");
+                activeMedia.load();
+            }
             (currentPlaylist = []),
                 (currentPlaylistIndex = 0),
                 (shuffleBag = []),
@@ -3632,13 +3627,11 @@
             const lang = EXT_TO_HLJS_LANG[ext];
             return lang && hljs.getLanguage(lang) ? lang : null;
         }
-        // highlight.js returns one HTML string for the whole file, with <span>
-        // tags that can freely span multiple lines (e.g. a multi-line block
-        // comment). Splitting that naively on "\n" would leave unclosed tags
-        // dangling on every line but the first. This walks the markup and
-        // reopens/closes span tags at each line boundary so every line is
-        // independently valid HTML, which lets us keep wrapping each line in
-        // its own <span class="line"> for the CSS-counter line numbers.
+        // highlight.js returns one HTML string with <span> tags that can span
+        // multiple lines. Splitting naively on "\n" would leave unclosed tags
+        // dangling, so this walks the markup and reopens/closes spans at each
+        // line boundary, letting each line wrap in its own <span class="line">
+        // for the CSS-counter line numbers.
         function splitHighlightedHtml(html) {
             const rawLines = html.split("\n");
             const tagRegex = /<span class="([^"]*)">|<\/span>/g;
@@ -3784,10 +3777,7 @@
 
         // Shared by both the video and audio branches of playPlaylistTrack:
         // wires the "loaded/error/ended" handlers and picks HLS vs a plain
-        // src, since that logic is identical regardless of which kind of
-        // element is playing. Keeping it in one place means future playlist
-        // features (a new fallback, a new HLS event, etc.) only need to be
-        // written once.
+        // src, so future playlist features only need to be written once.
         function attachPlaylistStream(mediaEl, finalUrl, urlLower) {
             mediaEl.onloadeddata = () => {
                 clearStreamTimeout();
@@ -3897,12 +3887,13 @@
                     setupMediaSession(audio, s);
                     maybeWireMediaControls(audio);
                     document.getElementById("streamInfoBtn").addEventListener("click", copyStreamInfo);
+                    centerAudioIconSvg(n.querySelector(".audio-icon"));
                 } else {
                     destroyHls();
                     const titleEl = n.querySelector(".playlist-now-playing");
                     if (titleEl) titleEl.textContent = s;
                     const iconEl = n.querySelector(".audio-icon");
-                    if (iconEl) iconEl.innerHTML = pickPlayerNoteIcon();
+                    if (iconEl) setPlayerIcon(iconEl, pickPlayerNoteIcon());
                     updateMediaSessionTitle(s);
                 }
                 wirePlayerIconTap(n);
@@ -4003,6 +3994,7 @@
                         }
                         wirePlayerIconTap(bodyEl);
                         document.getElementById("streamInfoBtn").addEventListener("click", copyStreamInfo);
+                        centerAudioIconSvg(bodyEl.querySelector(".audio-icon"));
                         break;
                     case "document":
                         if (fileName.toLowerCase().endsWith(".pdf")) {
@@ -4205,11 +4197,9 @@
         function renderLibraryStats() {
             const body = document.getElementById("statsBody");
             const { fileCount, folderCount, totalSize, byCategory, playlistCount } = computeLibraryStats();
-            // Merge in a dedicated, accurately-counted m3u/m3u8 row alongside
-            // the generic category breakdown (replacing whatever count the
-            // generic classification would have given "playlist"), so it's
-            // guaranteed to appear and reads as one more row in the same
-            // list - same icon/label/bar treatment as everything else.
+            // Merge in an accurately-counted m3u/m3u8 row alongside the
+            // generic category breakdown, replacing whatever count the
+            // generic classification gave "playlist".
             const mergedCategories = { ...byCategory };
             if (playlistCount > 0) mergedCategories.playlist = playlistCount;
             else delete mergedCategories.playlist;
@@ -4256,24 +4246,17 @@
             document.getElementById("statsModal").classList.remove("active");
             restoreModalFocus("statsModal");
         }
-        // Percent-encodes a repo-relative path one segment at a time so "/"
-        // is preserved as a directory separator while everything else goes
-        // through encodeURIComponent. Without this, a filename containing
-        // #, ?, or % breaks the request outright: fetch(), <img src>, and
-        // `new URL()` all parse the string as a URL first, so a literal "#"
-        // is read as a fragment marker and everything after it is silently
-        // dropped rather than sent to the server.
+        // Percent-encodes a repo-relative path one segment at a time so "/" is
+        // preserved as a separator while everything else goes through
+        // encodeURIComponent — otherwise a filename with #, ?, or % gets
+        // misread as a URL fragment/query and silently truncated.
         function encodePathForUrl(path) {
             return String(path).split("/").map(encodeURIComponent).join("/");
         }
-        // Escapes a string for safe use in BOTH HTML text content and HTML
-        // attribute values. The textContent/innerHTML round-trip alone only
-        // escapes &, <, > — it leaves quote characters untouched, which is
-        // fine for text nodes but breaks any attribute value wrapped in that
-        // quote character (e.g. a filename containing a literal ' or ").
-        // Escaping quotes here too makes every existing call site safe for
-        // attribute use for free, since browsers decode entities in
-        // attribute values before JS ever reads them back out.
+        // Escapes a string for safe use in both HTML text and attribute
+        // values. The textContent/innerHTML round-trip alone only escapes
+        // &, <, > — quotes are escaped here too so callers are also safe to
+        // drop into a quoted attribute (e.g. a filename with a literal ' or ").
         function escapeHtml(e) {
             const t = document.createElement("div");
             t.textContent = e;
