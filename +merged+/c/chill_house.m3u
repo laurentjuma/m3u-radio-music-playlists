@@ -57,8 +57,6 @@ https://chillrussia.ru/chillradio
 https://tower.hayva.ru/994az-96
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/241/logo_wIdumzUJLT.jpg?v=20260529-media-restore",DFM Chill
 https://hls-01-dfm.hostingradio.ru/dfmchill/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53971/logo_APuxWstmzy.jpg?v=20260529-media-restore",Beach Party Record
-https://radiorecord.hostingradio.ru/beach96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007028/logo_mMeKaX3Zst.jpg?v=20260529-media-restore",Chill Horizone Radio Gram
 https://radiogram.su/listen/radio_gram/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004834/logo_MncgexCX8V.jpg?v=20260529-media-restore",Chilz.Me
@@ -79,28 +77,12 @@ https://listen5.myradio24.com/seethesea
 https://radio.promodj.com:443/vata-192
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102787/logo_olFB7Wqt4b.jpg?v=20260529-media-restore",LoFi Chill
 https://tower.hayva.ru/hi9ea-96
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97661/logo_PzziGOHOof.jpg?v=20260529-media-restore",Life Lounge Radio
-https://c5.auracast.net/listen/life_lounge_radio/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004395/logo_hDqxkqAGgR.jpg?v=20260529-media-restore",radiOzora Chill
 https://chill.out.airtime.pro:8000/chill_a
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97763/logo_OhUS2Iqrao.jpg?v=20260529-media-restore",Play Chill Radio
-https://c5.auracast.net/listen/play_chill_radio/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005182/logo_3Gprlbaotz.jpg?v=20260529-media-restore",Nicefm
 http://nicefm.ru:8000/live
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53941/logo_qpyiCKtBge.jpg?v=20260529-media-restore",Summer Dance Record
-https://radiorecord.hostingradio.ru/summerparty96.aacp
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/231/logo_qorHFoRYmF.jpg?v=20260529-media-restore",Соль FM Chill
-https://radiopotok2.online/solfm.ru:8000/chill128
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103301/logo_tfCwHMkzJ0.jpg?v=20260529-media-restore",Radio Sunset Breeze
-https://listen9.myradio24.com/maksradar
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28755/logo_3XaY27GVfg.jpg?v=20260529-media-restore",Maretimo House Radio
-https://s35.derstream.net/house.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52613/logo_SQxQ39ISeK.jpg?v=20260529-media-restore",Rain Radio
-https://stream.zeno.fm/t0msreoena0tv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103635/logo_9QH9xTTEXM.jpg?v=20260529-media-restore",Chillwave Naxi Radio
 https://naxidigital-chillwave128ssl.streaming.rs:8322/;stream.nsv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46618/logo_yTp5PkVeaU.jpg?v=20260529-media-restore",NRJ Chill
-https://streaming.nrjaudio.fm/oumrsk8fnozc
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103736/logo_z2207w3Ud1.jpg?v=20260529-media-restore",Radyo Arkista
 https://radioarkista.radioca.st/;stream.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/104011/logo_vxQhh6K5bQ.jpg?v=20260529-media-restore",Nicecream.fm Green

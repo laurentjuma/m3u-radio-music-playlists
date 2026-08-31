@@ -95,8 +95,6 @@ https://stream2.rcast.net/70182
 https://18323.live.streamtheworld.com:443/PNGLEGENDFM.mp3
 #EXTINF:-1,Nau FM - Papua New Guinea - Port Moresby
 https://17843.live.streamtheworld.com:443/NAUFMAAC.aac
-#EXTINF:-1,Radio Maria Papua New Guinea - Papua New Guinea - Boroko
-https://dreamsiteradiocp2.com/proxy/rmpapua2?mp=/stream
 #EXTINF:-1,Wantok Radio Light - Papua New Guinea - Port Moresby
 https://stream2.rcast.net/61643
 #EXTINF:-1,Yumi FM 93.0 - Papua New Guinea - Port Moresby
@@ -105,3 +103,9 @@ https://27163.live.streamtheworld.com:443/YUMIFM.mp3
 http://50.7.181.186:8030/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/wantok-light-radio-605298-logo.jpg",Wantok Light Radio
 http://radio.securenetsystems.net/radio_player_large.cfm?stationCallSign=PNGRADIO
+#EXTINF:-1,NauFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/NAUFM.mp3
+#EXTINF:-1,LegendFM 101.1
+https://27163.live.streamtheworld.com/PNGLEGENDFM.mp3
+#EXTINF:-1,Radio Bantaba
+https://radio.streemlion.com/radiobantaba

@@ -109,8 +109,6 @@ http://radio.securenetsystems.net/v5/KPPO
 http://sirius.shoutca.st:8709/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-impacto-madrid-637728-logo.jpg",Radio Impacto Madrid
 http://radioimpactomadrid.net:8010/radioimpacto
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/v103-168783-logo.jpg",Radio V103
-https://us2.maindigitalstream.com/ssl/WVUV
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/93khj-161256-logo.jpg",Radio 93KHJ
 https://us2.maindigitalstream.com/ssl/KKHJ
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/as-oldies-937-logo.jpg",Radio Oldies 93.7
@@ -121,3 +119,7 @@ http://khjradio.dyndns.org:8200/;
 http://205.161.15.113:88/broadwave.mp3?src=1u0026amp;kbps=64u0026amp;ref=
 #EXTINF:-1 tv-logo="",Radio Dreams
 http://low.radiodreams.net:8330/;
+#EXTINF:-1,Youtube
+http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493u0026aw_0_1st.playerid=esPlayeru0026aw_0_1st.skey=1669379836
+#EXTINF:-1,Радио Раши
+https://s2.free-shoutcast.com/stream/18214

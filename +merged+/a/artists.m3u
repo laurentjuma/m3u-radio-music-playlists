@@ -383,8 +383,6 @@ https://stream.pcradio.app/BoneyM-hi
 https://stream.pcradio.app/MakSim-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006979/logo_TbTpm01NY0.jpg?v=20260529-media-restore",Каспийский Груз
 https://stream.pcradio.app/kaspiyskiy_gruz-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66372/logo_Ec8UnE5OP2.jpg?v=20260529-media-restore",Руки Вверх! - Радио Ваня
-https://icecast-radiovanya.cdnvideo.ru/rv_ruki_vverh
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006428/logo_sp6whdazLD.jpg?v=20260529-media-restore",Nightwish
 https://stream.pcradio.app/Nightwish-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006374/logo_g78GXN7qGo.jpg?v=20260529-media-restore",The Beatles
@@ -441,8 +439,6 @@ https://stream.pcradio.app/Kukryniksy-hi
 https://stream.pcradio.app/Led_Zeppelin-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006985/logo_UBQ4k0k6KI.jpg?v=20260529-media-restore",Smokie
 https://stream.pcradio.app/smokie-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103013/logo_MFKX94rkSF.jpg?v=20260529-media-restore",Enigma - 101.ru
-https://pub0202.101.ru:8443/stream/pro/aac/64/175
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006668/logo_uEohfJHo7e.jpg?v=20260529-media-restore",Краски
 https://stream.pcradio.app/Kraski-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006496/logo_GkZJE5LpbR.jpg?v=20260529-media-restore",Jean Michel Jarre
@@ -577,8 +573,6 @@ https://stream.pcradio.app/oleg_mityaev-hi
 https://stream.pcradio.app/Backstreet_Boys-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006470/logo_KA6PqUo6XU.jpg?v=20260529-media-restore",Era
 https://stream.pcradio.app/Era-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66369/logo_oA8WgHyLmS.jpg?v=20260529-media-restore",Artik & Asti - Радио Ваня
-https://icecast-radiovanya.cdnvideo.ru/rv_artik_asti
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006778/logo_3mCPfz0X3Q.jpg?v=20260529-media-restore",Кар-мэн (Car-Man)
 https://stream.pcradio.app/car_man-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006715/logo_QTNxRVUB4w.jpg?v=20260529-media-restore",50 Cent
@@ -601,8 +595,6 @@ https://stream.pcradio.app/alexey_rybnikov-hi
 https://stream.pcradio.app/benassi-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006956/logo_RR5r6KIYga.jpg?v=20260529-media-restore",Def Leppard
 https://stream.pcradio.app/def_leppard-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36928/logo_VytuP3hHp6.jpg?v=20260529-media-restore",Depeche Mode Radio
-https://c2.radioboss.fm:18494/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006869/logo_ATQWogjtLR.jpg?v=20260529-media-restore",Sting
 https://stream.pcradio.app/sting-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006857/logo_cE8YApGfy7.jpg?v=20260529-media-restore",Приключения Электроников
@@ -715,14 +707,10 @@ https://stream.pcradio.app/Loza-hi
 https://stream.pcradio.app/the_doors-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006710/logo_NxGO5TS14N.jpg?v=20260529-media-restore",David Guetta
 https://stream.pcradio.app/David_Guetta-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53966/logo_ucbsm2Sv0z.jpg?v=20260529-media-restore",Armin van Buuren Record
-https://radiorecord.hostingradio.ru/deep96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006783/logo_GaWFtdB2Dr.jpg?v=20260529-media-restore",Голубые береты
 https://stream.pcradio.app/golubye_berety-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006415/logo_MAF1E8jRjZ.jpg?v=20260529-media-restore",Максим Фадеев
 https://stream.pcradio.app/Maks_Fadeev-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66370/logo_Csv9oEXnt9.jpg?v=20260529-media-restore",NYUSHA - Радио Ваня
-https://icecast-radiovanya.cdnvideo.ru/rv_nysha
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006907/logo_32STFJ8lQx.jpg?v=20260529-media-restore",Пилот
 https://stream.pcradio.app/pilot-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006431/logo_dNQRgQqt2p.jpg?v=20260529-media-restore",Pantera
@@ -763,8 +751,6 @@ https://stream.pcradio.app/via_zemlyane-hi
 https://stream.pcradio.app/denis_maydanov-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006706/logo_ID5mX8z6zd.jpg?v=20260529-media-restore",Игорь Николаев
 https://stream.pcradio.app/Igor_Nikolaev-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66373/logo_gMuHTAZR7S.jpg?v=20260529-media-restore",Дискотека Авария - Радио Ваня
-https://icecast-radiovanya.cdnvideo.ru/rv_diskoteka_avaria
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006951/logo_gvUns032wl.jpg?v=20260529-media-restore",Непара
 https://stream.pcradio.app/nepara-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006952/logo_XWQzzOokQd.jpg?v=20260529-media-restore",Наталья Ветлицкая
@@ -857,8 +843,6 @@ https://stream.pcradio.app/viktor_saltykov-hi
 https://stream.pcradio.app/Vahtang_Kikabidze-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006656/logo_2t9xXDENA8.jpg?v=20260529-media-restore",Анна Герман
 https://stream.pcradio.app/Anna_German-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66375/logo_vnCsmucDqH.jpg?v=20260529-media-restore",Андрей Губин - Радио Ваня
-https://icecast-radiovanya.cdnvideo.ru/rv_gubin
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006867/logo_y5HvjwqZgh.jpg?v=20260529-media-restore",София Ротару
 https://stream.pcradio.app/sofia_rotaru-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006825/logo_Jno6ErklPc.jpg?v=20260529-media-restore",Erasure
@@ -889,8 +873,6 @@ https://stream.pcradio.app/Shura-hi
 https://hls-01-dfm.hostingradio.ru/scooter/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006861/logo_vyUkeqygE4.jpg?v=20260529-media-restore",Секрет
 https://stream.pcradio.app/sekret-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66371/logo_Mglko3iAIs.jpg?v=20260529-media-restore",Мари Краймбрери - Радио Ваня
-https://icecast-radiovanya.cdnvideo.ru/rv_mari_kraimbrery
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006492/logo_fCcUWVTzLI.jpg?v=20260529-media-restore",Britney Spears
 https://stream.pcradio.app/Britney_Spears-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006576/logo_Uz9qHdLA1d.jpg?v=20260529-media-restore",Beyonce
@@ -941,8 +923,6 @@ https://stream.pcradio.app/Skrillex-hi
 https://stream.pcradio.app/Louis_Armstrong-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006881/logo_XpyPxDPJW5.jpg?v=20260529-media-restore",Green Day
 https://stream.pcradio.app/green_day-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66368/logo_EF1yswAJ29.jpg?v=20260529-media-restore",Иванушки International - Радио Ваня
-https://icecast-radiovanya.cdnvideo.ru/rv_ivanushki
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006966/logo_375chm7CSt.jpg?v=20260529-media-restore",Amy Winehouse
 https://stream.pcradio.app/amy_winehouse-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006983/logo_eHPnTf4CCF.jpg?v=20260529-media-restore",Ariana Grande
@@ -965,8 +945,6 @@ https://stream.pcradio.app/Alsu-hi
 https://stream.pcradio.app/zoopark-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006568/logo_XaLJa0wO4f.jpg?v=20260529-media-restore",Мурзилки Интернешнл
 https://stream.pcradio.app/Murzilki_International-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81342/logo_VFT8fCOf7W.jpg?v=20260529-media-restore",Exclusively Pink Floyd
-https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006877/logo_xazDqUYBX7.jpg?v=20260529-media-restore",The Rasmus
 https://stream.pcradio.app/the_rasmus-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006729/logo_vC7hWSELPL.jpg?v=20260529-media-restore",Foreigner
@@ -1029,8 +1007,6 @@ https://stream.pcradio.app/alice_cooper-hi
 https://stream.pcradio.app/faithless-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006967/logo_nDK4XtAyKl.jpg?v=20260529-media-restore",Мураками
 https://stream.pcradio.app/murakami-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28234/logo_pbmxdM54Ag.jpg?v=20260529-media-restore",80s80s  Michael Jackson
-https://regiocast.streamabc.net/regc-80s80smicjac6506662-mp3-192-3954067
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006844/logo_O953RyjTA4.jpg?v=20260529-media-restore",На-На
 https://stream.pcradio.app/na_na-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006973/logo_1VChw1xwT7.jpg?v=20260529-media-restore",MOT
@@ -1039,16 +1015,12 @@ https://stream.pcradio.app/mot-hi
 https://stream.pcradio.app/Malinin-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006916/logo_D9D5flS7rl.jpg?v=20260529-media-restore",Twisted Sister
 https://stream.pcradio.app/twisted_sister-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36329/logo_9l5AvJhF04.jpg?v=20260529-media-restore",Radio RMF - Michael Jackson
-https://rs8-krk2-cyfronet.rmfstream.pl/MICHALEJACKSON
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006569/logo_jgwhyUo7A5.jpg?v=20260529-media-restore",R.E.M.
 https://stream.pcradio.app/R_E_M-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006549/logo_lbenepFaxU.jpg?v=20260529-media-restore",Godsmack
 https://stream.pcradio.app/Godsmack-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006860/logo_McbtcFrxrA.jpg?v=20260529-media-restore",Run-D.M.C.
 https://stream.pcradio.app/run_dmc-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29604/logo_ekLaaCkcij.jpg?v=20260529-media-restore",ToneArt Depeche Mode In The Mix
-https://v2.radiodienst.de:9931/depechemodeinthemix
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006913/logo_zYnmS03xqZ.jpg?v=20260529-media-restore",Тараканы!
 https://stream.pcradio.app/tarakany-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006528/logo_Mq3JOgpqEt.jpg?v=20260529-media-restore",Dean Martin
@@ -1071,14 +1043,10 @@ https://stream.pcradio.app/tarkan-hi
 https://stream.pcradio.app/Bratja_Grim-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006846/logo_A6OcJN7zj4.jpg?v=20260529-media-restore",Napalm Death
 https://stream.pcradio.app/napalm_death-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53962/logo_BFYVBaNaXM.jpg?v=20260529-media-restore",Tiesto - Radio Record
-https://radiorecord.hostingradio.ru/tiesto96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005217/logo_l3nyDxonSY.jpg?v=20260529-media-restore",ROCK FM Metallica
 https://audiotainment-sw.streamabc.net/atsw-metallica-aac-128-7932706
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006947/logo_wZ9HEOITqX.jpg?v=20260529-media-restore",Таисия Повалий
 https://stream.pcradio.app/taisiya_povaliy-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66374/logo_Io11PzCa1B.jpg?v=20260529-media-restore",Гости из будущего - Радио Ваня
-https://icecast-radiovanya.cdnvideo.ru/rv_gosti
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006963/logo_92RSzMLBBm.jpg?v=20260529-media-restore",Вячеслав Быков
 https://stream.pcradio.app/vyacheslav_bykov-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/90623/logo_2iRVuzTIeJ.jpg?v=20260529-media-restore",Beatles Radio Universal
@@ -1097,8 +1065,6 @@ https://stream.pcradio.app/Celine_Dion-hi
 https://hls-01-radiorecord.hostingradio.ru/record-martingarrix/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006593/logo_oiu9RuY7eE.jpg?v=20260529-media-restore",Pain
 https://stream.pcradio.app/Pain-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/41512/logo_vrC62mkpz9.jpg?v=20260529-media-restore",ABradio Depeche Mode
-https://ice4.abradio.cz/depeche128.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006745/logo_V42YrLD2UH.jpg?v=20260529-media-restore",Як 40
 https://stream.pcradio.app/Yak_40-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006884/logo_Z2OZZf8aYB.jpg?v=20260529-media-restore",Billy’s Band
@@ -1117,8 +1083,6 @@ https://stream.pcradio.app/die_antwoord-hi
 https://stream.pcradio.app/deadmau5-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006563/logo_1jOVyVUj4L.jpg?v=20260529-media-restore",Ани Лорак
 https://stream.pcradio.app/Ani_Lorak-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36245/logo_5PiDCCf0CY.jpg?v=20260529-media-restore",Radio RMF - Queen
-https://rs102-krk-cyfronet.rmfstream.pl/QUEEN
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006750/logo_DR8Kf9xMp2.jpg?v=20260529-media-restore",Лариса Черникова
 https://stream.pcradio.app/Larisa_Chernikova-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006665/logo_Tsf4sqUdv2.jpg?v=20260529-media-restore",Игра слов
@@ -1127,14 +1091,10 @@ https://stream.pcradio.app/Igra_Slov-hi
 https://stream.pcradio.app/Yurima-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006586/logo_BXZfxqBQZF.jpg?v=20260529-media-restore",Katy Perry
 https://stream.pcradio.app/Katy_Perry-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29148/logo_zNImNvoKq3.jpg?v=20260529-media-restore",ROCK FM ROLLING STONES
-https://stream.regenbogen2.de/rollingstones/mp3-128/radiospinner
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006899/logo_arayEHy4eY.jpg?v=20260529-media-restore",НАИВ
 https://stream.pcradio.app/naiv-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103713/logo_tFMhDM7MAQ.jpg?v=20260529-media-restore",DFM Gorillaz
 https://hls-01-dfm.hostingradio.ru/gorillaz/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53968/logo_bSpdptjQXz.jpg?v=20260529-media-restore",DJ Gvozd Record
-https://radiorecord.hostingradio.ru/djgvozd96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006912/logo_AElVpY2LdR.jpg?v=20260529-media-restore",Stevie Ray Vaughan
 https://stream.pcradio.app/stevie_r_vaughan-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006709/logo_m2WZuPwyKF.jpg?v=20260529-media-restore",Дима Билан
@@ -1149,10 +1109,6 @@ https://stream.pcradio.app/Malegek-hi
 https://stream.pcradio.app/Ranetki-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006543/logo_JbNUb2Qcng.jpg?v=20260529-media-restore",Витас
 https://stream.pcradio.app/Vitas-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31734/logo_KdbYTHRwsV.jpg?v=20260529-media-restore",80s80s Depeche Mode
-https://regiocast.streamabc.net/regc-80s80sdm4383853-mp3-192-4947593
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53965/logo_f6weZsgiHe.jpg?v=20260529-media-restore",David Guetta Record
-https://radiorecord.hostingradio.ru/guetta96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006903/logo_vNbCVLHINY.jpg?v=20260529-media-restore",Oomph!
 https://stream.pcradio.app/oomph-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006941/logo_Pti1i3jSX5.jpg?v=20260529-media-restore",Алена Свиридова
@@ -1177,8 +1133,6 @@ https://stream.pcradio.app/Deathstars_swe-hi
 https://stream.pcradio.app/Spice_Girls-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006532/logo_HQQOlTLreG.jpg?v=20260529-media-restore",James Blunt
 https://stream.pcradio.app/James_Blunt-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82386/logo_wZMhPkcDmm.jpg?v=20260529-media-restore",Easy Frank Sinatra
-https://streaming.exclusive.radio/uber/easyfranksinatra/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006661/logo_YYZTISLRoH.jpg?v=20260529-media-restore",Горячие головы
 https://stream.pcradio.app/Gorjachie_golovy-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006739/logo_xhsMNNgPDB.jpg?v=20260529-media-restore",King Crimson
@@ -1193,8 +1147,6 @@ https://stream.pcradio.app/brainstorm-hi
 https://stream.pcradio.app/jamiroquai-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006481/logo_mAOZLEeG73.jpg?v=20260529-media-restore",Cardigans
 https://stream.pcradio.app/The_Cardigans-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/39691/logo_J2AEy2Wt1O.jpg?v=20260529-media-restore",Virgin Radio Music Star Roger Waters Pink Floyd
-https://icy.unitedradio.it/VirginRogerWaters.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006591/logo_gb6soF0Ib3.jpg?v=20260529-media-restore",Paco de Lucia
 https://stream.pcradio.app/Paco_de_Lucia-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006789/logo_Ib7qJ5MrkT.jpg?v=20260529-media-restore",Леонид Федоров
@@ -1209,12 +1161,8 @@ https://stream.pcradio.app/Gamma_Ray-hi
 https://stream.pcradio.app/Bruno_Mars-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006809/logo_DnuPkwwvvZ.jpg?v=20260529-media-restore",Avenged Sevenfold
 https://stream.pcradio.app/avenged_sevenfold-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/58735/logo_53s9yNNkEv.jpg?v=20260529-media-restore",Vagalume.FM - O Melhor de Michael Jackson
-https://stream.vagalume.fm/hls/1498504131678502/aac.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006793/logo_HUDolevC9m.jpg?v=20260529-media-restore",Smash!!
 https://stream.pcradio.app/smash-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81431/logo_LahxUFj0ak.jpg?v=20260529-media-restore",Exclusively Depeche Mode
-https://streaming.exclusive.radio/er/depechemode/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103135/logo_92MEr9YCE1.jpg?v=20260529-media-restore",Red Hot Chili Peppers Maximum
 https://hls-01-maximum.hostingradio.ru/maxrhcp/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006478/logo_buCRUCqrqE.jpg?v=20260529-media-restore",Sugababes
@@ -1223,8 +1171,6 @@ https://stream.pcradio.app/Sugababes-hi
 https://stream.pcradio.app/Nelly_Furtado-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006977/logo_Nnhmoth1rK.jpg?v=20260529-media-restore",Hiroyuki Sawano
 https://stream.pcradio.app/Savano_Hirojuki-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46894/logo_WhLfdGTYBv.jpg?v=20260529-media-restore",M Radio Celine Dion
-https://mfmwr-023.ice.infomaniak.ch/mfmwr-023.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006841/logo_ZrN1MbjXj1.jpg?v=20260529-media-restore",Максим Леонидов
 https://stream.pcradio.app/maxim_leonidov-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006536/logo_TQcyoSQBoD.jpg?v=20260529-media-restore",Tom Waits
@@ -1241,8 +1187,6 @@ https://stream.pcradio.app/Rihanna-hi
 https://sp0.wlservices.org/9998/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103140/logo_9lNH48K6nh.jpg?v=20260529-media-restore",Muse Maximum
 https://hls-01-maximum.hostingradio.ru/maxmuse/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36758/logo_pcmQsdPqnN.jpg?v=20260529-media-restore",Radio RMF - Depeche Mode
-https://rs8-krk2-cyfronet.rmfstream.pl/DEPECHEMODE
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006733/logo_DD6NXUP3B4.jpg?v=20260529-media-restore",Giorgos Mazonakis
 https://stream.pcradio.app/Giorgos_Mazonakis-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006950/logo_eQbKFYupHR.jpg?v=20260529-media-restore",Никита (певец)
@@ -1253,14 +1197,8 @@ https://stream.pcradio.app/julie_london-hi
 https://stream.pcradio.app/Lolita-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103706/logo_ET3dU0AYqF.jpg?v=20260529-media-restore",DFM Martin Garrix
 https://hls-01-dfm.hostingradio.ru/garrix/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31784/logo_FzJPtI3an1.jpg?v=20260529-media-restore",Radio PSR 80er
-https://streams.radiopsr.de/psr-80er/mp3-192
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46538/logo_jP8kqn8OTz.jpg?v=20260529-media-restore",M Radio Johnny
-https://mfmwr-006.ice.infomaniak.ch/mfmwr-006.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006909/logo_lgGwybykdY.jpg?v=20260529-media-restore",Ramones
 https://stream.pcradio.app/ramones-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81419/logo_nv4VfzWBaf.jpg?v=20260529-media-restore",Exclusively Coldplay
-https://streaming.exclusive.radio/er/coldplay/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006724/logo_W4tOcd160S.jpg?v=20260529-media-restore",Demon Hunter
 https://stream.pcradio.app/Demon_hunter_usa-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006584/logo_kCJx02YLeS.jpg?v=20260529-media-restore",Justin Timberlake
@@ -1275,20 +1213,14 @@ https://stream.pcradio.app/Varvara-hi
 https://stream.pcradio.app/One_Direction-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006845/logo_HYNvqpXshL.jpg?v=20260529-media-restore",Nancy Sinatra
 https://stream.pcradio.app/nancy_sinatra-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29845/logo_ZlAJj5JEUK.jpg?v=20260529-media-restore",80s80s Queen
-https://regiocast.streamabc.net/regc-80s80squeen8655545-mp3-192-1954187
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103707/logo_FGDOxNZvVL.jpg?v=20260529-media-restore",DFM Swedish House Mafia
 https://hls-01-dfm.hostingradio.ru/housemafia/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006737/logo_VOORqMHOwx.jpg?v=20260529-media-restore",John Lee Hooker
 https://stream.pcradio.app/John_Lee_Hooker-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66367/logo_N2R8hSJ3Jy.jpg?v=20260529-media-restore",Дима Билан - Радио Ваня
-https://icecast-radiovanya.cdnvideo.ru/rv_bilan
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006767/logo_TY2chqUh3J.jpg?v=20260529-media-restore",Зара
 https://stream.pcradio.app/Zara-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006548/logo_O9AtAdtVVS.jpg?v=20260529-media-restore",Eagle Eye Cherry
 https://stream.pcradio.app/Eagle_Eye_Cherry-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81455/logo_6h1U1M04az.jpg?v=20260529-media-restore",Exclusively Queen
-https://streaming.exclusive.radio/er/queen/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006740/logo_gugd2yGG3t.jpg?v=20260529-media-restore",Kate Ryan
 https://stream.pcradio.app/Kate_Ryan-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006614/logo_c6C2wEu4nL.jpg?v=20260529-media-restore",Emma Shapplin
@@ -1297,20 +1229,12 @@ https://stream.pcradio.app/Emma_Shapplin-hi
 https://stream.pcradio.app/Darren_Hayes-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006620/logo_NtkMK7Z8vY.jpg?v=20260529-media-restore",Lily Allen
 https://stream.pcradio.app/Lily_Allen-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81907/logo_TLrKhadYf7.jpg?v=20260529-media-restore",Exclusively Adele
-https://streaming.exclusive.radio/er/adele/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006519/logo_Fu074d4zVV.jpg?v=20260529-media-restore",Tori Amos
 https://stream.pcradio.app/Tori_Amos-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006815/logo_DDogsAam8h.jpg?v=20260529-media-restore",Bosson
 https://stream.pcradio.app/bosson-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81514/logo_jkdMNQtwaV.jpg?v=20260529-media-restore",Exclusively Celine Dion
-https://streaming.exclusive.radio/er/celinedion/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006618/logo_1GhQlKFwMK.jpg?v=20260529-media-restore",Kesha
 https://stream.pcradio.app/Kesha-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81341/logo_1mV41w9ytg.jpg?v=20260529-media-restore",Exclusively Frank Sinatra
-https://streaming.exclusive.radio/er/franksinatra/icecast.audio
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82086/logo_pOheb5XBP8.jpg?v=20260529-media-restore",Exclusively Beyonce - HITS
-https://streaming.exclusive.radio/er/beyoncehits/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006765/logo_JcqQPHDtGP.jpg?v=20260529-media-restore",Velvet Acid Christ
 https://stream.pcradio.app/Velvet_Acid_Christ-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103705/logo_1bjjBsnkbi.jpg?v=20260529-media-restore",DFM Skrillex
@@ -1323,99 +1247,57 @@ https://stream.pcradio.app/Li_Yi_Jun-hi
 https://stream.pcradio.app/Kelly_Clarkson-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006763/logo_cdUiRBsk6X.jpg?v=20260529-media-restore",Sasaki Sayaka
 https://stream.pcradio.app/Sasaki_Sayaka-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/30007/logo_pGNTFoO85G.jpg?v=20260529-media-restore",Planet David Guetta Radio
-https://mp3.planetradio.de/plrchannels/hqstars07.aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006475/logo_1L2OlxD0Hv.jpg?v=20260529-media-restore",Robyn
 https://stream.pcradio.app/Robyn-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006621/logo_eF01EdjGV2.jpg?v=20260529-media-restore",Mika
 https://stream.pcradio.app/Mika-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66379/logo_c9CoD0GZLK.jpg?v=20260529-media-restore",DFM Calvin Harris
 https://hls-01-dfm.hostingradio.ru/harris/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81396/logo_9401PvlURV.jpg?v=20260529-media-restore",Exclusively Bob Marley
-https://streaming.exclusive.radio/er/bobmarley/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006662/logo_wjjxqQWxkW.jpg?v=20260529-media-restore",Хамелеон
 https://stream.pcradio.app/Hameleon-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31135/logo_pO4ypu9qXg.jpg?v=20260529-media-restore",Harmony 80er Superbands
-https://mp3.harmonyfm.de/hrmchannels/hqstars10.aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006730/logo_WcBUj1JtGX.jpg?v=20260529-media-restore",Free Spirit
 https://stream.pcradio.app/Free_spirit_fin-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006759/logo_Bb4vIu7AaH.jpg?v=20260529-media-restore",Namie Amuro
 https://stream.pcradio.app/Namie_Amuro-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006736/logo_fp6iPaBVuR.jpg?v=20260529-media-restore",IA
 https://stream.pcradio.app/IA-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81402/logo_2YVpsh45sU.jpg?v=20260529-media-restore",Exclusively David Bowie
-https://streaming.exclusive.radio/er/davidbowie/icecast.audio
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32124/logo_ruq2ssvZZx.jpg?v=20260529-media-restore",Queen-Stream Radio BOB!
-https://streams.radiobob.de/bob-queen/mp3-128
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006738/logo_DAMcjR1ci7.jpg?v=20260529-media-restore",Josh Groban
 https://stream.pcradio.app/Josh_Groban-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006721/logo_nwXlWmP6kC.jpg?v=20260529-media-restore",Corroded
 https://stream.pcradio.app/Corroded_swe-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006672/logo_wGdK5MjLba.jpg?v=20260529-media-restore",Mazzy Star
 https://stream.pcradio.app/Mazzy_Star-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47376/logo_5j3X68Zz4I.jpg?v=20260529-media-restore",M Radio - Voix Féminines
-https://mfmwr-013.ice.infomaniak.ch/mfmwr-013.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006764/logo_UjbTubUTxq.jpg?v=20260529-media-restore",The Gun Club
 https://stream.pcradio.app/The_Gun_Club-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82153/logo_nTfOVAr8d1.jpg?v=20260529-media-restore",Exclusively Bob Marley - HITS
-https://streaming.exclusive.radio/er/bobmarleyhits/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006712/logo_NeCVwDZ8PF.jpg?v=20260529-media-restore",Brandon Stone
 https://stream.pcradio.app/Brandon_Stone-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006757/logo_CddGaZSRw7.jpg?v=20260529-media-restore",Maria Rita
 https://stream.pcradio.app/Maria_Rita-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/37319/logo_At1kOWy4T2.jpg?v=20260529-media-restore",Nostalgie Johnny Hallyday
-https://stream.rcs.revma.com/4qbz0uu3ehuvv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006623/logo_jxljY20VH7.jpg?v=20260529-media-restore",Origa
 https://stream.pcradio.app/Origa-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006761/logo_S4IirwXJVu.jpg?v=20260529-media-restore",Nek
 https://stream.pcradio.app/Nek-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/58852/logo_xGZU3Is1MN.jpg?v=20260529-media-restore",Vagalume.FM - O Melhor de Bob Marley
-https://stream.vagalume.fm/hls/1524167056721891/aac.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006717/logo_RUZ6I6ujZM.jpg?v=20260529-media-restore",Anna Vissi
 https://stream.pcradio.app/Anna_Vissi-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006780/logo_FgQHcoTV06.jpg?v=20260529-media-restore",Deform
 https://stream.pcradio.app/deform-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81317/logo_622GIXLxXk.jpg?v=20260529-media-restore",Exclusively Rolling Stones
-https://streaming.exclusive.radio/er/rollingstones/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006752/logo_tIXtmXx7cq.jpg?v=20260529-media-restore",Lei Ting
 https://stream.pcradio.app/Lei_Ting-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/82111/logo_i1WThrENtx.jpg?v=20260529-media-restore",Exclusively Adele - HITS
-https://streaming.exclusive.radio/er/adelehits/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006722/logo_PfI51DPbDj.jpg?v=20260529-media-restore",DDBY
 https://stream.pcradio.app/DDBY-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006770/logo_nm0agI11KC.jpg?v=20260529-media-restore",Ultimate spinach
 https://stream.pcradio.app/Ultimate-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81911/logo_Ag5iSHJy0K.jpg?v=20260529-media-restore",Exclusively Beyonce
-https://2.mystreaming.net/er/beyonce/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006720/logo_psgMImakPM.jpg?v=20260529-media-restore",Christian Lais
 https://stream.pcradio.app/Christian_Lais-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46122/logo_QYGAFZQkd4.jpg?v=20260529-media-restore",Tropiques Bob Marley
-https://listen.radioking.com/radio/500896/stream/558190
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103519/logo_uiDjyoXi3s.jpg?v=20260529-media-restore",Radyo 44
 https://radyo.yayin.com.tr:3444/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46389/logo_gEy4GBb5aK.jpg?v=20260529-media-restore",Radio FG David Guetta
-https://stream.rcs.revma.com/88h6r9dusd3vv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006727/logo_FicvMgQCV2.jpg?v=20260529-media-restore",Dragon Ash
 https://stream.pcradio.app/Dragon_Ash-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103759/logo_NCw0JPm3oG.jpg?v=20260529-media-restore",RMC Music Star Coldplay
-https://icy.unitedradio.it/ColdPlay.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/30005/logo_0p3jODiSsb.jpg?v=20260529-media-restore",Planet Beyoncé Radio
-https://mp3.planetradio.de/plrchannels/hqstars17.aac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45951/logo_RHM4AUtpaa.jpg?v=20260529-media-restore",100% Johnny
-https://listen.radioking.com/radio/330148/stream/383350
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004836/logo_JjuEDaOxZO.jpg?v=20260529-media-restore",A.R. Rahman Radio Tamil
 https://stream-41.zeno.fm/p7b0e3ms97zuv?zs=3_Y0oHojRcyOtsq6rlCnqw
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/47636/logo_5VJZHDGpkK.jpg?v=20260529-media-restore",NRJ David Guetta
-https://streaming.nrjaudio.fm/outdax6ubafg
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103758/logo_pLI4h17CyT.jpg?v=20260529-media-restore",RMC Music Star Jovanotti
 https://icy.unitedradio.it/Jovanotti.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006746/logo_oXK9I1Jicm.jpg?v=20260529-media-restore",Ysa Ferrer
 https://stream.pcradio.app/Ysa_Ferrer-hi
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1006988/logo_6htIp6waOA.jpg?v=20260529-media-restore",Miyagi & Эндшпиль
 https://stream.pcradio.app/miyagi_endshpil-hi
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88626/logo_4nyk8gJoj8.jpg?v=20260529-media-restore",Yimago Lite Rock (Planet Earth's Best Music)
-https://yimago.torontocast.stream/literock
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/101898/logo_tXnAjZJyll.jpg?v=20260529-media-restore",Precious Radio Pop
-https://preciousradio.net/proxy/pop/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49303/logo_Dh6saasS7L.jpg?v=20260529-media-restore",MORE Океан Ельзи
-https://cast.more.fm:8444/oe

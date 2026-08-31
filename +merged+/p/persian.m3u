@@ -973,8 +973,6 @@ https://ams1.reliastream.com/proxy/avico00?mp=/live&amp1763490155763
 https://s2.free-shoutcast.com/stream/18256
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004038/logo_JxHzkb0R76.jpg?v=20260529-media-restore",Tapesh
 https://radio.persianvip.com:8888/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/83691/logo_sU2dIvW53C.jpg?v=20260529-media-restore",Radio AvazFarsi
-https://radio.avazfarsi.com:8000/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004783/logo_NGIS6sz0hJ.jpg?v=20260529-media-restore",London Persian Radio LPR
 https://free.rcast.net/247794
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004040/logo_b9AVJGJ9Mj.jpg?v=20260529-media-restore",Navahang
@@ -983,24 +981,8 @@ https://navairan.com/;stream.nsv
 https://ams1.reliastream.com/proxy/avico00?mp=/live&1763490155763
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005478/logo_qRRejV6KnF.jpg?v=20260529-media-restore",Radio Yar
 https://stream-291.zeno.fm/oyb5oh6ne3tuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJveWI1b2g2bmUzdHV2IiwiaG9zdCI6InN0cmVhbS0yOTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJDZkZCcXdJU0dPSHBCbjcyM1JWUlEiLCJpYXQiOjE3ODA3NzY0MTMsImV4cCI6MTc4MDc3NjQ3M30.481YWaWBh8KL-65-tDIgNqgYrGQnmVHtViqUVbNPrdY&_=1780776413621
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/95664/logo_uVou1pb3Z8.jpg?v=20260529-media-restore",Radio Avang
-https://stream.zeno.fm/a9eszgtwfkhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103229/logo_AG4OFgyIuK.jpg?v=20260529-media-restore",Shady FM Kurdish
-https://stream.zeno.fm/evvkgtwyqxstv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/83896/logo_RTKTNZq1Dy.jpg?v=20260529-media-restore",Radio Setareh  رادیو ستاره
-https://s2.free-shoutcast.com/stream/18256
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97254/logo_icoPZXfiVg.jpg?v=20260529-media-restore",Radio Hamrah
-https://stream.zeno.fm/8p9trg4dkg0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97135/logo_bPhdAtAWmW.jpg?v=20260529-media-restore",Radio Ma Va Shoma
-https://global.citrus3.com:8244/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/97030/logo_5qwcsfAJj9.jpg?v=20260529-media-restore",CyberFM Persian
-https://stream.zeno.fm/m3xge13apuquv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102399/logo_pTUfVqiH1f.jpg?v=20260529-media-restore",Radio Donya
-https://stream.zeno.fm/v5kxmagseg0uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44470/logo_Hnz5m4aSvz.jpg?v=20260529-media-restore",Radio Iran On Air
 http://iranonairone.mine.nu:9300/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/83703/logo_VIcp2ohJd6.jpg?v=20260529-media-restore",Persian Rap Radio
-https://stream.zeno.fm/ak8z3nnzq8rvv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ir-irib-radio-ardebil-logo.jpg",IRIB Radio Ardebil
 http://s0.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-ardebil/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ir-irib-radio-abadan-logo.jpg",IRIB Radio Abadan
@@ -1021,8 +1003,6 @@ https://radiodarvish.radio12345.com/
 https://stream.radiojar.com/cp13r2cpn3quv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ca-shemroon-logo.jpg",Radio Shemroon
 https://stream.zeno.fm/1nr41vqw9wquv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-iran-air-176371-logo.jpg",Radio Iran On Air
-http://iranonairone.mine.nu:9300/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/br-radio-nova-fm-0-1-2-3-4-5-6-7-8-9-10-logo.jpg",Radio Rádio Nova FM
 https://stream.zeno.fm/jkvq4tyzcemvv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-hambastegi-178617-logo.jpg",Radio Hambastegi
@@ -1243,3 +1223,31 @@ https://stream.zeno.fm/okxf1lnhabbvv
 https://stream.zeno.fm/ull2fupo31pvv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fr-balance-la-sauce-la-radio-logo.jpg",Balance la Sauce - La Radio
 https://hosting.studioradiomedia.fr:2445/stream
+#EXTINF:-1,La Ochentera 91.9 FM
+https://tupanel.info/stream/emisora919fm
+#EXTINF:-1,Taleemul Islam Radio
+https://radio.hewadict.com/proxy/tislamradio?mp=%2Fstream
+#EXTINF:-1,All Day Jazz
+https://mediaserv73.live-streams.nl:8027/stream
+#EXTINF:-1,Cartoonito Latinoamerica
+https://playerservices.streamtheworld.com/api/livestream-redirect/8CCC_SC
+#EXTINF:-1,MMLR FM
+https://stream.zeno.fm/2h4b2x5bpy8uv
+#EXTINF:-1,OTAT247 Indie Rock
+http://s4.cdn3.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8
+#EXTINF:-1,70er Hits
+https://live-bauerdk.sharp-stream.com/RP37_premium_96.aac
+#EXTINF:-1,The Old-School Archives
+https://a4.asurahosting.com:7160/radio.mp3
+#EXTINF:-1,Radio Mokashefeh
+https://stream.zeno.fm/e7tqcayfsc9uv
+#EXTINF:-1,Antenna Web Vanuatu
+https://tinyurl.com/Antenna-Web-Vanuatu
+#EXTINF:-1,Radio Kalameh Omid
+https://listen.radioking.com/radio/330505/stream/378796
+#EXTINF:-1,Radio ESJC
+https://stream4.vestaradio.com/RadioESJC
+#EXTINF:-1,RadioZZA
+https://listen.radioking.com/radio/526993/stream/585379
+#EXTINF:-1,attecoubefm
+https://listen.radioking.com/radio/708230/stream/773741

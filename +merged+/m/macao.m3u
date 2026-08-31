@@ -91,3 +91,7 @@ https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web
 https://62.138.18.102:8133/stream
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1,Radio Top 80 Macau 強電台 - 89.9 FM
+http://live.top80.fm:8086/;
+#EXTINF:-1,CNR-7 粵港澳大灣區之聲
+https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174761752612586u0026wsIPSercert=270c8446fe14303f2433a2f164ccd9e5

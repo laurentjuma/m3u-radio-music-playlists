@@ -3049,8 +3049,6 @@ https://22243.live.streamtheworld.com:443/AI_FMAAC.aac
 https://amboifm.iradio.work:8000/stream
 #EXTINF:-1,Asyik FM - Malaysia - Kuala Lumpur
 https://28163.live.streamtheworld.com:443/ASYIK_FMAAC.aac
-#EXTINF:-1,BapakkuFM - Malaysia - Kuala Lumpur
-https://servidor30-2.brlogic.com:7048/live
 #EXTINF:-1,Best FM - Malaysia - Johor Bahru
 https://n22a-eu.rcs.revma.com/h34x4kgg9hhvv.m4a
 #EXTINF:-1,BFM 89.9 - Malaysia - Kuala Lumpur
@@ -3065,10 +3063,6 @@ https://stream.rcs.revma.com/cn0zcqsbv4uvv
 https://stream.rcs.revma.com/xt9nhzsbv4uvv
 #EXTINF:-1,Hitz.FM - Malaysia - Kuala Lumpur
 https://stream.rcs.revma.com/488kt4sbv4uvv
-#EXTINF:-1,Jazz Lounge - Malaysia - Petaling Jaya
-https://eu8.fastcast4u.com/proxy/lch?mp=/1
-#EXTINF:-1,JEI FM - Malaysia - Klang
-https://usa3.fastcast4u.com/proxy/jeifm?mp=/1
 #EXTINF:-1,Johor FM - Malaysia - Johor Bahru
 https://22253.live.streamtheworld.com:443/JOHOR_FMAAC.aac
 #EXTINF:-1,KCFM - Malaysia - Kuala Lumpur
@@ -3087,12 +3081,8 @@ https://22243.live.streamtheworld.com:443/LABUAN_FMAAC.aac
 https://28163.live.streamtheworld.com:443/LANGKAWI_FMAAC.aac
 #EXTINF:-1,Limbang FM - Malaysia - Limbang
 https://22253.live.streamtheworld.com:443/LIMBANGAAC.aac
-#EXTINF:-1,Lite FM - Malaysia - Kuala Lumpur
-https://stream.rcs.revma.com/bn4ex8sbv4uvv
 #EXTINF:-1,MACC FM - Malaysia - Putrajaya
 https://listen.radioking.com/radio/560261/stream/619850
-#EXTINF:-1,Manis FM 90.6 - Malaysia - Kuala Terengganu
-https://stream.rcs.revma.com/nzgauqq1v7zuv
 #EXTINF:-1,Melaka FM - Malaysia - Malacca
 https://22283.live.streamtheworld.com:443/MELAKA_FMAAC.aac
 #EXTINF:-1,Melody FM - Malaysia - Kuala Lumpur
@@ -3105,8 +3095,6 @@ https://stream.rcs.revma.com/v5pq3htbv4uvv
 https://22243.live.streamtheworld.com:443/MUTIARA_FMAAC.aac
 #EXTINF:-1,My FM 101.8 - Malaysia - Kuala Lumpur
 https://stream.rcs.revma.com/hc3unrtbv4uvv
-#EXTINF:-1,Myfriend.FM - Malaysia - Shah Alam
-https://cast3.asurahosting.com/proxy/myfriend/stream
 #EXTINF:-1,Nasional FM - Malaysia - Kuala Lumpur
 https://22253.live.streamtheworld.com:443/NASIONAL_FMAAC.aac
 #EXTINF:-1,Negeri FM - Malaysia - Seremban
@@ -3119,8 +3107,6 @@ https://28163.live.streamtheworld.com:443/PERAK_FMAAC.aac
 https://22243.live.streamtheworld.com:443/PERLIS_FMAAC.aac
 #EXTINF:-1,Raaga FM 103.7 - Malaysia - Kuala Lumpur
 https://stream.rcs.revma.com/1ut6qwtbv4uvv
-#EXTINF:-1,Radio An Nur - Malaysia - Johor Bahru
-https://listen.radioannurmainj.my/proxy/radioannur/stream
 #EXTINF:-1,Radio Klasik - Malaysia - Kuala Lumpur
 https://22273.live.streamtheworld.com:443/RADIO_KLASIKAAC.aac
 #EXTINF:-1,Radio Klasik FM 98.3 - Malaysia - Kuala Lumpur
@@ -3813,3 +3799,85 @@ http://streams2.museter.com:8174/;
 http://206.190.131.100:9976/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/lepaknetradiofm-590935-logo.jpg",LepakNet.Radio.FM
 http://50.7.12.36/;
+#EXTINF:-1,ERA FM
+https://n17a-eu.rcs.revma.com/crec9cmbv4uvv/23_11p2ghidfhj2d02/playlist.m3u8?rj-ttl=5u0026rj-tok=AAABlF2WiCgAJUPufokb6G0b3Q
+#EXTINF:-1,Nasional FM 88,5 MHz
+https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5u0026rj-tok=AAABkBt1aCUAlkmmsnXss9i2gw
+#EXTINF:-1,MYFM (101.80)
+https://n38a-eu.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8?rj-ttl=5u0026rj-tok=AAABjmQzlooA5VQ0LCn-yOlhmQ
+#EXTINF:-1,goXuan
+https://n07a-eu.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8?rj-ttl=5u0026rj-tok=AAABkBoH3fsAEu93wxYlLEnxBQ
+#EXTINF:-1,WAI FM Bidayuh
+https://ais-sa8.cdnstream1.com/5035/playlist.m3u8
+#EXTINF:-1,REDfm
+https://22273.live.streamtheworld.com/RED_FMAAC.aac
+#EXTINF:-1,Vision.FM
+https://n04.rcs.revma.com/7ww2a4tbv4uvv/4_vpzncxu6ffle02/playlist.m3u8
+#EXTINF:-1,Radio Klate Kito
+http://192.99.8.192:3142/;
+#EXTINF:-1,Suria fm
+https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
+#EXTINF:-1,BIGCOWFM 大牛网络电台 马来西亚中文网络电台
+https://tune.tunzilla.com/http://onairnow.ddns.net:8000/chinese.mp3
+#EXTINF:-1,GeGar Muzik FM
+https://usa3.fastcast4u.com/proxy/gegarmuzikfm?mp=/1
+#EXTINF:-1,Music Vault FM
+http://java.skychatz.org:8080/;stream/1
+#EXTINF:-1,اذاعة القرآن الكريم
+http://gemersikfm.iradio.work:8000/;
+#EXTINF:-1,Rentak Pelangi MuzikFM
+http://stream.tujuh.my/proxy/rpmfm/stream
+#EXTINF:-1,MIX 94.5 FM Malaysia
+https://n28a-eu.rcs.revma.com/v5pq3htbv4uvv/40_wqselj3z5ieg02/playlist.m3u8?rj-ttl=5u0026rj-tok=AAABjkaPjccA_nBeuk7GvQZBZg
+#EXTINF:-1,Repair Segala
+https://22253.live.streamtheworld.com/RED_FMAAC.aac
+#EXTINF:-1,era sarawak
+https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://stream.rcs.revma.com/hrcdg9ubv4uvv/hls.m3u8
+#EXTINF:-1,Gegar FM Hindi Power
+https://stream-eu-a.rcs.revma.com/ggn4nww711uvv/19_o1nww8xs7l2k02/playlist.m3u8
+#EXTINF:-1,GoXuan Go Emo
+https://stream-eu.rcs.revma.com/xyva2dx711uvv/65_1m5i53pzmjm2y02/playlist.m3u8
+#EXTINF:-1,Hitz FM Tik Tok
+https://stream-eu-a.rcs.revma.com/4f3eyhz711uvv/41_hmqkggrh2k7d02/playlist.m3u8
+#EXTINF:-1,Gegar FM Maghi Gelek
+https://stream-eu-a.rcs.revma.com/97gya1w711uvv/51_1u9svxg0fdgdd02/playlist.m3u8
+#EXTINF:-1,Sinar FM Jiwang
+https://stream-eu-a.rcs.revma.com/5s38zah811uvv/68_3ff8k7870ke802/playlist.m3u8
+#EXTINF:-1,Raaga FM Puthu Varavu
+https://stream-eu-a.rcs.revma.com/8bk6hsf811uvv/56_1pw1k2ieywj0k02/playlist.m3u8
+#EXTINF:-1,Sinar FM Irama 70'
+https://stream-eu-a.rcs.revma.com/bb4ey1g811uvv/49_k1nayd1txhif02/playlist.m3u8
+#EXTINF:-1,Sinar FM IraMalaysia
+https://stream-eu-a.rcs.revma.com/mm13z8g811uvv/57_m5qwugbgh2d702/playlist.m3u8
+#EXTINF:-1,Era FM Nusantera
+https://stream-eu-a.rcs.revma.com/sgzunsw711uvv/57_1h6itpgb81l8e02/playlist.m3u8
+#EXTINF:-1,MIX FM 90's Mix Tape
+https://stream-eu.rcs.revma.com/k9s688d811uvv/25_1jtvj7l95ajuw02/playlist.m3u8
+#EXTINF:-1,Radio Lagenda BBest
+https://rlbbest.radioca.st/stream
+#EXTINF:-1,Gegar FM Hoh Btabuh
+https://n11a-eu.rcs.revma.com/5u674yw711uvv/17_1l2aleeuzv39b02/playlist.m3u8
+#EXTINF:-1,Raaga FM 90's Hits
+https://stream.rcs.revma.com/1ut6qwtbv4uvv/hls.m3u8
+#EXTINF:-1,Radio Lagenda Retro
+https://rlretro.radioca.st/stream
+#EXTINF:-1,Sinar FM Pop Yeh Yeh
+https://stream-eu-a.rcs.revma.com/1scz4dh811uvv/49_xtette8x8pni02/playlist.m3u8
+#EXTINF:-1,Sinar FM Irama 80's
+https://stream-eu-a.rcs.revma.com/xdz7f5g811uvv/68_1pxky7ia6kr2h02/playlist.m3u8
+#EXTINF:-1,Hitz FM Top40
+https://stream-eu-a.rcs.revma.com/u1kxmkz711uvv/54_1u54n9abnj3ul02/playlist.m3u8
+#EXTINF:-1,Era FM Cintan
+https://stream-eu-a.rcs.revma.com/0z5mdyv711uvv/34_uhws0gtg53ow02/playlist.m3u8
+#EXTINF:-1,Lite FM Acoustic
+https://stream-eu-a.rcs.revma.com/mdnf6q8711uvv/57_1sdj8mre6iob902/playlist.m3u8
+#EXTINF:-1,Hitz FM Stage
+https://stream-eu-a.rcs.revma.com/vm61pxz711uvv/16_vjp21f6c2j6102/playlist.m3u8
+#EXTINF:-1,Classic Rock FM
+https://stream-eu-a.rcs.revma.com/fk3507vbv4uvv/21_123cdbkwmeooj02/playlist.m3u8
+#EXTINF:-1,Lite your 70’s & 80’s Favourites
+https://stream-eu.rcs.revma.com/axkpyf8711uvv/66_89pyljxoojy002/playlist.m3u8
+#EXTINF:-1,Radio MPSepang
+https://listen.radioking.com/radio/668203/stream/732199

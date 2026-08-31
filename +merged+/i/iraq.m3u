@@ -857,46 +857,26 @@ https://stream-156.zeno.fm/x0xhw6c6g2zuv?zs=AfL9IRdsQ_qHIebZBo-9GA
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,Radio Ashur  راديو أشور ܦܪܵܣ ܩܵܠܵܐ ܕܐܵܫܘܿܪ 
 https://eu7.fastcast4u.com/proxy/radioashur?mp=/1
-#EXTINF:-1,Alrasheed FM 91.5 - Iraq - Baghdad
-https://streaming.shoutcast.com/alrasheed-fm
 #EXTINF:-1,Alseraj Radio - Iraq - Baghdad
 https://eu4.fastcast4u.com/proxy/aabdul00?mp=%2F1
 #EXTINF:-1,AUIB FM 101.5 - Iraq - Baghdad
 https://stream.auibfm.iq/radio
-#EXTINF:-1,Babylon FM 99.3 - Iraq - Ankawa
-https://eu7.fastcast4u.com/proxy/babylonfm?mp=/1
 #EXTINF:-1,Dangi Qurani Peroz FM - Iraq - Sulaymaniyah
 https://a1.asurahosting.com:10050/radio.mp3
-#EXTINF:-1,Darusalam Radio - Iraq - Baghdad
-https://streams.radio.co/s0975ec186/listen
 #EXTINF:-1,Hawa Dijlah Radio - Iraq - Baqubah
 https://listen.radioking.com/radio/96766/stream/136027
-#EXTINF:-1,Kirkuk FM 93.3 - Iraq - Kirkuk
-https://video1.getstreamhosting.com:8154/stream
-#EXTINF:-1,Kurdistan 24 - Iraq - Erbil
-https://audio-edge-kef8b.ams.s.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf
 #EXTINF:-1,Leopard Radio 98.7 FM - Iraq - Duhok
 https://c2.radioboss.fm:8980/stream
-#EXTINF:-1,M Radio 105.5 FM - Iraq - Erbil
-https://usa13.fastcast4u.com/proxy/mradio02?mp=/1
 #EXTINF:-1,Mix FM 104.3 - Iraq - Sulaymaniyah
 https://c2.radioboss.fm:8184/stream
-#EXTINF:-1,New Life Radio - Iraq - Erbil
-https://s2.radio.co/sd3c7f8539/listen
-#EXTINF:-1,One 95.7 FM - Iraq - Baghdad
-https://s2.radio.co/s03d947c9d/listen
 #EXTINF:-1,Qallam FM - Iraq - Sulaymaniyah
 https://eu10.fastcast4u.com/QallamFM
 #EXTINF:-1,Radio Duhok FM 88.9 - Iraq - Duhok
 https://stream.zeno.fm/9syxjozeeuhuv
 #EXTINF:-1,Radio Mariam Iraq - Iraq - Erbil
 https://dreamsiteradiocp4.com/proxy/rmerbil1?mp=/stream?ver=523938
-#EXTINF:-1,Radio Shafaq - Iraq - Erbil
-https://radio.shafaq.com/kurdish
 #EXTINF:-1,Radio Sunnat 106.9 FM - Iraq - Sulaymaniyah
 https://a1.asurahosting.com:10270/radio.mp3
-#EXTINF:-1,Rudaw Radio - Iraq - Erbil
-https://l3.itworkscdn.net/itwaudio/9006/stream
 #EXTINF:-1,Speda FM - Iraq - Erbil
 https://rsa.kurdlive.xyz/spedafm
 #EXTINF:-1,Times Square Radio 102.5 FM - Iraq - Basrah
@@ -907,8 +887,6 @@ https://radyo1.radyo-dinle.tc/8284/stream;
 https://c2.radioboss.fm:8564/stream
 #EXTINF:-1,Welat FM - Iraq - Erbil
 https://rasti.out.airtime.pro/rasti_a
-#EXTINF:-1,Yagrto Radio Duhok 93.5 - Iraq - Duhok
-https://stream.zeno.fm/ud0wera9hy2vv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/iq-al-rasheed-radio-logo.jpg",Al Rasheed Radio
 http://alrasheedmedia.com:9998/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-dijla-171550-logo.jpg",Radio Dijla
@@ -973,3 +951,13 @@ http://www.alhurra.com/streaming.htm
 http://www.newroz.tv/content/view/78/55/lang,Kurd%C3%AE/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/altathamun-894-588630-logo.jpg",Radio Altathamun 89.4
 http://rafm89.com/image/brodcast/playlist.pls
+#EXTINF:-1,. Al quran radio
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5u0026rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1,Al rasheed fm )Kirkuk)
+https://streaming.shoutcast.com/alrasheed-kirkuk
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://eu7.fastcast4u.com/proxy/babylonarabia?mp=%2F1
+#EXTINF:-1,Hawa Dijlah Radio
+https://streams.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf?referer=onlinetingfm
+#EXTINF:-1,Parzink
+https://a1.asurahosting.com/listen/parzink/radio.mp3

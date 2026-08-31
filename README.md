@@ -291,7 +291,9 @@ to listen to other m3u playlists in this repo click on the specific repo for eac
 <td><a href="https://github.com/junguler/listen_to_lixty">lixty</a></td>
 <td><a href="https://github.com/junguler/listen_to_ting_fm">listen_fm</a></td>
 <td><a href="https://github.com/junguler/listen_to_wavely_radio">wavely_radio</a></td>
-<td colspan="2"></td>
+<td><a href="https://github.com/junguler/listen_to_world-s_radio">world-s_radio</a></td>
+<td><a href="https://github.com/junguler/listen_to_re-tune_fm">re-tune_fm</a></td>
+<!-- <td colspan="1"></td> -->
 </tr>
 </tbody></table>
 
@@ -815,6 +817,16 @@ here is a list of websites i've scraped from already and included m3u streams fo
 <td><a href="https://wavelyradio.cz/app">https://wavelyradio.cz/app</a></td>
 <td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/wavely_radio">/wavely_radio</a></td>
 <td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/wavely_radio.sh">wavely_radio.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://www.worldsradio.com/">https://www.worldsradio.com/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/world-s_radio">/world-s_radio</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/world-s_radio.sh">world-s_radio.sh</a></td>
+</tr>
+<tr>
+<td><a href="https://retunefm.com/">https://retunefm.com/</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/tree/main/re-tune_fm">/re-tune_fm</a></td>
+<td><a href="https://github.com/junguler/m3u-radio-music-playlists/blob/main/stuff/re-tune_fm.sh">re-tune_fm.sh</a></td>
 </tr>
 </tbody></table>
 

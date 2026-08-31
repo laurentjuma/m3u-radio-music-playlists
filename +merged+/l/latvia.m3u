@@ -2161,62 +2161,12 @@ http://stream.europeanhitradio.com:8000/Stream_27.mp3
 http://stream.ehrhiti.lv:8000/Stream_78.mp3
 #EXTINF:-1,Tīrkultūra 
 https://s3.radio.co/s216811754/listen
-#EXTINF:-1,EHR FM 104.3 - Latvia - Riga
-https://stream.ehrhiti.lv:8000/ehr.aac
-#EXTINF:-1,EHR Latviešu hiti - Latvia - Riga
-https://stream.ehrhiti.lv:8000/Stream_22.aac
-#EXTINF:-1,EHR Remixes RU - Latvia - Riga
-https://stream.ehrhiti.lv:8000/Stream_35.aac
-#EXTINF:-1,EHR Russkie Hiti - Latvia - Riga
-https://stream.ehrhiti.lv:8000/khr.aac
-#EXTINF:-1,EHR SuperHits - Latvia - Riga
-https://stream.ehrhiti.lv:8000/Stream_21.aac
-#EXTINF:-1,EHR Top 40 RU - Latvia - Riga
-https://stream.ehrhiti.lv:8000/Stream_33.aac
-#EXTINF:-1,Latvijas Radio 5 93.1 FM - Latvia - Riga
-https://live.pieci.lv/live19-hq.mp3
-#EXTINF:-1,LRMA Rock Radio - Latvia - Riga
-https://c22.radioboss.fm:18318/stream
 #EXTINF:-1,LustigsRadio - Latvia - Saldus
 https://stream.lustigsradio.lv/live
-#EXTINF:-1,Mix FM 102.7 - Latvia - Riga
-https://live.relaxfm.lv/07
-#EXTINF:-1,Power FM - Latvia - Riga
-https://radio.powerfm.lv:8075/stream
-#EXTINF:-1,Radio 7 - Latvia - Sigulda
-https://listen.radio7.lv:2053/Radio7
-#EXTINF:-1,Radio SWH 105.2 FM - Latvia - Riga
-https://live.radioswh.lv:8443/swhmp3
-#EXTINF:-1,Radio SWH Gold 90.0 FM - Latvia - Riga
-https://live.radioswh.lv:8443/goldmp3
-#EXTINF:-1,Radio SWH LV 100.0 FM - Latvia - Riga
-https://live.radioswh.lv:8443/swh_lv
-#EXTINF:-1,Radio SWH Rock FM 89.2 - Latvia - Riga
-https://live.radioswh.lv:8443/rockmp3
-#EXTINF:-1,Radio SWH Spin 94.6 FM - Latvia - Liepāja
-https://live.radioswh.lv:8443/spinmp3
-#EXTINF:-1,Radio SWH+ 105.7 FM - Latvia - Riga
-https://live.radioswh.lv:8443/plusmp3
 #EXTINF:-1,Radio TEV 106.8 FM - Latvia - Riga
 https://stream.radiotev.lv:8443/radiov
-#EXTINF:-1,Radio1 107.0 FM - Latvia - Jēkabpils
-https://www.radio1.lv:8000/stream.aac
-#EXTINF:-1,Retro FM - Latvia - Riga
-https://live.retrofm.lv/retrofmlatvia
-#EXTINF:-1,RU FM 103.2 - Latvia - Riga
-https://live.relaxfm.lv/03
-#EXTINF:-1,Skonto FM 107.2 - Latvia - Riga
-https://stream.radioskonto.lv:8443/stereo
-#EXTINF:-1,Star FM 106.2 - Latvia - Riga
-https://live.advailo.com/audio/mp3/icecast.audio
-#EXTINF:-1,Tīrkultūra - Latvia - Riga
-https://s3.radio.co/s216811754/listen
-#EXTINF:-1,XO FM - Latvia - Riga
-https://live.xo.fm/xofm128
 #EXTINF:-1,Yacht Radio - Latvia - Riga
 https://yacht-radio.lv:8025/radio
-#EXTINF:-1,Your City Radio - Latvia - Riga
-https://c28.radioboss.fm:18234/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-talsi-lounge-radio-logo.jpg",Talsi Lounge Radio
 http://kuums.lv:5555/?type=httpu0026nocache=170
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/lv-hmr-logo.jpg",Radio HMR
@@ -2377,3 +2327,47 @@ http://91.90.255.111/jumorfm
 http://stream.sekoman.lv:8000/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-fm-169724-logo.jpg",Radio Mix FM
 http://91.90.255.111/MixFM
+#EXTINF:-1,Radio Talsi .:: Electronic ::.
+http://kuums.lv:6555/;
+#EXTINF:-1,Radio Talsi .:: Future ::.
+http://kuums.lv:7555/;
+#EXTINF:-1,Radio Melodija
+http://lr1mp1.latvijasradio.lv:8012/;
+#EXTINF:-1,Chillax FM
+https://streams.chillaxfm.lv/chillaxfm
+#EXTINF:-1,Radio Talsi .:: Lounge ::.
+http://kuums.lv:5555/;
+#EXTINF:-1,Radio Talsi .:: Misc ::.
+http://radio.kuums.lv:4555/;
+#EXTINF:-1,Nordic Chillout Indie
+https://listen.radioking.com/radio/768542/stream/835766
+#EXTINF:-1,Retro FM 70s 80s 90s
+https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3
+#EXTINF:-1,TOP radio
+https://23613.live.streamtheworld.com/RETRO_FM.mp3
+#EXTINF:-1,Retro FM Disco
+https://22653.live.streamtheworld.com/RETRO_FM_LATVIJA_DISCO.mp3
+#EXTINF:-1,Your City Padio
+https://radio.lkr.lv/;?type=httpu0026nocache=40
+#EXTINF:-1,EHR+
+https://live.dkradio.lv/01
+#EXTINF:-1,KurmisLV
+http://www.kurmislv.info:8000/live-kurmislv-hq.mp3
+#EXTINF:-1,IvoFm
+https://ivofm.lv/radio
+#EXTINF:-1,LRADIO BALTIJA
+http://balticom-238-238.balticom.lv/live.aac
+#EXTINF:-1,gradio.lv ONE
+https://stream.gradio.lv/gradio-one.mp4a
+#EXTINF:-1,Radio Liepāja
+https://stream.radioliepaja.lv/live/playlist.m3u8
+#EXTINF:-1,Chillax
+https://streams.chillaxfm.lv/chillax
+#EXTINF:-1,Radio Viens
+https://radioviens.lv/live
+#EXTINF:-1,Relax FM Latvija
+https://listen.radioking.com/radio/672094/stream/736255
+#EXTINF:-1,HMR Deluxe
+https://stream.zeno.fm/rw1qqkuoxidvv
+#EXTINF:-1,Dance Station Radio
+https://myradio24.org/97045

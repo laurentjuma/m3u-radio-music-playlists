@@ -81,13 +81,17 @@ http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,3FM - Isle of Man - Braddan
 https://n16a-eu.rcs.revma.com/0kv9v43t87zuv
-#EXTINF:-1,Energy FM 98.6 - Isle of Man - Douglas
-https://ukwesta.streaming.broadcast.radio/energyfm
-#EXTINF:-1,Manx Radio AM 1368 - Isle of Man - Douglas
-https://listen-manxradio.sharp-stream.com/manxradioam.aac
 #EXTINF:-1,Manx Radio FM 89.0 - Isle of Man - Douglas
 https://listen-manxradio.sharp-stream.com/manxradiofmmobile.aac
 #EXTINF:-1,Manx Radio Gold - Isle of Man - Douglas
 https://listen-manxradio.sharp-stream.com/manxgoldlow.aac
 #EXTINF:-1,The Sound Radio - Isle of Man - Douglas
 https://ukwesta.streaming.broadcast.radio/thesoundradio
+#EXTINF:-1,Energy FM (Isle Of Man)
+http://ukwesta.streaming.broadcast.radio:15580/energyfm
+#EXTINF:-1,3FM (48Kbps AAC+)
+https://n07a-eu.rcs.revma.com/s1q7dc4c0znwv
+#EXTINF:-1,Isle of Man Free Radio
+https://play.radioking.io/ian-byrne
+#EXTINF:-1,3FM (128Kbps MP3)
+https://n07a-eu.rcs.revma.com/0kv9v43t87zuv

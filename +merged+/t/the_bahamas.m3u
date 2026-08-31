@@ -95,8 +95,6 @@ http://icecast.more94fm.com:8000/more94.mp3
 http://znsradiogroup.streamcomedia.com:9788/zns1079fm
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/100-jamz-170308-logo.jpg",Radio 100 JAMZ
 https://radio.securenetsystems.net/cirrusencore/index.cfm?stationcallsign=100JAMZ
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bs-guardianradio-logo.jpg",GuardianRadio
-https://radiostreams.streamcomedia.com:8000/969guardianradio
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bs-bahamian-or-nuttin-logo.jpg",Radio Bahamian Or Nuttin
 https://bahamianornuttin.com/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bs-peace-1075-fm-logo.jpg",Radio PEACE 107.5 FM
@@ -111,8 +109,6 @@ https://media3.iradeo.com/126308/166207/audio/05+-+Jesus+was+the+first+GPS.mp3
 https://streamdb6web.securenetsystems.net/v5/prayse
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/bs-star-1065fm-logo.jpg",Radio Star 106.5fm
 http://www.star106fm.com/?proradio-popup=1
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/bs-klpm889fm-logo.jpg",Radio KLPM88.9FM
-https://s4.radio.co/s440e54fd7/listen
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/power-1045-fm-641717-logo.jpg",Radio POWER 104.5 FM
 http://znsradiogroup.streamcomedia.com:9788/power1045fm
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/island-1029-fm-578679-logo.jpg",Radio Island 102.9 FM
@@ -131,3 +127,5 @@ http://142.4.217.133:9203/stream
 http://y98fm.streamon.fm/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/star-1065-fm-585364-logo.jpg",Radio STAR 106.5 FM
 http://tngrgroup.streamcomedia.com:8788/star106hits
+#EXTINF:-1,Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

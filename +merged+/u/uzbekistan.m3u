@@ -265,23 +265,17 @@ https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
 https://radio.islom.uz/islomuz
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,Islom.uz - Uzbekistan - Tashkent
-https://radio.islom.uz/islomuz
-#EXTINF:-1,Pink Unicorn Radio - Uzbekistan - Samarkand
-https://listen6.myradio24.com/unicorn
 #EXTINF:-1,Quran.uz radio - Uzbekistan - Tashkent
 https://radio.islom.uz/quranuz
-#EXTINF:-1,Radio Maxima 105.4 FM - Uzbekistan - Tashkent
-https://classicfm.uz:8444/maxima.ogg
-#EXTINF:-1,Radio Uzbegim Taronasi FM 101.0 - Uzbekistan - Tashkent
-https://fm101.uz:9943/fm101_low.aac
-#EXTINF:-1,See The Sea FM - Uzbekistan - Samarkand
-https://listen5.myradio24.com/seethesea
-#EXTINF:-1,Радио нулевых 2000s - Uzbekistan - Samarkand
-https://stream.zeno.fm/fwstad5837zuv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/oriat-dono-619458-logo.jpg",Radio Oriat Dono
 http://fm.narod.uz:8012/dono
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uz-radio-uzbekfm-logo.jpg",Radio РАДИО "Uzbek.FM"
 http://yayin.turkhosted.com:7034/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/uzbekfm-601625-logo.jpg",Radio Uzbek.FM
 http://yayin.turkhosted.com:7034/;
+#EXTINF:-1,Sezam FM
+https://stream.zeno.fm/70r1uhccrchvv
+#EXTINF:-1,Радио Гранд FM
+https://str1.tvcom.uz/RADIO-GRAND/shoutcast
+#EXTINF:-1,Temp FM
+https://tempradio-live.uz/streamaac

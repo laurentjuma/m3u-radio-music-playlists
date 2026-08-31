@@ -431,20 +431,6 @@ http://usa1.fastcast4u.com:3292/stream
 http://176.9.7.145:8288/stream
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,Boss FM Grenada - Grenada - Saint George's
-https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1
-#EXTINF:-1,City Sound 97.5 - Grenada - Saint George's
-https://auds1.intacs.com/citysoundfm
-#EXTINF:-1,Harbour Light Radio AM 1400 - Grenada - Hillsborough
-https://stream.zeno.fm/8pbaase2w2quv
-#EXTINF:-1,Live Wire FM 101.1 - Grenada - Saint George's
-https://caribspy.com/proxy/livewire/stream
-#EXTINF:-1,Power 95.1 FM - Grenada - Saint George's
-https://stream.zeno.fm/x3tpuhdr2reuv
-#EXTINF:-1,Real FM 91.9 - Grenada - Sauteurs
-https://free.rcast.net/69262
-#EXTINF:-1,The Soul Of Grenada 90.9 FM - Grenada - Saint George's
-https://tsogradio.out.airtime.pro/tsogradio_a
 #EXTINF:-1,We Hide Out Radio FM 89.1 - Grenada - Gouyave
 https://s19.myradiostream.com/:18234/listen.mp3?nocache=1736236967
 #EXTINF:-1,Wee FM Radio - Grenada - Saint George's
@@ -531,3 +517,7 @@ http://cherry.wavestreamer.com:6048/;
 http://91.121.150.156:7032/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/omel-radio-170057-logo.jpg",Omel Radio
 http://omelradio.no-ip.com:8000/;
+#EXTINF:-1,Hot Shotz Radio - Grenada
+http://cp.usa8.fastcast4u.com:5195/;
+#EXTINF:-1,Boss FM 104.1-104.9 - Grenada
+https://usa8.fastcast4u.com/proxy/bossfm2?mp=%2F1&1735902946442=

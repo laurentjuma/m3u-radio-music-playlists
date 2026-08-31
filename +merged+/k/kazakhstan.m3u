@@ -697,34 +697,12 @@ https://daystream.palmerablanca.com/daystream-128.mp3
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,Space Beat (128k) 
 https://90116.web.hosting-russia.ru/listen/space_beat/radio.mp3
-#EXTINF:-1,Astana FM - Kazakhstan - Astana
-https://radio-streams.kaztrk.kz/astana/astana/icecast.audio
 #EXTINF:-1,Bulbul FM - Kazakhstan - Almaty
 https://radiobulbul.stream.laut.fm/radiobulbul?t302=2025-01-07_08-10-02&uuid=cfbac02c-0511-4d1e-801f-a1002f48c170
-#EXTINF:-1,Classic FM - Kazakhstan - Almaty
-https://radio-streams.kaztrk.kz/classic/classic/icecast.audio
 #EXTINF:-1,Europa Plus Qazaqstan - Kazakhstan - Almaty
 https://emgregion.hostingradio.ru:8064/kazakhstan.europaplus.mp3
-#EXTINF:-1,Love Radio FM - Kazakhstan - Almaty
-https://stream.gakku.kz:8443/love128.mp3
-#EXTINF:-1,LuxFM 87.7 - Kazakhstan - Almaty
-https://icecast.luxfm.kz/luxfm
-#EXTINF:-1,Orda FM 103.2 - Kazakhstan - Astana
-https://ordacast.astanatv.kz:8443/orda
-#EXTINF:-1,Qazaq Radiosy - Kazakhstan - Astana
-https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
-#EXTINF:-1,Radio Ice - Kazakhstan - Ust'-Kamenogorsk
-https://onair.radio1922.ru/64.aac
-#EXTINF:-1,Shalkar - Kazakh Шалқар - Kazakhstan - Astana
-https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
-#EXTINF:-1,Новое Радио (Жаңа FM) - Kazakhstan - Karagandy
-https://live.zhanafm.kz:8443/zhanafm_onair
 #EXTINF:-1,РетроFM Казахстан - Kazakhstan - Almaty
 https://europaplus.hostingradio.ru:8014/retro320.mp3
-#EXTINF:-1,Русское Радио 104.7 FM - Kazakhstan - Almaty
-https://rusradio.cdnqb.net/stream
-#EXTINF:-1,Юмор FM Казахстан - Kazakhstan - Temirtau
-https://live.zhanafm.kz:8443/veseloeradio_onair
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-russkij-hit-logo.jpg",Radio Радио NS - Русский хит
 http://89.219.35.26:8000/radions-russian
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/kz-radio-ns-kazakh-music-logo.jpg",Radio Радио NS - Kazakh Music
@@ -761,3 +739,13 @@ http://stream7.radiostyle.ru:8007/radio-tmk
 http://fm.kiwi.kz/radions
 #EXTINF:-1 tv-logo="",Radio Kazak R
 http://kaztrk.kz/online_radio/kazradio/
+#EXTINF:-1,Darhan Radio
+https://stream.darhanradio.com/live
+#EXTINF:-1,Радио NS Павлодар
+https://service.ns.kz/bc/live
+#EXTINF:-1,SVETILO.ONLINE - духовно - осознанное
+https://streams.svetilo.online/listen/svetilo.online/radio.mp3
+#EXTINF:-1,Радио 7 Семей
+https://listen2.myradio24.com/8334
+#EXTINF:-1,Ретро FM Казахстан
+https://hls-01-retro.emgsound.ru/12/128/playlist.m3u8

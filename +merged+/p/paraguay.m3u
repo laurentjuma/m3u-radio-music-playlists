@@ -5429,62 +5429,32 @@ https://radio.host.com.py:7137/
 http://cp9.serverse.com:7221/amambayfm
 #EXTINF:-1,Radio Cerro Cora 91.5 FM 
 http://135.181.103.10:8018/stream
-#EXTINF:-1,24horasmusica - Paraguay - San Juan Bautista
-https://streaming01.radiosenlinea.com.ar/9048/stream
-#EXTINF:-1,ABC AM 730 - Paraguay - Asunción
-https://media.streambrothers.com:8342/stream
-#EXTINF:-1,ABC FM 98.5 - Paraguay - Asunción
-https://media.streambrothers.com:8350/stream
-#EXTINF:-1,Activa FM 92.9 - Paraguay - Ciudad del Este
-https://proxy01.servidorenlinea.net/cdehosting/8040/;
-#EXTINF:-1,Amambay 570 AM - Paraguay - Pedro Juan Caballero
-https://stream.hostipar.com/proxy/amambay570/stream
-#EXTINF:-1,Amambay FM 100.5 - Paraguay - Pedro Juan Caballero
-https://cp9.serverse.com/proxy/fmamambay?mp=/stream
 #EXTINF:-1,Amambay News - Paraguay - Pedro Juan Caballero
 https://stream.hostipar.com/proxy/news/stream
 #EXTINF:-1,CarBo Radio - Paraguay - Asunción
 https://stream.radiosenpy.net/8278/;
 #EXTINF:-1,Cerro Corá FM 91.5 - Paraguay - Pedro Juan Caballero
 https://stream.hostipar.com/proxy/cerrocora/stream
-#EXTINF:-1,Concert 107.7 FM - Paraguay - Asunción
-https://cp9.serverse.com/proxy/concertfm/stream
 #EXTINF:-1,Conquistador 89.1 FM - Paraguay - Asunción
 https://srv7.streamingradio.ar/8054/stream
 #EXTINF:-1,Corpus 89.5 FM - Paraguay - Ciudad del Este
 https://proxy01.servidorenlinea.net/cdehosting/8024/;
 #EXTINF:-1,Digital 90.3 FM - Paraguay - Santa Rosa del Aguaray
 https://stream.radiosenpy.net:7042/;
-#EXTINF:-1,DJ Christian Candia - Paraguay - Pilar
-https://server01.heplayer.com/8074/stream
-#EXTINF:-1,Educación FM 99.7 - Paraguay - Ciudad del Este
-https://proxy01.servidorenlinea.net/cdehosting/8050/;
 #EXTINF:-1,Emisora Líder FM 102.3 - Paraguay - San Juan Nepomuceno
 https://stream.radiosenpy.net:7069/;
 #EXTINF:-1,Estación 101.3 - ZPV532 - Paraguay - Mayor Otaño
 https://v.orlandohugo.com/8028/stream
-#EXTINF:-1,Esto Es Cumbia Con Monchi Bogarin Radio - Paraguay - Lambare
-https://stream.zeno.fm/kd0p50swchruv
-#EXTINF:-1,Farra 101.3 FM - Paraguay - Asunción
-https://rfs1.farra.com.py:9433/stream
 #EXTINF:-1,FM 100.1 Repatriación - Paraguay - Repatriación
 https://stream.radiosenpy.net/3050/;
-#EXTINF:-1,FM 90.7 Radio Ysapy - Paraguay - Asunción
-https://streamsoymedios.com/8014/stream/
-#EXTINF:-1,FM Arandu 105.3 - Paraguay - Doctor Juan Eulogio Estigarribia
-https://streaming2.locucionar.com/proxy/radioarandufm?mp=/stream
 #EXTINF:-1,FM Azul y Oro 94.7 - Paraguay - Luque
 https://radio.host.com.py:7197/;
 #EXTINF:-1,FM Frutillar 101.7 - Paraguay - Areguá
 https://radio.host.com.py:7144/;
-#EXTINF:-1,FM Triunfo 93.1 - Paraguay - Natalio
-https://panel.wilhost.com:8078/stream
 #EXTINF:-1,Futura 97.5 FM - Paraguay - Pedro Juan Caballero
 https://stream.hostipar.com/proxy/futura/stream
 #EXTINF:-1,Graneros del Sur FM 90.3 - Paraguay - Carmen del Paraná
 https://v.orlandohugo.com/8162/stream
-#EXTINF:-1,Guaraní FM 103.3 - Paraguay - Concepción
-https://stream.zeno.fm/u6bce7ppvzzuv
 #EXTINF:-1,Horqueta FM 88.5 - Paraguay - Horqueta
 https://stream.radiosenpy.net:7054/;
 #EXTINF:-1,Impacto FM 95.3 - Paraguay - Pedro Juan Caballero
@@ -5493,8 +5463,6 @@ https://radio.host.com.py/9714/stream;
 https://proxy01.servidorenlinea.net/cdehosting/8022/;
 #EXTINF:-1,Katueté FM 88.3 - Paraguay - Katueté
 https://cdn.streaming.com.py:7178/;
-#EXTINF:-1,KoejuFM - Paraguay - Lambare
-https://stream.zeno.fm/bpguvgmrxkruv
 #EXTINF:-1,Kokue Poty FM 97.9 - Paraguay - María Auxiliadora
 https://radio.host.com.py:7089/;
 #EXTINF:-1,La Caapuqueña - Paraguay - Caapucú
@@ -5509,24 +5477,12 @@ https://radio.host.com.py:7146/stream
 https://streampy.radiosparaguay.com/8054/stream
 #EXTINF:-1,Misiones FM 91.5 - Paraguay - San Juan Bautista
 https://radio.host.com.py:7188/;
-#EXTINF:-1,Monte Horeb FM - Paraguay - Santa Rosa
-https://streamsoymedios.com/8042/stream
 #EXTINF:-1,Montecarlo FM 100.9 - Paraguay - Asunción
 https://cast1.asurahosting.com/proxy/montecarlocentral/stream
 #EXTINF:-1,Mundo Radio 88.5 FM - Paraguay - Caacupé
 https://streaming.radiosenlinea.com.ar/8628/stream
 #EXTINF:-1,Música y Cultura - Paraguay - Edelira
 https://stream.zeno.fm/urhq0v14l8ivv
-#EXTINF:-1,Ñacurutu News Radio Online - Paraguay - Hernandarias
-https://stream.zeno.fm/z1h0gqak98quv
-#EXTINF:-1,Ñandutí 1020 AM - Paraguay - Asunción
-https://cp9.serverse.com/proxy/naduti1020/stream
-#EXTINF:-1,Naranjaty 103.3 FM - Paraguay - Naranjal
-https://naranjaty.com/listen/radio_naranjaty/player.mp3
-#EXTINF:-1,Neuland 91.9 FM - Paraguay - Neuland Colony
-https://radio.host.com.py/8058/stream
-#EXTINF:-1,Pop 93.3 FM - Paraguay - Encarnacion
-https://rps1.radiopop.com.py:9433/stream
 #EXTINF:-1,Popular FM 95.5 - Paraguay - Curuguaty
 https://stream.radiosenpy.net:7022/;
 #EXTINF:-1,Progreso 88.3 FM - Paraguay - Santa Rita
@@ -5539,60 +5495,32 @@ https://radiodifusionamerica.com.py/
 https://stream.hostipar.com/proxy/america/stream
 #EXTINF:-1,Radio Belén 89.3 FM - Paraguay - Belén
 https://stream.radiosenpy.net/8246/;
-#EXTINF:-1,Radio C.A. Lopez 93.5 FM - Paraguay - Carlos Antonio López
-https://aac.orlandohugo.com/7582/
 #EXTINF:-1,Radio Caaguazú Digital - Paraguay - Coronel Oviedo
 https://radio.host.com.py/9840/stream;
-#EXTINF:-1,Radio Carapegua FM 90.5 - Paraguay - Carapeguá
-https://streamsoymedios.com/8012/stream
 #EXTINF:-1,Radio Centenario 99.5 FM - Paraguay - Caaguazú
 https://stream.radiosenpy.net:7007/;
-#EXTINF:-1,Radio Colmenar FM 92.5 - Paraguay - La Colmena
-https://server5.hostipy.com:2020/stream/8018/stream
 #EXTINF:-1,Radio Colonia 88.1 FM - Paraguay - La Colmena
 https://v.orlandohugo.com:10948/;
-#EXTINF:-1,Radio Concierto FM 89.1 - Paraguay - Presidente Franco
-https://radio.host.com.py/9572/stream
-#EXTINF:-1,Radio Disney 96.5 FM - Paraguay - Asunción
-https://rds1.radiomagic.com.py:9433/stream
 #EXTINF:-1,Radio Emperio FM 102.9 - Paraguay - Pedro Juan Caballero
 https://stream.hostipar.com/proxy/imperio/stream
 #EXTINF:-1,Radio Escobar 87.7 FM - Paraguay - Escobar District
 https://stream.radiosenpy.net:7023/;
 #EXTINF:-1,Radio Estudio Brasiguay - Paraguay - San Alberto
 https://radio.host.com.py:7017/;
-#EXTINF:-1,Radio Exitos de Ayer - Paraguay - Lambare
-https://stream.zeno.fm/hvnh6d5uebruv
-#EXTINF:-1,Radio Friesland FM 101.7 - Paraguay - Colonia Friesland
-https://max.miradio.in/proxy/stf0/chillout.mp3
-#EXTINF:-1,Radio Guaira FM 103.5 - Paraguay - Villarrica
-https://cdn.streaming.com.py:7090/stream
 #EXTINF:-1,Radio Horizonte FM 106.3 - Paraguay - Caaguazú
 https://radio.host.com.py:7169/;
-#EXTINF:-1,Radio Ita Pora FM 98.9 - Paraguay - San Lázaro
-https://stream.zeno.fm/4mt3gnywz08uv
 #EXTINF:-1,Radio Itapirú 96.1 FM - Paraguay - Ciudad del Este
 https://proxy01.servidorenlinea.net/cdehosting/8002/;
 #EXTINF:-1,Radio La Paz FM 93.3 - Paraguay - Ybycuí
 https://v.orlandohugo.com:10916/;
-#EXTINF:-1,Radio Lata Pararâ - Paraguay - San Lorenzo
-https://stream.radiosenpy.net/8188/;
 #EXTINF:-1,Radio Limpio Digital - Paraguay - Fernando de la Mora
 https://stream.hostipar.com/proxy/limpiodigital/stream
 #EXTINF:-1,Radio Marandú FM 88.7 - Paraguay - Coronel Bogado
 https://stream.zeno.fm/x23wwaty6eyuv
-#EXTINF:-1,Radio María 107.3 FM - Paraguay - Asunción
-https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=/stream
 #EXTINF:-1,Radio Mbaracayu 101.1 FM - Paraguay - Colonia General Díaz
 https://streamsoymedios.com/8048/stream
-#EXTINF:-1,Radio Mburucuyá AM 980 - Paraguay - Pedro Juan Caballero
-https://stream.hostipar.com/proxy/mburucuya/stream
-#EXTINF:-1,Radio Metro 106.1 FM - Paraguay - Santa Rosa
-https://radio.host.com.py/8110/stream
 #EXTINF:-1,Radio Ñuai FM 94.9 - Paraguay - Doctor Juan Manuel Frutos
 https://cdn.streaming.com.py:7154/stream
-#EXTINF:-1,Radio Oasis FM 94.3 - Paraguay - Pedro Juan Caballero
-https://stream.hostipar.com/proxy/oasis/stream
 #EXTINF:-1,Radio Parque 102.5 FM - Paraguay - Ciudad del Este
 https://proxy01.servidorenlinea.net/cdehosting/8032/;
 #EXTINF:-1,Radio Pionera 95.3 FM - Paraguay - San Alberto
@@ -5601,34 +5529,20 @@ https://server3.webradios.com.br:9396/9396
 https://stm18.voxhd.com.br:10676/stream//
 #EXTINF:-1,Radio San Cristóbal FM 88.7 - Paraguay - San Cristóbal
 https://radio.host.com.py:7202/;
-#EXTINF:-1,Radio Santa Rosa Mi FM 92.7 - Paraguay - Curuguaty
-https://stream.zeno.fm/e3vvpqf70xhvv
 #EXTINF:-1,Radio Sol FM 89.9 - Paraguay - Santa Rosa
 https://radio.host.com.py:7205/;
-#EXTINF:-1,Radio Sonica Paraguay - Paraguay - San Lorenzo
-https://streamsoymedios.com/8034/stream
-#EXTINF:-1,Radio Soy - Paraguay - Luque
-https://streamsoymedios.com/8008/stream
 #EXTINF:-1,Radio Sur FM 101.7 - Paraguay - Guarambare
 https://radio.host.com.py:7044/;
 #EXTINF:-1,Radio Tapiracuai FM 88.7 - Paraguay - San Estanislao
 https://stream.radiosenpy.net:7021/;
 #EXTINF:-1,Radio Tropicana FM 91.1 ZPC342 - Paraguay - Concepción
 https://stream.radiosenpy.net/8116/;
-#EXTINF:-1,Radio Urundey 103.3 FM - Paraguay - Pedro Juan Caballero
-https://stream.hostipar.com/proxy/urundey/stream
-#EXTINF:-1,Radio Vallenatos Clasicos - Paraguay - Lambare
-https://stream.zeno.fm/z07vyxbqz8quv
 #EXTINF:-1,Radio Vida FM 93.5 - Paraguay - San Lorenzo
 https://ssl.streaming.com.py:7014/;/;
 #EXTINF:-1,Radio Virtual FM 106.9 - Paraguay - Caaguazú
 https://ssl.streaming.com.py:7052/;
-#EXTINF:-1,Radio ZP-30 AM 610 - Paraguay - Filadelfia
-https://s3.radio.co/s45d51c072/listen
 #EXTINF:-1,RCC Radio FM 101.7 - Paraguay - Filadelfia
 https://radio.host.com.py/9526/stream;
-#EXTINF:-1,Rock & Pop 95.5 FM - Paraguay - Asunción
-https://cp9.serverse.com/proxy/rockandpop/stream
 #EXTINF:-1,Rock Nacional Paraguayo - Paraguay - Asunción
 https://s114.radiolize.com:8000/radio.mp3
 #EXTINF:-1,San Ignacio FM - Paraguay - San Ignacio
@@ -5639,20 +5553,10 @@ https://stream.zeno.fm/8eb9mfdw1f8uv
 https://stm14.voxhd.com.br:11674/stream
 #EXTINF:-1,Satelital 91.3 FM - Paraguay - Villarrica
 https://radio.host.com.py/8102/stream
-#EXTINF:-1,Siete FM 107.7 - Paraguay - Asunción
-https://rss1.siete.com.py:9433/stream
 #EXTINF:-1,Tavaygua FM 87.9 - Paraguay - Yataity del Norte
 https://stream.radiosenpy.net:7025/;
-#EXTINF:-1,Tierra Nueva FM 88.9 - Paraguay - Zanja Pytá
-https://stream.zeno.fm/emm5ypfabzzuv
-#EXTINF:-1,Top Milenium FM 91.5 - Paraguay - Asunción
-https://sonic.host-live.com/8398/stream
-#EXTINF:-1,Tu Radio FM PJC - Paraguay - Pedro Juan Caballero
-https://stream.zeno.fm/z6repe2u72quv
 #EXTINF:-1,Universo 92.5 FM - Paraguay - Ciudad del Este
 https://proxy01.servidorenlinea.net/cdehosting/8042/;
-#EXTINF:-1,Uno 650 AM - Paraguay - Asunción
-https://rus1.radiouno.com.py:9433/stream
 #EXTINF:-1,Venturadio - Paraguay - Luque
 https://stream.hostipar.com/proxy/venturadio/stream
 #EXTINF:-1,Vianney FM 93.5 - Paraguay - Lambare
@@ -5665,390 +5569,58 @@ https://stream.radiosenpy.net/10390/;
 https://v.orlandohugo.com:10905/;
 #EXTINF:-1,ZP6 Radio Guaira AM 840 - Paraguay - Villarrica
 https://server5.hostipy.com:2020/stream/8016/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76786/logo_h5nqvET4Hd.jpg?v=20260529-media-restore",24/7 Deep Sleep Music Relaxing
-https://stream.zeno.fm/30drqrdsyc9uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76804/logo_N68kRy7Qt2.jpg?v=20260529-media-restore",Hits Classic Rock,Pop & Disco
-https://stream.zeno.fm/r1ek0ge23hhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76894/logo_FhePvNM8yq.jpg?v=20260529-media-restore",Radio Montecarlo
-https://cast1.asurahosting.com/proxy/montecarlonew/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76737/logo_02X30lcRFd.jpg?v=20260529-media-restore",FM Popular
-https://rds3.desdeparaguay.net/transpopular/transpopular/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76807/logo_4nWMKFVhfZ.jpg?v=20260529-media-restore",TOP 100 Reggaeton Exitos del Momento Radio
-https://stream.zeno.fm/46umbszyuxhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76906/logo_kklQ9dwadp.jpg?v=20260529-media-restore",Encarnacion
-http://s23.myradiostream.com:6646/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76926/logo_ozJvR9v4PX.jpg?v=20260529-media-restore",Radio Exitos de Ayer
-https://stream.zeno.fm/wqdx2d5uebruv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76960/logo_nD85IL65T8.jpg?v=20260529-media-restore",Radio Pionero 97.3 Fm Stereo
-https://stream.zeno.fm/uwe7qg4h6a0uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008116/logo_8Q93mW0JF5.jpg?v=20260529-media-restore",RQP Paraguay
 https://dx85eyfuo1x2i.cloudfront.net/index.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76974/logo_HQaNbzBaVB.jpg?v=20260529-media-restore",Night club Radio
 https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4914&type=ice&mount=stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76764/logo_FlbVhw9dQ4.jpg?v=20260529-media-restore",Adult contemporary music relaxing
-https://stream.zeno.fm/7evvcp3u0p8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76761/logo_1zi9hP4tCb.jpg?v=20260529-media-restore",Musica Para tomar y Recordar entre Cumbia y Vallenatos Radio
-https://stream.zeno.fm/ew91g7eb2hhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76811/logo_1tBvv0KBwM.jpg?v=20260529-media-restore",Cumbia Gruperas exitos inmortales Radio
-https://stream.zeno.fm/thzq84ehbpquv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76946/logo_iRV8R9MLGk.jpg?v=20260529-media-restore",Cumbia Villera (la vieja escuela) Radio
-https://stream.zeno.fm/0f4cs2u1krruv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76770/logo_eXCcwLxhe1.jpg?v=20260529-media-restore",Cumbia Para Recordar con Monchi Bogarin
-https://stream.zeno.fm/hc09xmcym18uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76925/logo_PvQ3KcKdVe.jpg?v=20260529-media-restore",Palma FM
-https://mdstrm.com/audio/62d81d48f5ef320830c8becf/live.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76908/logo_iceJAyLQcm.jpg?v=20260529-media-restore",Radio Vida
 https://ssl.streaming.com.py:7014/;/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76952/logo_E1cuez8NrU.jpg?v=20260529-media-restore",Polca Paraguaya Online
-https://stream.zeno.fm/tvsx850x1f8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76748/logo_7oCLytriuh.jpg?v=20260529-media-restore",Radio Piribebuy
-https://rds3.desdeparaguay.net/movpiribebuy/movpiribebuy.stream/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76879/logo_9XPIl0bszd.jpg?v=20260529-media-restore",Monumental AM
-https://mdstrm.com/audio/62d81ca6a459e4082203c95b/live.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1002865/logo_fIWqqsk3nf.jpg?v=20260529-media-restore",Radio Venus 105.1 FM
-https://rds3.desdeparaguay.net/movvenus/movvenus.stream/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1002863/logo_4vybxa85h9.jpg?v=20260529-media-restore",Canal 100
-https://rds3.desdeparaguay.net/movcanal100/movcanal100.stream/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008220/logo_19cAfTMxwv.jpg?v=20260529-media-restore",Positiva Online Ciudad del Este
 https://radiohd.net:8200/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76923/logo_HM8XVIYbCv.jpg?v=20260529-media-restore",Radio Regi Gospel
-https://player.srvaudio.com.br/player-ssl/9718/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76805/logo_SmWHPqbiRt.jpg?v=20260529-media-restore",S Mateo9.1
-https://stream.zeno.fm/4zptxc6t1zhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1002864/logo_GfkrxlMIJw.jpg?v=20260529-media-restore",Radio 1° de Marzo 780 AM
-https://rds3.desdeparaguay.net/mov780/mov780.stream/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76930/logo_PCOT2x01rJ.jpg?v=20260529-media-restore",Amazing 90s Music
-https://stream.zeno.fm/ytvegfm048quv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76758/logo_bnDkjo7YzH.jpg?v=20260529-media-restore",100% Reggaeton Radio
-https://stream.zeno.fm/8wup8yd9dm0uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76813/logo_zVMyyPzuYM.jpg?v=20260529-media-restore",Radio Del Rey 101.7 Fm
 https://radio.host.com.py:7064/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76907/logo_fxHDGHVirI.jpg?v=20260529-media-restore",Estacion 40
-https://mdstrm.com/audio/62d81cfbbfbcee0837ba1b60/live.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76806/logo_ELSzIuU399.jpg?v=20260529-media-restore",Radio Fantasia
-https://stream.zeno.fm/451zvf403k8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76854/logo_tKsiSX9b4M.jpg?v=20260529-media-restore",Memories 97.5 FM
-https://1000noticias.live:8010/memories.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76750/logo_gp7XQG3TjZ.jpg?v=20260529-media-restore",Radio Suceso
-https://stm15.voxhd.com.br:11234/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76939/logo_0Fi2jb6Kem.jpg?v=20260529-media-restore",Romanticas Del Ayer Radio
-https://stream.zeno.fm/ge6pacdcreruv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76867/logo_1d9FQuF8r0.jpg?v=20260529-media-restore",Radio Power
-https://stream.zeno.fm/id8idyknezrtv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76830/logo_y8zfB2O4hy.jpg?v=20260529-media-restore",Today's Hits Top 40 Music
-https://stream.zeno.fm/tonckcb5bfruv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76849/logo_tSeLJFFL6i.jpg?v=20260529-media-restore",ElectroRadio
-https://stream.zeno.fm/u68hzuhao5utv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76916/logo_MOUoIdMcjQ.jpg?v=20260529-media-restore",Radio Mangore
-https://streampy.radiosparaguay.com/8006/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76851/logo_10lZ3jXn4o.jpg?v=20260529-media-restore",Reggaeton Exitos de Antes Radio
-https://stream.zeno.fm/n7o0ckhslbdvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76793/logo_ktLD3gMJSv.jpg?v=20260529-media-restore",Musica de Bad Bunny Radio
-https://stream.zeno.fm/rebfuhvwcuhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76909/logo_CC6cQUVogd.jpg?v=20260529-media-restore",La Voz de la Policia Nacional
-https://strcdn.klm99.com/8062/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76740/logo_LVov3TaoB4.jpg?v=20260529-media-restore",Radio Nacional del Paraguay
 https://audio.radionacional.gov.py/700am
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76742/logo_ReHnEr33EA.jpg?v=20260529-media-restore",Radio Nacional del Paraguay
-http://audio.radionacional.gov.py:8085/920
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76929/logo_eheHvRj7cs.jpg?v=20260529-media-restore",Radio Nacional del Paraguay
-http://audio2.radionacional.gov.py:8084/951fm
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76949/logo_XBnYDl5rDC.jpg?v=20260529-media-restore",Paraguay Kape
-https://stream.zeno.fm/x1bcd137y5quv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76763/logo_arfupNlKJj.jpg?v=20260529-media-restore",93.7 FM San Vicente
 https://radio.host.com.py:7000/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76828/logo_T84UccYO69.jpg?v=20260529-media-restore",Radio Purahei Py
-https://stream.zeno.fm/zeqcxkdyuxhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76771/logo_rqmiVaEDef.jpg?v=20260529-media-restore",Reggaeton Exitos de Hoy
-https://stream.zeno.fm/z6hdhgcpq18uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76914/logo_J9gqK7oJC5.jpg?v=20260529-media-restore",Chic Radio
 https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=4474&type=ice&mount=stream&1772144622283
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76732/logo_fJpapFQxIr.jpg?v=20260529-media-restore",Radio Educación
-https://proxy01.servidorenlinea.net/cdehosting/8050/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76783/logo_09NvoRhsis.jpg?v=20260529-media-restore",Monchi Bogarin y su repertorio musical
-https://stream.zeno.fm/ezc6s3cnzc9uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76734/logo_eYMmqgObPj.jpg?v=20260529-media-restore",Del Este
-https://proxy01.servidorenlinea.net/cdehosting/8040/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76967/logo_gkTQMRr13Y.jpg?v=20260529-media-restore",Fananpy Radio
-https://stream.zeno.fm/8p9ypyq537zuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76866/logo_Gq7A1Darge.jpg?v=20260529-media-restore",Radio Mix Online
-https://stream.zeno.fm/dbujvhspvdbuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76882/logo_65DBJtn5v4.jpg?v=20260529-media-restore",La Unión R 800 AM
-https://rds3.desdeparaguay.net/mov800/mov800.stream/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76970/logo_ZRovzGaivR.jpg?v=20260529-media-restore",Enlace Amanecer Online
-https://stream.zeno.fm/tewpyyd8xg0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76853/logo_CTNGrivO7x.jpg?v=20260529-media-restore",Radio Mborayhu Comunicaciones
-https://rr5100.globalhost1.com/8414/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76743/logo_QmItP5cjzf.jpg?v=20260529-media-restore",Corpus
-https://proxy01.servidorenlinea.net/cdehosting/8026/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76733/logo_BmJ0s4sUyn.jpg?v=20260529-media-restore",Corpus
-https://proxy01.servidorenlinea.net/cdehosting/8024/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76965/logo_eRZBC3CIJe.jpg?v=20260529-media-restore",Stereo Pop
-https://laradio.stream/proxy/stereopop/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76964/logo_fsNIwgFKAI.jpg?v=20260529-media-restore",Popeye Radio Monarca 102.5 FM
-https://stream.zeno.fm/wudxt3aerd0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76872/logo_mA7GjohjgX.jpg?v=20260529-media-restore",Rescate FM
-https://stream.zeno.fm/nnfcoakistbvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76789/logo_EPmtAde5pS.jpg?v=20260529-media-restore",Ritmo Tropical Online
-https://stream.zeno.fm/8h1b4rexvchvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76768/logo_mPanBJKx1a.jpg?v=20260529-media-restore",Vallenatos Romanticos con Monchi Bogarin Radio
-https://stream.zeno.fm/4neferxbzy8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76898/logo_C5GHaE5CzF.jpg?v=20260529-media-restore",Universo 970 AM
-https://rds3.desdeparaguay.net/trans970/trans970/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76823/logo_rtX9kAaOqw.jpg?v=20260529-media-restore",Amambay FM
-https://cp9.serverse.com/proxy/fmamambay?mp=%2Fstream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76747/logo_UAxrr2t59x.jpg?v=20260529-media-restore",Urbana
-https://mdstrm.com/audio/62d81cdabff0bc082f8f1a24/live.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76816/logo_hwOh3Umu8s.jpg?v=20260529-media-restore",Porta Radio TV
-https://streamsoymedios.com/8084/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76945/logo_ikrnWAGE2N.jpg?v=20260529-media-restore",Radio Itakaru FM
-https://stream.zeno.fm/c4zvrrvh02quv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76814/logo_AvAOTvdt8u.jpg?v=20260529-media-restore",Onda Cero Vip
-http://163.172.70.223:8146/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76878/logo_HpFf72aQSn.jpg?v=20260529-media-restore",Radio Panamericana de Carapegua
-https://v.orlandohugo.com:10913/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76921/logo_fHORbeyiCf.jpg?v=20260529-media-restore",Invasiva Media
-https://app.invasivamedia.com/radio/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76767/logo_LNWo2nmfNU.jpg?v=20260529-media-restore",Radio Yacare
-https://stream.laut.fm/radio_yacare
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76948/logo_SDBlRBcNhW.jpg?v=20260529-media-restore",Radio Guarani FM 103.3
-https://stream.zeno.fm/4nt686ppvzzuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76787/logo_qgdOMknCDh.jpg?v=20260529-media-restore",Enlaon Radio Online
-https://radio.host.com.py:7100/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76917/logo_pFsHI4FAqB.jpg?v=20260529-media-restore",Música Paraguaya RS1
-https://streamsoymedios.com/8052/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76745/logo_SJPFpQ8tOY.jpg?v=20260529-media-restore",Radio Plus
 https://radio.host.com.py:7053/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76951/logo_eX5jCeLluq.jpg?v=20260529-media-restore",Monarca FM
-https://stream.zeno.fm/5b0up3aerd0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76766/logo_1MVJp21DvK.jpg?v=20260529-media-restore",Itakua Poty
-https://radio.host.com.py:7173/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76863/logo_0eVta4iDte.jpg?v=20260529-media-restore",Manantial 96.1 Fm
-https://streamsoymedios.com/8102/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76782/logo_0ZdJS8RYUa.jpg?v=20260529-media-restore",OH Radio - OrlandoHugo
-https://v.orlandohugo.com/8174/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76856/logo_yMex4txj5p.jpg?v=20260529-media-restore",Radio Victoria Online
-https://streamsoymedios.com/8006/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76861/logo_PpbqX3ZkBO.jpg?v=20260529-media-restore",Antenna Web Asunción
-http://tinyurl.com/AntennaWebAsuncion
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76755/logo_aAUCK9NkE2.jpg?v=20260529-media-restore",Radio Expresso Minga Guazú
-https://stream.zeno.fm/w486dkhc2wzuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76938/logo_dop36VfWzP.jpg?v=20260529-media-restore",Radio SOL FM
-https://radio.host.com.py:7205/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76860/logo_6Z44Iv75d6.jpg?v=20260529-media-restore",Mundo Del Folklore
-https://radio.host.com.py:7264/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76779/logo_icscfmqu97.jpg?v=20260529-media-restore",Radio San Isidro FM
-https://stream.zeno.fm/p075xecgnxhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76919/logo_IC45crnYBm.jpg?v=20260529-media-restore",Vida Radio
-https://sonicpanel.gabehost.com/8002/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76799/logo_0eUcny7DRQ.jpg?v=20260529-media-restore",Radio Voz Potente
-https://radio.host.com.py:7171//stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76796/logo_c6McCOcluX.jpg?v=20260529-media-restore",RPP Radio Polca Paraguaya
-https://stream.zeno.fm/cr7m9czvp68uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76817/logo_PysPBLq8nn.jpg?v=20260529-media-restore",Radio Quiindy
 https://radio.host.com.py:7152/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76902/logo_UFN7d3mUXs.jpg?v=20260529-media-restore",Radio Fiesta
-http://stream.radiios.com:8004/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76954/logo_y51274Nyh2.jpg?v=20260529-media-restore",Horqueta FM 88.5
-https://stream.radiosenpy.net:7054/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76871/logo_5cGpbpiIUf.jpg?v=20260529-media-restore",Red Católica Online
 https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=5382&type=s2&mount=1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76941/logo_IUBnjo5saJ.jpg?v=20260529-media-restore",Radio Web Clasicos
-https://stream.zeno.fm/x1et8y8xh2zuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76825/logo_r4EscCdnzL.jpg?v=20260529-media-restore",Radio Pa'i García
-https://streamsoymedios.com/8086/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76847/logo_Lovyh8hEne.jpg?v=20260529-media-restore",Radio Restauración 98.3
-https://stream.zeno.fm/n9atkricgvwuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76751/logo_2eqL7Ns9Uv.jpg?v=20260529-media-restore",Radio Universo
-https://proxy01.servidorenlinea.net/cdehosting/8042/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76852/logo_kcYHy8Eotr.jpg?v=20260529-media-restore",Radio Reggaetón Clásicos 24/7
-https://stream.zeno.fm/0adkntz03hsuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76840/logo_cuqU2YPaK8.jpg?v=20260529-media-restore",La Calentona Radio
-https://stream.zeno.fm/fwacpf26gaotv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76886/logo_F1u3svyEs9.jpg?v=20260529-media-restore",Radio Caazapá Poty FM 98.1
-https://streaming01.radiosenlinea.com.ar/9248/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76736/logo_SdphyneVZg.jpg?v=20260529-media-restore",Radio Centenario
-https://stream.radiosenpy.net:7007/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76810/logo_6oqI1GWmrA.jpg?v=20260529-media-restore",Positiva 97.9 Oleary
 https://stm2.brsrv.xyz:7044/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76876/logo_tEF5cMKHGP.jpg?v=20260529-media-restore",Radio Arami
-https://stream.zeno.fm/idi2xdlb87duv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76829/logo_cTTYEeEpKK.jpg?v=20260529-media-restore",Radio Arandu
-https://streaming2.locucionar.com/proxy/radioarandufm?mp=%2Fstream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76933/logo_HDbuNjhWmK.jpg?v=20260529-media-restore",La Voz Del Nazareno
-https://streamsoymedios.com/8112/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76855/logo_bnAF0h3Q1s.jpg?v=20260529-media-restore",Radio 1000 AM
-https://1000noticias.live:8000/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76915/logo_a4iNbYLW89.jpg?v=20260529-media-restore",Radio Itapua FM
-http://aire.itacom.com.py:8000/itapuafm
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76900/logo_toVBmQTHz5.jpg?v=20260529-media-restore",Radio OBEDIRA
-http://play.obedira.com.py:8300/live
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76762/logo_vLidMoCllV.jpg?v=20260529-media-restore",Radio Sur Fm 104.7
-http://streaming.camaronhosting.com:9896/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76875/logo_j1eWl9AFc9.jpg?v=20260529-media-restore",Vianney Fm
-https://radio.host.com.py:7249/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76794/logo_zAYBUcS9cb.jpg?v=20260529-media-restore",Maxima FM 99.9
-https://stm01.dialpy.com:8020/radiomaxima
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76738/logo_eL3tnm3mnJ.jpg?v=20260529-media-restore",Itapiru
-https://proxy01.servidorenlinea.net/cdehosting/8002/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76836/logo_znMHJCXDse.jpg?v=20260529-media-restore",YVYPYTA
-https://v.orlandohugo.com:10929/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76862/logo_TnfkIN1hJs.jpg?v=20260529-media-restore",Radio Mercosur
-https://stream.zeno.fm/48898dd2ba9uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76973/logo_jTfSmzr02X.jpg?v=20260529-media-restore",Tereré Mix Radio Online
-https://stream.zeno.fm/dvmzwjv13azvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76887/logo_e85DQGhhl9.jpg?v=20260529-media-restore",Itapiru
-https://proxy01.servidorenlinea.net/cdehosting/8004/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76874/logo_pjqWARmlLx.jpg?v=20260529-media-restore",Radio Azul
-https://stream.zeno.fm/g0u1ttwpsg8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76903/logo_3iCzFAv30Z.jpg?v=20260529-media-restore",FM Horizonte
-https://stream.radiosenpy.net:7018/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76897/logo_TsroMauV9j.jpg?v=20260529-media-restore",Kokue Poty
-https://radio.host.com.py:7089/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76784/logo_iaqsmeO4yR.jpg?v=20260529-media-restore",Radio Renacer Paraguay
-http://streaming.camaronhosting.com:9576/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76776/logo_Vtpp4oARBA.jpg?v=20260529-media-restore",Radio Show Full Mix
-https://stream.zeno.fm/2zrmb02zmv8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76778/logo_b8X39DFH37.jpg?v=20260529-media-restore",Stilo FM 88.5
-https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8333&type=s1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76927/logo_UqwjOJeFXV.jpg?v=20260529-media-restore",Esto es Cerro con Monchi Bogarin Radio
-https://stream.zeno.fm/axykfpxcreruv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76877/logo_oGQZU7ZBrI.jpg?v=20260529-media-restore",Radio Ultra Dance
-https://rr5100.globalhost1.com/8376/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76959/logo_phkeenLxus.jpg?v=20260529-media-restore",Radio Capiata Music
-https://stream.zeno.fm/vtmqzahq6tzuv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76843/logo_mEn5BoPy20.jpg?v=20260529-media-restore",El Verbo fm 101.3
 https://sp3.servidorrprivado.com:10923/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76839/logo_qMpf7oAaAp.jpg?v=20260529-media-restore",Web Radio Cultura Online
-https://stream.zeno.fm/hn0rqgfw5oevv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76957/logo_uNlWzfwF25.jpg?v=20260529-media-restore",Radio Evenezer FM 107.1
-https://server5.hostipy.com:8034/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76881/logo_2II9RluJp6.jpg?v=20260529-media-restore",Radio Ysapy
-https://streamsoymedios.com/8014/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76968/logo_A9zVrJte1f.jpg?v=20260529-media-restore",Radio Progreso 94.3 FM
-https://stream.zeno.fm/afy2cdpv8k0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76752/logo_nLHBuw993E.jpg?v=20260529-media-restore",Radio Parque
-https://proxy01.servidorenlinea.net/cdehosting/8032/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76822/logo_jhgDSeOkAA.jpg?v=20260529-media-restore",Radio Dinámica
-https://radio.host.com.py:7044/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76797/logo_W4RShZDXVu.jpg?v=20260529-media-restore",Radio HitMix
-https://stream.zeno.fm/4t9keucrquhvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76735/logo_kansAClskv.jpg?v=20260529-media-restore",Radio Maria
-https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=%2Fstream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76924/logo_Lzinq9UKah.jpg?v=20260529-media-restore",Radio Potrerito
-https://stream.zeno.fm/43q0e9rgytzuv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76803/logo_ip9FgGAC6z.jpg?v=20260529-media-restore",RD Online 91.7
 https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=9310&type=s1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76944/logo_EL0c2wDF1U.jpg?v=20260529-media-restore",Radio Jesus es el camino
-https://stream.zeno.fm/n86zu9ljycauv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76911/logo_myy4phso81.jpg?v=20260529-media-restore",Radio Transcontinental
-https://radio.host.com.py:7266/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76905/logo_AnxybDYCtJ.jpg?v=20260529-media-restore",Radio Integración
-https://proxy01.servidorenlinea.net/cdehosting/8022/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76870/logo_cnmQaZYVng.jpg?v=20260529-media-restore",La Voz Paranaense Online
-https://stream.zeno.fm/gd19ek9614ntv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76910/logo_0VZIJnoOV9.jpg?v=20260529-media-restore",Radio Santaní
 http://stream.radiios.com:7404/;stream/1
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76800/logo_5Ysydlh4VE.jpg?v=20260529-media-restore",Tradición Online
 https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8646&type=s1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76773/logo_p9hFjSp0L3.jpg?v=20260529-media-restore",Radio TV Paz Online
-https://stream.zeno.fm/ii7eyg1yo1xtv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76962/logo_O3De6Y0VRu.jpg?v=20260529-media-restore",Radio Jardin 88.1 FM
-https://stream.radiosenpy.net:7040/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76827/logo_Zh8KEzRS3W.jpg?v=20260529-media-restore",On Classic Radio Py
 https://centova32.instainternet.com/proxy/wilurb?mp=/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76950/logo_big1mvQLWy.jpg?v=20260529-media-restore",Radio Guaira AM 840
-https://tvdatta.com:3991/live/guairatvlive.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76845/logo_kbKH2HKLpV.jpg?v=20260529-media-restore",Santo Tomas
 https://stream.radiosenpy.net/8944/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76893/logo_cfBkRBOcLU.jpg?v=20260529-media-restore",Radio Cáritas
-http://200.1.201.244:8000/680AM
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76904/logo_2J8KSd35T1.jpg?v=20260529-media-restore",La Deportiva 1120 AM
-https://ladeportiva.radioca.st/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76819/logo_3NWb5ylKEJ.jpg?v=20260529-media-restore",Radio Voz De Alerta
-https://stream.zeno.fm/vupmdrdtbwzuv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76760/logo_djuVI5PaDK.jpg?v=20260529-media-restore",Radio Yvytyruzu 100.7 FM
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8030&type=ice&mount=stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76958/logo_0Hw9EUDxmO.jpg?v=20260529-media-restore",Radio Cielo Spa Online
-http://cdn.streaming.com.py:7062/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76809/logo_csJ8alagqN.jpg?v=20260529-media-restore",Radio Caacupé RSM
-https://radio.host.com.py/8040/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76777/logo_QDggST7eOt.jpg?v=20260529-media-restore",Santa Rosa 92.7
 https://Fps1.listen2myradio.com:2199/listen.php?ip=95.154.228.120&port=9338&type=s1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76859/logo_mIuR4NVD3X.jpg?v=20260529-media-restore",Radio San José Poty 87.9 FM. - ZPC875.
-https://stream.zeno.fm/gvebwk4ke0dtv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76963/logo_HEgKQS1JIT.jpg?v=20260529-media-restore",Mística Online
-https://stream.zeno.fm/1w0qcm1kua0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76931/logo_F3IEJvZK8O.jpg?v=20260529-media-restore",RCC Radio
-http://streaming.camaronhosting.com:9526/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76730/logo_Sw4piQIVsj.jpg?v=20260529-media-restore",Pasion Hits
-https://stream.zeno.fm/vfxsw0deyzzuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76848/logo_vZqpZJ3bNh.jpg?v=20260529-media-restore",Radio Tavapy Fm 102.5
-https://stream.zeno.fm/8wglanbnzjqtv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76842/logo_QkSzlucZFF.jpg?v=20260529-media-restore",Radio Tiempo de Despertar
-https://server5.hostipy.com:8010/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76955/logo_q9LrE3DGTW.jpg?v=20260529-media-restore",Radio TV Miky Producciones
-https://stream.zeno.fm/zqf07wzrua0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76850/logo_23RuQi1ZpZ.jpg?v=20260529-media-restore",Capiatá FM
-https://stream.zeno.fm/lgi8elmk2suvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76971/logo_dDhHTEmCtP.jpg?v=20260529-media-restore",Mica TV Radio Online
-https://stream.zeno.fm/kknv2edchg8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76833/logo_W6NVMawwFw.jpg?v=20260529-media-restore",Nueva Alborada - Radio
-https://stream.zeno.fm/b8dnngu8e78uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76780/logo_EMT4j4dx8e.jpg?v=20260529-media-restore",CM Music Paraguay
-https://stream-178.zeno.fm/tdq6z9qvwchvv?
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76753/logo_fdmXFDt2yh.jpg?v=20260529-media-restore",Radio StudioFm 92.1
-https://rds3.desdeparaguay.net/movstudio/movstudio.stream/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76815/logo_CK145xPHOg.jpg?v=20260529-media-restore",Radio Manatial De Vida Online
-https://stream.zeno.fm/tznlnqoomyhuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76936/logo_S1XNOtL6e0.jpg?v=20260529-media-restore",Estación 101.3
-https://v.orlandohugo.com:10939/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76772/logo_kijoBBv8my.jpg?v=20260529-media-restore",RadioTV Polca Paraguaya Online
-https://stream.zeno.fm/cmz8e60x1f8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76756/logo_GUEnh8jOmJ.jpg?v=20260529-media-restore",La Nueva 106.1 Fm Pirapey
-https://rr5100.globalhost1.com/8298/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76769/logo_1wCGcLLXI5.jpg?v=20260529-media-restore",Radio Stilo 88.5 Fm
-https://stream.zeno.fm/gofyvgfojhrvv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76858/logo_W2m951edol.jpg?v=20260529-media-restore",Radio 4 Online
-https://stream.zeno.fm/88b5guxzz7ytv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76790/logo_AGT0ALsDtg.jpg?v=20260529-media-restore",Rosa Mistica Radio Online
 https://Fps1.listen2myradio.com:2199/listen.php?ip=95.154.228.120&port=8329&type=s1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76864/logo_QcCoQqU4u6.jpg?v=20260529-media-restore",Tereré Mix|Concepción
-https://stream.zeno.fm/oo4dxsrwr1svv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76775/logo_CNauSZafuL.jpg?v=20260529-media-restore",Punto Clave Online Capiibary
-https://stream.zeno.fm/pmdynwzvuy8uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76757/logo_H8NP5Wd0YQ.jpg?v=20260529-media-restore",Lino González Radio y TV
-https://stream.zeno.fm/ga7d8umhns8uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76885/logo_utmzQOqAtL.jpg?v=20260529-media-restore",Radio Sur Online
 https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3&port=8163&type=s1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76961/logo_hr7FfDdN6k.jpg?v=20260529-media-restore",Radio Amanecer Online
-https://stream.zeno.fm/h6cvwm0fxa0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76869/logo_QNXAgKZd9e.jpg?v=20260529-media-restore",Radio Caapucu 91.7 FM
-https://radio.host.com.py:7191/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76781/logo_ukmJVmGL8t.jpg?v=20260529-media-restore",Agr Producciones
 https://Fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=9436&type=s1
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76802/logo_2P7pZvLsrF.jpg?v=20260529-media-restore",Que Suerte Py
 https://Fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48&port=8276&type=s1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76873/logo_PywerpFiEl.jpg?v=20260529-media-restore",MAS FULL MUSIC
-https://stream.laut.fm/mas_full_music
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76835/logo_qUiOaZU9tW.jpg?v=20260529-media-restore",Radio Volviendo Ala Senda Antigua
-https://stream.zeno.fm/v8gq0rc18vzuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76820/logo_Zx54OefNJM.jpg?v=20260529-media-restore",Radio Santa María 104.5
-https://stream.zeno.fm/qk50hp0zxc9uv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76798/logo_x5pGOHox8G.jpg?v=20260529-media-restore",Radio Manantial 90.5 FM
 https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124&port=8041&type=s1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76774/logo_fHlvDIo3fk.jpg?v=20260529-media-restore",Classic FM Online
-https://stream.zeno.fm/nfuuy82hd18uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76832/logo_mJVBwqccyP.jpg?v=20260529-media-restore",Radio Clásica
-https://stream.rcast.net/71999
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76821/logo_aBHLj8Gnbu.jpg?v=20260529-media-restore",Nueva Alborada 2 - Radio
-https://stream.zeno.fm/4z9cvqjkyaiuv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/76956/logo_XNuHjBXYBz.jpg?v=20260529-media-restore",Jhonny Gaspar Online
-https://stream.zeno.fm/wq2qrm0fxa0uv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-santo-tomas-logo.jpg",Radio Santo Tomas
 https://stream.radiosenpy.net:7030/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-del-rey-1017-fm-logo.jpg",Radio Del Rey 101.7 Fm
-https://radio.host.com.py:7064/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-clasica-online-logo.jpg",Radio Clasica Online
 http://37.157.242.103:6102/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-digital-885-fm-logo.jpg",Radio Digital 88.5 Fm
@@ -6061,10 +5633,6 @@ http://stream.radiios.com:8838/;
 http://167.114.116.223:9960/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-transcontinental-logo.jpg",Radio Transcontinental
 https://cdn.panelinfinity.com:27010//;stream/1
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-santani-logo.jpg",Radio Santaní
-http://stream.radiios.com:7404/;stream/1
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-satelital-fm-logo.jpg",Radio Satelital FM
-https://radio.host.com.py/8102/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-karapa-899-fm-logo.jpg",Radio Karapā 89.9 FM
 http://stream.aerstreaming.com:3516/;aacp
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-fm-vive-logo.jpg",Radio FM Vive
@@ -6263,8 +5831,6 @@ http://radio.cdehosting.net:8022/;
 https://stream.radiosenpy.net:7018/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-encarnacion-logo.jpg",Radio Encarnacion
 http://s23.myradiostream.com:6646/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-kokue-poty-logo.jpg",Radio Kokue Poty
-https://radio.host.com.py:7089/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fm-azul-y-oro-571718-logo.jpg",Radio FM Azul Y Oro
 http://aliasdns.info:8068/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-vida-585136-logo.jpg",Radio Vida
@@ -6275,24 +5841,14 @@ http://67.212.166.178:7074/;
 https://v.orlandohugo.com:10913/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-partido-colorado-logo.jpg",Radio Partido Colorado
 http://209.133.216.3:7265/stream/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-corpus-logo.jpg",Radio Corpus
-https://proxy01.servidorenlinea.net/cdehosting/8024/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-parque-587742-logo.jpg",Radio Parque
-https://proxy01.servidorenlinea.net/cdehosting/8032/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-corpus-0-logo.jpg",Radio Corpus
 https://proxy01.servidorenlinea.net/cdehosting/8026/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-la-union-r-800-am-logo.jpg",Radio La Unión R 800 AM
 http://rds3.desdeparaguay.net/mov800/mov800.stream/playlist.m3u8
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-onda-verde-logo.jpg",Radio Onda Verde
 https://stream.radiosenpy.net/8812/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-centenario-logo.jpg",Radio Centenario
-https://stream.radiosenpy.net:7007/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-integracion-logo.jpg",Radio Integración
-https://proxy01.servidorenlinea.net/cdehosting/8022/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-fiesta-logo.jpg",Radio Fiesta
 http://stream.radiios.com:8004/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-universo-logo.jpg",Radio Universo
-https://proxy01.servidorenlinea.net/cdehosting/8042/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-continental-logo.jpg",Radio Continental
 http://publish.desdeparaguay.net:9220/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-mas-logo.jpg",Radio Más
@@ -6319,14 +5875,8 @@ https://stream.radiosenpy.net:7040/;
 http://162.210.196.142:31256/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-cielo-spa-online-logo.jpg",Radio Cielo Spa Online
 http://cdn.streaming.com.py:7062/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-horqueta-fm-885-logo.jpg",Radio Horqueta FM 88.5
-https://stream.radiosenpy.net:7054/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-rock-nacional-paraguayo-logo.jpg",Radio Rock Nacional Paraguayo
-https://s114.radiolize.com:8000/radio.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-la-estacion-1009-logo.jpg",Radio La Estación 100.9
 http://109.169.23.22:3682/;stream.nsv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-belen-893-fm-logo.jpg",Radio Belén 89.3 FM
-https://stream.radiosenpy.net/8246/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-oxigeno-logo.jpg",Radio Oxigeno
 https://stream.radiosenpy.net/8360/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-nopotyvo-893-fm-logo.jpg",Radio Ñopotyvo 89.3 Fm
@@ -6373,8 +5923,6 @@ https://ssl.lscpainel.com.br:8308/;
 http://109.169.23.124:8421/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-x-paraguay-0-logo.jpg",Radio X Paraguay
 http://streaming.camaronhosting.com:9940/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-sol-fm-logo.jpg",Radio SOL FM
-https://radio.host.com.py:7205/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-rj-music-py-logo.jpg",Radio Rj Music Py
 https://stream.radiosenpy.net/8154/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-coronel-oviedo-logo.jpg",Radio Coronel Oviedo
@@ -6389,8 +5937,6 @@ http://109.169.23.124:8233/;
 https://radio.host.com.py:7100/;stream.nsv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-rd-online-917-logo.jpg",Radio RD Online 91.7
 https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123u0026port=9310u0026type=s1
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-yvyty-roke-logo.jpg",Radio Yvyty Rokê
-https://v.orlandohugo.com:10905/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-manantial-905-fm-logo.jpg",Radio Manantial 90.5 Fm
 https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124u0026port=8041u0026type=s1
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-que-suerte-py-logo.jpg",Radio Que Suerte Py
@@ -6401,10 +5947,6 @@ http://37.157.242.101:39764/;
 https://stream.radiosenpy.net/8256/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-itape-logo.jpg",Radio Itape
 https://stream.radiosenpy.net/8464/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-dinamica-logo.jpg",Radio Dinámica
-https://radio.host.com.py:7044/;
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-fm-frutillar-logo.jpg",Radio FM Frutillar
-https://radio.host.com.py:7144/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-mainumby-fm-991-logo.jpg",Radio Mainumby FM 99.1
 https://streamsoymedios.com/8020/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-las-hijas-del-rey-logo.jpg",Radio Las Hijas Del Rey
@@ -6427,12 +5969,8 @@ https://server5.hostipy.com:8010/;stream.nsv
 https://stream.zeno.fm/iqp8cwdp07iuv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-red-catolica-online-logo.jpg",Radio Red Católica Online
 https://fpsnew2.listen2myradio.com:2199/listen.php?ip=212.84.160.3u0026port=5382u0026type=s2u0026mount=1
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-vianney-fm-logo.jpg",Radio Vianney Fm
-https://radio.host.com.py:7249/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-tradicion-online-logo.jpg",Radio Tradición Online
 https://Fps3.listen2myradio.com:2199/listen.php?ip=109.169.23.124u0026port=8646u0026type=s1
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-quiindy-logo.jpg",Radio Quiindy
-https://radio.host.com.py:7152/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-diferente-logo.jpg",Radio Diferente
 https://radio.host.com.py/9522/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-tajy-poty-logo.jpg",Radio Tajy Poty
@@ -6465,8 +6003,6 @@ https://server5.hostipy.com:8022/;
 https://stream.zeno.fm/5scovoafzhbvv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-pjc-radio-web-logo.jpg",PJC Radio Web
 https://cdn.streaming.com.py:7106/stream
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-el-verbo-fm-1013-logo.jpg",Radio El Verbo fm 101.3
-https://sp3.servidorrprivado.com:10923/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-asiento-mision-logo.jpg",Radio Asiento Misión
 https://streamsoymedios.com/8104/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/py-radio-kirios-logo.jpg",Radio Kirios
@@ -6597,3 +6133,33 @@ http://212.83.172.242:8108/;
 http://www.883radio.com:8060/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-partido-colorado-590559-logo.jpg",Radio Partido Colorado
 http://46.4.33.73:5244/;
+#EXTINF:-1,Radio Arasuncion
+https://stream.radiaura.net/station-2ab200ee-b166-415a-b8df-7b20c6a37ff9
+#EXTINF:-1,RADIO CAAPUCU FM 91.7
+http://radio.host.com.py:9452/;
+#EXTINF:-1,Cuevas FM 91.7
+https://radio.host.com.py:7020/;
+#EXTINF:-1,Radio Impacto 95.3
+https://radio.host.com.py:7137/;
+#EXTINF:-1,94.3 FM del Este
+http://radio.cdehosting.net:8040/;
+#EXTINF:-1,Emisoras Paraguay 106.1
+https://rds3.desdeparaguay.net/movemisoras/movemisoras.stream/chunklist_w1882715633.m3u8?k=90ba439d59a58390e5abac95530dd4becd61b4e573b237e6fe0bf9eb4a529cafu0026exp=1693084452
+#EXTINF:-1,Fabulosa FM 104.5
+https://radio.host.com.py:7034/;
+#EXTINF:-1,super radio
+https://copaco.desdeparaguay.net/movvibras/movvibras.stream/chunklist_w1786225280.m3u8?k=5d1b32cc4cfb2b10be3ecff56d8aeee5e59993cfc1a5234cc73eca0b8b7f7487u0026exp=1651095717
+#EXTINF:-1,Estacion 105 105.1 FM
+http://radio.host.com.py:9460/;
+#EXTINF:-1,Radio Urbana 106.9 FM
+http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24
+#EXTINF:-1,Hits Classic Rock,Pop & Disco
+https://cdn.streaming.com.py:7198/
+#EXTINF:-1,MAS FULL MUSIC
+https://rds3.desdeparaguay.net/transanr/transanr/playlist.m3u8
+#EXTINF:-1,Yeshua Online
+https://streamsoymedios.com/8010/stream
+#EXTINF:-1,Radio Las Buenas Nuevas
+https://streamsoymedios.com/8026/stream
+#EXTINF:-1,Radio Itaybumi Fm
+https://streaming01.radiosenlinea.com.ar/9356/stream

@@ -989,100 +989,20 @@ https://streams.rsa-sachsen.de/rsa-event01/mp3-128
 https://regiocast.streamabc.net/regc-90s90sgrunge7540920-mp3-192-4353468?
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49086/logo_Hu281VIsP3.jpg?v=20260529-media-restore",Radio ROKS Classic Rock
 https://768260.radio.tvstitch.com/radio.mp3?station=RadioROCKS_Classic&source=aHR0cDovL29ubGluZS5yYWRpb3Jva3MudWEvUmFkaW9ST0tTX0NsYXNzaWNSb2Nr
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/259/logo_BaF4k5vclz.jpg?v=20260529-media-restore",Rock FM 90s
-https://jfm1.hostingradio.ru:14536/rock90.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005186/logo_QvUxLYyiHg.jpg?v=20260529-media-restore",Grunge Radio BOB!
 https://streams.radiobob.de/bob-grunge/mp3-192/mediaplayer
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102801/logo_nvRxZMKmWu.jpg?v=20260529-media-restore",90s Rock Hits
 https://tower.hayva.ru/6b6g7-96
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32365/logo_65ncVPpZnm.jpg?v=20260529-media-restore",R.SA  Maxis Maximal
-https://streams.rsa-sachsen.de/maxis/mp3-128
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32416/logo_llryGKjGqi.jpg?v=20260529-media-restore",delta Radio Grunge
-https://streams.deltaradio.de/delta-grunge/mp3-192
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32426/logo_jMWRhgBnzw.jpg?v=20260529-media-restore",delta radio INDIE
-https://streams.deltaradio.de/delta-indie/mp3-128
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49158/logo_Zdg65EbGmc.jpg?v=20260529-media-restore",Radio ROKS New Rock
 https://768260.radio.tvstitch.com/radio.mp3?station=RadioROCKS_NewRock&source=aHR0cDovL29ubGluZS5yYWRpb3Jva3MudWEvUmFkaW9ST0tTX05ld1JvY2s%3D
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005219/logo_L0Q1UgQaNW.jpg?v=20260529-media-restore",ROCK FM Modern Rock
 https://audiotainment-sw.streamabc.net/atsw-modernrock-aac-128-4323143
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29276/logo_TEWWsb9lyU.jpg?v=20260529-media-restore",Rock Antenne Grunge
-https://s8-webradio.rockantenne.de/grunge/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/91452/logo_39rK85R7fC.jpg?v=20260529-media-restore",Rock FM Costa Rica
-https://centova.hostingtico.com:7070/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103176/logo_BABsPQRpb6.jpg?v=20260529-media-restore",Grunge Maximum
 https://hls-01-maximum.hostingradio.ru/grunge/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32302/logo_ekMKXEStI7.jpg?v=20260529-media-restore",delta radio Der beste RockPop reloaded
-https://streams.deltaradio.de/delta-poprock/mp3-192
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96262/logo_SmkLnIZEby.jpg?v=20260529-media-restore",107dot5
-https://www.tuneintoradio1.com/radio/8030/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26404/logo_hK0cc9QIvk.jpg?v=20260529-media-restore",BurnFM
-https://burnfm.radionetz.de/burn-fm.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/30123/logo_Bob6hlZSDQ.jpg?v=20260529-media-restore",ROCK FM 90ER ROCK
-https://stream.regenbogen2.de/90errock/mp3-128/radiospinner
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100818/logo_maMNcjsNkE.jpg?v=20260529-media-restore",THE ALTERNATIVE ONE!
-https://digitalaudiobroadcasting.net:8020/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36305/logo_ldZTBpaGnO.jpg?v=20260529-media-restore",Radio RMF - Grunge
-https://rs103-krk.rmfstream.pl/GRUNGE
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88278/logo_LNiLlG7ZG9.jpg?v=20260529-media-restore",Terry Callaghan's Classic Alternative
-https://ec4.yesstreaming.net:2480/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100105/logo_YVVY5s1Ohd.jpg?v=20260529-media-restore",KLT Metal Radio
-https://icecast.gwes-eas.network/ERN-KLT
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32321/logo_AF7MXHOi7V.jpg?v=20260529-media-restore",R.SA  Oldie-club
-https://streams.rsa-sachsen.de/rsa-oldies/mp3-128
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/72212/logo_3YDDpUSOxz.jpg?v=20260529-media-restore",Azul Tricolrock
-https://cast.tricolrock.com/listen/azul_tricolrock/azul
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29569/logo_vhDwq83QyA.jpg?v=20260529-media-restore",ROCK FM - Baden-Württemberg
-https://stream.regenbogen2.de/bawue/mp3-128/radiospinner
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31263/logo_uo295z12wK.jpg?v=20260529-media-restore",ROCK FM NUR MUSIK
-https://stream.regenbogen2.de/musik/mp3-128/radiospinner
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/73551/logo_WDFAOvooSs.jpg?v=20260529-media-restore",MaximusRockFM
-https://stream.laut.fm/maximusrockfm
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32016/logo_niSRfgcZtG.jpg?v=20260529-media-restore",R.SA Ostrock
-https://streams.rsa-sachsen.de/rsa-ostrock/mp3-192
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96191/logo_eCGuvMKTdB.jpg?v=20260529-media-restore",CAYA Radio
-https://tuneintoradio1.com:8020/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/54477/logo_bFXqh62UUR.jpg?v=20260529-media-restore",Alternativa Radiorock
-https://streaming01.shockmedia.com.ar/8188/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29330/logo_ipDoJnjdIf.jpg?v=20260529-media-restore",Pirate Radio
-https://frontend.streamonkey.net/fhn-pirateradio
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32749/logo_Xj2bb3R1sX.jpg?v=20260529-media-restore",Born79
-https://born79.stream.laut.fm/born79
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/31935/logo_wegodYQ2KK.jpg?v=20260529-media-restore",ROCK FM RHEIN-NECKAR
-https://stream.regenbogen2.de/rheinneckar/mp3-128/radiospinner
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008324/logo_4tuLASjiub.jpg?v=20260529-media-restore",Bounce Radio
 https://vega.streamerr.co/listen/bouncenew/streamhd
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28196/logo_SkxK6hBWnV.jpg?v=20260529-media-restore",R.SA  Das Schnarchnasenradio
-https://streams.rsa-sachsen.de/rsa-schnarchnase/mp3-192
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36035/logo_0ZSugJ4CPA.jpg?v=20260529-media-restore",Edge Wave Radio
-https://stream.laut.fm/edgewave
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88928/logo_DbKkYZ5tru.jpg?v=20260529-media-restore",Labgate Alt Rock Grunge
-https://s2.ssl-stream.com/radio/8190/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100080/logo_FEyA9ZWhPD.jpg?v=20260529-media-restore",The Edge
-https://streaming.live365.com/a99781
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/89662/logo_n771Bedd5P.jpg?v=20260529-media-restore",Mediatica FM
-https://earwaxme.radioca.st/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/88692/logo_LT2p5efxZZ.jpg?v=20260529-media-restore",Classic Rock Radio 92.3
-https://kathy.torontocast.com:1425/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004485/logo_ncThaueYiq.jpg?v=20260529-media-restore",Pirate Gong
 https://edge15.streamonkey.net/fhn-pirateradio/stream/mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/48012/logo_hBU2eXnZwA.jpg?v=20260529-media-restore",Projet XY
-https://flux.saaslys.com:8000/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96099/logo_ucybm4s3df.jpg?v=20260529-media-restore",AltRockIsDead.com
-https://streaming.live365.com/a22520
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/72197/logo_jbgFYFUAym.jpg?v=20260529-media-restore",Radio Tricolrock
-https://cast.tricolrock.com:8000/radio-tricolrock
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28184/logo_m6FRin19x6.jpg?v=20260529-media-restore",Blitz.fm
-https://stream.laut.fm/blitzfm
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/26653/logo_v5GV6urbjz.jpg?v=20260529-media-restore",Star FM - Alternative
-https://stream.starfm.de/alternat/mp3-128/webseite
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/55034/logo_zCG6FjNf9C.jpg?v=20260529-media-restore",Punto Zero Radio
-https://server.radiostreaming.com.ar/8194/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/61698/logo_mbSp0FcYqt.jpg?v=20260529-media-restore",Geografia Rock 1
-https://servidor20-4.brlogic.com:7354/live
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32248/logo_CC5me5L4pV.jpg?v=20260529-media-restore",R.SA  Rockzirkus
-https://streams.rsa-sachsen.de/rsa-rockzirkus/mp3-128
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32196/logo_KsWSEG56LM.jpg?v=20260529-media-restore",R.SA  Weihnachtsradio
-https://streams.rsa-sachsen.de/rsa-event01/mp3-128
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/us-classic-101-wshp-db-logo.jpg",Radio Classic 101, WSHP-DB
 https://s6.myradiostream.com/:45160/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/ar-alternativa-radiorock-logo.jpg",Alternativa Radiorock
@@ -1095,3 +1015,101 @@ https://rsa.streamabc.net/regc-rsalivesnchm-mp3-192-5259305
 https://rsa.streamabc.net/regc-rsalivesnddn-mp3-192-4941659
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/real-rock-1039-the-bear-570451-logo.jpg",Radio Real Rock 103.9 The Bear
 http://stream.abacast.net/direct/federatedmedia-wrbrfmmp3-ibc2?source=TuneInu0026source=TuneIn
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s290262q.png",UNDERGROUND.FM - Studio
+https://eu7.fastcast4u.com/proxy/underground1?mp=/stream
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s119856/images/logoq.png?t=2",RMF Grunge
+https://www.rmfon.pl/tunein/grunge.pls
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - Rock Hits
+https://rockhits.hostingradio.ru/rockhits96.aacp
+#EXTINF:-1 tvg-logo="https://www.bfbs.com/themes/custom/bfbs/favicon.ico",BFBS Edge
+http://edge-audio-07-gos2.sharp-stream.com/ssvcbfbs22.mp3
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Maximum 90 е
+https://maximum90.hostingradio.ru/maximum9096.aacp
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - Supernova
+https://maximum-unplugged.hostingradio.ru/maxunplugged96.aacp
+#EXTINF:-1 tvg-logo="",Pearl Jam Ten Club Radio
+http://radio.nugs.net/pearljam
+#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico",Radio Caprice - Post Grunge
+http://79.111.119.111:9073/
+#EXTINF:-1 tvg-logo="https://www.digitalpirate.de/storage/thumbs/512x512/r:1728477799/n7uloq9bs4ddz.png",Pirate Radio
+https://frontend.streamonkey.net/fhn-pirateradio/stream/mp3
+#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico",RadCap - Post Grunge
+http://79.111.119.111:9073/;
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum
+https://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1 tvg-logo="https://cloud.rundfunkkombinat.de/apps/theming/icon?v=63173d96",DressFM
+https://streams.fluxfm.de/nyir-ger/mp3-320/
+#EXTINF:-1 tvg-logo="https://www.d1alternative.com/img/og/D1.jpg",D1 Alternative
+https://cast1.torontocast.com:2545/stream
+#EXTINF:-1 tvg-logo="",Radio Bob Grunge
+https://streams.radiobob.de/bob-grunge/mp3-192
+#EXTINF:-1 tvg-logo="https://overdrivelive.net/wp-content/uploads/2024/06/overdrive_live.png",Overdrive Live Station
+https://stream.overdrivelive.net:8000/alternative_128.mp3
+#EXTINF:-1 tvg-logo="https://rhb1.de/wp-content/uploads/2026/06/cropped-cropped-1760038714339-bearbeitet-bearbeitet-32x32.png",Mario Brandt
+https://stream.laut.fm/radioherzblut
+#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/YNqPk9NOZ3Ir1kEO/widescreen-oL0yK5gZySL8212G.jpg",Rock 104.9 Detroit
+https://17653.live.streamtheworld.com/SAM04AAC494_SC
+#EXTINF:-1 tvg-logo="https://you.radio/favicon.ico",Exclusively Stone Temple Pilots
+https://nl4.mystreaming.net/er/stonetemplepilots/icecast.audio
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - New Russians
+https://maximum-newrussians.hostingradio.ru/maxnewrussians96.aacp
+#EXTINF:-1 tvg-logo="https://images.rsa-sachsen.de/files/2020-08/stream-tile-rsa-rockzirkus_0.jpg?crop=512%2C384%2Ccenter%2Cmiddle&amp;h=&amp;rect=center%2Cmiddle%2C512%2C384&amp;w=625&amp;width=625",R.SA Rockzirkus
+http://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-192-3220659?sABC=696849r7%230%23r30o443r1929r059s085628511796n57%23fgernzf.efn-fnpufra.qr&amp;aw_0_1st.playerid=streams.rsa-sachsen.de&amp;amsparams=playerid:streams.rsa-sachsen.de;skey:1768442343
+#EXTINF:-1 tvg-logo="https://img1.wsimg.com/isteam/ip/db2cd4ce-8b31-41a4-8b5c-82c644b078ed/ARID%20Page.png",AltRockIsDead.com
+http://streaming.live365.com/a22520
+#EXTINF:-1 tvg-logo="https://hardrock-fm.com/images/Hardrock-fm2.png",HardRock-FM
+https://fmradionet1.com:8000/stream
+#EXTINF:-1 tvg-logo="",Rockhausradio
+http://stream.rockhausradio.de/rockhausradio
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - Beats &amp; Riffs
+https://maximum-erock.hostingradio.ru/maxerock96.aacp
+#EXTINF:-1 tvg-logo="https://images.deltaradio.de/files/2025-05/unplugged_0.png?crop=1333%2C1000%2Ccenter%2Cmiddle&amp;h=&amp;rect=center%2Cmiddle%2C1333%2C1000&amp;w=625&amp;width=625",delta radio UNPLUGGED
+https://streams.deltaradio.de/delta-unplugged/mp3-192/streams.deltaradio.de/
+#EXTINF:-1 tvg-logo="https://assets.laut.fm/917050f0dbb4cc70fbf4314090a88c6d?t=_640x640",Wespennest
+http://stream.laut.fm/wespennest
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - RHCP
+https://rusradio.hostingradio.ru/maxrhcp96.aacp
+#EXTINF:-1 tvg-logo="https://lexiecannes.files.wordpress.com/2019/06/999.jpg",The Beat - Alternative Rock Revolution Headquarters
+https://streaming.live365.com/a40871
+#EXTINF:-1 tvg-logo="https://tiquiciarock.com/wp-content/uploads/2023/04/cropped-tiquiciarock-logo-512x512-1-1-32x32.png",Tiquicia Rock
+https://usa19.fastcast4u.com:5860/;?type=http&amp;nocache=1690470873
+#EXTINF:-1 tvg-logo="http://www.bigrradio.com/image/favicon/apple-touch-icon.png",Big R Radio - Grunge FM
+http://bigrradio.cdnstream1.com/5200_128
+#EXTINF:-1 tvg-logo="https://madmix.se/images/radioduo.webp",Alt Edge Radio
+https://mml2.prostream.se/listen/alt_edge_radio/radio.mp3
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - Millennium
+https://millenium.hostingradio.ru/millenium96.aacp
+#EXTINF:-1 tvg-logo="https://r.bgp.rodeo/api/nowplaying/static/art/1783072921.jpg",Static
+https://r.bgp.rodeo/listen/static/radio.mp3
+#EXTINF:-1 tvg-logo="https://joao.tec.br/radio/favicon.png",Radio do Jhoninho
+https://radio.joao.tec.br:8443/radio
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - Britpop
+https://maximum-britpop.hostingradio.ru/maxbritpop96.aacp
+#EXTINF:-1 tvg-logo="https://littlive.com/favicon.ico",LITT Live - Grunge
+https://das-sa39.cdnstream1.com/5570_128
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - Indie
+https://maximum-indie.hostingradio.ru/indie96.aacp
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - Rammstein
+https://maximum-rammstein.hostingradio.ru/rammstein96.aacp
+#EXTINF:-1 tvg-logo="http://radcap.ru/favicon.ico",RadCap - Grunge
+http://79.120.39.202:9011/;
+#EXTINF:-1 tvg-logo="https://www.zeilsteen.com/apple-touch-icon.png",Zeilsteen radio
+https://sslive.zeilsteen.com/
+#EXTINF:-1 tvg-logo="https://images.radiobob.de/files/2025-05/2000er_homepage.jpg?crop=1440%2C1080%2C240%2C0&amp;h=&amp;rect=240%2C0%2C1440%2C1080&amp;w=625&amp;width=625",RADIO BOB! 2000er Rock
+http://streams.radiobob.de/2000er/aac-64/mediaplayer/
+#EXTINF:-1 tvg-logo="https://image.atsw.de/atsw/production/2022-10/Rock%20Audience%20%28picture-alliance%20Peter%20Johnson%29_0.jpg?crop=1390%2C1043%2C104%2C0&amp;h=&amp;rect=104%2C0%2C1390%2C1043&amp;w=625&amp;width=625",ROCK FM INDIE ROCK
+http://stream.regenbogen2.de/indierock/mp3-128/radiobrowser
+#EXTINF:-1 tvg-logo="https://maximum.ru/favicon.ico?60bb89f8ad0d0a04",Radio Maximum - Linkin Park
+https://rusradio.hostingradio.ru/linkinpark96.aacp
+#EXTINF:-1 tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342-246x300.png",Labgate Alternative Rock and Grunge
+https://s2.ssl-stream.com/listen/labgate_alt_rock_grunge/radio.mp3
+#EXTINF:-1 tvg-logo="https://radiorock.it/wp-content/uploads/2017/01/diretta-copia-370x370.jpg",Radio Rock 106.6
+https://rrock.fluidstream.eu/radiorock.aac
+#EXTINF:-1 tvg-logo="http://www.bigrradio.com/image/favicon/apple-touch-icon.png",Big R Radio - Post Grunge Rock
+http://bigrradio.cdnstream1.com/5203_128
+#EXTINF:-1 tvg-logo="https://labgateradio.com/wp-content/uploads/2020/07/FullColor_1280x1024_72dpi-e1595865561342-246x300.png",Labgate P.YG. Pink Floyd, Yes, Genesis
+https://s2.ssl-stream.com/radio/8160/radio.mp3
+#EXTINF:-1 tvg-logo="https://images.90s90s.de/files/2019-03/default-pic-90s90s.jpg?crop=1440%2C1080%2C413%2C0&amp;h=&amp;rect=413%2C0%2C1440%2C1080&amp;w=625&amp;width=625",90s90s Rock
+https://streams.90s90s.de/rock/mp3-192/streams.90s90s.de/play.m3u8
+#EXTINF:-1 tvg-logo="https://www.rockantenne.de/media/cache/3/version/15209/homepage-screenshot1992x1220-v1.jpg/59e3e064f7292252.jpg",ROCK ANTENNE Alternative
+http://stream.rockantenne.de/alternative

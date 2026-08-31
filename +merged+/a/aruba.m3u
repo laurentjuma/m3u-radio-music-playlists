@@ -509,18 +509,10 @@ http://www.coolaruba.com:8006/stream/
 http://surilive.com:8350/
 #EXTINF:-1,Abdulbasit Abdulsamad 
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-#EXTINF:-1,GFM Galactica 99.9 FM - Aruba - Oranjestad
-https://stream.zeno.fm/ywr9n56pnc9uv
-#EXTINF:-1,Hits100 FM 100.9 - Aruba - Oranjestad
-https://audio-edge-cmc51.fra.h.radiomast.io/f4b2dcfb-399c-4650-a64a-e4fb5b32717e
 #EXTINF:-1,Massive Aruba - Aruba - San Nicolas
 https://surilive.com:8350/;
 #EXTINF:-1,Radio Latina 92.3 FM - Aruba - Oranjestad
 https://server.radiogs.org/8140/stream/;
-#EXTINF:-1,Salsotekiando Stereo - Aruba - Oranjestad
-https://stream.zeno.fm/734vqdhpha0uv
-#EXTINF:-1,VIP Radio - Aruba - Oranjestad
-https://s02.whooshserver.net:8054/vip
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-santa-maria-de-guadalupe-di-aruba-187297-logo.jpg",Radio Santa Maria De Guadalupe Di Aruba
 http://67.159.45.87:8390/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/blue-fm-1075-598455-logo.jpg",Radio Blue FM 107.5
@@ -563,8 +555,6 @@ http://radio2.domint.net:8412/;stream.mp3
 http://s01.whooshstream.net:8055/stream
 #EXTINF:-1 tv-logo="",Radio CrioyoNet 2
 http://s01.whooshstream.net:8025/C2
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-latina-fm-logo.jpg",Radio Latina FM
-https://server.radiogs.org/8140/stream/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/aw-hit-94-fm-logo.jpg",Radio Hit 94 FM
 http://hit94fm.serverroom.us:8490/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/oldies-999-635968-logo.jpg",Radio Oldies 99.9
@@ -609,3 +599,13 @@ http://65.99.205.231:7004/;
 http://72.29.90.240:8004
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hit-fm-170071-logo.jpg",Radio Hit FM
 http://38.96.148.35:8490/;
+#EXTINF:-1,MasFM 105.1
+https://c13.radioboss.fm:8647/live?type=.mp3
+#EXTINF:-1,Massive Arub
+https://c25.radioboss.fm:8187/live
+#EXTINF:-1,AW Oranjestad
+https://aruba.radioantennaweb.com/Oranjestad
+#EXTINF:-1,Local Urban Wave Radio
+https://listen.radioking.com/radio/723947/stream/789860
+#EXTINF:-1,Ambiente 297
+https://listen.radioking.com/radio/297064/stream/343591

@@ -1037,16 +1037,10 @@ https://28153.live.streamtheworld.com:443/ONE_FM_913AAC.aac
 https://s3.radio.co/saf69a95b8/listen
 #EXTINF:-1,Power 98 Love Songs - Singapore - Singapore
 https://22283.live.streamtheworld.com:443/POWER98_LOVESONGS_SC
-#EXTINF:-1,Pozhil FM - Singapore - Singapore
-https://stream.zeno.fm/k8uw9ya44d0uv
-#EXTINF:-1,Radio Chutney - Singapore - Singapore
-https://streamer.radio.co/sf30c61bda/listen
 #EXTINF:-1,Ria 89.7 FM - Singapore - Singapore
 https://28453.live.streamtheworld.com:443/RIA897FM_PREM.aac
 #EXTINF:-1,Symphony 924 - Singapore - Singapore
 https://22393.live.streamtheworld.com:443/SYMPHONY924_PREM.aac
-#EXTINF:-1,Thitsarparami - Singapore - Singapore
-https://edge.mixlr.com/channel/nmtev
 #EXTINF:-1,UFM1003 - Singapore - Singapore
 https://22243.live.streamtheworld.com:443/UFM_1003AAC.aac
 #EXTINF:-1,Warna 94.2 FM - Singapore - Singapore
@@ -1153,3 +1147,15 @@ http://69.175.20.66:8439/;
 http://s6.myradiostream.com:9814
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/hellokpop-161103-logo.jpg",Radio hellokpop
 http://96.44.147.234:7138/;
+#EXTINF:-1,CLASS 95
+https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac
+#EXTINF:-1,UFM 1003 (MP3)
+https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
+#EXTINF:-1,88.3JIA Cantopop - Best of All Time Cantonese Song
+https://22253.live.streamtheworld.com/HARRYS_S02.mp3
+#EXTINF:-1,Beam FM
+https://beamfm.streeemer.com/listen/beam_fm/radio.aac
+#EXTINF:-1,UPDATED 88.3JIA Cantonese Song
+https://28163.live.streamtheworld.com/HARRYS_S02.mp3?tdsdk=js-2.9u0026swm=falseu0026pname=TDSdku0026pversion=2.9u0026banners=noneu0026burst-time=15u0026sbmid=aa4d01da-0541-4d7c-cec5-cdd0758f7ea7
+#EXTINF:-1,Radio Masti 24x7
+https://d1xx1qndjrmnw2.cloudfront.net/radiosgmasti.m3u8

@@ -449,18 +449,8 @@ http://radioshamfm.grtvstream.com:8400/stream
 http://streaming.inet.sy:8000/melodyfm?type=.mp3%2F%3Bstream.mp3
 #EXTINF:-1,Al Madina FM - Syria - Damascus
 https://stream.almadinafm.com/;stream.mp3
-#EXTINF:-1,ARTA FM - Syria - Amuda
-https://edge.mixlr.com/channel/qtgru
-#EXTINF:-1,Asima-Online - Syria - Damascus
-https://asima.out.airtime.pro/asima_a
-#EXTINF:-1,Dicle FM - Syria - Al-Malikiyah
-https://dicle-rojavaradio.radioca.st/stream
 #EXTINF:-1,Dirbesiye FM - Syria - Ad Darbasiyah
 https://dirbesiyefm-rojavaradio.radioca.st/stream
-#EXTINF:-1,Emaar Radio - Syria - As-Suwayda
-https://stream.zeno.fm/4luag56o066uv
-#EXTINF:-1,Farah FM 97.3 - Syria - Damascus
-https://radio.farah.fm/?type=http
 #EXTINF:-1,MixFM 105.7 - Syria - Damascus
 https://stream.mixfmsyria.net/;stream.mp3
 #EXTINF:-1,Ninar FM 101.1 - Syria - Damascus
@@ -479,10 +469,6 @@ https://orks-rojavaradio.radioca.st/stream
 https://stream.radiojar.com/6suq71hpwtzuv.mp3
 #EXTINF:-1,Radio Yeraz - Syria - Aleppo
 https://streaming05.liveboxstream.uk/proxy/radioye3/stream
-#EXTINF:-1,Sawt Al Hayat - Syria - Qamishli
-https://sawtalhayat-rojavaradio.radioca.st/stream
-#EXTINF:-1,Sham FM 92.3 - Syria - Damascus
-https://radioshamfm.grtvstream.com:8400/stream
 #EXTINF:-1,Voice of Grace - Syria - Damascus
 https://securestreams5.reliastream.com:1820/;
 #EXTINF:-1,بيسان اف امBissan FM - Syria - Ar Raqqah
@@ -535,8 +521,6 @@ http://192.95.23.89:4986/;stream.mp3
 http://ninarfm.grtvstream.com:8896/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sy-radio-one-fm-zarok-logo.jpg",Radio One FM Zarok
 https://stream.zeno.fm/rzqd4rh18wquv
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/mix-fm-syria-578609-logo.jpg",Radio Mix FM Syria
-https://stream.mixfmsyria.net/;stream.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/rozana-radio-600017-logo.jpg",Rozana Radio
 http://stream.zenolive.com/43ssay93pvduv
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/farah-fm-578068-logo.jpg",Radio Farah FM
@@ -561,3 +545,5 @@ http://s7.voscast.com:7432
 http://109.203.112.94:8000/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/new-start-radio-saw-talaqel-587510-logo.jpg",New Start Radio (Saw Talaqel)
 http://s7.voscast.com:7432/;
+#EXTINF:-1,Djinni Radio
+https://stream.radiojar.com/x80daa284bkvv

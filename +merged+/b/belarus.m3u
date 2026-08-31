@@ -1351,66 +1351,16 @@ https://rt.radioslovo.net:4135/stream
 https://rt.radioslovo.net:4395/radio
 #EXTINF:-1,Radio Monte Carlo Lounge 
 https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%26publisherId%3D164%26k%3D1769798199
-#EXTINF:-1,Baranovichi FM 100.0 - Belarus - Baranovichi
-https://radio.100fm.by:8000/100fm128
-#EXTINF:-1,Center FM 101.7 - Belarus - Minsk
-https://stream2.datacenter.by/stream
-#EXTINF:-1,Dushevnoe Radio - Belarus - Minsk
-https://stream2.datacenter.by/dushevnoe
 #EXTINF:-1,Dzed Bardaitis Radio - Belarus - Minsk
 https://26343.live.streamtheworld.com:443/SAM03AAC337_SC
-#EXTINF:-1,Gomel FM 101.3 - Belarus - Gomel
-https://stream2.datacenter.by/gomelfm
-#EXTINF:-1,Lider FM 94.3 - Belarus - Lida
-https://icecast.lider-fm.by/liderfm
 #EXTINF:-1,MetalHeads - Belarus - Minsk
 https://radio.metalheads.by:8000/source
 #EXTINF:-1,Monte Carlo Lounge - Belarus - Minsk
 https://strw3.openstream.co/344?aw_0_1st.collectionid%3D7411%26stationId%3D7411%26publisherId%3D164%26k%3D1753954052
-#EXTINF:-1,Narodnoe Radio - Belarus - Minsk
-https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
-#EXTINF:-1,Novoe Radio FM 98.4 - Belarus - Minsk
-https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio
 #EXTINF:-1,Prime Radio - Belarus - Minsk
 https://listen5.myradio24.com/praims
-#EXTINF:-1,Radio 123 - Belarus - Gomel
-https://de1.internet-radio.com/proxy/belradio123/stream
-#EXTINF:-1,Radio Belarus FM - Belarus - Minsk
-https://stream2.datacenter.by/belarusfm
-#EXTINF:-1,Radio Belarus Online - Belarus - Minsk
-https://stream2.datacenter.by/belarus
-#EXTINF:-1,Radio Brest FM 104.8 - Belarus - Brest
-https://stream2.datacenter.by/trkbrest
-#EXTINF:-1,Radio Grodno FM 101.2 - Belarus - Grodno
-https://stream.radiogrodno.by:8005/live
-#EXTINF:-1,Radio Hrodna MFM 105.0 - Belarus - Grodno
-https://radio.105fm.by/radio.105.0mfm
-#EXTINF:-1,Radio Maria - Belarus - Belarus - Minsk
-https://server.radiorm.by:8443/aac
-#EXTINF:-1,Radio Minsk - Belarus - Minsk
-https://radio.mk.by:8443/radiominsk
 #EXTINF:-1,Radio MIR Belarus - Belarus - Minsk
 https://stream2.datacenter.by/radiomir
-#EXTINF:-1,Radio Mogilev - Belarus - Mogilev
-https://stream2.datacenter.by/tvrmogilev
-#EXTINF:-1,Radio Plato - Belarus - Minsk
-https://azura.radioplato.by/radio/8000/radio.mp3
-#EXTINF:-1,Radio ROKS 102.1FM - Belarus - Minsk
-https://stream.roks.com:8443/live256
-#EXTINF:-1,Radio Stalica | Радыё Сталіца - Belarus - Minsk
-https://stream2.datacenter.by/stalica
-#EXTINF:-1,Radius FM - Belarus - Minsk
-https://stream2.datacenter.by/radiusfm_main
-#EXTINF:-1,Svoyo Radio 106.1 FM - Belarus - Pinsk
-https://live.svoyoradio.by:8443/svoyoradio
-#EXTINF:-1,Авторадио Беларусь - Belarus - Minsk
-https://live.humorfm.by:8443/avtoradio
-#EXTINF:-1,Канал Культура - Belarus - Minsk
-https://stream2.datacenter.by/kultura
-#EXTINF:-1,Компас FM - Belarus - Minsk
-https://radio.mil.by/live
-#EXTINF:-1,Радио Беларуси - 1 канал - Belarus - Minsk
-https://stream2.datacenter.by/1kanal
 #EXTINF:-1,РАдио Вечность - Belarus - Minsk
 https://a2.radioheart.ru:9040/RadioVechnost
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/zbo-radio-608248-logo.jpg",ZbO-radio
@@ -1491,3 +1441,25 @@ http://radio.solo.by:8000/radioba
 http://radio.sar.by:8000/mp3/64.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/netradio-relax-186248-logo.jpg",Netradio RELAX
 http://stream.netradio.by:8000/relax/mp3/192
+#EXTINF:-1,Another Music Project
+https://radio.anothermusicproject.com:8443/idm
+#EXTINF:-1,Харьков z
+http://control1.craftradio.ru:8000/stream02
+#EXTINF:-1,Retro Belarus
+https://air.sammit.tv:8443/retro
+#EXTINF:-1,Easy Listening BLR
+http://178.172.235.5:8001/10
+#EXTINF:-1,ESC HOT HITS
+https://app.aloncast.com/api/stream/esc-hot-hits-7e4c5a
+#EXTINF:-1,Radio Unistar
+https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8
+#EXTINF:-1,Aplus.FM Rock
+https://shoutcast.aplus.fm/aplus_rock_256
+#EXTINF:-1,ЭЙ АЙ РАДИО
+https://app.aloncast.com/api/stream/airadio-by-d3cac8
+#EXTINF:-1,SKIF
+https://stream02.pcradio.biz/skif_orsha-med
+#EXTINF:-1,Европа Плюс Полоцк
+https://ep128.hostingradio.ru:8030/ep128
+#EXTINF:-1,ТрансМировое Радио в Беларуси
+http://eu3.fastcast4u.com:5026/;

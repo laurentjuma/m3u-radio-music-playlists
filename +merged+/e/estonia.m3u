@@ -1107,28 +1107,12 @@ https://edge04.cdn.bitflip.ee:8888/Festival?_i=524de1e9
 https://le05.euddn.net/253aec4a7c3293b2980971db78ef3cb845e79d77a3a70a4c8f88a089878e6ed3ff81275348318298246c2c8a26fa268bcfdc123c669e76a1b228d3b24e89d76d8649681013658368440b146ad824c52cacb54ddfd24b0541f838d9f97ac9fe67d45135385a604f017fc39b02c16439808d69d48f
 #EXTINF:-1,Elmari Tantsuõhtu - Estonia - Tartu
 https://le04.euddn.net/8858ce188c8b04d131adb0c6689a4b3f143d1248e0cfcf2281e6778d4a768e52b7a34cff23da3b1f901bd46c47c1f10643b74db72f71425d9a1cd05ee3698a59ac3ea8fb10bebdbd391576fcb28a4aa1487348e0a97abda4e9cc9c39c8ad427c2bdd8115ebd3216ba55523dac0cf8b60ced8db22
-#EXTINF:-1,Hard FM - Estonia - Tallinn
-https://s5.radio.co/s69e02764f/listen
-#EXTINF:-1,Hitmix Estonia - Estonia - Suurupi
-https://stream.hitmix.ee:8443/HIT_320
-#EXTINF:-1,Hits Radio - Estonia - Tallinn
-https://stream1.rcast.net/66038
-#EXTINF:-1,IDA Raadio - Estonia - Tallinn
-https://broadcast.idaidaida.net:8000/stream
 #EXTINF:-1,Kiss FM - Estonia - Tallinn
 https://edge04.cdn.bitflip.ee:8888/KISS?_i=524de1e9
 #EXTINF:-1,Kiss FM Eurovision - Estonia - Tallinn
 https://edge01.cdn.bitflip.ee:8888/KissEurovisioon
 #EXTINF:-1,Kiss FM Pride - Estonia - Tallinn
 https://origin01.cdn.bitflip.ee:8888/KissPride
-#EXTINF:-1,KlaRa Jazz - Estonia - Tallinn
-https://icecast.err.ee/klarajazz.mp3
-#EXTINF:-1,KlaRa Klassika - Estonia - Tallinn
-https://icecast.err.ee/klaraklassika.mp3
-#EXTINF:-1,KlaRa Nostalgia - Estonia - Tallinn
-https://icecast.err.ee/klaranostalgia.mp3
-#EXTINF:-1,Klassikaraadio - Estonia - Tallinn
-https://icecast.err.ee/klassikaraadio.mp3
 #EXTINF:-1,Legendaarne Raadio - Estonia - Tallinn
 https://edge02.cdn.bitflip.ee:8888/Legendaarne?_i=524de1e9
 #EXTINF:-1,Myhits 97.2 FM - Estonia - Tallinn
@@ -1141,10 +1125,6 @@ https://le04.euddn.net/de179a1be5357727225fe02e3cc8320443c894e5b35663bc03bbba76d
 https://le03.euddn.net/5400da72e684ab3b78a8efd04b78a865b7f5b8902f47ab3dabf36eaf8f6b4a0a3a26fca4d5840f20427a5a09f4e45c52255e2b1dbbcb778cff8125c103a550ca782d28b9c3be985c5e8ff1cd761a0b252e55cdc0b3d16ed846e88f12c93fe7c4e84db17633fcf5925016fc6a9d7eca1731e7e465
 #EXTINF:-1,NRJ FM 93.2 - Estonia - Tallinn
 https://edge01.cdn.bitflip.ee:8888/NRJ?_i=524de1e9
-#EXTINF:-1,Power Hit Radio - Estonia - Tallinn
-https://ice.leviracloud.eu/phr96-aac
-#EXTINF:-1,Raadio 2 - Estonia - Tallinn
-https://icecast.err.ee/raadio2.mp3
 #EXTINF:-1,Raadio 2 Alternatiiv - Estonia - Tallinn
 https://icecast.err.ee/r2alternatiiv.mp3
 #EXTINF:-1,Raadio 2 Chill - Estonia - Tallinn
@@ -1157,28 +1137,18 @@ https://icecast.err.ee/r2pop.mp3
 https://icecast.err.ee/r2p.mp3
 #EXTINF:-1,Raadio 2 Rock - Estonia - Tallinn
 https://icecast.err.ee/r2rock.mp3
-#EXTINF:-1,Raadio 4 - Estonia - Tallinn
-https://icecast.err.ee/raadio4.mp3
-#EXTINF:-1,Raadio 7 - Estonia - Tallinn
-https://edge05.cdn.bitflip.ee:8888/R7
 #EXTINF:-1,Raadio Duo - Estonia - Tallinn
 https://le10.euddn.net/43830d1490a6262899772dee60e01555d2cb4d8535f3ef8518d7f0edb58e60765f3d39d9911bb1982c6675c344126c9fdeb9d915cb2ebc9daa0ff61e1a77eeb645d9939354b5aa96196773ad3fbae841343abed11aaa00159526d3043bcb6f3e55c149f86c0c9f80a8ca5995effec0e7a6d28493
 #EXTINF:-1,Raadio Elmar FM 88.5 - Estonia - Tartu
 https://le03.euddn.net/7d93c9ed45894f57571a9d11c902124bdbadc9d980916a39ef0876d76c0f3e7964e919eb12349cb80a2c84cbfd00c5acb9401a4c73133c7785c7c63d6aa82ccf281f3a4d1edcf1f0aeae01ace5d7ad81bfb01518faf9df7962bece30662a2517828613e12f8f973b4646fa5ae17a392631f45751
 #EXTINF:-1,Raadio Elmar FM 91.5 - Estonia - Tallinn
 https://le10.euddn.net/3d1fb6f903431a988f0679e0eaeaaec2707431f9f8fa7d64e2102e2a971e2300f11e7f3558263b839c8e95cbe7e24bfe01651a774261c53a7fc35fcbb597a34e0396dee6bd6fce3fa430ec53d3a0fa948b256ef48deb0187bdef83548ff3fc2356e3d1408733d299d1c8520cc5667b9f879a58c5
-#EXTINF:-1,Raadio Kadi FM 90.5 - Estonia - Kuressaare
-https://edge06.cdn.bitflip.ee:8888/kadi
 #EXTINF:-1,Raadio Kidzone - Estonia - Tallinn
 https://le11.euddn.net/0cdf4e4c93d33dc61195ee8890860e18248b8d8dc9e426c170223d29a034b02de6565468649a72d02042988805966ae18c5ab3a71721aaa23f4775e165ff64e7b4e43283bf7378af89d8ba5155ea1a42b725609a59e5d04676298fd8c3d4710fa19f5b72f0752993638f5f26a7beed8695688ca0
 #EXTINF:-1,Raadio Kuku - Estonia - Tallinn
 https://le09.euddn.net/a50034b90635f374c05f10632ee0ac29cdb4bcac8f24715e2a9e8adb35dccc7e77f29f11a0992891c92e0134b9f01646824ef2cf17442a174ea4a1759aff53cfa36ef2980ffb2ec05fcce24d528796c6f9d0874b6aeb83366869e37501cd003fbec903d575140c77b9e04a4a3f52f480afff777b
 #EXTINF:-1,Raadio Tallinn - Estonia - Tallinn
 https://icecast.err.ee/raadiotallinn.mp3?.mp3
-#EXTINF:-1,Radio Maximum 100FM - Estonia - Tallinn
-https://stream.radiomaximum.ee/stream
-#EXTINF:-1,Radio Nostalgia - Estonia - Tallinn
-https://c16.radioboss.fm:8327/stream
 #EXTINF:-1,Relax Cafe - Estonia - Tallinn
 https://edge03.cdn.bitflip.ee:8888/cafe?_i=524de1e9
 #EXTINF:-1,Relax FM 88.3 - Estonia - Tallinn
@@ -1197,16 +1167,12 @@ https://edge04.cdn.bitflip.ee:8888/retro1.mp3?_i=55fd7429
 https://edge02.cdn.bitflip.ee:8888/retro2.mp3?_i=524de1e9
 #EXTINF:-1,Retro FM Jõul - Estonia - Tallinn
 https://edge04.cdn.bitflip.ee:8888/RetroJ6ulud?_i=524de1e9
-#EXTINF:-1,Ring FM 104.7 - Estonia - Tartu
-https://cdn.treraadio.ee/ringfm
 #EXTINF:-1,Rock FM 88.8 - Estonia - Tallinn
 https://edge04.cdn.bitflip.ee:8888/rck?_i=524de1e9
 #EXTINF:-1,Rock FM Metal - Estonia - Tallinn
 https://edge04.cdn.bitflip.ee:8888/rckmetal?_i=524de1e9
 #EXTINF:-1,Russkoe Radio ee - Estonia - Tallinn
 https://edge04.cdn.bitflip.ee:8888/RR?_i=524de1e9
-#EXTINF:-1,Ruut FM 96.6 - Estonia - Valga
-https://sc2.treraadio.ee/ruutfm
 #EXTINF:-1,Sky Plus - Estonia - Tallinn
 https://edge04.cdn.bitflip.ee:8888/SKYPLUS?_i=524de1e9
 #EXTINF:-1,Sky Plus D'n'B - Estonia - Tallinn
@@ -1221,10 +1187,6 @@ https://edge05.cdn.bitflip.ee:8888/skyplusdance?_i=524de1e9
 https://edge05.cdn.bitflip.ee:8888/skyplus_top40.mp3?_i=524de1e9
 #EXTINF:-1,Sky Radio - Estonia - Tallinn
 https://edge05.cdn.bitflip.ee:8888/SKY?_i=524de1e9
-#EXTINF:-1,Star FM - Estonia - Tallinn
-https://ice.leviracloud.eu/star96-aac
-#EXTINF:-1,Star FM Eesti - Estonia - Tallinn
-https://ice.leviracloud.eu/starFMEesti96-aac
 #EXTINF:-1,Star FM+ 107.1 FM - Estonia - Tallinn
 https://ice.leviracloud.eu/volna128-aac
 #EXTINF:-1,Super Radio 90.6 FM - Estonia - Tallinn
@@ -1237,10 +1199,6 @@ https://edge03.cdn.bitflip.ee:8888/rrock?_i=524de1e9
 https://cdn.treraadio.ee/kesk-eesti-tre
 #EXTINF:-1,Tre Raadio 105.8 FM - Estonia - Tallinn
 https://cdn.treraadio.ee/pohja-tre
-#EXTINF:-1,Tre Raadio 91.3 FM - Estonia - Rapla
-https://cdn.treraadio.ee/rapla-tre
-#EXTINF:-1,Tre Raadio 92.7 FM - Estonia - Pärnu
-https://cdn.treraadio.ee/parnu-tre
 #EXTINF:-1,Tre Raadio 97.0 FM - Estonia - Rakvere
 https://cdn.treraadio.ee/viru-tre
 #EXTINF:-1,Vikerraadio - Estonia - Tallinn
@@ -1317,3 +1275,27 @@ http://www.netiraadio.ee:8000/lahepopp
 http://sc1.levira.ee:8128/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/raadio-uuno-157595-logo.jpg",Radio Raadio Uuno
 http://striiming.trio.ee:8008/uuno.mp3
+#EXTINF:-1,Relax cafe
+http://icecast.err.ee/raadio4.mp3?type=.mp3/;stream.mp3
+#EXTINF:-1,Raadio Tallinn (128 kbps Ogg Opus) | Eesti Rahvusringhääling | raadiotallinn.err.ee
+https://shoutcast.finestfm.fi/stream/1/:80/;stream
+#EXTINF:-1,NikRadofem
+https://live.nikradofem.online/live
+#EXTINF:-1,Retro fm disco
+https://edge05.cdn.bitflip.ee:8888/retro1.mp3?
+#EXTINF:-1,Rock-FM Metal
+https://edge04.cdn.bitflip.ee:8888/rckmetal
+#EXTINF:-1,Elmari Kuld
+https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8ca0f3ca5c5b547137da3e2640917468e13ac1d7701b052f6ec9a2a3e207246d31ad7e936db6e1331b35e581cf1c988b303c617e81caf69b44a4afdcaceb809a218d0a9dd4aec230d75e57587a911bdb0faaaaa126ba9f040b7014729c340e2ab241ccfc0af5a1112d14756b8f322bf7a153eace53f699eeebaffdff8ab7ca1c91e4b2505f8f7dee05e2d8150305addddea91bd3/elmarikuld.aac
+#EXTINF:-1,RUUT FM
+https://a1.asurahosting.com/listen/ruut_fm/radio.mp3
+#EXTINF:-1,XFM ESTONIA
+https://sc2.flamebox.org/XFM
+#EXTINF:-1,HITS RADIO ESTONIA
+https://artemis.streamerr.co/listen/hitsradioestonia/radio.mp3
+#EXTINF:-1,Radio Olematu
+https://radio.olematu.ee/listen/radio_olematu/radio.mp3
+#EXTINF:-1,Raadio PRT
+https://jvrywgaxjrdgauspdrvr.supabase.co/functions/v1/stream-proxy
+#EXTINF:-1,R2 Rock
+http://icecast.err.ee/r2rock.mp3

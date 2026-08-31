@@ -451,26 +451,14 @@ https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 https://ice-11.spilarinn.is/z80s
 #EXTINF:-1,Apparatið - Iceland - Reykjavík
 https://ice-11.spilarinn.is/zapparatid
-#EXTINF:-1,Flashback 60s - Iceland - Reykjavík
-https://ice-11.spilarinn.is/60flashback
-#EXTINF:-1,FlashBack FM 91.9 - Iceland - Reykjavík
-https://ice-11.spilarinn.is/flashback
-#EXTINF:-1,FM Extra - Iceland - Reykjavík
-https://ice-11.spilarinn.is/zfmextra
 #EXTINF:-1,FM Trölli - Iceland - Siglufjörður
 https://hb.trolli.is/stream
 #EXTINF:-1,FM957 - Iceland - Reykjavík
 https://ice-11.spilarinn.is/tfm957
 #EXTINF:-1,Gull Bylgjan FM 90.9 - Iceland - Reykjavík
 https://ice-11.spilarinn.is/xruv2
-#EXTINF:-1,Jahta Radio Live - Iceland - Reykjavík
-https://usa7.fastcast4u.com/proxy/mdjscwwh?mp=/1
-#EXTINF:-1,K100 FM 100.5 - Iceland - Reykjavík
-https://ice-11.spilarinn.is/kaninnmobile
 #EXTINF:-1,Létt Bylgjan FM 96.7 - Iceland - Reykjavík
 https://ice-11.spilarinn.is/tlettbylgjan
-#EXTINF:-1,Útvarp Saga FM 99.4 - Iceland - Reykjavík
-https://stream.utvarpsaga.is/Hljodver
 #EXTINF:-1 tv-logo="",Radio Trölli
 http://93.95.227.50:8200/stream/1/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/jolarasin-christmas-radio-617450-logo.jpg",Jólarásin / Christmas Radio
@@ -489,3 +477,13 @@ http://straumur.voice.is:8000
 http://stream.volume.is:443/stream2
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/sudurland-fm-963-585450-logo.jpg",Radio Sudurland FM 96.3
 http://www.sudurlandfm.is/hlusta/
+#EXTINF:-1,RUV Rás 2
+https://stream.101.live/audio/101/playlist.m3u8
+#EXTINF:-1,Snow Radio Network
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC45_SC
+#EXTINF:-1,2024 ehf
+https://1985.is:8200/testserver128
+#EXTINF:-1,Antenna Web Akureyri
+https://islanda.radioantennaweb.com/Akureyri
+#EXTINF:-1,Seyðisfjörður Community Radio
+https://seyisfjorur-community-radio.radiocult.fm/stream

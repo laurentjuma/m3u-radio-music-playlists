@@ -11871,3 +11871,195 @@ https://server6.radio-streams.net/proxy/nxtradio/stream
 https://dhpgstreaming.nl/proxy/pvt/stream
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/nl-mpb-radio-1-brabant-logo.jpg",MPB Radio 1 Brabant
 https://sc.mpbnl.nl/radio1
+#EXTINF:-1,JOE
+https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3
+#EXTINF:-1,Qmusic Belgium
+https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac
+#EXTINF:-1,Intense Radio - We love Dance 256k
+http://intenseradio.live-streams.nl:8000/main
+#EXTINF:-1,MNM Hits
+https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac
+#EXTINF:-1,JOE mp3
+https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3
+#EXTINF:-1,MixStream Radio - Pop & Hits
+https://radio.mixstream.nl/pop.mp3
+#EXTINF:-1,Joe 80's & 90's
+https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3
+#EXTINF:-1,Classic NL
+https://classic.nl/streams/?s=main
+#EXTINF:-1,538 90s AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac
+#EXTINF:-1,The Finest Amsterdam
+https://live.thefinest.amsterdam/hq
+#EXTINF:-1,SkyRadio HITS
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC.aac
+#EXTINF:-1,Piraten.FM - 4
+http://piraten.fm/top/4
+#EXTINF:-1,4 The Music - Dance, House and Techno. Live DJs.
+http://master.shoutcast.com:8000/4-the-music
+#EXTINF:-1,Classicnl Soundtracks
+https://classic.nl/streams/?s=soundtracks
+#EXTINF:-1,Alternative Rock Radio
+https://25243.live.streamtheworld.com/KINK_SC
+#EXTINF:-1,Radio Rijnmond (AAC+)
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp
+#EXTINF:-1,Qmusic BE
+http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3
+#EXTINF:-1,Nostalgie Plus
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEPLUS.mp3
+#EXTINF:-1,Studio Brussel De Jaren Nul
+https://icecast.vrtcdn.be/stubru_dejarennul-high.mp3
+#EXTINF:-1,Joe 70s & 80s
+https://stream.joe.nl/joe/aachigh
+#EXTINF:-1,MixStream Radio - Hip-Hop
+https://radio.mixstream.nl/hiphop.mp3
+#EXTINF:-1,Willy - aac
+http://stream.radiocontinu.nl/radiocontinu
+#EXTINF:-1,Q-Foute Radio BE
+https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3
+#EXTINF:-1,BNR Business Beats
+http://playerservices.streamtheworld.com/api/livestream-redirect/BNR_BUSINESS_BEATS.mp3
+#EXTINF:-1,Qmusic Q-Allstars
+https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac
+#EXTINF:-1,80's Hitradio
+https://s22.myradiostream.com/7728/listen.mp3
+#EXTINF:-1,Radio Goud van Oud
+https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac?player=rp_external&gdpr=1&gdpr_consent=
+#EXTINF:-1,Q-dance Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC_SC
+#EXTINF:-1,Synthwave City FM
+https://securestream3.digipal.nl:2259/192kbs.mp3
+#EXTINF:-1,BOO
+https://stream03.level27.be/stream.mp3
+#EXTINF:-1,Concertzender - Oude Musiek
+https://planet90.beheerstream.nl:8010/
+#EXTINF:-1,Radio Monique
+https://surilive.com:8070/
+#EXTINF:-1,Pidi Radio - Your LGBTQ+ Radio
+https://securestreams.autopo.st:2549/
+#EXTINF:-1,FMR | The Superstation & Foute Muziek Radio
+https://server6.radio-streams.net/proxy/hans12?mp=%2Fstream
+#EXTINF:-1,Versuz Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ_SC
+#EXTINF:-1,077 Radio Your Alternative
+https://listen.openstream.co/377/audio
+#EXTINF:-1,Adje Bouman's Top Tien - ABTT
+https://www.desizoneradio.com/relay1
+#EXTINF:-1,Gothville Radio
+https://streams.radio.co:80/s62583474c/listen
+#EXTINF:-1,PIPEL FM
+https://cloud-faro.beheerstream.com/proxy/caribafm2?mp=%2Fstream%3Blisten.pls
+#EXTINF:-1,Groove95
+https://server5.radio-streams.net:8101/
+#EXTINF:-1,Wild FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/4EVER49_SC
+#EXTINF:-1,Bangsa Jawa Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX_SC
+#EXTINF:-1,TRISHUL BROADCASTING NETWORK
+https://server2.inetcast.nl/radioveronique
+#EXTINF:-1,Radio HITZZZ
+https://zapstream.nl/1
+#EXTINF:-1,Make Some Noise Kids
+https://caster04.streampakket.com/proxy/8778/kidsradio
+#EXTINF:-1,Apres Ski Radio
+https://cloud-faro.beheerstream.com/proxy/zyrmuuzd?mp=%2Fstream
+#EXTINF:-1,Jouw 90's Radio
+https://digistreamer.nl:8030/radio.mp3
+#EXTINF:-1,Radio 9 Suriname
+https://cc6.beheerstream.com/proxy/maaslandradio?mp=%2Fstream
+#EXTINF:-1,RMC LOUNGE
+https://listen.openstream.co/7411/audio
+#EXTINF:-1,FameRadio
+https://audio.mixcloud.stream/secure/hls/b/d/e/f/1397-93d8-4b69-8f46-5ec493b84ff8.m4a/index.m3u8
+#EXTINF:-1,Hardcore Power Radio
+https://rrr.sz.xlcdn.com/?account=nhnieuws&file=NHRadio_mp3&type=live&service=icecast&protocol=http&port=8000&output=m3u
+#EXTINF:-1,REGIO8
+https://ms2.mx-cd.net/dradio-09/91-685901/Optimaal_FM.smil/playlist.m3u8
+#EXTINF:-1,Tomorrowland One World Radio
+https://streams.radio.dpgmedia.cloud/redirect/one_world_radio_qnl/aac?gdpr=1&gdpr_consent=
+#EXTINF:-1,Today's Hit Radio
+https://server-26.stream-server.nl:18696/stream
+#EXTINF:-1,POTZ Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/POTZ_SC
+#EXTINF:-1,MaxHitRadio24
+https://kathy.torontocast.com:4660/stream
+#EXTINF:-1,Radio City Den Haag
+https://phoebe.streamerr.co:1530/
+#EXTINF:-1,BoemerangFM - Één en al gezelligheid!
+https://stream.piratenvrienden.nl/listen/piratenvrienden.nl/radio.mp3?1744303180327=
+#EXTINF:-1,Yoursafe Radio
+https://radiostream.yoursafe.nl/stream
+#EXTINF:-1,RTV 1
+https://eagle.streemlion.com/proxy/powerpla?mp=%2Fstream
+#EXTINF:-1,Regio Noordkop
+https://radio.regionoordkop.nl:9443/regionoordkop
+#EXTINF:-1,Radio Hanzestad
+https://radiohanzestad.ddns.net:4430/livestream
+#EXTINF:-1,Radio Sterrenteam
+https://cloud-faro.beheerstream.com/proxy/klokradio?mp=%2Fstream
+#EXTINF:-1,00s ALIVE
+https://securestream2.digipal.nl:1805/stream.mp3/live
+#EXTINF:-1,Radio 10 - 80s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20_SC
+#EXTINF:-1,FM.sr Sranan Radio - 100% Suriname
+https://my.surilive.com/listen/sr/stream
+#EXTINF:-1,RICK FM
+https://stream.rick-fm.nl/rick-fm
+#EXTINF:-1,Radio Bergeijk
+https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac
+#EXTINF:-1,Kaas FM
+https://kaas-fm.radiocult.fm/stream
+#EXTINF:-1,Radio 10 - Non-stop
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15_SC
+#EXTINF:-1,Piratenhits 24 - Dein Piratenradiowww
+https://s13.streamingcloud.online/stream/piratenhits24/stream
+#EXTINF:-1,Radio 10 - 60s and 70s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18AAC_SC
+#EXTINF:-1,Radio 10 - 90s Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22_SC
+#EXTINF:-1,NRJ+
+https://stream.rcs.revma.com/1a6hdnzbebuvv
+#EXTINF:-1,VRT De Tijdloze
+https://radio.vrtcdn.be/vrt/detijdloze/live.m3u8
+#EXTINF:-1,Extra FM - NL
+https://cc6.beheerstream.com/proxy/extrafm2?mp=%2Fstream
+#EXTINF:-1,Nostalgie extra relax
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFRELAX_SC
+#EXTINF:-1,SLAM! The Boom Room
+https://stream.slam.nl/web12_mp3
+#EXTINF:-1,TOPversuzRadio
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOPVERSUZ.MP3
+#EXTINF:-1,VRT Klara Continuo
+https://icecast.vrtcdn.be/klaracontinuo-high.mp3
+#EXTINF:-1,NPO Sterren
+https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE_SC
+#EXTINF:-1,RTBF Musiq 3
+https://radio.rtbf.be/musiq3/mp3-320/mt
+#EXTINF:-1,Nostalgie extra 60-70
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF6070_SC
+#EXTINF:-1,Nostalgie BE
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING_SC
+#EXTINF:-1,TOPzillion
+https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_ZILLION_SC
+#EXTINF:-1,VRT MNM Hits
+https://icecast.vrtcdn.be/mnm_hits-high.mp3
+#EXTINF:-1,Goeiedag Radio
+https://stream.goeiedagradio.be/
+#EXTINF:-1,SLAM! Nonstop
+https://stream.slam.nl/web10_mp3
+#EXTINF:-1,Radio 10 - Disco Classics
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23_SC
+#EXTINF:-1,vdb-media-platform
+https://stream.vdb-media-platform.nl/stream
+#EXTINF:-1,Nostalgie+
+https://stream.rcs.revma.com/s9mkgtsqtg0uv
+#EXTINF:-1,AW Oranjestad
+https://aruba.radioantennaweb.com/Oranjestad
+#EXTINF:-1,Local Urban Wave Radio
+https://listen.radioking.com/radio/723947/stream/789860
+#EXTINF:-1,Ambiente 297
+https://listen.radioking.com/radio/297064/stream/343591
+#EXTINF:-1,Pleasure.sr
+https://my.surilive.com/listen/pleasure/stream
+#EXTINF:-1,ShammahTalk radio Sr
+https://listen.radioking.com/radio/603214/stream/664585

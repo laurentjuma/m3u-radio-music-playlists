@@ -821,18 +821,12 @@ http://s0.radioheart.ru:8000/RH83444
 https://liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/113/logo_XYUQLY3x4F.jpg?v=20260529-media-restore",Маруся ФМ
 https://msk13.radio-holding.ru/marusya_default
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/172/logo_kglFB50rkE.jpg?v=20260529-media-restore",Russian Mix Record
-https://radiorecord.hostingradio.ru/rus96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/182/logo_plwrkdUAaS.jpg?v=20260529-media-restore",Хит FM
 https://hitfm.hostingradio.ru/hitfm96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004169/logo_IxDIVvfYsd.jpg?v=20260529-media-restore",Дискотека 90х
 http://listen1.myradio24.com:9000/5967
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/665/logo_JZBRP27Bo9.jpg?v=20260529-media-restore",Гоп FM Record
-https://radiorecord.hostingradio.ru/gop96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004157/logo_zydb8ZM3yf.jpg?v=20260529-media-restore",Радио ENERGY
 https://gpm.hostingradio.ru/gpm-energyfm495.aacp
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53960/logo_Kr2wMOILDC.jpg?v=20260529-media-restore",Колбасный Цех Record
-https://radiorecord.hostingradio.ru/pump96.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005095/logo_O7TgkA303v.jpg?v=20260529-media-restore",Не лихие 90-е - Радио Ваня
 https://icecast-radiovanya.cdnvideo.ru/rv_90
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53931/logo_Frbh1vDRgT.jpg?v=20260529-media-restore",Russian Gold Record
@@ -853,8 +847,6 @@ https://hls-01-dfm.hostingradio.ru/remake/playlist.m3u8
 https://stream.pilotradio.ru/pilotradio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005083/logo_DqFSZDoz3W.jpg?v=20260529-media-restore",Радио 7 - Музыка счастья
 https://radio7.hostingradio.ru:8040/radio7_happiness64.aacp
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102941/logo_NrjfcyzPU8.jpg?v=20260529-media-restore",Супер ФМ
-https://stream2.datacenter.by/sfm
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103690/logo_CTVw8vnUBP.jpg?v=20260529-media-restore",DFM Грустный дэнс
 https://hls-01-dfm.hostingradio.ru/saddance/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/66357/logo_ZFAlhshNDZ.jpg?v=20260529-media-restore",Дискотека 80-х Авторадио
@@ -867,8 +859,6 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/74
 https://radio.boombox.top:1045/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007091/logo_732y3jnT2P.jpg?v=20260529-media-restore",Хит FM Хит 2020-х
 https://hls-01-hitfm.hostingradio.ru/hit2020/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103111/logo_3V3MU9zSOg.jpg?v=20260529-media-restore",Радио Хит | Смотри радио
-https://hit.trkeurasia.ru/hit128
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005428/logo_XPbNIxFYvS.jpg?v=20260529-media-restore",Интернет-радиостанция Новое Радио
 http://212.86.102.95:8000/online
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004427/logo_Po2jWTKhob.jpg?v=20260529-media-restore",Pop Promo DJ
@@ -915,14 +905,10 @@ https://pub0302.101.ru:8000/stream/trust/mp3/128/17
 https://stream.laut.fm/glamwave
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103889/logo_grvaXMvaZT.jpg?v=20260529-media-restore",80s Dance FM
 https://tower.hayva.ru/p5zxk-96
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103213/logo_GaLGOIl2rr.jpg?v=20260529-media-restore",RADIO DANCE 90s
-https://radiodance.streamingmedia.it/audio.aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103697/logo_NZMmHQFsHw.jpg?v=20260529-media-restore",DFM Dance Gold 2000s
 https://hls-01-dfm.hostingradio.ru/dancegold00/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103694/logo_GJ3CF9aKqe.jpg?v=20260529-media-restore",DFM Dance Gold 1990s
 https://hls-01-dfm.hostingradio.ru/dancegold90/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005208/logo_mPOBcaDNKE.jpg?v=20260529-media-restore",Radio Regenbogen Workout
-https://stream.regenbogen.de/workout/mp3-128/radiospinner
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005162/logo_WmuWEvJOtG.jpg?v=20260529-media-restore",Душевный Восторг
 https://myradio24.org/74127
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103699/logo_GeGSrI1d5A.jpg?v=20260529-media-restore",DFM Pop Gold 2000s
@@ -951,8 +937,6 @@ https://radioprovince.ru:8000/radio
 https://sunsl.streamabc.net/sunsl-eurodance-mp3-192-9832422?
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005234/logo_HGYPaP3lLh.jpg?v=20260529-media-restore",Хит FM Новосибирск
 https://sv-veter.fvds.ru/hitfm_nsk_high
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/48934/logo_dksJe1j7V4.jpg?v=20260529-media-restore",MFM Station
-https://radio.mfm.ua/online128
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004179/logo_k2tfdFEViN.jpg?v=20260529-media-restore",Радио Мята (ex. Лоре)
 https://drh-node-01.dline-media.com/myata
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007445/logo_FTbxRRDUxQ.jpg?v=20260529-media-restore",Motion FM
@@ -961,8 +945,6 @@ https://myradio24.org/50352
 https://listen8.myradio24.com/98353
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102842/logo_gZFsYkkK3a.jpg?v=20260529-media-restore",Electropop
 https://tower.hayva.ru/fd1px-96
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49103/logo_YK6HAA2NRa.jpg?v=20260529-media-restore",Новий День 101,9 FM
-https://stream.zeno.fm/5burvqocukruv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103481/logo_hTKLbcSUpN.png?v=20260529-media-restore",Пирамида FM Russian Mix
 https://listen3.myradio24.com/32457
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103698/logo_ZiRCxjR1j3.jpg?v=20260529-media-restore",DFM Dance Gold 2020s
@@ -975,12 +957,8 @@ http://94.241.171.205:8000/stream
 https://powerfm.hostingradio.ru/powerfm112.aacp
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007072/logo_A7lExWxm20.jpg?v=20260529-media-restore",Радио ЮFM Бежецк
 https://aska.ru-hoster.com:8034/YUFM
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102998/logo_3uQlUclgeW.jpg?v=20260529-media-restore",K-Pop Европа Плюс
-https://hls-01-europaplus-kpop.emgsound.ru/europaplus-kpop/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007051/logo_olRZPJOeoZ.jpg?v=20260529-media-restore",Radio Euphoria
 https://myradio24.org/82875
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/96622/logo_jzHoJaRwqO.jpg?v=20260529-media-restore",Mortalfm
-http://server6.20comunicacion.com:8044/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007212/logo_moVUUpiXIS.jpg?v=20260529-media-restore",Radio Look Info
 https://stream.volnorez.com/live-app/820112?br=192
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005584/logo_vipa1ljjuH.jpg?v=20260529-media-restore",Радио Молоко
@@ -995,24 +973,18 @@ https://listen7.myradio24.com/9316
 http://team-data.ba:8040/?type=http&nocache=218
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005524/logo_BiBqdoER6s.jpg?v=20260529-media-restore",Dancing Fox
 https://stream.cassiopeia-station.ru:1135/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102982/logo_MYAJkDEwyh.jpg?v=20260529-media-restore",Radio Never
-https://stream.radionever.ru
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004891/logo_l0VNUTL8RR.jpg?v=20260529-media-restore",Радио Лайн
 https://myradio24.org/vovcs
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004861/logo_Bk5XOZ1zIg.jpg?v=20260529-media-restore",Бурлеск FM
 http://burlesquefm.ru:8000/radio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005076/logo_DZFztYymn9.jpg?v=20260529-media-restore",Радио Лайт
 https://radio.kuybisheva.keenetic.link/website
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/32246/logo_yY98L47Qft.jpg?v=20260529-media-restore",Radio Brocken 80er
-https://stream.radiobrocken.de/80er/aac-64
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004502/logo_XgoMNjX7H1.jpg?v=20260529-media-restore",Radio Essential
 https://c16.radioboss.fm:18258/radioessential
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/49097/logo_RV24GzVMdB.jpg?v=20260529-media-restore",NovaLine Radio Ха́рків
 https://stream.novaline.fm/Novaline_128
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36869/logo_it6VpqGUjx.jpg?v=20260529-media-restore",WRadio
 https://stream.wradio.es:9000/;stream/1
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103464/logo_JdapWjRDzH.jpg?v=20260529-media-restore",SLAM! Dance 1000
-https://playerservices.streamtheworld.com/api/livestream-redirect/WEB15_AAC_SC
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005402/logo_xqkUxLu8qg.jpg?v=20260529-media-restore",Radio LOL
 https://listen9.myradio24.com/radiolol
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103777/logo_0m2LDdXk3I.jpg?v=20260529-media-restore",Laika Habits Radio
@@ -1021,46 +993,30 @@ https://live.vblcast.com/proxy/habitslaika/stream/
 https://s2.audioroadie.com/skillrisbackup123938
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007056/logo_KW28CBDqOC.jpg?v=20260529-media-restore",Ognu enuseя
 https://stream.volnorez.com/live-app/860837?br=192
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/102986/logo_yd1t9QrbVJ.jpg?v=20260529-media-restore",MEGA Y2K
-https://stream-175.zeno.fm/9f9bvqpi1v1vv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000527/logo_z7bLM1i56Q.jpg?v=20260529-media-restore",Radio Romántica España
 https://stream-142.zeno.fm/zwnxizs3x0etv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6d254aXpzM3gwZXR2IiwiaG9zdCI6InN0cmVhbS0xNDIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoib0NBWmN5VnFTX1dZRFc3MnN4dWtIdyIsImlhdCI6MTc3MjAzMTkzMCwiZXhwIjoxNzcyMDMxOTkwfQ.3d0pOX0DrPIZMEpruNPiVYDffUj0n84NI4uEL_crTLw
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103424/logo_ppnYpTeTwx.jpg?v=20260529-media-restore",Life Radio Non Stop Music
-https://liferadio.streamabc.net/lfr-homeoffice-mp3-192-8939815
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103043/logo_IA4yXde1Fe.jpg?v=20260529-media-restore",Winter Cup Monte Carlo
 https://hls-01-montecarlo.hostingradio.ru/wintercup/playlist.m3u8
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/36107/logo_QP2nqPSu2n.jpg?v=20260529-media-restore",Energy - Pop
-https://streaming.nrjaudio.fm/oupnhrbgddr9
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000476/logo_iG2ZyY3Vza.jpg?v=20260529-media-restore",Hit 24 Radio
 https://stream.tunerplay.com/listen/hit24radio/hit24.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/191/logo_H2GFLI7II7.jpg?v=20260529-media-restore",Хит FM Двигай Лопес
 https://hls-01-hitfm.hostingradio.ru/hitlopez/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103774/logo_yjelwlexV1.jpg?v=20260529-media-restore",Opa Habits Radio
 https://live.vblcast.com/proxy/habitsopa/stream/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46929/logo_sWB9SFPpOy.jpg?v=20260529-media-restore",NRJ Hits Remix
-https://streaming.nrjaudio.fm/ou4we9htd2ko
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103739/logo_12By8Iy0wZ.jpg?v=20260529-media-restore",Mix Habits Radio
 https://live.vblcast.com/proxy/habitsdance/stream/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42917/logo_5MFwXCWWIK.jpg?v=20260529-media-restore",Disco Music Radio
 https://discomusicradio.com:8100/;
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005275/logo_nHp9uHUUID.jpg?v=20260529-media-restore",Sticker FM
 https://radio1.stickerfm.ru:8443/live
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45498/logo_H36AHyqIk6.jpg?v=20260529-media-restore",NRJ Electro Fitness
-https://streaming.nrjaudio.fm/oujy27nxeb5p
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103511/logo_Miz28Jm2Pw.jpg?v=20260529-media-restore",Flow FM
 https://radio.plandos.com:7037/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103363/logo_l9HltNUH18.jpg?v=20260529-media-restore",Радио Метроном - Хасково
-https://radiometronom.com:8443/
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000341/logo_IyqpLM7PNK.jpg?v=20260529-media-restore",Idò FM
 https://ido.omedia.cat/listen/idofm/idofm.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007393/logo_dtv0kU4T9s.jpg?v=20260529-media-restore",Radio Dance 90s Dance Music
 https://radiodance.streamingmedia.it/it.aac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103460/logo_ndEZgjUImu.jpg?v=20260529-media-restore",Joe Non-Stop
-https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_nonstop_high.aac
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000528/logo_OXe77itrIs.jpg?v=20260529-media-restore",Radio Rock en Español
 https://stream-141.zeno.fm/yqrfa0jvfjvuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5cXJmYTBqdmZqdnV2IiwiaG9zdCI6InN0cmVhbS0xNDEuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoibWl4bFZsU2RSNG1qazhsTUw4d0RrdyIsImlhdCI6MTc3MjAzMTkzMCwiZXhwIjoxNzcyMDMxOTkwfQ.3LfiUUCaBFtYEJnK-BGLNDY-W3AYsOCykSVmDvVrn_s
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103274/logo_QOoD9r0jce.jpg?v=20260529-media-restore",Radio Pitesti 1 Romania
-https://ssl.radios.show:7008/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000286/logo_grMdf5vd8i.jpg?v=20260529-media-restore",Sunshine FM Costa Blanca
 https://ice31.securenetsystems.net/SRFM
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103243/logo_2L4QspKyaz.jpg?v=20260529-media-restore",Radio Zalau
@@ -1079,8 +1035,6 @@ http://stream.radiojar.com/av2rrf6547zuv
 https://naxidigital-dance128ssl.streaming.rs:8112/;stream.nsv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000042/logo_vpaTbI8EzB.jpg?v=20260529-media-restore",Europa FM Gipuzkoa
 https://stream-153.zeno.fm/se76qau1hc9uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzZTc2cWF1MWhjOXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiUjkxc2JUTHNURFNpOGdkMmRFYTZCdyIsImlhdCI6MTc3MjAzMTg5NCwiZXhwIjoxNzcyMDMxOTU0fQ.pZv37eHwDacKisYZoOOI08a-t8HoGB0ft98l4aAISPQ
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/157/logo_FMpbBKuYO1.jpg?v=20260529-media-restore",Радио MAKKIRUS
-https://makkirus.amgradio.ru/makkirus
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42463/logo_gM7XTEOpwu.jpg?v=20260529-media-restore",Radio Sol FM
 https://eu1.lhdserver.es:9135/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000311/logo_wcXJJm6ZJX.jpg?v=20260529-media-restore",Energy Mediterránea Radio
@@ -1097,12 +1051,8 @@ https://streaming.live365.com/a90696
 https://stream-178.zeno.fm/8yytdggiugttv?
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008288/logo_pkIuMPUnuf.jpg?v=20260529-media-restore",NovaLine Radio Одеса
 https://stream.novaline.net.ua/Novaline_Odesa_320
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103419/logo_BHfoER8iwn.jpg?v=20260529-media-restore",Energy - Tirol
-https://streaming.nrjaudio.fm/our7qbvukkaq
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000085/logo_q1m5gW6v8z.jpg?v=20260529-media-restore",Top Radio Dance
 https://secure.tempo-radio.com:1090/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45324/logo_z2NwhGUZBq.jpg?v=20260529-media-restore",NRJ Happy Hits
-https://streaming.nrjaudio.fm/ousgsfm4z85f
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000522/logo_2imMoKU73J.jpg?v=20260529-media-restore",Yemaya Fm
 https://eu1.lhdserver.es:3141/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000525/logo_BHDmLgXgeo.jpg?v=20260529-media-restore",Radio Magic El Grande
@@ -1117,8 +1067,6 @@ https://usa7.fastcast4u.com/proxy/tqamqurl?mp=/1
 https://streaming.brol.tech/rtfmlounge
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/48692/logo_vLUmVeAgJh.jpg?v=20260529-media-restore",Artı FM
 https://ritim.80.yayin.com.tr/stream?/;stream.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42873/logo_a5u8vI87Jk.jpg?v=20260529-media-restore",Radio Malaka
-https://streaming12.elitecomunicacion.es:8256/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000456/logo_focr9B7lW1.jpg?v=20260529-media-restore",Tropical Radio
 https://eu3.fastcast4u.com/proxy/promarti?mp=/1/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000290/logo_UmzeQQuCeY.jpg?v=20260529-media-restore",Almeria Radio 107.5 FM
@@ -1137,24 +1085,14 @@ https://server10.emitironline.com:10212/radio.mp3
 https://relay.stream.enacast-cloud.com:30286/imaginaradioHD.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005655/logo_smBGEznOZT.jpg?v=20260529-media-restore",Radio Sgom-Plus Retro Information
 http://109.233.211.75:9128/;stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85431/logo_JUNJEiaZ9E.jpg?v=20260529-media-restore",ROVA - One Direction
-https://playerservices.streamtheworld.com/api/livestream-redirect/ONEDIRECTION_S01AAC.aac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/94938/logo_6virZvHxfe.jpg?v=20260529-media-restore",Giant FM
-https://streaming.live365.com/a37861
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000328/logo_DbeBnPwVlG.jpg?v=20260529-media-restore",Motiva Hit
 https://play.lallans.media/listen/motivahit/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/74000/logo_HsBG8KixlS.jpg?v=20260529-media-restore",La Once Radio
-https://stream.zeno.fm/3zslulhp8tctv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000508/logo_tx4X8S9A3D.jpg?v=20260529-media-restore",Radio Benicarló
 https://streaming.enacast.com/radiobenicarlo128.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000133/logo_Qwuv1N9fs7.jpg?v=20260529-media-restore",Atica FM Huesca
 https://s43.myradiostream.com:21372/listen.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/28582/logo_6Q8tUcCjDC.jpg?v=20260529-media-restore",1A Deutsch Pop
-https://1a-deutschpop.radionetz.de/1a-deutschpop.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000530/logo_PpG3mYEXMN.jpg?v=20260529-media-restore",Ritmo Hits Radio FM
 https://ritmohitsfm-zikoxstream.radioca.st/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43417/logo_CSTN9s5zSz.jpg?v=20260529-media-restore",Onda Color
-https://streaming12.elitecomunicacion.es:8212/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000309/logo_l3y73F3biT.jpg?v=20260529-media-restore",Monster Radio Lanzarote
 https://streaming.radio.co/sb23b51f3c/listen
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45461/logo_huNgNI68fZ.jpg?v=20260529-media-restore",GayRadio
@@ -1185,16 +1123,12 @@ https://radio.almunecar360.com/listen/almunecar_fm/radio.mp3
 https://ec6.yesstreaming.net:1485/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000095/logo_XqqAqMCn3M.jpg?v=20260529-media-restore",Europa FM Tenerife 103.3
 http://str1.mediatelekom.net:8010/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43419/logo_uJcA9v5uGA.jpg?v=20260529-media-restore",7.7 Radio
-https://cast1.my-control-panel.com/proxy/carlosa1/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000244/logo_Yi64xNSak5.jpg?v=20260529-media-restore",AFN 360 Rota
 https://27823.live.streamtheworld.com:443/AFNE_RTA_SC
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000496/logo_v0n46XKdcZ.jpg?v=20260529-media-restore",Pontevedra Viva
 https://server8.emitironline.com:9402/radio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000352/logo_o8mcQBHKzW.jpg?v=20260529-media-restore",Ultravioleta Radio
 https://server9.emitironline.com:19260/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103417/logo_tbR5ZeRkwY.jpg?v=20260529-media-restore",Energy - Salzburg
-https://streaming.nrjaudio.fm/ouhsxoapu6pb
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000259/logo_GvYOwRwFw7.jpg?v=20260529-media-restore",Frontera Radio Jerez
 https://streaming.enacast.com/fronteraradioHD.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000374/logo_voRG5s60N3.jpg?v=20260529-media-restore",Metropolis FM
@@ -1223,16 +1157,10 @@ https://listen.openstream.co/3908/audio
 https://usa3.lhdserver.es:8199/stream?type=.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000101/logo_5Sw3p24RAL.jpg?v=20260529-media-restore",Órbita Dance
 https://radioip.es:8030/radio.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103422/logo_QbevW0zjnA.jpg?v=20260529-media-restore",Life Radio Flash 90s
-https://liferadio.streamabc.net/lfr-flash90s-mp3-192-3814105
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000232/logo_8RwDdijxCO.jpg?v=20260529-media-restore",Cadena Ser - Alcoy
 https://27743.live.streamtheworld.com:443/SER_MAS_ASO_ALCOYAAC_SC
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000350/logo_rjrRtpc0lW.jpg?v=20260529-media-restore",Fórmula Romántica
 https://streaming.radiosenlinea.com.ar:10375/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/85398/logo_YtDHuNOQxg.jpg?v=20260529-media-restore",ROVA - Selena Gomez
-https://playerservices.streamtheworld.com/api/livestream-redirect/SELENAGOMEZ_S01AAC.aac
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103108/logo_lYty6XVrvD.jpg?v=20260529-media-restore",TOTAL FM
-https://stream.zeno.fm/v2aqg0f4dtuvv
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000483/logo_xvUQg3IESV.jpg?v=20260529-media-restore",Radio Amigos Para Siempre
 https://streaming.elitecomunicacion.cloud/8308/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43058/logo_Ib2s1efW73.jpg?v=20260529-media-restore",Cool Deep
@@ -1275,10 +1203,6 @@ https://antares.dribbcast.com/proxy/fmbarcelona/live
 https://sonic.sistemahost.es/8200/;?ver=628032
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000236/logo_lUKmUaUgNB.jpg?v=20260529-media-restore",REC Radio
 https://server9.emitironline.com:19488/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/53613/logo_INjXDJ8ob3.jpg?v=20260529-media-restore",Radio 972
-https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO972.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/46843/logo_0zLE8z4A1M.jpg?v=20260529-media-restore",NRJ Pop
-https://streaming.nrjaudio.fm/ouwg2ask6j4d
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000419/logo_kCR6JY9l7S.jpg?v=20260529-media-restore",Emotiva Radio
 https://panca.es/listen/emotiva_radio/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/39466/logo_kFDtpFk88D.jpg?v=20260529-media-restore",Radio Energy
@@ -1287,14 +1211,8 @@ https://stream.radioenergy.to/nrgmp3
 http://163.172.198.16:8120/live.aacplus
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000336/logo_HlfOVAyBA4.jpg?v=20260529-media-restore",Radio Ateos de Barcelona
 https://servidor25.brlogic.com:7054/live
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103418/logo_6bDcZVFa2f.jpg?v=20260529-media-restore",Energy Österreich
-https://streaming.nrjaudio.fm/ouvfydoarp52
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/44215/logo_paUorGJtrV.jpg?v=20260529-media-restore",Folitre Radio Roquetas de Mar
-https://streaming2.elitecomunicacion.es/proxy/folitreradio/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000378/logo_MydJnpRsTY.jpg?v=20260529-media-restore",Cadena Dial Villacarrillo
 https://streaming.cloud.innovasur.es/radio/listen/bd7ca9
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103423/logo_ZAiiBRJdkp.jpg?v=20260529-media-restore",Life Radio Apres Ski Hits
-https://liferadio.streamabc.net/lfr-apresskihits-mp3-192-2273104
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000333/logo_JdE6lIZrh2.jpg?v=20260529-media-restore",Radiowapa
 https://stream.radio.co/sb52bde625/listen
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000375/logo_dPCBY9kD8f.jpg?v=20260529-media-restore",Ràdio Indiana
@@ -1303,22 +1221,14 @@ https://radio.martiproduccions.com/listen/indiana/indianahd
 https://live.advailo.com/topradio/live/playlist.m3u8
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000229/logo_HKdSjMcP3p.jpg?v=20260529-media-restore",Radio Dipalme
 https://streaming.indalteco.net/proxy/dipalmerad?mp=/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45579/logo_BjoiU9b1BJ.jpg?v=20260529-media-restore",NRJ Pop RNB Dance
-https://streaming.nrjaudio.fm/oubywaj25zuw
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000254/logo_X5AKGdjld0.jpg?v=20260529-media-restore",K-Rock Europe
 https://s12.myradiostream.com:7958/listen.mp3?nocache=1772031712
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000251/logo_2EgJhbpsDo.jpg?v=20260529-media-restore",Oromana Radio
 http://str1.mediatelekom.net:8162/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000372/logo_4N0fMFS5Zq.jpg?v=20260529-media-restore",Radio Tenerife
 https://fra-pioneer08.dedicateware.com:3175/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103352/logo_9YicxKKNOb.jpg?v=20260529-media-restore",NRJ Pour Le Sport
-https://streaming.nrjaudio.fm/ouy59236zcw2
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42760/logo_5yCjUnpm8m.jpg?v=20260529-media-restore",NGRadio
-https://radioserver.es/listen/ngradio/stream?_=1759851200239
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000364/logo_SVD7V9sYFO.jpg?v=20260529-media-restore",Onda Litoral Cadiz
 https://sonicpanel.streaming10.net/8112/ondalitoralcadiz
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42423/logo_weL7qg7pWF.jpg?v=20260529-media-restore",Radio Mollet 96.3 FM
-https://streaming.enacast.com/radiomollet128.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000469/logo_WjgTuEwBY3.jpg?v=20260529-media-restore",AF Radio
 https://afradio.es/listen/afradio/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000297/logo_6jYsIHZ8dF.jpg?v=20260529-media-restore",Murcia FM

@@ -515,20 +515,14 @@ https://22733.live.streamtheworld.com/OLIVE1063.mp3
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,Habaib 
 https://lit-cast.com/proxy/habaiebfm/stream
-#EXTINF:-1,Alaraby TV 96.6 FM - Qatar - Lusail
-https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio
 #EXTINF:-1,Bar 974 - Qatar - Al Wakrah
 https://usa19.fastcast4u.com:9280/;
 #EXTINF:-1,Fame FM Qatar - Qatar - Doha
 https://17653.live.streamtheworld.com:443/SAM03AAC389.aac
-#EXTINF:-1,Inta FM 103.7 - Qatar - Doha
-https://s4.radio.co/s907eaefbe/listen
 #EXTINF:-1,MirchiONE - Qatar - Doha
 https://s5.radio.co/sc0e5eb33d/listen
 #EXTINF:-1,Q Tamil Radio - Qatar - Doha
 https://sp.radiotamilonline.com/qtamilradio/stream
-#EXTINF:-1,Qabayan FM 94.3 - Qatar - Doha
-https://c2.radioboss.fm:18478/stream
 #EXTINF:-1,Radio Olive 106.3 - Qatar - Doha
 https://25683.live.streamtheworld.com:443/OLIVE1063.mp3
 #EXTINF:-1,Radio Suno 91.7 - Qatar - Doha
@@ -541,8 +535,6 @@ https://24933.live.streamtheworld.com:443/RADIO_SUNO_MELODY_S06AAC.aac
 https://27243.live.streamtheworld.com:443/RADIO_SUNO_TAMIL_S01AAC.aac
 #EXTINF:-1,Sout Al Khaleej 88.0 FM - Qatar - Doha
 https://streaming.radio.co/sec5a4b9e1/listen
-#EXTINF:-1,Uthamiyae FM Radio - Qatar - Doha
-https://ssl.aloncast.com:1595/
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/stonesteel-radio-station-598937-logo.jpg",StoneSteel Radio Station
 http://player.cheapeststream.com/_players/cheapeststream/?callsign=SAM09AAC199
 #EXTINF:-1 tv-logo="",QFRadio 91.7
@@ -595,3 +587,7 @@ http://76.73.22.190:8236/
 http://www.aljazeera.net/Channel/LiveStreamingPlayer/index.html
 #EXTINF:-1 tv-logo="",Live Quraan Radio
 http://livequraan.com:8088/;
+#EXTINF:-1,Al Jazzera News Audio Hub Live English 20260312
+https://live-hls-web-aje-gcp.thehlive.com/VOICE-AJE/index.m3u8
+#EXTINF:-1,Al Jazeera Video
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8

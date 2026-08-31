@@ -6587,14 +6587,8 @@ http://178.208.91.206:8000/metrfm
 https://listen8.myradio24.com/1z1radio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1007918/logo_2ybHatZKNy.jpg?v=20260529-media-restore",Maksde Radio
 https://stream-154.zeno.fm/zh8ldhnt9byvv?
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/100205/logo_aLux6BZtcO.jpg?v=20260529-media-restore",BBS Radio TV Station 2
-https://sonic.885radio.com/8004/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1000476/logo_iG2ZyY3Vza.jpg?v=20260529-media-restore",Hit 24 Radio
-https://stream.tunerplay.com/listen/hit24radio/hit24.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/104047/logo_si0m1TGDtm.jpg?v=20260529-media-restore",La FM Plus Bogota
 https://us-b4-p-e-ml19-audio.cdn.mdstrm.com/live-audio-aw/627c1c39637d89088290f64d?
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103759/logo_NCw0JPm3oG.jpg?v=20260529-media-restore",RMC Music Star Coldplay
-https://icy.unitedradio.it/ColdPlay.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008097/logo_oDOO1OQCbY.jpg?v=20260529-media-restore",Rock and Pop Mix 105.5 FM
 https://sonic.cloudstreaming.eu:10937/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/72929/logo_TeLGjGpOak.jpg?v=20260529-media-restore",Rock Pop Latino
@@ -6611,10 +6605,6 @@ https://stream2.eistreaming.com:10986/;
 https://n09-us.rcs.revma.com/4r4nzs58rquvv?
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1004463/logo_uhQ3k9Odx4.jpg?v=20260529-media-restore",Regenbogen - Adler Mannheim
 https://audiotainment-sw.streamabc.net/atsw-adler-aac-128-2022130
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103300/logo_tRlKZc7tlg.jpg?v=20260529-media-restore",ROCK FM ROCK PARTY
-https://stream.regenbogen2.de/rockparty/mp3-128/radiospinner
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103324/logo_9A4X7bcjvQ.jpg?v=20260529-media-restore",NRJ Classic Hits
-https://streaming.nrjaudio.fm/oufdcptx4thg
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/81893/logo_wjS7OlSauq.jpg?v=20260529-media-restore",Sportify - Rock Workout
 https://drive.uber.radio/uber/sportifyrock/icecast.audio
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008298/logo_qG8Q90WKH9.jpg?v=20260529-media-restore",Inne Radio 105.2
@@ -6637,8 +6627,6 @@ https://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/632cb5dd08346a0889655d
 https://stream.radio2000.it/antenne
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103448/logo_NUzn7EnE5d.jpg?v=20260529-media-restore",Radio Amazonas Blog
 https://stream.zeno.fm/91rprvcxzp8uv/;type=mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103385/logo_aTJhkcQPgf.jpg?v=20260529-media-restore",ET-Radio
-https://stream.regenbogen2.de/etradio/mp3-128/radiospinner
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/52160/logo_1LeHiTxj3f.jpg?v=20260529-media-restore",xradio
 https://cast.radiohost.ovh/xradio?mp=/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/104054/logo_4czIdpKBDM.jpg?v=20260529-media-restore",La FM Plus Cali

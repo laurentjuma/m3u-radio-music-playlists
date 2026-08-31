@@ -1025,19 +1025,61 @@ https://relay.stream.enacast-cloud.com:40241/alcanarradioHD.mp3
 https://srv7021.dns-lcinternet.com/8058/stream
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/42857/logo_32ISE3LhMm.png",Ràdio Santpedor Radio
 https://radiosantpedor.radioca.st/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43843/logo_9QAWGp7VRd.jpg?v=20260529-media-restore",Ràdio L'Arboç 106.8 FM
-http://185.73.170.43:1756/radiobaixpenedes.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42605/logo_3u0swaByWz.jpg?v=20260529-media-restore",Radio Taradell 107.7 FM
-https://relay.stream.enacast-cloud.com:40314/radiotaradellHD.mp3
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42562/logo_FGwAkaRbHr.jpg?v=20260529-media-restore",Ràdio Sant Vicenç 90.2 FM
-https://enacast.com/radiosantvicenc/streams/HD
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/43839/logo_aVW4Ohvph4.jpg?v=20260529-media-restore",Radio Olot
-https://chrome2021.frilab.com:8443/olot
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/42857/logo_1Mn596J5Z8.jpg?v=20260529-media-restore",Ràdio Santpedor
-https://radiosantpedor.radioca.st/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/104025/logo_O17WIcGjxI.jpg?v=20260529-media-restore",RAC 105
 https://21223.live.streamtheworld.com/RAC105.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/la-veu-591797-logo.jpg",Radio La Veu
 https://streaming.enacast.com/laveu128.mp3
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/radio-sant-esteve-sesrovires-630227-logo.jpg",Radio Sant Esteve Sesrovires
 https://relay.stream.enacast-cloud.com:40301/radiosantesteveHD.mp3
+#EXTINF:-1,Café del Mar CALM
+https://streamer.radio.co/sb748f24ad/listen
+#EXTINF:-1,Radio Murta
+https://stream.recasound.es/proxy/radiomurta/stream
+#EXTINF:-1,Radio DOS 84
+http://188.93.73.7:8064/
+#EXTINF:-1,FlaixBAC
+https://stream.flaixbac.cat/icecast
+#EXTINF:-1,Remember Ràdio Joventut
+https://stream.idelta.es/listen/radio_joventut/stream
+#EXTINF:-1,Comboi - La ràdio de la terreta
+https://stream.emisorasmusicales.net/listen/comboi/comboi.mp3
+#EXTINF:-1,VILASSAR RADIO
+https://relay.stream.enacast-cloud.com:40226/radiovilassardemarHD.mp3?us_privacy=1YNY56.mp3
+#EXTINF:-1,Radio Vila-real
+https://pr1cen101.emisionlocal.com/proxy/radiovilareal?mp=/live
+#EXTINF:-1,El Salto radio
+https://radio.radiobot.org/listen/salto/elsaltoradio.mp3
+#EXTINF:-1,staronlineradio
+https://strcdn.klm99.com/8100/stream
+#EXTINF:-1,Antena 2000
+https://eu1.fastcast4u.com/proxy/antena2000?mp=/1
+#EXTINF:-1,Ràdio Sant Fruitós
+https://ascella.streamerr.co/listen/radiosantfruitos/radio.mp3
+#EXTINF:-1,RAP 107
+http://relay.stream.enacast-cloud.com:30048/rap56.mp3
+#EXTINF:-1,RNE 1 Catalunya
+https://d111.rndfnk.com/star/crtve/rne1/cat/aac/128/stream.aac?cid=01GENZDZK4J83RJDJ5M3RK3CXJu0026sid=3G91J9fDzttCpaeqZbcOAjjOnW9u0026token=NhlCo1_omO36XiC-ySQI1XQeSraltHm6X6mDX4mwJZIu0026tvf=KkCGOzXgvxhkMTExLnJuZGZuay5jb20
+#EXTINF:-1,Radio Hostafrancs
+https://directes-radio-int.3catdirectes.cat/live-content/catalunya-musica-hls/bitrate_1.m3u8
+#EXTINF:-1,Radio Mistelera
+https://radiobot.radioslibres.info/listen/radio_mistelera/radio.mp3
+#EXTINF:-1,Taronja ràdio Girona
+https://radio.martiproduccions.com/listen/taronjagirona/taronjagirona
+#EXTINF:-1,Radio SantVi 107.4FM
+https://dhits.frilab.com:8443/santvi
+#EXTINF:-1,Ona Cat Ràdio
+https://server8.emitironline.com:10824/
+#EXTINF:-1,Radio Valencianismo
+https://stream.zeno.fm/oqux7fanb3lvv
+#EXTINF:-1,Radio Santa Susanna
+http://uk14freenew.listen2myradio.com:28229/
+#EXTINF:-1,Pollença
+https://stream.recasound.es/proxy/radiopollensa/stream
+#EXTINF:-1,RNE Radio 5 Barcelona
+https://f111.rndfnk.com/star/crtve/rne5/bcn/aac/128/stream.aac?cid=01GEP66PD2Z35HZMWWYTNPZDNAu0026sid=3FcfW2W3jdWkXz7vkD72zU2Ngq6u0026token=LHRzylmDW8bb20dv4Y5loVc683Q4WaYIA3aHusJnd9Qu0026tvf=VK9SHi5cvBhmMTExLnJuZGZuay5jb20
+#EXTINF:-1,Mataró Ràdio
+https://relay.stream.enacast-cloud.com:30049/mataroradioHD.mp3
+#EXTINF:-1,Ràdio Palafrugell
+https://radio.martiproduccions.com/radiopalafrugell
+#EXTINF:-1,IdòFM
+https://ido.omedia.cat/listen/idofm/idofm.mp3

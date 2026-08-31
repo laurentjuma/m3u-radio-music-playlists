@@ -19,8 +19,6 @@ http://zam.zamradio.com:8022/
 https://stilradio.com/stream/stilbalkan.php
 #EXTINF:-1 tvg-logo="https://radiospinner.com/media/logos/180/38589/logo_k6q3kwuQCJ.png",Radio Balkan Romania
 https://live.radiobalkan.ro/8102/stream
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/38589/logo_iVo3WhGznW.jpg?v=20260529-media-restore",Radio Balkan Romania
-https://live.radiobalkan.ro/8102/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005338/logo_tXV2mrIPn3.jpg?v=20260529-media-restore",Extra FM 93.6
 http://streams.extrafm.hr:8110/;
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005372/logo_YB1xvTL4Wa.jpg?v=20260529-media-restore",BN Radio
@@ -29,8 +27,6 @@ https://stream.radiobn.net/;stream.mp3
 https://radiogrom.ddns.net/listen/grom_radio/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005398/logo_BBWPDNMAFk.jpg?v=20260529-media-restore",Naxi Radio
 http://naxi128.streaming.rs:9150/;
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/35380/logo_ZBcmiyUen4.jpg?v=20260529-media-restore",STIL BALKAN
-https://stilradio.com/stream/stilbalkan.php
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1008281/logo_9DW4209yVI.jpg?v=20260529-media-restore",Радио Кюфте
 https://qft.monster/listen/radio_qfte/radio.mp3
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/103615/logo_yXTcsyZD5U.jpg?v=20260529-media-restore",Dance Naxi Radio
@@ -41,7 +37,3 @@ https://stream.zeno.fm/twvppdsdzmyvv
 https://mpc2.mediacp.eu:8214/stream
 #EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/1005400/logo_QmhId5vTMi.jpg?v=20260529-media-restore",Радио Кавадарци
 https://stream-27.zeno.fm/p79t9wf7mg0uv
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/45239/logo_fJSaQDTWkK.jpg?v=20260529-media-restore",Zam Radio
-http://zam.zamradio.com:8022/
-#EXTINF:-1 tv-logo="https://media.pcradio.app/media/logos/180/29573/logo_wzRHOOSidv.jpg?v=20260529-media-restore",Radio Vidovdan
-https://solid48.streamupsolutions.com/proxy/vipugplg/stream

@@ -2359,10 +2359,6 @@ https://stream.zeno.fm/juwfhuodjgmuv
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 #EXTINF:-1,IVIeshal 
 https://stream.zeno.fm/smdswgy1rbmtv
-#EXTINF:-1,9090 FM - Egypt - Cairo
-https://9090streaming.mobtada.com/9090FMEGYPT
-#EXTINF:-1,90s FM - Egypt - Cairo
-https://eu1.fastcast4u.com/proxy/prontofm?mp=/1
 #EXTINF:-1,Al-Abd Hob al Nabi - Egypt - Manfalut
 https://s1.reliastream.com/proxy/oelgendy?mp=/stream
 #EXTINF:-1,Al-Abd Quran - Egypt - Manfalut
@@ -2371,28 +2367,14 @@ https://s2.reliastream.com/proxy/alashraf?mp=/stream
 https://stream.zeno.fm/rce7hoa1c13vv
 #EXTINF:-1,Almalak Radio - Egypt - Alexandria
 https://almalakradio.out.airtime.pro/almalakradio_a
-#EXTINF:-1,Arab Mix FM - Egypt - Cairo
-https://stream.zeno.fm/efx5psd00qruv
 #EXTINF:-1,Bible Society Egypt راديو الكتاب المقدس  - Egypt - Cairo
 https://streamer.radio.co/s8cabad95b/listen
-#EXTINF:-1,Mahatet Masr - Egypt - Cairo
-https://s3.radio.co/s9cb11828c/listen
-#EXTINF:-1,Nagham FM 105.3 - Egypt - Cairo
-https://ahmsamir.radioca.st/stream
-#EXTINF:-1,NRJ Egypt FM 92.1 - Egypt - Cairo
-https://nrjstreaming.ahmed-melege.com/nrjegypt
 #EXTINF:-1,ON Sport FM 93.7 - Egypt - Cairo
 https://carina.streamerr.co:2020/stream/OnSportFM/;
-#EXTINF:-1,Quran FM 98.2 إذاعة القرآن الكريم - Egypt - Cairo
-https://stream.radiojar.com/8s5u5tpdtwzuv
 #EXTINF:-1,Radio 5:14 - Egypt - Suez
 https://stream.radiojar.com/ps7z45v12k8uv
 #EXTINF:-1,Radio Hits FM 88.2 - Egypt - Cairo
 https://radiohits882.radioca.st/;
-#EXTINF:-1,Radio Next راديو نكست - Egypt - Alexandria
-https://stream.zeno.fm/z6duygngt68uv
-#EXTINF:-1,Radio Sotak - Egypt - Cairo
-https://radio.radiosotak.com/sotak_128
 #EXTINF:-1,Sha3by FM 95.0 - Egypt - Cairo
 https://radio95.radioca.st/;
 #EXTINF:-1,St. Mary Church Zeitoun - Egypt - Cairo
@@ -2405,8 +2387,6 @@ https://securestreams2.autopo.st:1152/;
 http://198.154.254.10:7006/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-m3ak3latool-radio-radyw-maak-ala-twl-logo.jpg",M3ak3latool Radio راديو معاك على طول
 http://www.radioma3ak.com:8000/;stream.mp3
-#EXTINF:-1 tv-logo="https://im1.lixty.com/images/eg-radyw-hyts-logo.jpg",Radio راديو هيتس
-https://radiohits882.radioca.st/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/cairobeat-592007-logo.jpg",Radio cairobeat
 http://majestic.wavestreamer.com:9829/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/cairomix-593606-logo.jpg",Radio cairomix
@@ -2653,3 +2633,23 @@ http://radio.arabhosters.com:8015/;
 http://94.23.36.117:5531/;
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/0radio-haitananet-first-radio-arab-internet-186579-logo.jpg",0.Radio Haitana.Net First Radio Arab in Internet
 http://173.236.26.74:8008/;
+#EXTINF:-1,SHA3BY FM
+https://stream-159.zeno.fm/qb1zvsykm98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxYjF6dnN5a205OHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ild2WTItbVhJU2Z5VlBEOHc3a2J1X0EiLCJpYXQiOjE3NzA5ODcyOTUsImV4cCI6MTc3MDk4NzM1NX0.ob8jdjoAgAzIcrxMk5b127wgaxpnJHEASSChnE5v5ro
+#EXTINF:-1,Radio Hits 88.2 Cairo
+http://178.33.135.244:20095/;?DIST=TuneInu0026TGT=TuneInu0026maxServers=2u0026partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNjA1OTE3OCwiaXNzIjoidGlzcnYifQ.Me0snc2PBcQhvlzte9L7zQxa-IHgNinhu3XdNJ6_Xa8
+#EXTINF:-1,Radio Quran
+https://stream-34.zeno.fm/rf64mx02qa0uv?zs=-xjlLLwRS8uKrffFxK4vLA
+#EXTINF:-1,القران الكريم من القاهره1
+http://n0e.radiojar.com/8s5u5tpdtwzuv?rj=u0026rj-tok=AAABg5BDP0EA2ElNLJYUJTsVcgu0026rj-ttl=5
+#EXTINF:-1,القران الكريم من القاهره
+http://n0c.radiojar.com/8s5u5tpdtwzuv?rj-ttl=5u0026amp;rj-tok=AAABdI5Qnd0AEmvTTG5DVtU31Au0026amp;autoplay=1%22%20type=%22audio/mpeg
+#EXTINF:-1,إذاعة القرآن الكريم
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5u0026rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1,راديو وياك | Radiowayak
+https://work.radiowayak.org/listen/live/live.mp3
+#EXTINF:-1,Coptic Voice Radio
+http://stream.clicdomain.com.br:5828/;
+#EXTINF:-1,Thomas Lawrence
+https://azuracast-nuremberg.myautodj.com/listen/station_660_1777579648/radio.mp3
+#EXTINF:-1,تفسير بن عثيمين
+https://s1.voscast.com:10027/stream

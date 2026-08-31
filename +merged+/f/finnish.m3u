@@ -849,3 +849,85 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R4296648.aa
 https://radiodruzi.online:8443/druzi.fi
 #EXTINF:-1 tv-logo="https://im1.lixty.com/images/fi-las-pegasus-radio-logo.jpg",Las Pegasus Radio
 https://icecast.laspegas.us/ari
+#EXTINF:-1,YLE radio Suomi, Jyväskylä
+https://icecast.live.yle.fi/radio/YleJKL/icecast.audio
+#EXTINF:-1,Yle Radio Suomi, Helsinki
+https://icecast.live.yle.fi/radio/YleX/icecast.audio
+#EXTINF:-1,NRJ
+https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=falseu0026aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,FugeFM
+https://streaming.broadcast.radio/fugefm
+#EXTINF:-1,YLE Radio Suomi Hämeenlinna
+https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio
+#EXTINF:-1,Mökkiradio
+https://stream.mokkiradio.fi:18008/mokkiradio
+#EXTINF:-1,POPfm
+https://stream.madmenmedia.se/popfm
+#EXTINF:-1,Nostalgia
+https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=falseu0026aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,Yle radio Vega Östnyland
+https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio
+#EXTINF:-1,Kesäseuraradio
+https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b
+#EXTINF:-1,Yle Radio 1 Hifi
+http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio
+#EXTINF:-1,Yle Radio Suomi, Kotka
+https://icecast.live.yle.fi/radio/YleKotka/icecast.audio
+#EXTINF:-1,RAKKAUDEN WAPPURADIO
+https://stream1.wappuradio.fi/wappuradio.opus
+#EXTINF:-1,Yle Radio Suomi, Kuopio
+https://icecast.live.yle.fi/radio/YleKuopio/icecast.audio
+#EXTINF:-1,Borås Närradioförening
+http://lyssna.fnf.nu:8080/radioboras.mp3
+#EXTINF:-1,Pride Radio
+https://streaming.radioplay.fi/fi_pride_128.mp3
+#EXTINF:-1,Radio Kaleva
+https://radiokaleva.digitacdn.net/radio/kaleva/master.m3u8
+#EXTINF:-1,Radio Soho
+https://sohostream.djonline.fi:8008/radio
+#EXTINF:-1,FinnRadio
+https://servidor39-5.brlogic.com:7076/live
+#EXTINF:-1,RadioSE.fi
+https://wr2.downtime.fi/kaakko.aac
+#EXTINF:-1,Yle Radio Suomi, Rovaniemi
+https://icecast.live.yle.fi/radio/YleRovaniemi/icecast.audio
+#EXTINF:-1,YleRadioSuomiLahti
+https://icecast.live.yle.fi/radio/YleLahti/icecast.audio
+#EXTINF:-1,Järviradio Puhe
+https://jarviradio.radiotaajuus.fi:9000/jrpuhe
+#EXTINF:-1,MTV Uutiset
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:-1,Yle Radio Suomi - Pori
+https://icecast.live.yle.fi/radio/YlePori/icecast.audio
+#EXTINF:-1,SuomiRap
+https://streaming.radioplay.fi/fi_suomirap_128.mp3
+#EXTINF:-1,Tekoälyradio
+https://streaming.radioplay.fi/fi_tekoalyradio_128.mp3
+#EXTINF:-1,Yle Puhe
+https://yleradiolive.akamaized.net/hls/live/2027677/in-YlePuhe/master.m3u8
+#EXTINF:-1,Karjalainen Syke
+https://radio.diks.fi/karjalainensyke
+#EXTINF:-1,Radio Hiekka
+https://radiohiekka.ovh:8443/stream
+#EXTINF:-1,Radio Mega
+https://streaming.radioplay.fi/fi_radiomega_128.mp3
+#EXTINF:-1,Kuhan FM
+https://fra-pioneer08.dedicateware.com:3130/stream
+#EXTINF:-1,Kerhoradio
+https://c40.radioboss.fm:8056/stream
+#EXTINF:-1,Kiss
+https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=falseu0026aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1,IDA
+https://a8.asurahosting.com:8140/radio.mp3
+#EXTINF:-1,Rondo Classic - Klasu
+https://iradio.fi/klasu-hi.mp3
+#EXTINF:-1,Radio MUSA
+https://streams.radiomast.io/1a940889-c9f0-4040-aa8c-1d5945f9d6fc
+#EXTINF:-1,Yle Radio Vega Österbotten
+https://yleradiolive.akamaized.net/hls/live/2027716/in-YleVegaAboland/master.m3u8
+#EXTINF:-1,Classic Hits Finland
+https://ms-live-classichits.nm-elemental.nelonenmedia.fi/master-256000.m3u8
+#EXTINF:-1,Radio Kempele
+https://listen.radioking.com/radio/283663/stream/329548
+#EXTINF:-1,Utajärven seurakunnan Kirkkoradio
+https://listen.radioking.com/radio/486611/stream/543311
